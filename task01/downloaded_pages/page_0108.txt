@@ -1,0 +1,759 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+		<meta name="author" content="Редакция журнала Наука и жизнь">
+	<title>Новости | Наука и жизнь</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Наука, новости науки, новые технологии, научные открытия, новости культуры, инновации, инновационные проекты, новости дня, новости лента, новости и события, сегодня, новости события, научные открытия, изобретения, идея, нтп  общество, доклады" />
+<meta name="description" content="Лента новостей журнала «Наука и жизнь» : новости и события российской и зарубежной науки и техники" />
+<link href="/bitrix/js/ui/design-tokens/dist/ui.design-tokens.css?170760390225728" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/templates/nkj.kotico/components/bitrix/news/news2/bitrix/news.list/.default/style.css?1514628103709" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/templates/nkj.kotico/components/bitrix/system.pagenavigation/orange/style.css?1514628104184" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/templates/nkj.kotico/css/bootstrap.min.css?1568981318105974" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/nkj.kotico/css/glyphicons.css?151462810323832" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/nkj.kotico/css/noto_sans.css?17037792418478" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/panel/main/popup.css?169906427722696" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/nkj.kotico/components/bitrix/sale.basket.basket.small/small_basket/style.css?1514628103329" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/nkj.kotico/components/bitrix/menu/vertical_multilevel/style.css?15146281032878" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/nkj.kotico/components/bitrix/breadcrumb/bootstrap2.0/style.css?1514628104227" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/nkj.kotico/components/bitrix/news.line/.default/style.css?1518874505694" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/components/nkj/cookies/templates/.default/style.css?1608911741367" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/nkj.kotico/styles.css?176882821623565" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script>if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script>(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+
+<script src="/bitrix/js/main/core/core.js?1707603960494198"></script>
+
+<script>BX.Runtime.registerExtension({'name':'main.core','namespace':'BX','loaded':true});</script>
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+</script>
+<script>BX.Runtime.registerExtension({'name':'ui.design-tokens','namespace':'window','loaded':true});</script>
+<script>BX.Runtime.registerExtension({'name':'main.pageobject','namespace':'window','loaded':true});</script>
+<script>(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script>BX.Runtime.registerExtension({'name':'window','namespace':'window','loaded':true});</script>
+<script>(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'nkj','SERVER_TZ_OFFSET':'10800','UTF_MODE':'Y','SITE_ID':'ru','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1771524788','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'a716e0ceda953b3a8700d2add6fcb080'});</script>
+
+
+<script src="/bitrix/js/main/pageobject/pageobject.js?1595797957864"></script>
+<script src="/bitrix/js/main/core/core_window.js?170760395798766"></script>
+<script type="text/javascript">if (Intl && Intl.DateTimeFormat) document.cookie="nkj_TZ="+Intl.DateTimeFormat().resolvedOptions().timeZone+"; path=/; expires=Mon, 01 Feb 2027 00:00:00 +0300";</script>
+
+
+
+<script src="/jquery-1.11.0.min.js?144191737796381"></script>
+<script src="/bitrix/templates/nkj.kotico/js/ajax_basket.js?15185232361045"></script>
+<script src="/bitrix/templates/nkj.kotico/script.js?17712736292041"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "c5886eb7d620f828ff1bd06338ebf33a"]); _ba.push(["host", "www.nkj.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+<script>new Image().src='https://nkj.ru/bitrix/spread.php?s=bmtqX0dVRVNUX0lEATIxODQ3NTcxOAExODAyNjI4Nzg4AS8BAQECbmtqX0xBU1RfVklTSVQBMTkuMDIuMjAyNiAyMToxMzowOAExODAyNjI4Nzg4AS8BAQEC&k=c20747f576bc81095dd658a9b2c88983';
+</script>
+
+
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nkj.ru/rss/">
+	<link rel="canonical" href="https://www.nkj.ru/news/">
+	<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.nkj.ru/news/">
+	<!--[if lt IE 9]>
+	<script src='//html5shim.googlecode.com/svn/trunk/html5.js'></script>
+	<![endif]-->
+	<script src="https://www.googletagmanager.com/gtag/js?id=UA-32767648-1" async></script>
+	<script>
+	// Google Analytics
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'UA-32767648-1', { 'anonymize_ip': true });
+	</script>
+	<script async src="https://widget.svk-native.ru/js/loader.js"></script>
+<!--	<script src="/jquery-1.11.0.min.js"></script>-->
+	<meta name="viewport" content="width=980">
+	<link rel="shortcut icon" href="/bitrix/templates/nkj.kotico/images/favicon.ico">
+	    </head>
+<body>
+<div class="lead_photo" style="background-image:url('/upload/iblock/6f6/6f69a04b54808357d94f2a46449387ef.jpg');">
+	<div class="top_ads">
+		<div class="container">
+			<!-- Top banner  -->
+			<div class="row">
+				<div id="top-banner" class="span12 padding-bottom5">
+					<div id="top_banner"></div>
+					<!-- R-100363-2 Яндекс.RTB-блок  -->
+					<!-- div id="yR2b"></div -->
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="header_top">
+		<div class="container">
+			<div class="row-fluid">
+				<div class="span1">
+					<img class="p12" src="/bitrix/templates/nkj.kotico/images/12p.png" />
+				</div>
+				<div class="span4">
+					<form id="main_search" action="/search/" method="get" 
+					onsubmit="search_navigate(this.elements.text.value); if(event.preventDefault) {event.preventDefault();} else {event.returnValue = false;} return false;">
+						<div class="input-append input-block-level">
+							<input type="text" name="text" placeholder="Поиск по сайту" />
+							<button type="submit" class="btn btn-inverse">
+								<i class="icon-search"></i>
+							</button>
+						</div>
+					</form>
+				</div>
+
+				<div class="span3">
+					<div class="smmsp">
+						<a class="smm vkt" href="https://vk.com/public30698831" target="_blank"></a>
+						<a class="smm twt" href="https://twitter.com/naukaizhizn" target="_blank"></a>
+						<a class="smm od" href="https://ok.ru/group/52837335433288" target="_blank"></a>
+						<a class="smm zen" href="https://dzen.ru/nkj" target="_blank"></a>
+                        <a class="smm telegram" href="https://telegram.me/scienceandlife" target="_blank"></a>
+					</div>
+				</div>				<div class="span4 text-right">
+                    
+<a href="/personal/basket/" class="basket">
+	<span>Корзина</span> (<span class="cnt">0</span>)
+</a>
+                                        <a class="auth" href="https://www.nkj.ru/in.php?backurl=/news/index.php">Войти</a>				</div>
+			</div>
+			<!-- Logo and search -->
+			<div class="row-fluid">
+								<div class="logo_container_inner">
+										<div class="span7">
+						<p class="number text-right">№02 февраль 2026</p>
+						<a href="/"><img src="/bitrix/templates/nkj.kotico/images/logo_big.png"/></a>
+					</div>
+					<div class="span5">
+						<p class="text-center subscr magazine"><a href="/magazine/">О журнале за 60 секунд</a></p>
+					</div>
+				</div>
+								<div class="span12 portal ">
+					<p>Портал функционирует при финансовой поддержке Министерства цифрового развития, связи и массовых коммуникаций.</p>
+				</div>
+			</div>
+		</div>
+			</div>
+    
+
+    
+</div>
+
+<div class="menu_wrapper">
+	<div class="container">
+		
+<ul class="span9 top_menu">
+	<li class="active"><a href="/news/">Новости</a></li>
+	<li class=""><a href="/info/">События</a></li>
+	<li class=""><a href="/facts/">Факт дня</a></li>
+	<li class=""><a href="/open/">Открытый формат</a></li>
+	<li class=""><a href="/prtnews/">Новости партнеров</a></li>
+	<li class=""><a href="/archive/">Архив</a></li>
+	<li class=""><a href="/special/">Спецпроекты</a></li>
+	<li class=""><a href="/shop/842/">Подписка</a></li>
+	<li class=""><a href="/shop/">Магазин</a></li>
+	<li class=""><a href="/shop/library/">Библиотеки</a></li>
+	<li class=""><a href="/advert/">Реклама</a></li>
+	<li class=""><a href="/forum/">Форум</a></li>
+</ul>
+	</div>
+</div>
+
+<div class="container inner">
+	<div class="row-fluid">
+				<div class="span9">
+					<ul class="breadcrumb"><li><a href="/" title="НАУКА И ЖИЗНЬ"><small>НАУКА И ЖИЗНЬ</small></a><span class="divider">/</span></li><li><a href="/news/" title="Новости науки и техники"><small>Новости науки и техники</small></a><span class="divider">/</span></li><li class="active"><small>Новости</small></li></ul> 
+
+
+<section class="news-list">
+	<header>
+		
+<div class="system-nav-orange">
+
+
+	<div class="nav-title">Новости 1 - 20 из 8091</div>
+
+	<div class="nav-pages">
+
+	
+	
+					<span class="nav-current-page">&nbsp;1&nbsp;</span>&nbsp;
+					
+					<a href="/news/index.php?PAGEN_3=10&amp;PAGEN_2=125&amp;PAGEN_1=2">2</a>&nbsp;
+					
+					<a href="/news/index.php?PAGEN_3=10&amp;PAGEN_2=125&amp;PAGEN_1=3">3</a>&nbsp;
+					
+					<a href="/news/index.php?PAGEN_3=10&amp;PAGEN_2=125&amp;PAGEN_1=4">4</a>&nbsp;
+					
+					<a href="/news/index.php?PAGEN_3=10&amp;PAGEN_2=125&amp;PAGEN_1=5">5</a>&nbsp;
+					
+
+			|&nbsp;<a href="/news/index.php?PAGEN_3=10&amp;PAGEN_2=125&amp;PAGEN_1=2">&raquo;</a>&nbsp;|&nbsp;
+		<a href="/news/index.php?PAGEN_3=10&amp;PAGEN_2=125&amp;PAGEN_1=405">конец</a>&nbsp;
+	
+
+
+
+	</div>
+
+</div><br />
+	</header>
+	<article>
+		<a class="front-pic" href="/news/57792/">
+			<img src="/upload/iblock/4de/o9wm3q5dr7pk1mqncoid11ecrf1oolgo.jpg" alt="" width="100" height="100" />
+		</a>
+<div>
+		<time class="news-time" datetime="2026-02-19T07:26+03:00">19 февраля 2026</time>
+		<h2><a href="/news/57792/">Шимпанзе с воображением</a></h2>
+			Легендарный бонобо Канзи напоследок продемонстрировал умение воображать несуществующие вещи.</div>
+	</article>
+	<article>
+		<a class="front-pic" href="/news/57780/">
+			<img src="/upload/iblock/eae/hhqz412hwlyb1vm1sxa15o9o67r4mj36.jpg" alt="" width="100" height="100" />
+		</a>
+<div>
+		<time class="news-time" datetime="2026-02-17T07:22+03:00">17 февраля 2026</time>
+		<h2><a href="/news/57780/">Рак лёгких подавляет иммунитет через мозг</a></h2>
+			Некоторые лёгочные опухоли с помощью цепочки нервных сигналов усыпляют бдительность иммунных клеток в лёгких.</div>
+	</article>
+	<article>
+		<a class="front-pic" href="/news/57779/">
+			<img src="/upload/iblock/c83/vs0xmh9q19pb1bei01fx370lowili0w6.jpg" alt="" width="100" height="100" />
+		</a>
+<div>
+		<time class="news-time" datetime="2026-02-15T08:05+03:00">15 февраля 2026</time>
+		<h2><a href="/news/57779/">Митраистские алтари из Шотландии отреставрировали</a></h2>
+			Они происходят из самого северного храма Митры.</div>
+	</article>
+	<article>
+		<a class="front-pic" href="/news/57777/">
+			<img src="/upload/iblock/a97/0h56y815i7dftl5drdbcs3x5kgq5rckk.jpg" alt="" width="100" height="100" />
+		</a>
+<div>
+		<time class="news-time" datetime="2026-02-13T07:35+03:00">13 февраля 2026</time>
+		<h2><a href="/news/57777/">В камне из Нидерландов распознали римскую настольную игру</a></h2>
+			Это самая древняя стратегическая игра с блокировкой соперника.</div>
+	</article>
+	<article>
+		<a class="front-pic" href="/news/57773/">
+			<img src="/upload/iblock/777/cj7xd8jrw4d1r20jbnpmsvjnu63a7aij.jpg" alt="" width="100" height="100" />
+		</a>
+<div>
+		<time class="news-time" datetime="2026-02-11T07:33+03:00">11 февраля 2026</time>
+		<h2><a href="/news/57773/">В Испании нашли кость слона времён Второй Пунической войны </a></h2>
+			Возможно, она принадлежала боевому животному из армии Ганнибала.</div>
+	</article>
+	<article>
+		<a class="front-pic" href="/news/57766/">
+			<img src="/upload/iblock/75e/a27u2bsl7ipe00dmluy1l2mz8g9fdyps.jpg" alt="" width="100" height="100" />
+		</a>
+<div>
+		<time class="news-time" datetime="2026-02-09T07:57+03:00">9 февраля 2026</time>
+		<h2><a href="/news/57766/">На Кипре раскопали некрополь бронзового века с «импортными» вещами</a></h2>
+			Среди них – предметы с Сардинии, из Прибалтики и Индии.</div>
+	</article>
+	<article>
+		<a class="front-pic" href="/news/57746/">
+			<img src="/upload/iblock/339/j2l2d9fqxsox7ro6h2c4g7nyps4hay22.jpg" alt="" width="100" height="100" />
+		</a>
+<div>
+		<time class="news-time" datetime="2026-02-07T08:10+03:00">7 февраля 2026</time>
+		<h2><a href="/news/57746/">В Германии нашли четыре «заграничных» римских лагеря III века</a></h2>
+			Раньше о римских походах III века за Рейн, к Эльбе было известно только по немногим сомнительным письменным свидетельствам.</div>
+	</article>
+	<article>
+		<a class="front-pic" href="/news/57692/">
+			<img src="/upload/iblock/90c/qxwdlxbplj4ip2pher5zvj13f7vloltx.jpg" alt="" width="100" height="100" />
+		</a>
+<div>
+		<time class="news-time" datetime="2026-02-05T07:43+03:00">5 февраля 2026</time>
+		<h2><a href="/news/57692/">Долю генов в продолжительности жизни удвоили</a></h2>
+			Собранные за два столетия данные говорят о том, что срок жизни определяется генами чуть более чем наполовину.</div>
+	</article>
+	<article>
+		<a class="front-pic" href="/news/57732/">
+			<img src="/upload/iblock/a1c/d0y3o4lg6yrvt53nq3arsa2vtqayfsma.jpg" alt="" width="100" height="100" />
+		</a>
+<div>
+		<time class="news-time" datetime="2026-02-03T07:45+03:00">3 февраля 2026</time>
+		<h2><a href="/news/57732/">На каменных топорах-молотах из Трои нашли следы золота</a></h2>
+			Возможно, они были частично покрыты золотой фольгой.</div>
+	</article>
+	<article>
+		<a class="front-pic" href="/news/57693/">
+			<img src="/upload/iblock/e58/xgrsa6pkwe4ki4tful8u2t5rmyxvcqcx.jpg" alt="" width="100" height="100" />
+		</a>
+<div>
+		<time class="news-time" datetime="2026-02-01T08:19+03:00">1 февраля 2026</time>
+		<h2><a href="/news/57693/">Мозг вредит сердцу после инфаркта</a></h2>
+			Почувствовав повреждение в сердечной мышце, особая область мозга усиливает в ней постинфарктное воспаление.</div>
+	</article>
+	<article>
+		<a class="front-pic" href="/news/57677/">
+			<img src="/upload/iblock/582/fcfx9kgmmjirj2nhifki2zjr99b1z0io.jpg" alt="" width="100" height="100" />
+		</a>
+<div>
+		<time class="news-time" datetime="2026-01-31T08:19+03:00">31 января 2026</time>
+		<h2><a href="/news/57677/">Атмосферный пластик нуждается в пересчёте</a></h2>
+			Расчётное количество частиц микропластика в воздухе может быть сильно завышено.</div>
+	</article>
+	<article>
+		<a class="front-pic" href="/news/57689/">
+			<img src="/upload/iblock/311/t3lbgrrfs82bji2keuxhwpcmc45yvcn7.jpg" alt="" width="100" height="100" />
+		</a>
+<div>
+		<time class="news-time" datetime="2026-01-30T07:37+03:00">30 января 2026</time>
+		<h2><a href="/news/57689/">Удалось расшифровать надписи на римских табличках из Бельгии</a></h2>
+			Тексты сохранились на деревянных основах восковых табличек.</div>
+	</article>
+	<article>
+		<a class="front-pic" href="/news/57680/">
+			<img src="/upload/iblock/147/5zmsll0uwzitbqep1nr0ted16eplcplx.png" alt="" width="100" height="100" />
+		</a>
+<div>
+		<time class="news-time" datetime="2026-01-29T07:32+03:00">29 января 2026</time>
+		<h2><a href="/news/57680/">В мозжечке нашли место для языка</a></h2>
+			Полтора десятилетия регулярных наблюдений и экспериментов позволили увидеть в мозжечке специализированную языковую зону.</div>
+	</article>
+	<article>
+		<a class="front-pic" href="/news/57674/">
+			<img src="/upload/iblock/c22/1863xcph173l9rq2my7xh0wwkpilikxg.jpg" alt="" width="100" height="100" />
+		</a>
+<div>
+		<time class="news-time" datetime="2026-01-28T07:47+03:00">28 января 2026</time>
+		<h2><a href="/news/57674/">Четырёхглазые хордовые</a></h2>
+			Некоторые кембрийские хордовые могли смотреть на мир дополнительной парой теменных глаз.</div>
+	</article>
+	<article>
+		<a class="front-pic" href="/news/57673/">
+			<img src="/upload/iblock/49b/q262vo39wh5a38xioe2ufpecb1o95gy5.jpg" alt="" width="100" height="100" />
+		</a>
+<div>
+		<time class="news-time" datetime="2026-01-27T07:38+03:00">27 января 2026</time>
+		<h2><a href="/news/57673/">Поздние скифы пользовались египетской системой мер</a></h2>
+			Об этом говорит анализ планировки одного из поселений в Северо-Западном Крыму.</div>
+	</article>
+	<article>
+		<a class="front-pic" href="/news/57668/">
+			<img src="/upload/iblock/6d2/ouy97nnag2qdstzo2k2za42zokyvak6a.jpg" alt="" width="100" height="100" />
+		</a>
+<div>
+		<time class="news-time" datetime="2026-01-26T07:17+03:00">26 января 2026</time>
+		<h2><a href="/news/57668/">Как рак мешает болезни Альцгеймера</a></h2>
+			Один из белков злокачественных клеток проникает в мозг и активирует в нём мусороуборочную систему, ликвидирующую альцгеймерические белковые скопления.</div>
+	</article>
+	<article>
+		<a class="front-pic" href="/news/57585/">
+			<img src="/upload/iblock/7fd/hn50cffcf28cj3339pqkrroiok87kpr2.jpg" alt="" width="100" height="100" />
+		</a>
+<div>
+		<time class="news-time" datetime="2026-01-25T08:07+03:00">25 января 2026</time>
+		<h2><a href="/news/57585/">Собаки учат слова, подслушивая хозяев</a></h2>
+			Чтобы выучить название новой игрушки, некоторым собакам достаточно чужого разговора.</div>
+	</article>
+	<article>
+		<a class="front-pic" href="/news/57594/">
+			<img src="/upload/iblock/36b/xh5l1pjhg2sbcb6ihfys7qg0dp2gsaag.jpg" alt="" width="100" height="100" />
+		</a>
+<div>
+		<time class="news-time" datetime="2026-01-24T08:12+03:00">24 января 2026</time>
+		<h2><a href="/news/57594/">В Италии нашли базилику, построенную Витрувием</a></h2>
+			Это единственное здание с его документально подтвержденным авторством.</div>
+	</article>
+	<article>
+		<a class="front-pic" href="/news/57584/">
+			<img src="/upload/iblock/b1f/jc3w8og8r6uepjv3lfm39zc8spln1i0c.jpg" alt="" width="100" height="100" />
+		</a>
+<div>
+		<time class="news-time" datetime="2026-01-23T07:39+03:00">23 января 2026</time>
+		<h2><a href="/news/57584/">Корова с инструментом</a></h2>
+			Австрийская корова чешется щёткой.</div>
+	</article>
+	<article>
+		<a class="front-pic" href="/news/57546/">
+			<img src="/upload/iblock/18a/grw7k41f3obl28o61d9phpm1e3jlv214.jpg" alt="" width="100" height="100" />
+		</a>
+<div>
+		<time class="news-time" datetime="2026-01-22T07:48+03:00">22 января 2026</time>
+		<h2><a href="/news/57546/">Противораковый препарат помогает больному сердцу</a></h2>
+			Иммунный сигнальный пептид, использующийся в онкологии, в малых дозах подавляет воспаление в кровеносных сосудах и спасает сердце от повторных приступов.</div>
+	</article>
+	<br />
+<div class="system-nav-orange">
+
+
+	<div class="nav-title">Новости 1 - 20 из 8091</div>
+
+	<div class="nav-pages">
+
+	
+	
+					<span class="nav-current-page">&nbsp;1&nbsp;</span>&nbsp;
+					
+					<a href="/news/index.php?PAGEN_3=10&amp;PAGEN_2=125&amp;PAGEN_1=2">2</a>&nbsp;
+					
+					<a href="/news/index.php?PAGEN_3=10&amp;PAGEN_2=125&amp;PAGEN_1=3">3</a>&nbsp;
+					
+					<a href="/news/index.php?PAGEN_3=10&amp;PAGEN_2=125&amp;PAGEN_1=4">4</a>&nbsp;
+					
+					<a href="/news/index.php?PAGEN_3=10&amp;PAGEN_2=125&amp;PAGEN_1=5">5</a>&nbsp;
+					
+
+			|&nbsp;<a href="/news/index.php?PAGEN_3=10&amp;PAGEN_2=125&amp;PAGEN_1=2">&raquo;</a>&nbsp;|&nbsp;
+		<a href="/news/index.php?PAGEN_3=10&amp;PAGEN_2=125&amp;PAGEN_1=405">конец</a>&nbsp;
+	
+
+
+
+	</div>
+
+</div></section> 
+
+
+		</div>
+				            <div class="span3" id="right"> 
+			<section class="magazine_right">
+				<p class="text-center">
+					<a href="/archive/1140/57703/">
+						<span class="read_in text-center">Читайте<br/>в номере</span>
+						<div class="cover_wrap">
+							<img src="/upload/iblock/2f8/btjvaohe3afkunj9phejgw5qll5krn0v.jpg" class="cover" />
+						</div>
+					</a>
+				</p>
+				<div class="shop_action">
+                    <div class="wide-btn">
+                        <div data-id="57735" rel="nofollow" class="btn buy_item" style="font-size: 12px">Купить бумажный журнал</div>
+                    </div>
+                    <div class="btn-group pull-left">
+						<a href="/shop/842/" rel="nofollow" class="btn btn-success buy-btn2" style="font-size: 12px">Подписаться</a>
+					</div> 
+					<div class="btn-group pull-right">
+                        						<a href="/shop/773/" rel="nofollow" class="btn btn buy-btn2" style="font-size: 12px" onclick="basket_add(57701, function(){ document.getElementById('msg_basket_added_right').style.display = 'block'; } ); return false;" >Купить PDF</a>
+					</div>
+					<div class="inline_msg" id="msg_basket_added_right">
+						Журнал добавлен в корзину.<br/>
+						<a href="/personal/basket/" class="btn btn-info buy-btn">Оформить заказ</a>
+					</div>
+					<p style="clear: both; margin: 0px" />
+				</div>
+ 
+			</section>
+
+			<div align="center">
+	<div id="b_right_above_facts"></div>
+</div>
+
+
+
+                            <section class="fact-of-the-day">
+                        <div class="border" id="fact-of-the-day">
+        <span>Факт дня</span>
+        <p>Ледник на архипелаге Шпицберген тает всё быстрее</p>
+        <a href="/facts/57785">Читать подробнее</a>
+    </div>
+
+    <style type="text/css">
+        #fact-of-the-day:before {
+            background: #fff url(/upload/iblock/f2f/ju9ykii5n3qvcntikd2dlhcyeqgryw3y.jpg) center center no-repeat;
+            width: 45px;
+            height: 45px;
+        }
+    </style>
+                </section>
+            
+	  <br/>
+  <div align="center"></div><br/>
+
+  <div id="grf_nkjru_2"></div><br/>
+
+  <div align="center"></div><br/>
+
+  <div align="center"> </div><br/>
+
+  <div align="center"> </div>
+
+  <div align="center"> </div>
+
+
+
+  <div align="center"></div>
+ 
+  
+
+
+
+
+<!-- R-100363-1 Яндекс.RTB-блок  -->
+<div id="y_R-100363-1"></div>
+<script type="text/javascript" pagespeed_no_defer>
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-100363-1",
+                renderTo: "y_R-100363-1",
+                async: true
+            });
+        });  
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+
+<div align="center"></div><br/>
+
+
+
+  <div align="center"></div><br/> 
+
+
+
+  <div align="center"> </div><br/>
+
+
+
+  <div align="center"> </div><br/>
+
+
+
+
+
+<!-- R-100363-3 Яндекс.RTB-блок  -->
+<div id="y_R-100363-3"></div>
+<script type="text/javascript" pagespeed_no_defer>
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-100363-3",
+                renderTo: "y_R-100363-3",
+                async: true
+            });
+        });
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+
+</div>					</div>
+</div>
+
+<div class="footer_social">
+	<div class="container">
+		<div class="span3">
+			<h4>Редакция</h4>
+			<p>Портал журнала<br/>«Наука и жизнь» © 2005–2026</p>
+			<p>АНО Редакция журнала<br/>«Наука и жизнь»</p>
+			<p><a href="https://www.nkj.ru/">https://www.nkj.ru/</a></p>
+			<p><a href="mailto:mail@nkj.ru" class="email">mail@nkj.ru</a></p>
+			<p>Телефон: <span class="tel">+7 903 112-11-99</span></p>
+			<p>Телефон: <span class="tel">+7 495 624-18-35</span></p>
+			<p class="adr">Адрес: <a rel="nofollow" href="http://maps.yandex.ru/?ol=biz&amp;oid=1096658455" target="_blank">
+				<span class="postal-index">101000</span> <span class="locality">г. Москва</span>,<br/><span class="street-address">ул. Мясницкая, д. 24/7, стр.1</span></a>
+			</p>
+			<p class="small_p">Свидетельство о регистрации ЭЛ №ФС 77-20213 от 14.12.2004 выдано Федеральной службой по надзору за соблюдением законодательства в сфере массовых коммуникаций и охране культурного наследия.</p>
+		</div>
+		<div class="span3">
+			<div id="vk_groups"></div>
+			<script type="text/javascript">
+				var f = function() {
+					VK.Widgets.Group("vk_groups", {mode: 0, width: "220", height: "310"}, 30698831);
+				}
+				if ( typeof VK == 'undefined' ) {
+					window.vkAsyncCallbacks = window.vkAsyncCallbacks || [];
+					window.vkAsyncCallbacks.push(f);
+				} else { f(); }
+			</script>
+		</div>
+		<div class="span3">
+			<h4>О рекомендациях</h4>
+			<p>На информационном ресурсе (портале) применяются рекомендательные технологии (информационные технологии предоставления информации на основе сбора, систематизации и анализа сведений, относящихся к предпочтениям пользователей сети «Интернет», находящихся на территории Российской Федерации).</p>
+			<p><a href="/about/rektech/">Ознакомиться подробнее</a></p>
+		</div>
+	</div>	
+</div>
+
+<div class="footer_menu">
+	<div class="container">
+		<ul class="bottom_menu">
+			<li><img src="/bitrix/templates/nkj.kotico/images/logo_footer.png"></li>
+			<li><a href="/partners/">Партнеры</a></li>
+			<li><a href="/projects/">Проекты</a></li>
+			<li><a href="/blogs/">Блоги</a></li>
+			<li><a href="/fun/konkurs/">Конкурсы</a></li>
+			<li><a href="/games/crossword/">Кроссворды</a></li>
+			<li><a href="/about/">О журнале</a></li>
+			<li><a href="/photo/">Фотогалерея</a></li>
+			<li><a href="/search/">Поиск</a></li>
+			<li><a href="/about/cookies/">Файлы cookie</a></li>
+									<li><a href="/rss/">RSS</a></li>
+					</ul>
+	</div>
+</div>
+
+<div class="footer">
+	<div class="container">
+		<div class="span3">
+			<p>Все материалы сайта принадлежат редакции журнала «Наука и жизнь»</p>
+		</div>
+		<div class="span6 text-center">
+		<noindex>
+    <!-- Yandex -->
+	<a href="https://webmaster.yandex.ru/siteinfo/?site=https://www.nkj.ru"><img width="88" height="31" alt="ИКС Яндекс" border="0" src="https://yandex.ru/cycounter?https://www.nkj.ru&theme=light&lang=ru"/></a>
+    <!-- /Yandex -->
+        <!--LiveInternet counter-->
+    <span id="_live_internet"></span>
+
+    <script type="text/javascript" pagespeed_no_defer><!--
+        (function(d, id, s, a, i) {
+            i = d.createElement('img');
+            i.src = "//counter.yadro.ru/hit?t11.6;r" + escape(d.referrer) + (( typeof (s) == "undefined") ? "" : ";s" + s.width + "*" + s.height + "*" + (s.colorDepth ? s.colorDepth : s.pixelDepth)) + ";u" + escape(d.URL) + ";h" + escape(d.title.substring(0,150)) + ";" + Math.random();
+            i.alt = '';
+            i.title = 'LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня';
+            i.width = 88;
+            i.height = 31;
+            a = d.createElement('a');
+            a.href = 'https://www.liveinternet.ru/click';
+            a.target = '_blank';
+            a.appendChild(i);
+            d.getElementById(id).appendChild(a);
+        })(document, '_live_internet', screen);
+        //-->
+    </script>
+    <!--/LiveInternet counter-->
+    <!-- Rating@Mail.ru logo -->
+    <a href="http://top.mail.ru/jump?from=1829300"> <img src="//top-fwz1.mail.ru/counter?id=1829300;t=479;l=1"
+    style="border:0;" height="31" width="88" alt="Рейтинг@Mail.ru" /></a>
+    <!-- //Rating@Mail.ru logo -->
+	<!-- Rambler's Top 100 -->
+    <span id="top100nkj_counter"></span>
+	<!-- //Rambler's Top 100 -->
+	<noscript><img src="https://top-fwz1.mail.ru/counter?id=3335041;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru" /></noscript>
+</noindex>
+		</div>
+		<div class="span3">
+			<p class="text-right">Поддержка и развитие сайта<br/><a href="http://ktc.bz" style="text-decoration:underline;" target="_blank">KTC Digital Production</a></p>
+		</div>
+	</div>
+	<div class="container">
+		<div class="span12 text-center">
+			<a href="https://m.nkj.ru/news/">Мобильная версия</a>
+		</div>
+	</div>
+</div>
+<div class="cookies-usage" id="cookies-popup">
+	<table><tr>
+		<td>Портал журнала «Наука и жизнь» использует файлы cookie и рекомендательные технологии.
+	Продолжая пользоваться порталом, вы соглашаетесь с хранением и использованием
+	порталом и партнёрскими сайтами файлов cookie и рекомендательных технологий на вашем устройстве.
+	<a href="/about/cookies">Подробнее</a>
+		</td><td>
+			<button class="btn btn-lg" onclick="NkjOpts.acceptCookies()">Понятно, спасибо</button>
+		<td>
+	</tr></table>
+</div><div class="modal_basket"></div>
+
+<noscript>
+	<div><img src="//mc.yandex.ru/watch/22120951" style="position:absolute; left:-9999px;" alt="" /></div>
+	<div style="position:absolute;left:-10000px;"><img src="//top-fwz1.mail.ru/counter?id=1829300;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" /></div>
+</noscript>
+
+<div class="basket_info" style="display: none;">
+    <h3>Товар добавлен в <a href="/personal/basket/">корзину</a></h3>
+    <a href="/shop/order.php" class="all-news">Оформить заказ</a>
+    <p>или <span class="close_a">продолжить покупки</span></p>
+</div>
+<script type="text/javascript">
+    $(document).ready(function(){
+
+        $('.buy_item').click(function(e){
+            e.preventDefault();
+
+            var modal = $(this).parents('.modal');
+            if (modal.length){
+                modal.modal('hide');
+            }
+
+            $.ajax({
+                type: "POST",
+                url: '/personal/add2basket.php?RND=',
+                data: {'item_id': $(this).data('id') },
+                success: function(data){
+                    $('.basket .cnt').html(data);
+                    $('.basket_info').hide().fadeIn();
+                    $('.modal_basket').hide().fadeIn();
+                }
+            });
+        });
+
+        $('.close_a').click(function(e){
+            $(this).parents('.basket_info').hide();
+            $('.modal_basket').hide();
+        });
+    });
+</script>
+
+<script type="text/javascript" pagespeed_no_defer>
+// Yandex.Metrika
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(22120951, "init", {
+        id:22120951,
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:!(false || navigator.doNotTrack || navigator.msDoNotTrack || window.doNotTrack)
+   });
+
+// Rating@Mail.ru counter -->
+var _tmr = _tmr || [];
+_tmr.push({id: "1829300", type: "pageView", start: (new Date()).getTime()});
+_tmr.push({id: "3335041", type: "pageView", start: (new Date()).getTime()});
+
+// Rambler's Top 100 -->
+var _top100q = _top100q || [];
+
+_top100q.push(["setAccount", "956805"]);
+_top100q.push(["trackPageviewByLogo", document.getElementById("top100nkj_counter")]);
+
+// VK async
+window.vk_init = false;
+window.vkAsyncInit = function() {
+	VK.init({ apiId: 3932598, onlyWidgets: false });
+	window.vk_init = true;
+	( window.vkAsyncCallbacks || [] ).forEach( function(x){ x(); } );
+};
+
+var inscript = function(d, s, id, src) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (''!=id && d.getElementById(id)) return;
+	js = d.createElement(s); if (''!=id) js.id = id; js.src = src; js.async = true;
+	var f = function(){ fjs.parentNode.insertBefore(js, fjs); };
+	if (window.opera == "[object Opera]") {
+		d.addEventListener("DOMContentLoaded", f, false);
+	} else { f(); }
+}
+document.addEventListener('DOMContentLoaded', function(){
+	window.setTimeout(function(){
+		inscript(document, 'script', 'twitter-wjs', 'https://platform.twitter.com/widgets.js');
+		inscript(document, 'script', 'vk_api_js', 'https://vk.com/js/api/openapi.js?169');
+	}, 4000);
+});
+inscript(document, 'script', '', 'https://st.top100.ru/top100/top100.js');
+inscript(document, 'script', 'tmr-code', 'https://top-fwz1.mail.ru/js/code.js');
+inscript(document, 'script', '', 'https://an.yandex.ru/system/context.js');
+</script>
+<script> !function (w, d, t) {
+	w.TiktokAnalyticsObject=t;
+	var ttq=w[t]=w[t]||[];
+	ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){
+		t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}
+	};
+	for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);
+	ttq.instance=function(t){
+		for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++ )ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){
+		var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};
+		n=document.createElement("script");
+		n.type="text/javascript",n.async=!0,n.src=i+"?sdkid="+e+"&lib="+t;
+		e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(n,e)
+	}; 
+	ttq.load('C6QH6V448LJFHF7EMQNG'); ttq.page(); 
+}(window, document, 'ttq'); </script> 
+</body>
+</html>

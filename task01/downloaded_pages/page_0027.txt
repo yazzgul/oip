@@ -1,0 +1,1989 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <link rel="canonical" href="https://www.ixbt.com/" />
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="initial-scale=1"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <meta property="relap:article" content="false">
+
+    <title>Новости технологий, обзоры гаджетов, смартфонов, бытовой техники и автомобилей</title>
+    <meta name="description" content="iXBT.com - крупнейший сайт о технике и технологиях в Рунете. Ежедневно у нас выходит множество интересных новостей и обзоров">
+    <link rel="image_src" href="https://www.ixbt.com/images2/ixbt_oblozhka.jpg">
+
+    <meta property="fb:app_id" content="372988576485499"/>
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Новости технологий, обзоры гаджетов, смартфонов, бытовой техники и автомобилей">
+    <meta property="og:description" content="iXBT.com - крупнейший сайт о технике и технологиях в Рунете. Ежедневно у нас выходит множество интересных новостей и обзоров">
+    <meta property="og:url" content="https://www.ixbt.com/">
+    <meta property="og:image" content="https://www.ixbt.com/images2/ixbt_oblozhka.jpg">
+    <meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+
+    <meta name="twitter:title" content="Новости технологий, обзоры гаджетов, смартфонов, бытовой техники и автомобилей">
+    <meta name="twitter:url" content="https://www.ixbt.com/">
+    <meta property="twitter:image" content="https://www.ixbt.com/images2/ixbt_oblozhka.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:widgets:csp" content="on">
+
+    <meta name="mrc__share_title" content="Новости технологий, обзоры гаджетов, смартфонов, бытовой техники и автомобилей">
+    <meta name="mrc__share_description" content="iXBT.com - крупнейший сайт о технике и технологиях в Рунете. Ежедневно у нас выходит множество интересных новостей и обзоров">
+
+    <meta property="fb:pages" content="239502966103173">
+
+        <link rel="icon" type="image/png" href="/images2/ixbt/favicon-96x96.png" sizes="96x96">
+        <link rel="icon" type="image/svg+xml" href="/images2/ixbt/favicon.svg">
+        <link rel="shortcut icon" href="/images2/ixbt/favicon.ico">
+        <link rel="apple-touch-icon" sizes="180x180" href="/images2/ixbt/apple-touch-icon.png">
+        <link rel="manifest" href="/images2/ixbt/manifest.json">
+
+
+    <script type="application/ld+json">
+        {
+          "@context": "http://schema.org",
+          "@type": "WebSite",
+          "url": "https://www.iXBT.com/",
+          "name": "Новости технологий, обзоры гаджетов, смартфонов, бытовой техники и автомобилей",
+           "author": {
+              "@type": "Organization",
+              "name": "iXBT.com"
+            },
+          "description": "iXBT.com - крупнейший сайт о технике и технологиях в Рунете. Ежедневно у нас выходит множество интересных новостей и обзоров",
+          "publisher": {
+           "@type": "Organization",
+           "name": "iXBT.com",
+           "logo": {
+                 "@type": "ImageObject",
+                 "url": "https://www.ixbt.com/images2/ixbt_logo_752_202_retina.png"
+               }
+           },
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.ixbt.com/news/search/?cx=partner-pub-2944014748278485&q={search_term}",
+            "query-input": "required name=search_term" }
+        }
+    </script>
+
+    
+
+<link rel="stylesheet" href="https://www.ixbt.com/site2/resources/css/style.min.css?v=2.6"/>
+
+<link rel="stylesheet" href="https://www.ixbt.com/live/modules/ixbt/css/comments.min.css" media="print" onload="this.media='all'; this.onload=null;">
+        <!-- Google tag (gtag.js) -->
+
+<script>
+    (function(w,d,s,l){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+        var f=d.getElementsByTagName(s)[0],j=d.createElement(s);j.async=true;j.src='https://sgtm.ixbt.com/al/pv.js';f.parentNode.insertBefore(j,f);})(window,document,'script','analytics');
+
+    window.analytics = window.analytics || [];
+    window.analytics.push({"page_design": "legacy"});
+
+    function getCookie(name) {
+        var matches = document.cookie.match(new RegExp(
+            "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+        ));
+        return matches ? decodeURIComponent(matches[1]) : undefined;
+    }
+
+    window.jitsuPageProps = window.jitsuPageProps || { project_slug: "ixbt", page_type: "other", publication_type: "", publication_id: "", design: 'legacy', ym_uid: getCookie('_ym_uid'),ym_first_visit: getCookie('_ym_d'), ym_has_adblock: getCookie('_ym_isad'),cookie_policy_accepted: getCookie('cookie_policy_accepted'), other_ids: {tmr_lvid: getCookie('tmr_lvid'),top100_id: getCookie('top100_id'),adtech_uid: getCookie('adtech_uid'),ajs_anonymous_id: getCookie('ajs_anonymous_id'),ajs_user_id:getCookie('ajs_user_id')}};
+    window.jitsuLoaded = function (jitsu) {
+        jitsu.page(window.jitsuPageProps);
+    };
+
+        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+        (window, document, "script", "https://mc.webvisor.org/metrika/tag_ww.js", "ym");
+
+        ym(25165136, "init", {
+        clickmap:false,
+        trackLinks:false,
+        accurateTrackBounce:true,
+        params: { page_design: "legacy" }
+    });
+
+
+
+
+</script>
+<script async src="https://jitsu.ixbt.com/p.js"
+        data-write-key="ldnJKbzhrZfbZydPPBEd4nUkqNlW2EHt:cVYWd65uWi8QVUqyknT26DDe51FEflVZ"
+        data-onload="jitsuLoaded"
+        data-init-only="true"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://www.ixbt.com/live/modules/ixbt/js/main.min.js"></script>
+<script defer type="text/javascript" src="https://www.ixbt.com/site2/resources/javascript/plugins.js"></script>
+<script defer type="text/javascript" src="https://www.ixbt.com/site2/resources/javascript/kocmoc.js"></script>
+<script src="https://www.ixbt.com/site2/resources/javascript/ixbit_tv.js" defer></script>
+
+<meta name="VK35850">
+
+<script defer type="text/javascript" src="https://forum.ixbt.com/login.js"></script><script>    var aAdvList = [];
+    var adUnits = [];
+     isMobile = window.matchMedia("(max-width: 480px)").matches;
+     isDesktop = window.matchMedia("(min-width: 1025px)").matches;
+     isPad = !isDesktop && window.matchMedia("(min-width: 740px)").matches;
+     if(getCookie('auth_param') == '?y3%rN') {
+         isMobile = false;
+         isDesktop = false;
+         isPad = false;
+         const style = document.createElement('style');
+         style.textContent = '.deskadv,.mobadv,#yandex_recommend,#brandplace,.clickable_zone,.clickable_zone_right,.clickable_zone_left{display:none !important}body{background-image: none !important; background-color: #FFF !important;}';
+         document.head.append(style);
+     }
+</script>
+<script>window.yaContextCb = window.yaContextCb || []</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6500100114919204"
+     crossorigin="anonymous"></script>
+</head>
+<body id="pagebody" class="branding is_index">
+
+<script>
+    window.analytics = window.analytics || [];
+    window.analytics.push({
+
+        "metadataContentType" : "category",
+        "metadataIxbtProject": "ixbtcom",
+        "page_design": "legacy"
+    });
+</script>
+
+
+
+
+
+
+<script>
+    if(getCookie('auth_param') == '?y3%rN') {
+
+        const style = document.createElement('style');
+        style.textContent = 'body{background-image: none !important; background-color: #FFF !important;}.branding .b-content__breadcrumbs, .main__container {margin-top: 0 !important;}.br-mobile-pic-bg {padding-bottom: 0 !important; background-image: none !important;}';
+        document.head.append(style);
+        $('#pagebody').removeClass('branding');
+
+    }
+</script>
+
+<div class="clickable_zone">
+<a target="_blank" rel="nofollow" href="//www.ixbt.com/cgi-bin/click_i.cgi?id=127380&pg=1297"></a>
+</div>
+<div class="clickable_zone_right">
+<a target="_blank" rel="nofollow" href="//www.ixbt.com/cgi-bin/click_i.cgi?id=127380&pg=1297"></a>
+</div>
+<div class="clickable_zone_left">
+<a target="_blank" rel="nofollow" href="//www.ixbt.com/cgi-bin/click_i.cgi?id=127380&pg=1297"></a>
+</div>
+<style>
+body {
+background-image: url(//rose.ixbt.com/banner/1359/ixbt-honor_Magic_8_Pro_v2_1_placement_2140.jpg);
+background-position-y: -30px !important;
+background-color: #CDA2A9;
+background-position: center top;
+background-repeat: no-repeat;
+}
+.br-mobile-pic {
+aspect-ratio: 600 / 300;
+height: auto;
+width: 100%;
+}
+@media screen and (min-width: 600px) {
+.branding .b-content__breadcrumbs,.branding .main__container {
+margin-top: 240px !important;
+}
+.br-mobile-pic {display: none;}
+}
+</style>
+<img decode="async" width="600" height="300" class="br-mobile-pic" src="//rose.ixbt.com/banner/1359/ixbt-honor_Magic_8_Pro_600x300_v1_0_mobile_2.jpg">
+
+<div class="banner_new_design" 
+data-deskimg="//rose.ixbt.com/banner/1359/ixbt-honor_Magic_8_Pro_v2_1_placement_2669.jpg" 
+data-margintop="290" 
+data-backgroundpositiony="-10" 
+data-bgzoom="100" 
+data-w="2669" 
+data-h="1501" 
+style="display:none;"></div>
+
+
+<div class="b-content b-content__uppermenu">
+    <style>
+    a [data-name="adtune-feedback"] {
+        position: absolute;
+        min-height:150px !important;
+        min-width: 300px !important;
+
+    }
+</style>
+<div class="slide_menu__common_overlay"></div>
+<div class="slide_menu__common">
+
+    <div class="mainmenu__list __menulist">
+        <ul class="list" style="padding-bottom: 150px;">
+            <li style="padding:0 0 15px 0;" class="mobile_login" id="auth_mobile_block"><a style="margin-left: 15px;" href="javascript:;" onClick="ixbtcommon_login(reload, 1)"><i class="icon icon-arrow_square"></i><span class="ixbt_login">Войти</span></a></li>
+            <li><a href="/live/">Блоги</a></li>
+            <li><a href="/news/">Новости</a></li>
+            <li><a href="/3dv/">Видеокарты и мониторы</a></li>
+            <li><a href="/supply/">Корпуса, БП, ИБП</a></li>
+            <li><a href="/platform/">Платформа ПК</a></li>
+            <li><a href="/projector/">Проекторы и ТВ</a></li>
+            <li><a href="/ds/"> Hi-Fi и мультимедиа</a></li>
+            <li><a href="/sw/">Программы и ОС</a></li>
+            <li><a href="/mobilepc/">Ноутбуки и планшеты</a></li>
+            <li><a href="/md/">Мобильные устройства</a></li>
+            <li><a href="/printers/">Принтеры и периферия</a></li>
+            <li><a href="/ch/">Комфортный дом</a></li>
+            <li><a href="/data/">Носители информации</a></li>
+            <li><a href="/medium/">iT-Среда</a></li>
+            <li><a href="/car/">OnRoad</a></li>
+            <li><a href="/nw/">Сети и серверы</a></li>
+            <li><a href="/dp/">Фото</a></li>
+            <li><a href="/dv/">Видео </a></li>
+            <!--  <li><a href="/maclife/">Maclife</a></li> -->
+        </ul>
+    </div>
+    <div class="addition__list">
+        <li><a href="//forum.ixbt.com">Конференция</a></li>
+        <li><a href="https://www.ixbt.com/news/search/">Поиск</a></li>
+    </div>
+</div>
+
+<div class="b-mainmenu __mainmenu">
+    <div class="mainmenu__wrapper">
+        <div class="mainmenu--topline">
+            <ul class="topline__left">
+                <li><a href="//forum.ixbt.com">Конференция</a>
+                </li>
+                                <li><a href="https://ixbt.games">Games</a>
+                </li>
+                <li><a href="https://ixbt.photo">Фото</a>
+                </li>
+                <li><a href="https://komok.com">Komok</a>
+                </li>
+                <li><a href="https://ixbt.market">Market</a>
+                </li>
+                <li><a href="https://prosound.ixbt.com">Prosound</a>
+                </li>
+                <li><a href=" https://ixbt.pro">ПроБизнес</a>
+                </li>
+            </ul>
+            <ul class="topline__right" id="auth_top_block2"><li><a href="javascript:;" onClick="ixbtcommon_login(reload, 1)"><i class="icon icon-arrow_square"></i><span class="ixbt_login">Войти</span></a></li></ul>
+        </div>
+        <div class="mainmenu--line">
+            <div class="line__logo">
+                <a href="/" class="w-logo">
+                    <!-- desktop лого  -->
+                    <i class="icon icon-logo_ixbt" style="xposition: relative;"></i>
+                    <!-- Юбилейное лого  -->
+                    <!-- <img src="/site2/resources/images/ixbt-logo-25.png" class="ixbt_25years" title="25 лет Online"> -->
+                    <!-- <img src="/pic/digit21.png" width="43" height="33" style="position: absolute; top:10px; left: 67px;" title="21 год Online"> -->
+                    <!-- <img src="/pic/ny_tree.png" width="32" height="44" style="position: absolute; top:-12px; left: 78px;" title="С Новым 2019 годом!"> -->
+					<!-- НГ оформление desktop -->
+					<!-- <img src="/pic/ny_2020.png" width="91" height="58" style="position: absolute; top:-12px; left: 24px;" title="С Новым 2026 годом!">  -->
+					<!-- 9 мая <img src="/site2/resources/images/pobeda.svg" class="pobeda80"  title="С Днем Победы!"> -->
+					<!-- <img src="/site2/resources/images/logo_28_years.png"  class="anniv28"  title="iXBT - 28 лет с вами ">  -->
+					
+					
+                </a>
+            </div>
+            <div class="line__menu">
+                <ul class="menu__mainmenu __mainmenu mobile-hide" style="height:39px;">
+                    <li><a href="/articles/current/" data-menuitem="reviews" class="">Обзоры</a>
+                    </li>
+                    <li><a href="/news/" data-menuitem="news" class="">Новости</a>
+                    </li>
+                    <li><a href="/live/" data-menuitem="blogs" class="">Блоги</a>
+                    </li>
+                    <li style="margin-left: 10px;"><div style="height: 28px;" id="honor-announce-banner"></div>
+
+                        <script>
+                            if (isPad || isDesktop || isMobile) {
+                                window.yaContextCb.push(()=>{
+                                    Ya.adfoxCode.create({
+                                        ownerId: 263225,
+                                        containerId: 'honor-announce-banner',
+                                        params:
+                                            {
+                                                p1: 'cvwyc',
+                                                p2: 'gvnp'
+                                            }
+                                    })
+                                })
+                            }
+                        </script></li>
+                </ul>
+                <ul class="menu__right social_links">
+                    <li>
+                        <a target="_blank" rel="nofollow" title="Новостной твиттер" href="https://twitter.com/ixbtcom/">
+                            <div class="social_icon_div twitter-icon-ixbt"></div>
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" rel="nofollow" title="Новости и статьи в Telegram" href="https://t.me/ixbt_official">
+                            <div class="social_icon_div telegram-icon-ixbt"></div>
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" rel="nofollow" title="Страница ВКонтакте" href="https://vk.com/ixbt_official">
+                            <div class="social_icon_div vkontakte-icon-ixbt"></div>
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" rel="nofollow" title="Дзен" href="https://dzen.ru/ixbt.com">
+                            <img src="https://www.ixbt.com/site2/resources/images/zen.svg" style="width:24px; height: 24px; ">
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" rel="nofollow" title="Наш Youtube" href="https://www.youtube.com/c/IxbtTV">
+                            <div class="social_icon_div youtube-icon-ixbt"></div>
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" rel="nofollow" title="RuTube" href="https://rutube.ru/channel/23474179/">
+                            <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="24px" height="24px" style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision;image-rendering:optimizeQuality;fill-rule:evenodd;clip-rule:evenodd" viewBox="0 0 248.02 248.02"><defs><style>.str0{stroke:#fff;stroke-width:.14;stroke-miterlimit:22.9256}.fil1{fill:#fff}</style></defs><g id="Слой_x0020_1"><g id="_2756696155696"><circle cx="124.01" cy="124.01" r="124.01" style="fill:#6766b7;fill-rule:nonzero"/><path class="fil1 str0" d="M65.07 171.74V76.02h86.76c13.91 0 25.67 5.94 27.1 21.37.91 9.9.82 13.91.1 21.95-.97 10.77-5.9 18.89-19.69 21.19l22.82 31.21h-26.67l-20.79-31.21H89v31.21H65.07zm82.06-74.49L89 97.39v21.95h57.08c5.55 0 9.41 0 9.41-7.5v-6.88c0-6.77-3.45-7.72-8.36-7.71z"/><circle class="fil1 str0" cx="186.58" cy="65.26" r="12.36"/></g></g></svg>
+                        </a>
+                    </li>
+                    <li>
+                        <form action="//www.ixbt.com/news/search/" id="cse-search-box">
+                            <div style="text-align: right;position: relative;">
+                                <input type="hidden" name="cx" value="partner-pub-2944014748278485:43aq2mxbk7t">
+                                <input type="hidden" name="cof" value="FORID:10">
+                                <input type="hidden" name="ie" value="utf8">
+                                <input type="text" class="search_input" name="q" size="50%" style="padding: 2px 6px; display: none;" placeholder="Введите текст для поиска....">
+                                <a value="" class="btn-main-search btn-main-search" style="position: relative;">
+                                    <i class="icon icon-search"></i>
+                                </a>
+                            </div>
+                        </form>
+                    </li>
+                </ul>
+                <!--<ul class="menu__right">
+                        <li><a href="#"><i class="glyphicon-search"></i></a></li>
+                        <li><a href="#"><i class="glyphicon-gear"></i></a></li>
+                        <li><a href="#"><i class="glyphicon-question-sign"></i></a></li>
+                </ul> -->
+            </div>
+        </div>
+
+    </div>
+</div>
+<div class="b-mainmenu__mobile honor-mobile-menu">
+    <div class="mainmenu__container">
+        <div class="container__left">
+            <!-- Мобильное лого  -->
+            <a href="/" class="logo">
+            	<!-- обычное лого -->
+            	<i class="icon icon-logo_ixbt"></i>
+            	
+            	
+            	<!-- НГ формление -->
+            	<!-- <img src="/pic/ny_2020.png" width="91" height="58" style="position: absolute;top: 4px;left: 24px;" title="С Новым 2026 годом!"> -->
+            	
+            	
+            	<!-- Юбилейное лого  -->
+            	<!-- <img src="/site2/resources/images/ixbt-logo-25.png" class="ixbt_25years_mobile"  title="25 лет Online"> -->
+            	<!-- <img src="/site2/resources/images/pobeda1.svg" style="position: absolute; top: 2px;  left: 72px;  height: 57px;" class="pobeda80"  title="С Днем Победы!">  -->
+            	<!-- <img src="/site2/resources/images/logo_28_years_mob.png"  style="position: absolute; left: 68px; top: -19px; height: 74px;" class="anniv28"  title="iXBT - 28 лет с вами ">  -->
+            </a>
+
+            <a class="menu__part_link" href="/articles/current/">Статьи</a>
+            <a class="menu__part_link" href="/news/">Новости</a>
+            <div style="height: 28px;" id="honor-announce-banner-mob"></div>
+
+            <script>
+                if (isPad || isDesktop || isMobile) {
+                    window.yaContextCb.push(()=>{
+                        Ya.adfoxCode.create({
+                            ownerId: 263225,
+                            containerId: 'honor-announce-banner-mob',
+                            params:
+                                {
+                                    p1: 'cvwyc',
+                                    p2: 'gvnp'
+                                }
+                        })
+                    })
+                }
+            </script>
+
+            <a class="menu __menucaller icon-menu__open"><div style="width: 18px;" class="icon icon-burger"></div></a>
+
+        </div>
+
+        <!--<div class="container__right"><a href="https://www.ixbt.com/news/search/" class="search"><i class="icon icon-search"></i></a><a href="#" class="login_mobile"><i class="icon icon-arrow_square_right"></i></a></div> -->
+    </div>
+    <div class="mainmenu__list __menulist">
+        <ul class="list" style="padding-bottom: 150px;">
+            <li><a href="/news/">Новости</a></li>
+            <li><a href="/3dv/">Видеокарты, мониторы</a></li>
+            <li><a href="/supply/">Корпуса, БП, ИБП</a></li>
+            <li><a href="/platform/">Платформа ПК</a></li>
+            <li><a href="/projector/">Проекторы и ТВ</a></li>
+            <li><a href="/ds/"> Hi-Fi и мультимедиа</a></li>
+            <li><a href="/sw/">Программы и ОС</a></li>
+            <li><a href="/mobilepc/">Ноутбуки, планшеты</a></li>
+            <li><a href="/md/">Мобильные устройства</a></li>
+            <li><a href="/printers/">Принтеры, периферия</a></li>
+            <li><a href="/ch/">Комфортный дом</a></li>
+            <li><a href="/data/">Носители информации</a></li>
+            <li><a href="/medium/">iT-Среда</a></li>
+            <li><a href="/car/">OnRoad</a></li>
+            <li><a href="/nw/">Сети, серверы</a></li>
+            <li><a href="/dp/">Фото</a></li>
+            <li><a href="/dv/">Видео </a></li>
+            <!--<li><a href="/maclife/">Maclife</a></li>-->
+        </ul>
+    </div>
+</div>
+<script>
+    function reload()
+    {
+        location.reload();
+    }
+
+    document.addEventListener("DOMContentLoaded", function(event) {
+        if (window.matchMedia("(max-width: 660px)").matches) {
+            $("#auth_mobile_block").load("https://www.ixbt.com/live/custom/showlogin/")
+        } else {
+            $("#auth_top_block2").load("https://www.ixbt.com/live/custom/showlogin/")
+        }
+    });
+</script></div>
+
+<div class="b-content b-content__pagecontent main__container is_index">
+    <div class="b-content--wrapper">
+        <div class="g-grid">
+            <div class="g-grid_column g-grid_column__big g-grid-roller">
+                <div class="mainmenu--rollers mobile-hide">
+                    <div class="b-rollers">
+                        <div data-menu="reviews" class="roller__item __roller show">
+                            <div class="roller__item__wrapper">
+
+
+                                <div class="roller--links">
+                                    <ul>
+                                        <li><a href="/3dv/">Видеокарты и мониторы</a></li>
+                                        <li><a href="/supply/">Корпуса, БП, ИБП</a></li>
+                                        <li><a href="/platform/">Платформа ПК</a></li>
+                                        <li><a href="/tv/">Проекторы и ТВ</a></li>
+                                        <li><a href="/car/">Транспорт </a></li>
+                                        <li><a href="/ds/">Hi-Fi и мультимедиа</a></li>
+                                        <li><a href="/sw/">Программы и ОС</a></li>
+                                        <li><a href="/mobilepc/">Ноутбуки и планшеты</a></li>
+                                        <li><a href="/mobile/">Мобильные устройства</a></li>
+                                        <!-- <li><a href="/maclife/">Maclife</a></li>-->
+                                        <li><a href="/printers/">Принтеры и периферия</a></li>
+                                        <li><a href="/ch/">Комфортный дом</a></li>
+                                        <li><a href="/data/">Носители информации</a></li>
+                                        <li><a href="/medium/">iT-Среда</a></li>
+                                        <li><a href="/nw/">Сети и серверы</a></li>
+                                        <li><a href="/dp/">Фото</a></li>
+                                        <li><a href="/dv/">Видео </a></li>
+                                    </ul>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="g-grid_column g-grid_column__small grid-slide-left  " style="padding-top: 0px;">
+                    <div class="b-block b-block__newslistdefault b-lined-title news-left-col js-review-block">
+                        <h3 class="lined double_href" style="margin-bottom: 0px;" ><a href="/articles/current/">Обзоры</a> <a class="href_right" href="/articles/" >[ Архив ]</a></h3>
+                        <div class="list-container">
+                            <ul style="margin-top: -5px;">
+                                                                                                        <li class="item item-big ">
+                                        <a class="a-razdel a-razdel-ixbt" title="комфортный дом" href="/ch/">&nbsp;ch&nbsp;</a>
+                                        <span class="time_iteration_icon_light">сегодня</span>                                        
+
+                                        <a href="/home/redmond-hd1705-review.html">
+                                            <div class="item-image"><img title="Со стороны Redmond HD1705 выглядит, как классический выпрямитель-утюжок, на самом же деле это фен. Фен со смыкающимися пластинами, которые не нагреваются сами по себе, а создают своего рода пресс для прядей, за счет чего под воздействием горячего воздуха они становятся гладкими и шелковистыми. Разберемся подробнее, как работает устройство, и выясним, насколько эффективным оно окажется в деле." src="https://www.ixbt.com/img/r30/00/02/89/44/icon.jpg?c115" alt=""/></div>                                            <strong>Фен-стайлер Redmond («Редмонд») HD1705:</strong> эффективен, удобен и красив </a>
+                                    </li>
+                                                                                                        <li class="item item-big ">
+                                        <a class="a-razdel a-razdel-ixbt" title="ноутбуки и планшеты" href="/mobilepc/">&nbsp;mobilepc&nbsp;</a>
+                                                                                <a href="/mobilepc/honor-magicbook-x16-2026-review.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">17</span></a> 
+
+                                        <a href="/mobilepc/honor-magicbook-x16-2026-review.html">
+                                            <div class="item-image"><img title="Мы испытали ноутбук, позиционируемый для молодых и домашних пользователей, то есть попросту бюджетный — со слабой конфигурацией, без дискретной видеокарты, и так далее. Тем не менее, он заключен в металлический корпус с привлекательной внешностью, имеет нормальную клавиатуру с цифровым блоком (правда, без подсветки). Интерфейсных портов мало: всего три USB, причем один из них (Type-C) будет занят зарядкой, а кроме этого есть лишь HDMI и миниджек для наушников. Батарея дает возможность набирать текст в течение 12,5 ч или просматривать видео в течение 9,5 ч. А вот цена оказалась далеко не столь привлекательной, как мы ожидали." src="https://www.ixbt.com/img/r30/00/02/90/60/_001A.jpg?c115" alt=""/></div>                                            <strong>Компромиссный ноутбук Honor MagicBook X16 2026 (BRG-X):</strong> для учащихся и домашних пользователей </a>
+                                    </li>
+                                                                                                            <div class="mainpage"><div class="deskadv ban600" id="v-10">
+    <div class="vertb vertb1" id="v10"></div>
+</div>
+<script>
+    if (isDesktop) {
+        window.yaContextCb.push(()=>{
+            Ya.adfoxCode.create({
+            ownerId: 263225,
+            containerId: 'v10',
+            params:
+                    {
+                        p1: 'bzflt',p2: 'ftrh','puid5':'v10','pk':window.location.pathname
+                      }
+    })
+    })
+    }
+</script>
+                                            <div class="mobb mobb2" id="m20"></div>
+    <script>
+        if (isMobile) {
+                        window.yaContextCb.push(()=>{
+                Ya.adfoxCode.create({
+                ownerId: 263225,
+                containerId: 'm20',
+                params:
+                        {
+                            'p1':'bzfsw',p2:'ftsc','puid5':'m20'
+                         }
+    })
+    })
+    }
+</script>
+</div>
+                                                                        <li class="item item-big ">
+                                        <a class="a-razdel a-razdel-ixbt" title="комфортный дом" href="/ch/">&nbsp;ch&nbsp;</a>
+                                        <span class="time_iteration_icon_light">18 февраля</span>                                        <a href="/home/candy-chxc64tdab-review.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">23</span></a> 
+
+                                        <a href="/home/candy-chxc64tdab-review.html">
+                                            <div class="item-image"><img title="Candy CHXC64TDAB — это простая и недорогая встраиваемая поверхность с независимым подключением. Такое решение отлично подойдет для приготовления еды на целую семью, при этом с учетом невысокой цены устройство можно рассматривать к приобретению и в тех ситуациях, когда требуется собрать «бюджетную» кухню без потери в функциональности." src="https://www.ixbt.com/img/r30/00/02/86/13/candy-chxc64tdab.jpg?c115" alt=""/></div>                                            <strong>Стеклокерамическая варочная панель Candy CHXC64TDAB:</strong> бюджетное решение со всеми нужными функциями </a>
+                                    </li>
+                                                                                                        <li class="item item-big ">
+                                        <a class="a-razdel a-razdel-ixbt" title="корпуса, бп и ибп" href="/supply/">&nbsp;supply&nbsp;</a>
+                                                                                <a href="/supply/deepcool-ch170-digital-review.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">11</span></a> 
+
+                                        <a href="/supply/deepcool-ch170-digital-review.html">
+                                            <div class="item-image"><img title="Это «башенка» форм-фактора Mini-ITX с основанием минимального размера, позволяющим экономить место на рабочем столе. Оснащение интерфейсными портами вполне стандартное: два USB-A и один USB-C, для HDD/SSD с размерностью 2,5 или 3,5 дюйма имеется единственное посадочное место (кроме слота М.2 на системной плате), возможно использование блока питания АТХ." src="https://www.ixbt.com/img/r30/00/02/80/15/deepcool-ch170-digital.jpg?c115" alt=""/></div>                                            <strong>Корпус DeepCool CH170 Digital:</strong> «башенка» Mini-ITX с контролем параметров на цифровой панели </a>
+                                    </li>
+                                                                                                        <li class="item item-big ">
+                                        <a class="a-razdel a-razdel-ixbt" title="комфортный дом" href="/ch/">&nbsp;ch&nbsp;</a>
+                                        <span class="time_iteration_icon_light">17 февраля</span>                                        <a href="/home/lex-pm-4583a-color-lux-review.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">9</span></a> 
+
+                                        <a href="/home/lex-pm-4583a-color-lux-review.html">
+                                            <div class="item-image"><img title="Узкая встраиваемая посудомоечная машина Lex PM 4583A Color Lux понравилась нам качеством мытья и сушки, наличием продуманного набора режимов и полезных дополнительных функций. Посудомойка легко справляется с простыми загрязнениями, аккуратно и тщательно моет хрупкую посуду и очень неплохо отмывает стойкую грязь." src="https://www.ixbt.com/img/r30/00/02/89/46/lex-pm-4583a-color-lux.jpg?c115" alt=""/></div>                                            <strong>Узкая встраиваемая посудомоечная машина Lex PM 4583A Color Lux:</strong> 8 режимов, 6 дополнительных функций, бак с подсветкой и проекция времени цикла на пол </a>
+                                    </li>
+                                                                                                        <li class="item item-big ">
+                                        <a class="a-razdel a-razdel-ixbt" title="мобильные устройства" href="/mobile/">&nbsp;mobile&nbsp;</a>
+                                                                                <a href="/mobile/honor-magic8-pro-review.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">37</span></a> 
+
+                                        <a href="/mobile/honor-magic8-pro-review.html">
+                                            <div class="item-image"><img title="Honor Magic8 Pro — это по всем параметрам флагманский смартфон с топовыми возможностями, с флагманской SoC Qualcomm, с отличным OLED-экраном, полным набором сетевых модулей, и, конечно, высоким качеством фотосъемки на основную и зум-камеру. Он подойдет не каждому из-за размеров, веса и огромной торчащей сзади шайбы, которая портит впечатление от дизайна, но к техническим характеристикам претензий нет. Смартфон уже продается в России, крупные торговые сети предлагают его за 120 тысяч рублей." src="https://www.ixbt.com/img/r30/00/02/90/70/honor-magic8-pro.jpg?c115" alt=""/></div>                                            <strong>Смартфон Honor Magic8 Pro:</strong> топовый флагманский аппарат с высоким качеством фотосъемки </a>
+                                    </li>
+                                                                                                        <li class="item item-big ">
+                                        <a class="a-razdel a-razdel-ixbt" title="носители информации" href="/data/">&nbsp;data&nbsp;</a>
+                                        <span class="time_iteration_icon_light">16 февраля</span>                                        <a href="/data/horizont-h-storage-hsa4300-512gb-review.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">24</span></a> 
+
+                                        <a href="/data/horizont-h-storage-hsa4300-512gb-review.html">
+                                            <div class="item-image"><img title="С точки зрения покупателя, «хорошим SSD» как минимум в этом году будет любой SSD, который ему удалось приобрести по «хорошей» цене, лишь бы прочие потребительские характеристики были достаточными для использования. Модели на MAP1202 с TLC-памятью этому критерию сейчас удовлетворяют, что в очередной раз и подтвердило тестирование, так что всё решат доступность и цена. В целом, рассмотренная модель Horizont H-Storage — это неплохое бюджетное предложение, пусть и с пока не совсем привычной страной происхождения." src="https://www.ixbt.com/img/r30/00/02/87/82/horizont-h-storage-hsa4300-512g.jpg?c115" alt=""/></div>                                            <strong>Твердотельный накопитель Horizont H-Storage HSA4300-512G емкостью 512 ГБ:</strong> немного устаревшая, но актуальная платформа и неожиданное место производства </a>
+                                    </li>
+                                                                                                        <li class="item item-big mobile-hide">
+                                        <a class="a-razdel a-razdel-ixbt" title="комфортный дом" href="/ch/">&nbsp;ch&nbsp;</a>
+                                                                                <a href="/home/adler-ad1279-review.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">31</span></a> 
+
+                                        <a href="/home/adler-ad1279-review.html">
+                                            <div class="item-image"><img title="Чайник Adler AD1279 произвел на нас в целом положительное, но местами противоречивое впечатление: оригинальное решение со складным силиконовым корпусом позволяет существенно снизить вес и габариты устройства. Теплоизоляция при этом практически отсутствует, однако для дорожного чайника это не проблема. Проблема — в необходимости помнить о том, что чайник нужно отключать вручную (при этом после закипания воды сам чайник выглядит как полностью отключенный: нагрева нет, потребления электричества нет, подсветка на клавише включения не светится)." src="https://www.ixbt.com/img/r30/00/02/89/30/adler-ad1279.jpg?c115" alt=""/></div>                                            <strong>Складной чайник Adler AD1279</strong> с силиконовым корпусом </a>
+                                    </li>
+                                                                                                        <li class="item item-big mobile-hide">
+                                        <a class="a-razdel a-razdel-ixbt" title="платформа пк" href="/platform/">&nbsp;platform&nbsp;</a>
+                                                                                <a href="/platform/asus-tuf-gaming-b860-plus-wifi-review.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">3</span></a> 
+
+                                        <a href="/platform/asus-tuf-gaming-b860-plus-wifi-review.html">
+                                            <div class="item-image"><img title="Asus TUF Gaming B860-Plus WiFi — недорогая материнская плата среднего уровня для платформы Intel LGA1851. На момент публикации обзора ее розничная стоимость начиналась от 18 тысяч рублей." src="https://www.ixbt.com/img/r30/00/02/90/54/asus-tuf-gaming-b860-plus-wifi.jpg?c115" alt=""/></div>                                            <strong>Материнская плата Asus TUF Gaming B860-Plus WiFi на чипсете Intel B860:</strong> недорогая модель среднего уровня без излишеств </a>
+                                    </li>
+                                                                                                        <li class="item item-big mobile-hide">
+                                        <a class="a-razdel a-razdel-ixbt" title="комфортный дом" href="/ch/">&nbsp;ch&nbsp;</a>
+                                        <span class="time_iteration_icon_light">15 февраля</span>                                        
+
+                                        <a href="/home/5-best-oral-care-devices-2026.html">
+                                            <div class="item-image"><img title="Если с нового года вы решите дать своим зубам новую жизнь, купив для ухода за ними крутое устройство, то мы вас понимаем — сами такие. Поэтому регулярно тестируем электрические зубные щетки и ирригаторы и не собираемся останавливаться, ведь разница «с» и «без» действительно ощущается." src="https://www.ixbt.com/img/r30/00/02/89/96/5-best-oral-care-devices-2026.jpg?c115" alt=""/></div>                                            <strong>5 лучших приборов для ухода за полостью рта,</strong> которые мы протестировали в 2025 году </a>
+                                    </li>
+                                                                                                        <li class="item item-big mobile-hide">
+                                        <a class="a-razdel a-razdel-ixbt" title="комфортный дом" href="/ch/">&nbsp;ch&nbsp;</a>
+                                        <span class="time_iteration_icon_light">14 февраля</span>                                        <a href="/home/roborock-f25-ace-pro-review.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">17</span></a> 
+
+                                        <a href="/home/roborock-f25-ace-pro-review.html">
+                                            <div class="item-image"><img title="Вертикальный моющий пылесос Roborock F25 ACE Pro — современное высокотехнологичное устройство с большим количеством инновационных решений. Среди них — функция уборки с активной пеной, моторные колеса, облегчающие самостоятельное движение по любым покрытиям, предусмотренная конструкцией возможность работы в горизонтальном положении и даже дистанционное управление уборкой." src="https://www.ixbt.com/img/r30/00/02/90/23/roborock-f25-ace-pro.jpg?c115" alt=""/></div>                                            <strong>Вертикальный моющий пылесос Roborock F25 ACE Pro:</strong> уборка с активной пеной, автоматический режим и электропривод ведущих колес </a>
+                                    </li>
+                                                                                                        <li class="item item-big mobile-hide">
+                                        <a class="a-razdel a-razdel-ixbt" title="комфортный дом" href="/ch/">&nbsp;ch&nbsp;</a>
+                                        <span class="time_iteration_icon_light">13 февраля</span>                                        
+
+                                        <a href="/home/felfri-fhd05-review.html">
+                                            <div class="item-image"><img title="Felfri FHD05 оправдал наши ожидания и проявил себя как весьма эффективное устройство для укладки. Стайлер уверенно справился с выпрямлением пушащихся непослушных волос. Его пар мягко и быстро воздействует на волосы, помогая избежать пересушивания, насадка-расческа надежно захватывает и прочесывает пряди, не выдергивая при этом волосы, а гладкие широкие панели легко скользят, оставляя после себя ровные и блестящие пряди." src="https://www.ixbt.com/img/r30/00/02/90/12/icon.jpg?c115" alt=""/></div>                                            <strong>Паровой выпрямитель для волос Felfri FHD05:</strong> выпрямление с паром и без, насадка-расческа, регулировка температуры от 150 до 230 °C </a>
+                                    </li>
+                                                                                                        <li class="item item-big mobile-hide">
+                                        <a class="a-razdel a-razdel-ixbt" title="3d-видео и мониторы" href="/3dv/">&nbsp;3dv&nbsp;</a>
+                                                                                <a href="/3dv/amd-fsr-pro-and-contra.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">39</span></a> 
+
+                                        <a href="/3dv/amd-fsr-pro-and-contra.html">
+                                            <div class="item-image"><img title="Мы провели анализ производительности и качества изображения составляющих набора технологий AMD FidelityFX Super Resolution (FSR), определив их влияние на качество и производительность рендеринга. Особое внимание уделили генерации кадров с использованием нейросетей в последней версии FSR “Redstone”, все возможности которой поддерживаются видеокартами последнего поколения Radeon RX 9000." src="https://www.ixbt.com/img/r30/00/02/89/62/logo-sm.jpg?c115" alt=""/></div>                                            <strong>Технологии AMD FSR:</strong> в погоне за лидером </a>
+                                    </li>
+                                                                                                        <li class="item item-big mobile-hide">
+                                        <a class="a-razdel a-razdel-ixbt" title="комфортный дом" href="/ch/">&nbsp;ch&nbsp;</a>
+                                        <span class="time_iteration_icon_light">12 февраля</span>                                        <a href="/home/polaris-paf8005w-review.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">9</span></a> 
+
+                                        <a href="/home/polaris-paf8005w-review.html">
+                                            <div class="item-image"><img title="Современный аэрогриль формата «3 в 1» сочетает функции фритюрницы, гриля и духовки, предлагая 12 автоматических программ, вместительную чашу на 7,5 л и управление через мобильное приложение. Технология циркуляции горячего воздуха TurboFlow 360° и мощность 1800 Вт рассчитаны на быстрое и равномерное приготовление широкого круга блюд." src="https://www.ixbt.com/img/r30/00/02/89/25/polaris-paf8005w12.jpg?c115" alt=""/></div>                                            <strong>Аэрогриль Polaris PAF 8005W Wi-Fi IQ Home:</strong> чаша на 7,5 л, 12 автоматических программ и мобильное приложение </a>
+                                    </li>
+                                                                                                        <li class="item item-big mobile-hide">
+                                        <a class="a-razdel a-razdel-ixbt" title="мобильные устройства" href="/mobile/">&nbsp;mobile&nbsp;</a>
+                                                                                <a href="/mobile/realme-watch-5-review.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">8</span></a> 
+
+                                        <a href="/mobile/realme-watch-5-review.html">
+                                            <div class="item-image"><img title="Впечатления от знакомства с Realme Watch 5 можно описать одной фразой: за свои деньги это неплохой вариант. Перед нами то, что называется рабочей лошадкой. У часов нет особенно эффектного дизайна, нет специфических функций (разве что Bluetooth-рация, но для этого нужны вторые такие же часы, что, очевидно, весьма экзотическое требование), но есть довольно крупный очень хороший экран, возможность крепления ремешков сторонних производителей и практически полный набор привычных базовых возможностей: от круглосуточного мониторинга пульса и кислорода в крови до тренировок с использованием встроенных навигационных модулей." src="https://www.ixbt.com/img/r30/00/02/89/27/realme-watch-5.jpg?c115" alt=""/></div>                                            <strong>Бюджетные умные часы Realme Watch 5</strong> с крупным экраном и недоработанным ПО </a>
+                                    </li>
+                                                                                                        <li class="item item-big mobile-hide">
+                                        <a class="a-razdel a-razdel-ixbt" title="комфортный дом" href="/ch/">&nbsp;ch&nbsp;</a>
+                                        <span class="time_iteration_icon_light">11 февраля</span>                                        <a href="/home/roborock-qrevo-curv-2-flow-review.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">21</span></a> 
+
+                                        <a href="/home/roborock-qrevo-curv-2-flow-review.html">
+                                            <div class="item-image"><img title="Робот-пылесос Roborock Qrevo Curv 2 Flow — это современное высокотехнологичное устройство, насыщенное множеством инновационных решений. В первую очередь к ним относится конструкция моющего модуля: вращающийся ротор гарантирует полноценное и качественное мытье покрытий любого типа. Симпатичная базовая станция обеспечивает автоматическое опорожнение резервуара, мытье и сушку ролика: от пользователя требуется лишь время от времени заменять одноразовые мешки, доливать в устройство чистую воду и опорожнять резервуар с грязной жидкостью. Ориентироваться в пространстве роботу помогают лидар и курсовая камера с функцией автоматического распознавания препятствий." src="https://www.ixbt.com/img/r30/00/02/90/06/roborock-qrevo-curv-2-flow.jpg?c115" alt=""/></div>                                            <strong>Робот-пылесос Roborock Qrevo Curv 2 Flow:</strong> полноценное и качественное мытье пола с самоочисткой и сушкой ролика </a>
+                                    </li>
+                                                                                                        <li class="item item-big mobile-hide">
+                                        <a class="a-razdel a-razdel-ixbt" title="транспорт" href="/car/">&nbsp;car&nbsp;</a>
+                                                                                <a href="/car/avatr-11-review.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">36</span></a> 
+
+                                        <a href="/car/avatr-11-review.html">
+                                            <div class="item-image"><img title="Avatr 11 — футуристический люксовый электрокроссовер Changan, Huawei и CATL. Мощность до 578 л. с., запас хода до 680 км, интеллектуальный автопилот с 3 LiDAR и HarmonyOS. Эмоциональный дизайн, сиденья zero-gravity и премиальный комфорт — будущее электромобилей уже здесь." src="https://www.ixbt.com/img/r30/00/02/89/43/avatr-11.jpg?c115" alt=""/></div>                                            <strong>Тестирование Avatr 11:</strong> футуристический люксовый электрокроссовер Changan, Huawei и CATL </a>
+                                    </li>
+                                                                                                        <li class="item item-big mobile-hide">
+                                        <a class="a-razdel a-razdel-ixbt" title="комфортный дом" href="/ch/">&nbsp;ch&nbsp;</a>
+                                        <span class="time_iteration_icon_light">10 февраля</span>                                        <a href="/home/centek-ct-1690-review.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">21</span></a> 
+
+                                        <a href="/home/centek-ct-1690-review.html">
+                                            <div class="item-image"><img title="Погружной су-вид Centek CT-1690 обеспечивает точный контроль температуры при приготовлении. В обзоре мы делимся практическим опытом работы с прибором, проверяем стабильность нагрева и оцениваем результаты приготовления. Все измерения и наблюдения помогут понять, насколько удобно и надежно использовать этот су-вид в домашних условиях." src="https://www.ixbt.com/img/r30/00/02/89/59/centek-ct-1690.jpg?c115" alt=""/></div>                                            <strong>Погружной су-вид Centek CT-1690:</strong> профессиональная технология приготовления еды в вакууме </a>
+                                    </li>
+                                                                                                        <li class="item item-big mobile-hide">
+                                        <a class="a-razdel a-razdel-ixbt" title="корпуса, бп и ибп" href="/supply/">&nbsp;supply&nbsp;</a>
+                                                                                <a href="/supply/bloody-bd-ps750b-review.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">3</span></a> 
+
+                                        <a href="/supply/bloody-bd-ps750b-review.html">
+                                            <div class="item-image"><img title="Блок питания Bloody BD-PS750B продемонстрировал довольно среднюю экономичность, а акустический комфорт можно назвать терпимым лишь при выходной мощности в пределах 300 ватт (причем низким шум не бывает вовсе). В целом данная модель представляет собой вполне типичный продукт бюджетного уровня в своем классе мощности." src="https://www.ixbt.com/img/r30/00/02/88/90/bloody-bd-ps750b.jpg?c115" alt=""/></div>                                            <strong>Блок питания Bloody BD-PS750B:</strong> бюджетная модель не для топовых игровых видеокарт </a>
+                                    </li>
+                                                                                                        <li class="item item-big mobile-hide">
+                                        <a class="a-razdel a-razdel-ixbt" title="мобильные устройства" href="/mobile/">&nbsp;mobile&nbsp;</a>
+                                        <span class="time_iteration_icon_light">09 февраля</span>                                        <a href="/mobile/redmi-note-15-pro-plus-5g-review.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">21</span></a> 
+
+                                        <a href="/mobile/redmi-note-15-pro-plus-5g-review.html">
+                                            <div class="item-image"><img title="Redmi Note 15 Pro+ 5G — сбалансированный смартфон среднего сегмента, который в целом закрывает базовые потребности современного пользователя. Впечатляющая защита корпуса, качественный AMOLED-дисплей, высокая автономность — вот неоспоримые плюсы модели. Вместе с тем, высокой производительностью она похвастать не может, в максимальной комплектации используется UFS 2.2 (устаревший медленный режим работы флэш-памяти), фото- и видеосъемка на среднем уровне. Российские цены таковы: 39 тысяч рублей за 8/256 ГБ памяти и 45 тысяч за 12/512 ГБ." src="https://www.ixbt.com/img/r30/00/02/90/53/redmi-note-15-pro-plus-5g.jpg?c115" alt=""/></div>                                            <strong>Смартфон Redmi Note 15 Pro+ 5G:</strong> среднеуровневый аппарат с высокой защищенностью корпуса </a>
+                                    </li>
+                                                                                                        <li class="item item-big mobile-hide">
+                                        <a class="a-razdel a-razdel-ixbt" title="комфортный дом" href="/ch/">&nbsp;ch&nbsp;</a>
+                                                                                <a href="/home/redmond-vh1330-review.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">2</span></a> 
+
+                                        <a href="/home/redmond-vh1330-review.html">
+                                            <div class="item-image"><img title="У вертикального аккумуляторного пылесоса Redmond VH1330 неплохое соотношение мощности и продолжительности работы, несложное и удобное управление и универсальная конструкция, делающая его одинаково эффективным как в ручной конфигурации, так и при сухой уборке пола. Главная особенность этой модели —  наличие базовой станции, обеспечивающей автоматическое опорожнение мусоросборника, зарядку и хранение аксессуаров. В отличие от аналогов, в базу не встроен отдельный двигатель: система самоочистки приводится в действие двигателем самого пылесоса." src="https://www.ixbt.com/img/r30/00/02/88/94/redmond-vh1330.jpg?c115" alt=""/></div>                                            <strong>Вертикальный аккумуляторный пылесос Redmond («Редмонд») VH1330 с базовой станцией:</strong> уборка и самоочистка с помощью единственного двигателя </a>
+                                    </li>
+                                                                                                        <li class="item item-big mobile-hide">
+                                        <a class="a-razdel a-razdel-ixbt" title="платформа пк" href="/platform/">&nbsp;platform&nbsp;</a>
+                                                                                <a href="/platform/asus-prime-b850-plus-wifi-review.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">7</span></a> 
+
+                                        <a href="/platform/asus-prime-b850-plus-wifi-review.html">
+                                            <div class="item-image"><img title="Материнская плата Asus Prime B850-Plus WiFi основана на чипсете среднего уровня AMD B850. Ее стоимость на момент подготовки обзора составляла около 18 тысяч рублей. Плата поддерживает процессоры AMD Ryzen 7000/8000/9000 и создана для широкого круга пользователей, которым важно получить относительно недорогой, но современный и производительный ПК." src="https://www.ixbt.com/img/r30/00/02/90/29/asus-prime-b850-plus-wifi.jpg?c115" alt=""/></div>                                            <strong>Материнская плата Asus Prime B850-Plus WiFi на чипсете AMD B850:</strong> недорогое решение для платформы AMD AM5 </a>
+                                    </li>
+                                                                                                        <li class="item item-big mobile-hide">
+                                        <a class="a-razdel a-razdel-ixbt" title="комфортный дом" href="/ch/">&nbsp;ch&nbsp;</a>
+                                        <span class="time_iteration_icon_light">08 февраля</span>                                        <a href="/home/air-fryer-vs-oven-2026.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">59</span></a> 
+
+                                        <a href="/home/air-fryer-vs-oven-2026.html">
+                                            <div class="item-image"><img title="Если это возможно, то неплохо иметь оба прибора, ведь они прекрасно дополняют друг друга. Аэрогриль — для быстрого ежедневного приготовления, духовка — для масштабных кулинарных проектов и точного следования сложным рецептам. Но всё же и у духового шкафа, и у аэрогриля есть свои сильные стороны и возможности, потребности в которых может закрыть только он." src="https://www.ixbt.com/img/r30/00/02/89/16/air-fryer-vs-oven.jpg?c115" alt=""/></div>                                            <strong>Аэрогриль против духовки:</strong> что выбрать для приготовления запеченных блюд? </a>
+                                    </li>
+                                                                                                        <li class="item item-big mobile-hide">
+                                        <a class="a-razdel a-razdel-ixbt" title="комфортный дом" href="/ch/">&nbsp;ch&nbsp;</a>
+                                        <span class="time_iteration_icon_light">07 февраля</span>                                        <a href="/home/karingbee-sf-c06-review.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">12</span></a> 
+
+                                        <a href="/home/karingbee-sf-c06-review.html">
+                                            <div class="item-image"><img title="Мы протестировали контактный гриль KaringBee SF-C06 — модель с высокой заявленной мощностью и внушительным списком возможностей на бумаге. К сожалению, в реальной эксплуатации прибор не смог подтвердить бо́льшую часть этих обещаний. Главная проблема гриля — неравномерный нагрев, особенно со стороны верхней панели. Это критично для контактного формата и напрямую влияет на качество приготовления. Индикаторы степени прожарки, заявленные как одно из ключевых преимуществ, также оказались скорее декоративным элементом, чем полезным инструментом." src="https://www.ixbt.com/img/r30/00/02/89/54/icon.jpg?c115" alt=""/></div>                                            <strong>Контактный гриль KaringBee SF-C06:</strong> мощность 2000 Вт, съемные антипригарные панели, разворот на 180 градусов, разочарование по итогам тестов </a>
+                                    </li>
+                                                                                                        <li class="item item-big mobile-hide">
+                                        <a class="a-razdel a-razdel-ixbt" title="комфортный дом" href="/ch/">&nbsp;ch&nbsp;</a>
+                                        <span class="time_iteration_icon_light">06 февраля</span>                                        <a href="/home/felfri-ff-mg-11-review.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">26</span></a> 
+
+                                        <a href="/home/felfri-ff-mg-11-review.html">
+                                            <div class="item-image"><img title="Мясорубка Felfri FF-MG-11 проявила себя как эффективный и многофункциональный кухонный прибор, оставив в целом положительное впечатление. Она устойчиво закрепляется на рабочей поверхности с помощью присосок и справляется со всеми заявленными задачами, не «буксует» на сложных продуктах и достаточно проста в управлении и смене насадок. Овощерезка, являющаяся дополнительным блоком, оказалась на удивление сильной частью устройства, а работа мясорубки с готовыми и мягкими продуктами — быстрой и комфортной." src="https://www.ixbt.com/img/r30/00/02/90/13/felfri-ff-mg-11.jpg?c115" alt=""/></div>                                            <strong>Мясорубка Felfri FF-MG-11:</strong> блок овощерезки, 3 скорости, режим реверса и 12 насадок </a>
+                                    </li>
+                                                            </ul>
+                            <h3 class="lined double_href mobile-hide" style="margin-bottom: 0px;" >
+                                <a href="/articles/current/#a30" class="href_right" style="margin-left: 0px;">[ Ещё статьи ]</a>
+                                <a class="href_right" href="/articles/" >[ Архив ]</a></h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="g-grid_column g-grid_column__middle grid-slide-right " >
+                    <div class="b-block b-block__newslistdefault b-lined-title js-news-block">
+                       <div class="announce-block-header" style="display:flex; align-items: center; height: 30px;"> <h3 class="lined double_href" style="width: fit-content; margin-bottom: 0; padding-right: 0; display:flex;" ><a href="/news/">Новости</a></h3><div style="width:100%;height: 28px;display:flex;
+    background-repeat: no-repeat;" class="huawei-announce"  id="huawei-announce-banner"></div>
+			<h3 class="lined double_href" style="display:flex; margin-bottom: 0;white-space: nowrap; padding-right: 0;width: fit-content;"><a class="href_right_news" href="/news/?show=tape" >[ Лента ]</a> <a class="href_right_news" href="/news/2023/" >[ Архив ]</a></h3></div>
+			<script>
+        if (isPad || isDesktop || isMobile) {
+            window.yaContextCb.push(()=>{
+                Ya.adfoxCode.create({
+                ownerId: 263225,
+                containerId: 'huawei-announce-banner',
+                params:
+                        {
+                            p1: 'cnvci',p2: 'gvnp'
+}
+    })
+    })
+    }
+        </script>
+                        <div class="rightnewslist-container">
+                            <ul>
+                                
+                                                                                                                                                                                                                                                                                                        <li class="item item__border">
+                                                <span class="time_iteration_icon_light">10 мин назад</span>
+                                                                                                <a href="/news/2026/02/19/4-77-radeon-rx-9060-xt-geforce-rtx-4090.html">
+                                                    <div class="item-image"><img src="https://www.ixbt.com/short/images/2026/Feb/ggz.JPG?c115" alt=""/></div>                                                    <strong>Первый в мире графический процессор с частотой 4,77 ГГц: Radeon RX 9060 XT рекордно разогнали — он превзошел GeForce RTX 4090:</strong> Видеокарта AMD установила новый исторический максимум частоты GPU                                                </a>
+                                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                                                                                                                                                        <li class="item ">
+                                                <span class="time_iteration_icon">10 мин назад </span>                                                                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/27-240-130-dell-se2726hg.html">27-дюймовый 240-герцевый монитор от именитого американского бренда всего за 130 долларов. Представлен Dell SE2726HG  </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                                                                                                
+                                    
+                                                                                                                                                                                            <li class="item ">
+                                                <span class="time_iteration_icon">14 мин назад </span>                                                                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/windows-11-speedtest.html">Никакого встроенного теста скорости Интернета в Windows 11 не появилось. Вместо этого в новой сборке есть быстрый запуск Speedtest </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                            <div class ="mainpage">
+    <script>
+
+        adUnitM10 = { ownerId: 263225,  containerId: 'm10', params: { p1:'bzfsv',p2:'ftsc','puid5':'m10' }};
+    </script>
+            
+            <div class="mobb mobb1" id="m10"></div>
+<script>
+            if(isMobile)
+            {
+                
+                window.yaContextCb.push(() => {
+                    Ya.adfoxCode.create(adUnitM10)
+                });
+            }
+            </script>
+</div>
+                                                                                                                                                                                            <li class="item ">
+                                                <span class="time_iteration_icon">26 мин назад </span>                                                                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/apple-iphone-honor.html">Европейцы стали ещё чаще покупать Apple. Статистика говорит об активном росте продаж iPhone, но Honor выросла ещё сильнее </a>
+                                                                                                                                            </li>
+                                                                                                                <a name="tgb_banner"></a>                                    
+                                    
+                                                                                                                                                                                            <li class="item item__border ">
+                                                <span class="time_iteration_icon_light"> 32 мин назад </span>
+                                                &nbsp;<a href="/news/2026/02/19/ural-neo-500.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">2</span></a>                                                <a href="/news/2026/02/19/ural-neo-500.html">
+                                                    <div class="item-image"><img style="margin-top: 6px;" src="https://www.ixbt.com/short/images/2026/Feb/main.jpg?c115" alt=""/></div>                                                    <strong >«Урал» завершил разработку нового мотоцикла Ural Neo 500, исходную китайскую конструкцию дорабатывали целый год:</strong> Больше не «китаец» Yingang SUV500 с люлькой                                                </a>
+                                            </li>
+                                                                                                                                                                                            <div class="b-block b-block__parterslist b-lined-title company-block">
+                                            <div class="list-container">
+                                                <ul class="company-list"><a name="tgb_banner"></a>
+                                                    <div id="tgb1"></div>
+                                                    <div id="tgb2"></div>
+                                                    <div id="tgb3"></div>
+                                                    <div id="tgb4"></div>
+                                                    <div id="tgb5"></div>
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                    
+                                    
+                                                                                                                                                                                            <li class="item ">
+                                                <span class="time_iteration_icon">34 мин назад </span>                                                                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/20-samsung-tcl.html">20-летнему лидерству Samsung на рынке телевизоров угрожает TCL. Китайский гигант обошёл корейского по итогам декабря </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                                                                                                            <li class="item ">
+                                                <span class="time_iteration_icon">42 мин назад </span>                                                                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/nvidia-geforce-now-4500.html">Nvidia похвасталась, что облачный сервис GeForce Now теперь поддерживает более 4500 игр </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                                                                                                            <li class="item ">
+                                                <span class="time_iteration_icon">51 мин назад </span>                                                <a href="/news/2026/02/19/amd-intel-ryzen-cpu-6-24.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">5</span></a>                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/amd-intel-ryzen-cpu-6-24.html">AMD не пойдёт по стопам Intel и не откажется от младших процессоров в новой линейке Ryzen. Нас ждут CPU с количеством ядер от 6 до 24 </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                                                                                                            <li class="item ">
+                                                <span class="time_iteration_icon">17:58 </span>                                                <a href="/news/2026/02/19/airbus-sozdajot-stratosfernyj-hab-zephyr-v-severnoj-avstralii.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">2</span></a>                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/airbus-sozdajot-stratosfernyj-hab-zephyr-v-severnoj-avstralii.html">Airbus создаёт стратосферный хаб Zephyr в Северной Австралии </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                                                                                                            <li class="item ">
+                                                <span class="time_iteration_icon">17:54 </span>                                                <a href="/news/2026/02/19/uchjonye-vyjasnili-pochemu-chast-nejronov-ustojchiva-k-demencii-i-bolezni-alcgejmera.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">1</span></a>                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/uchjonye-vyjasnili-pochemu-chast-nejronov-ustojchiva-k-demencii-i-bolezni-alcgejmera.html">Учёные выяснили, почему часть нейронов устойчива к деменции и болезни Альцгеймера </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                                                                                                            <li class="item ">
+                                                <span class="time_iteration_icon">17:48 </span>                                                <a href="/news/2026/02/19/uchjonye-nashli-unikalnuju-osobennost-v-provodjashih-putjah-mozga-predskazyvajushuju-vnezapnye-ozarenija.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">4</span></a>                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/uchjonye-nashli-unikalnuju-osobennost-v-provodjashih-putjah-mozga-predskazyvajushuju-vnezapnye-ozarenija.html">Учёные нашли уникальную особенность в проводящих путях мозга, предсказывающую внезапные озарения </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                                                            <div class="b-block b-block__parterslist b-lined-title company-block">
+                                            <div class="list-container">
+                                                <ul class="company-list">
+                                                <a name="tgb_banner"></a>
+                                                    <div id="tgb6"></div>
+                                                    <div id="tgb7"></div>
+                                                    <div id="tgb8"></div>
+                                                    <div id="tgb9"></div>
+                                                    <script>
+                                                        window.yaContextCb.push(()=>{
+                                                            Ya.adfoxCode.create({
+                                                                    'ownerId': '263225',
+                                                                    'containerId': 'tgb1',
+                                                                    params: {p1: 'cxebc', p2: 'fugq'}
+                                                                })});
+                                                            window.yaContextCb.push(()=>{
+                                                                Ya.adfoxCode.create({
+                                                                    ownerId: 263225,
+                                                                    containerId: 'tgb2',
+                                                                    sequentialLoading: true,
+                                                                    params: {p1: 'bziun', p2: 'fugq'}
+                                                                })});
+                                                        window.yaContextCb.push(()=>{
+                                                            Ya.adfoxCode.create({
+                                                                    ownerId: 263225,
+                                                                    containerId: 'tgb3',
+                                                                sequentialLoading: true,
+                                                                    params: {p1: 'bziun', p2: 'fugq'}
+                                                                })});
+                                                        window.yaContextCb.push(()=>{
+                                                            Ya.adfoxCode.create({
+                                                                    ownerId: 263225,
+                                                                    containerId: 'tgb4',
+                                                                sequentialLoading: true,
+                                                                    params: {p1: 'bziun', p2: 'fugq'}
+                                                                })});
+                                                        window.yaContextCb.push(()=>{
+                                                            Ya.adfoxCode.create({
+                                                                    ownerId: 263225,
+                                                                    containerId: 'tgb5',
+                                                                sequentialLoading: true,
+                                                                    params: {p1: 'bziun', p2: 'fugq'}
+                                                                })});
+                                                                if (window.matchMedia("(min-width: 600px)")) {
+                                                                    window.yaContextCb.push(()=>{
+                                                                        Ya.adfoxCode.create({
+                                                                        'ownerId': '263225',
+                                                                        'containerId': 'tgb6',
+                                                                            sequentialLoading: true,
+                                                                        params: {p1: 'bziun', p2: 'fugq'}
+                                                                    })});
+                                                                    window.yaContextCb.push(()=>{
+                                                                        Ya.adfoxCode.create({
+                                                                        ownerId: 263225,
+                                                                        containerId: 'tgb7',
+                                                                            sequentialLoading: true,
+                                                                        params: {p1: 'bziun', p2: 'fugq'}
+                                                                    })});
+                                                                    window.yaContextCb.push(()=>{
+                                                                        Ya.adfoxCode.create({
+                                                                        ownerId: 263225,
+                                                                        containerId: 'tgb8',
+                                                                            sequentialLoading: true,
+                                                                        params: {p1: 'bziun', p2: 'fugq'}
+                                                                    })});
+                                                                    window.yaContextCb.push(()=>{
+                                                                        Ya.adfoxCode.create({
+                                                                        ownerId: 263225,
+                                                                        containerId: 'tgb9',
+                                                                            sequentialLoading: true,
+                                                                        params: {p1: 'bziun', p2: 'fugq'}
+                                                                    })});
+                                                                }
+
+
+                                                    </script>
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                    
+                                                                                                                                                                                            <li class="item mobile-hide">
+                                                <span class="time_iteration_icon">17:40 </span>                                                <a href="/news/2026/02/19/britanskij-raketnyj-startap-orbex-obankrotilsja-uvoleny-bolee-100-sotrudnikov.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">10</span></a>                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/britanskij-raketnyj-startap-orbex-obankrotilsja-uvoleny-bolee-100-sotrudnikov.html">Британский ракетный стартап Orbex обанкротился: уволены более 100 сотрудников </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                                                                                                            <li class="item mobile-hide">
+                                                <span class="time_iteration_icon">17:32 </span>                                                                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/google-snapseed-iphone.html">Google обновила фоторедактор Snapseed для iPhone: добавили камеру с «профессиональными» настройками и мгновенным запуском </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                                                                                                            <li class="item mobile-hide">
+                                                <span class="time_iteration_icon">17:11 </span>                                                <a href="/news/2026/02/19/kometa-29p-vzorvalas-i-zakrutilas-v-spiral-u-orbity-jupitera.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">3</span></a>                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/kometa-29p-vzorvalas-i-zakrutilas-v-spiral-u-orbity-jupitera.html">Комета 29P взорвалась и закрутилась в спираль у орбиты Юпитера </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                                                                                                            <li class="item mobile-hide">
+                                                <span class="time_iteration_icon">17:04 </span>                                                <a href="/news/2026/02/19/v-tjomnyh-kraterah-luny-predlozhili-ustanovit-samyj-tochnyj-lazer-v-istorii.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">6</span></a>                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/v-tjomnyh-kraterah-luny-predlozhili-ustanovit-samyj-tochnyj-lazer-v-istorii.html">В тёмных кратерах Луны предложили установить самый точный лазер в истории </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                                                                                                            <li class="item mobile-hide">
+                                                <span class="time_iteration_icon">16:32 </span>                                                <a href="/news/2026/02/19/na-zavode-jelektromobilej-evolute-v-lipeckoj-oblasti-obrushilas-krysha-chto-proishodit.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">22</span></a>                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/na-zavode-jelektromobilej-evolute-v-lipeckoj-oblasti-obrushilas-krysha-chto-proishodit.html">На заводе электромобилей Evolute в Липецкой области обрушилась крыша: что происходит </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                                                                                                            <li class="item mobile-hide">
+                                                <span class="time_iteration_icon">16:24 </span>                                                <a href="/news/2026/02/19/windows-11-midi-2-0.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">5</span></a>                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/windows-11-midi-2-0.html">В Windows 11 наконец-то добавлена полноценная поддержка MIDI 2.0 </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                                                                                                            <li class="item mobile-hide">
+                                                <span class="time_iteration_icon">16:16 </span>                                                <a href="/news/2026/02/19/geforce-rtx-5090-500.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">16</span></a>                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/geforce-rtx-5090-500.html">Пользователь ограничил потребление GeForce RTX 5090 до 500 Вт, но это не спасло: разъем питания все равно расплавился </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                                                                                                            <li class="item mobile-hide">
+                                                <span class="time_iteration_icon">16:14 </span>                                                <a href="/news/2026/02/19/izza-vajbkodinga-razrabotchiki-godot-tratjat-mnogo-lishnego-vremeni-na-pereproverki-zaprosov-na-slijanie-.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">8</span></a>                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/izza-vajbkodinga-razrabotchiki-godot-tratjat-mnogo-lishnego-vremeni-na-pereproverki-zaprosov-na-slijanie-.html">Из-за вайб-кодинга разработчики Godot тратят много лишнего времени на перепроверки запросов на слияние  </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                                                                                                            <li class="item mobile-hide">
+                                                <span class="time_iteration_icon">16:05 </span>                                                <a href="/news/2026/02/19/asus-proart-kd300.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">6</span></a>                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/asus-proart-kd300.html">Asus представила компактную низкопрофильную механическую клавиатуру ProArt KD300 с лаконичным дизайном </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                                                                                                            <li class="item mobile-hide">
+                                                <span class="time_iteration_icon">15:55 </span>                                                <a href="/news/2026/02/19/dimensity-9500s-8500-100-ip69k-poco-x8-pro-poco-x8-pro-max.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">6</span></a>                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/dimensity-9500s-8500-100-ip69k-poco-x8-pro-poco-x8-pro-max.html">Dimensity 9500s, 8500 мАч, 100 Вт, IP69K. Раскрыты все характеристики Poco X8 Pro и Poco X8 Pro Max </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                                                                                                            <li class="item mobile-hide">
+                                                <span class="time_iteration_icon">15:51 </span>                                                <a href="/news/2026/02/19/geforce-rtx-3080-lords-of-the-fallen-ii.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">6</span></a>                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/geforce-rtx-3080-lords-of-the-fallen-ii.html">Лучше запастить видеокартой не хуже GeForce RTX 3080. Раскрыты системные требования игры Lords of the Fallen II </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                                                                                                            <li class="item mobile-hide">
+                                                <span class="time_iteration_icon">15:43 </span>                                                <a href="/news/2026/02/19/iphone-air-apple-c1x.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">18</span></a>                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/iphone-air-apple-c1x.html">Владелец iPhone Air столкнулся с выходом из строя модема Apple C1X </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                                                                                                            <li class="item mobile-hide">
+                                                <span class="time_iteration_icon">15:35 </span>                                                <a href="/news/2026/02/19/samsung-galaxy-a06-4g-7.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">2</span></a>                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/samsung-galaxy-a06-4g-7.html">Бюджетный Samsung Galaxy A06 4G был самым продаваемым смартфоном в Латинской Америке в прошлом году. Он занял 7% всего рынка </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                                                                                                            <li class="item mobile-hide">
+                                                <span class="time_iteration_icon">15:30 </span>                                                <a href="/news/2026/02/19/haval-haval-h9-2026.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">7</span></a>                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/haval-haval-h9-2026.html">Утильсбор убил дизель: Haval рассказал, почему у рамного внедорожника Haval H9 2026 больше нет дизельного мотора </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                                                                                                            <li class="item mobile-hide">
+                                                <span class="time_iteration_icon">15:29 </span>                                                <a href="/news/2026/02/19/rosatom-zavershil-ispytanija-akkumuljatorov-dlja-moskvichej-proizvodstvo-zapustjat-na-gigafabrike.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">5</span></a>                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/rosatom-zavershil-ispytanija-akkumuljatorov-dlja-moskvichej-proizvodstvo-zapustjat-na-gigafabrike.html">«Росатом» завершил испытания аккумуляторов для «Москвичей»: производство запустят на «гигафабрике» </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                                                                                                            <li class="item mobile-hide">
+                                                <span class="time_iteration_icon">15:27 </span>                                                                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/uchjonye-sozdali-sloistye-perovskity-kotoryeuskorjajut-detektirovanie-radiacii-i-otlichajutsja-vysokoj-dolgovechnostju.html">Учёные создали слоистые перовскиты, которые ускоряют детектирование радиации и отличаются высокой долговечностью </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                                                                                                            <li class="item mobile-hide">
+                                                <span class="time_iteration_icon">15:27 </span>                                                <a href="/news/2026/02/19/gigabyte-aorus-rtx-5060-ti-ai-box.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">3</span></a>                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/gigabyte-aorus-rtx-5060-ti-ai-box.html">Внешняя видеокарта Gigabyte Aorus RTX 5060 Ti AI Box внутри выглядит достаточно необычно. Разборка показала, что устройство состоит из двух плат  </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                                                                                                            <li class="item mobile-hide">
+                                                <span class="time_iteration_icon">15:21 </span>                                                <a href="/news/2026/02/19/uchjonye-vpervye-pokazali-chto-rost-temperatury-na-antarkticheskom-poluostrove-usilivaet-generaciju-gravitacionnyh-voln.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">3</span></a>                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/uchjonye-vpervye-pokazali-chto-rost-temperatury-na-antarkticheskom-poluostrove-usilivaet-generaciju-gravitacionnyh-voln.html">Учёные впервые показали, что рост температуры на Антарктическом полуострове усиливает генерацию гравитационных волн: новые данные с 1950-х годов </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                                                                                                            <li class="item mobile-hide">
+                                                <span class="time_iteration_icon">15:08 </span>                                                <a href="/news/2026/02/19/rutube-zapustit-prodazhu-biletov-v-kino.html#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">4</span></a>                                                                                                                                                <a class="hyphens" href="/news/2026/02/19/rutube-zapustit-prodazhu-biletov-v-kino.html">Rutube запустит продажу билетов в кино </a>
+                                                                                                                                            </li>
+                                                                                                                                                    
+                                    
+                                                                                                </ul>
+                        </div>
+                    </div>
+
+
+
+
+
+                    <div class="b-block b-block__newslistdefault b-lined-title js-market-block">
+                        <h3 class="lined double_href" style="margin-bottom: 0px;"><a href="https://ixbt.market/">Новости рынка</a><a class="href_right_news" href="https://ixbt.market/all/" >[ iXBT.market ]</a></h3>
+                        <div class="list-container">
+                            <ul>
+                                                                    <li class="item"><span class="time_iteration_icon">14 фев 17:07 </span>
+                                                                                <a href="https://www.ixbt.com/live/t/140571/">В России появился проводной динамический микрофон Sven MK-130</a> </li>
+                                                                    <li class="item"><span class="time_iteration_icon">12 фев 22:33 </span>
+                                                                                <a href="https://www.ixbt.com/live/t/140363/">«Инферит ИТМен» проведет онлайн-марафон защиты ИТ-инфраструктуры</a> </li>
+                                                                    <li class="item"><span class="time_iteration_icon">10 фев 20:07 </span>
+                                        <a href="https://www.ixbt.com/live/t/140043/#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">1</span></a>                                        <a href="https://www.ixbt.com/live/t/140043/">Changan активно внедряет натрий-ионные аккумуляторы</a> </li>
+                                                                    <li class="item"><span class="time_iteration_icon">05 фев 22:36 </span>
+                                        <a href="https://www.ixbt.com/live/t/139476/#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">5</span></a>                                        <a href="https://www.ixbt.com/live/t/139476/">«Регард» снизил цену на материнскую плату Asus TUF Gaming B850M-Plus W-Fi 7</a> </li>
+                                                                    <li class="item"><span class="time_iteration_icon">29 янв 16:49 </span>
+                                        <a href="https://www.ixbt.com/live/t/138520/#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">3</span></a>                                        <a href="https://www.ixbt.com/live/t/138520/">Haier открывает первый в России B2B & HVAC брендшоп</a> </li>
+                                                                    <li class="item"><span class="time_iteration_icon">25 янв 19:42 </span>
+                                        <a href="https://www.ixbt.com/live/t/136955/#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">1</span></a>                                        <a href="https://www.ixbt.com/live/t/136955/">Sven PS-1250: мощная портативная аудиосистема для вечеринок</a> </li>
+                                                                    <li class="item"><span class="time_iteration_icon">25 янв 10:28 </span>
+                                        <a href="https://www.ixbt.com/live/t/137891/#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">11</span></a>                                        <a href="https://www.ixbt.com/live/t/137891/">Процессоры AMD Ryzen 7 — хит продаж в магазине «Регард»</a> </li>
+                                                                    <li class="item"><span class="time_iteration_icon">18 янв 09:32 </span>
+                                        <a href="https://www.ixbt.com/live/t/136956/#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">1</span></a>                                        <a href="https://www.ixbt.com/live/t/136956/">MSI и ««Регард» приготовили подарки покупателям ноутбуков</a> </li>
+                                                                    <li class="item"><span class="time_iteration_icon">09 янв 04:53 </span>
+                                                                                <a href="https://www.ixbt.com/live/t/135725/">Игровой руль Sven GC-W1000 уже в продаже</a> </li>
+                                                                    <li class="item"><span class="time_iteration_icon">07 янв 14:59 </span>
+                                                                                <a href="https://www.ixbt.com/live/t/135723/">На российский рынок вышла клавиатура SVEN KB-G9200</a> </li>
+                                                            </ul>
+                        </div>
+                    </div>
+
+
+
+                    <div class="b-block b-block__newslistdefault b-lined-title">
+                        <h3 class="lined double_href" style="margin-bottom: 0px;" ><a href="https://ixbt.games">Новости игр</a><a class="href_right_news" href="https://ixbt.games" >[ iXBT.games ]</a></h3>
+                        <div class="list-container">
+                            <ul>
+                                                                    <li class="item"><span class="time_iteration_icon"> 2025-08-20 21:18</span>
+                                                                                <a href="https://ixbt.games/news/2025/08/20/anonsirovana-hell-let-loose-vietnam-suter-predlagaet-okunutsya-vo-vzryvnuyu-yarost-voiny.html">Анонсирована Hell Let Loose: Vietnam. Шутер предлагает «окунуться во взрывную ярость войны»</a></li>
+                                                                    <li class="item"><span class="time_iteration_icon"> 2025-08-20 21:01</span>
+                                                                                <a href="https://ixbt.games/news/2025/08/20/doma-igrokov-poyavyatsya-v-world-of-warcraft-v-obnovlenii-1127-uze-mozno-izucit-zilishhe-v-brauzere.html">Дома игроков появятся в World of Warcraft в обновлении 11.2.7 — уже можно изучить жилище в браузере</a></li>
+                                                                    <li class="item"><span class="time_iteration_icon"> 2025-08-20 20:56</span>
+                                                                                <a href="https://ixbt.games/news/2025/08/20/fanaty-new-vegas-zametili-retkon-lora-v-treiler-vtorogo-sezona-seriala-fallout.html">Фанаты New Vegas заметили реткон лора в трейлере второго сезона сериала Fallout</a></li>
+                                                                    <li class="item"><span class="time_iteration_icon"> 2025-08-20 20:52</span>
+                                                                                <a href="https://ixbt.games/news/2025/08/20/kima-v-russkoi-lokalizacii-disco-elysium-ozvucit-golos-yagami-laita-cool-games-rasskazala-o-proizvod.html">Кима в русской локализации Disco Elysium озвучит «голос Ягами Лайта» — Cool-Games рассказала о производстве и новом актёре</a></li>
+                                                                    <li class="item"><span class="time_iteration_icon"> 2025-08-20 20:49</span>
+                                                                                <a href="https://ixbt.games/news/2025/08/20/valve-izmenila-torgovuyu-ploshhadku-steam-poyavilos-obnovlyonnyi-interfeis.html">Valve изменила торговую площадку Steam. Появился обновлённый интерфейс</a></li>
+                                                                    <li class="item"><span class="time_iteration_icon"> 2025-08-20 20:46</span>
+                                                                                <a href="https://ixbt.games/news/2025/08/20/necemu-tam-ucitsya-nikita-buyanov-vyskazalsya-o-konkurentax-escape-from-tarkov-i-podxode-k-razrabotk.html">«Нечему там учиться»: Никита Буянов высказался о конкурентах Escape from Tarkov и взаимодействии с аудиторией</a></li>
+                                                                    <li class="item"><span class="time_iteration_icon"> 2025-08-20 20:39</span>
+                                                                                <a href="https://ixbt.games/news/2025/08/20/glen-skofild-nazval-prodazi-xorrora-the-callisto-protocol.html">Глен Скофилд раскрыл продажи хоррора The Callisto Protocol</a></li>
+                                                                    <li class="item"><span class="time_iteration_icon"> 2025-08-20 20:36</span>
+                                                                                <a href="https://ixbt.games/news/2025/08/20/owlcat-nazvala-datu-vyxoda-rue-valley-narrativnoi-rpg-o-vremennoi-petle.html">Owlcat назвала дату выхода Rue Valley — нарративной RPG о временной петле</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="b-block b-block__newslistdefault b-lined-title">
+                        <h3 class="lined double_href" style="margin-bottom: 0px;" ><a href="https://prosound.ixbt.com/news.html">Новости профессионального аудио</a><a class="href_right_news" href="https://prosound.ixbt.com" >[ Prosound ]</a></h3>
+                        <div class="list-container">
+                            <ul>
+                                                                    <li class="item"><span class="time_iteration_icon"> 19:45</span>
+                                                                                <a href="https://prosound.ixbt.com/news/2026/february/19/arturia-fx-collection-6.shtml">Arturia FX Collection 6 – коллекция плагинов для сведения</a></li>
+                                                                    <li class="item"><span class="time_iteration_icon"> 10:00</span>
+                                                                                <a href="https://prosound.ixbt.com/news/2026/february/19/telegrapher-panda.shtml">Telegrapher Panda – активные трёхполосные студийные мониторы</a></li>
+                                                                    <li class="item"><span class="time_iteration_icon"> 09:00</span>
+                                                                                <a href="https://prosound.ixbt.com/news/2026/february/19/neumann-m-50-v.shtml">Neumann M 50 V – конденсаторный ламповый микрофон</a></li>
+                                                                    <li class="item"><span class="time_iteration_icon"> 18 фев 09:00</span>
+                                                                                <a href="https://prosound.ixbt.com/news/2026/february/18/pmc12.shtml">PMC12 – трёхполосные студийные мониторы</a></li>
+                                                                    <li class="item"><span class="time_iteration_icon"> 17 фев 09:00</span>
+                                                                                <a href="https://prosound.ixbt.com/news/2026/february/17/minidsp-flex-ht.shtml">miniDSP Flex HT – компактный 8-канальный ЦАП/процессор</a></li>
+                                                                    <li class="item"><span class="time_iteration_icon"> 16 фев 10:00</span>
+                                                                                <a href="https://prosound.ixbt.com/news/2026/february/16/gravity-rigs-carry-on-12.shtml">Gravity Rigs Carry On 12 – компактный рэковый комплекс для живых выступлений</a></li>
+                                                                    <li class="item"><span class="time_iteration_icon"> 16 фев 09:00</span>
+                                                                                <a href="https://prosound.ixbt.com/news/2026/february/16/behringer-bm-17-frequency-box.shtml">Behringer BM-17 Frequency Box – аналоговый синтезаторный модуль эффектов</a></li>
+                                                                    <li class="item"><span class="time_iteration_icon"> 14 фев 09:00</span>
+                                                                                <a href="https://prosound.ixbt.com/news/2026/february/14/studiologic-numa-x-piano-gt-se.shtml">Studiologic Numa X Piano GT SE – цифровое сценическое фортепиано</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="b-block b-block__newslistdefault b-lined-title js-audio-block">
+                        <h3 class="lined double_href" style="margin-bottom: 0px;" ><a href="https://www.ixbt.com/live/blog/topcompile/">Подборки, скидки и купоны</a></h3>
+                        <div class="list-container">
+                            <ul>
+                                                                    <li class="item"><span class="time_iteration_icon"> 15:16</span>
+                                                                                <a href="https://www.ixbt.com/live/t/141133/">Подборка снегоочистителей с электрическим приводом: 7 моделей для уборки снега</a></li>
+                                                                                                        <li class="item"><span class="time_iteration_icon"> 12:06</span>
+                                                                                <a href="https://www.ixbt.com/live/t/140839/">10 цифровых алкотестеров - проверка трезвости за секунды перед поездкой</a></li>
+                                                                                                        <li class="item"><span class="time_iteration_icon"> 18 фев 21:08</span>
+                                                                                <a href="https://www.ixbt.com/live/t/141058/">Выбираем кожаную обувь для города: 10 кроссовок/ботинок на весну для мужчин и женщин</a></li>
+                                                                                                        <li class="item"><span class="time_iteration_icon"> 18 фев 16:04</span>
+                                                                                <a href="https://www.ixbt.com/live/t/140750/">7 автомобильных компактных видеорегистраторов с 2 камерами в 2026 году</a></li>
+                                                                                                        <li class="item"><span class="time_iteration_icon"> 18 фев 13:52</span>
+                                                                                <a href="https://www.ixbt.com/live/t/141005/">Выбираем CD-плеер для домашней аудиосистемы: качество звучания при разумной цене</a></li>
+                                                                </ul>
+                        </div>
+                    </div>
+
+
+
+                </div>
+            </div>
+            <span id="mainnews" style="position: absolute;margin-top: -68px;"></span>
+            <div class="g-grid_column g-grid_column__small col-tablet-full" style="padding-top: 0;">
+
+                <div class="b-poll"></div>
+
+
+
+                <div class="b-block b-block__newslistdefault b-lined-title js-projects" style="margin-top: 10px;">
+                    <div class="list-container projects-news-list">
+                        <ul>
+
+                                                        
+                                <li class="item"><a href="https://www.ixbt.com/live/t/141227/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/12/27/e5a1c72f57.jpg?w=115&h=115&resize=entropy"></div>
+                                                                        <a title="Наши блоги" class="a-razdel a-razdel-live" href="https://www.ixbt.com/live/index/reviews/">&nbsp;live&nbsp;</a>                                                                                                                                                 <span class="time_iteration_icon">25 мин назад</span>                                    <a href="https://www.ixbt.com/live/t/141227/">Одни из лучших приключенческих сериалов за всю историю, получивших премию "Эмми"</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                
+                                
+
+
+
+
+                            
+                                <li class="item"><a href="https://www.ixbt.com/live/t/141218/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/12/18/2c1fab9383.jpg?w=115&h=115&resize=entropy"></div>
+                                                                        <a title="Наши блоги" class="a-razdel a-razdel-live" href="https://www.ixbt.com/live/index/reviews/">&nbsp;live&nbsp;</a>                                                                                                                                                 <span class="time_iteration_icon">19:54</span>                                    <a href="https://www.ixbt.com/live/t/141218/">Одни из лучших приключенческих фильмов за всю историю кино, получивших «Оскар»</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                                                    <div class="deskadv">
+    <div class="vertb" id="tgb"></div>
+</div>
+<script>
+    if (isDesktop) {
+        window.yaContextCb.push(()=>{
+            Ya.adfoxCode.create({
+            ownerId: 263225,
+            containerId: 'tgb',
+            params:
+                    {
+                        p1: 'cqick',p2: 'ftrh','puid5':'sidebar_tgb'
+                     }
+    })
+    })
+    }
+</script>
+                                
+                                
+
+
+
+
+                            
+                                <li class="item"><a href="https://www.ixbt.com/live/t/141219/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/12/19/4ac7a8f670.png?w=115&h=115&resize=entropy"></div>
+                                                                        <a title="Наши блоги" class="a-razdel a-razdel-live" href="https://www.ixbt.com/live/index/reviews/">&nbsp;live&nbsp;</a>                                                                                                                                                 <span class="time_iteration_icon">19:37</span>                                    <a href="https://www.ixbt.com/live/t/141219/">Галактика без звезд: астрономы обнаружили объект, состоящий на 99,9% из темной материи</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                
+                                
+
+
+
+
+                            
+                                <li class="item"><a href="https://www.ixbt.com/live/t/141212/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/12/12/bdfd0654f0.webp?w=115&h=115&resize=entropy"></div>
+                                                                        <a title="Наши блоги" class="a-razdel a-razdel-live" href="https://www.ixbt.com/live/index/reviews/">&nbsp;live&nbsp;</a>                                                                                                                                                 <span class="time_iteration_icon">19:00</span>                                    <a href="https://www.ixbt.com/live/t/141212/">Фантастическое выживание: 10 фильмов и сериалов о выживании в постапокалипсисе, иных мирах и на просторах космоса</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                
+                                
+                                    <div id="ixbt-video-news-block" style="height:785px;width:300px;"></div>
+<script>
+    $(document).ready(function(){
+        $.ajax({
+            url : 'https://ixbt.video/embed/ixbt_sidebar_block.html',
+            async: true,
+            type: 'GET',
+            crossDomain: true,
+            success: function(data){
+                $('#ixbt-video-news-block').replaceWith(data);
+            }
+        });
+    });
+</script>                                                                            <div class="deskadv" id="v-30-1">
+                                            <div class="" id="v30-1"></div>
+                                        </div>
+                                        <script>
+                                            if (isDesktop) {
+                                                aAdvList.push({
+                                                    ownerId: 263225,
+                                                    containerId: 'v30-1',
+                                                    params:
+                                                            {
+                                                                p1:'cqicl',p2:'ftrh'                                                            }
+                                                })
+                                            }
+                                        </script>
+                                    
+                                
+
+
+
+
+                            
+                                <li class="item"><a href="https://www.ixbt.com/live/t/141164/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/11/64/461cd73b6a.jpg?w=115&h=115&resize=entropy"></div>
+                                                                        <a title="Наши блоги" class="a-razdel a-razdel-live" href="https://www.ixbt.com/live/index/reviews/">&nbsp;live&nbsp;</a>                                                                                                                                                 <span class="time_iteration_icon">18:21</span>                                    <a href="https://www.ixbt.com/live/t/141164/#comments" rel="nofollow" class="comments_link">
+                                        <span class="grey_comment_icon"> 1</span>
+                                    </a>
+                                                                    <a href="https://www.ixbt.com/live/t/141164/">Титановое "яйцо" в тонарме: что было особенного в советском проигрывателе пластинок "Корвет ЭП-003"</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                
+                                
+
+
+
+
+                            
+                                <li class="item"><a href="https://www.ixbt.com/live/t/141196/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/11/96/86884e1d4d.png?w=115&h=115&resize=entropy"></div>
+                                                                        <a title="Наши блоги" class="a-razdel a-razdel-live" href="https://www.ixbt.com/live/index/reviews/">&nbsp;live&nbsp;</a>                                                                                                                                                 <span class="time_iteration_icon">17:50</span>                                    <a href="https://www.ixbt.com/live/t/141196/#comments" rel="nofollow" class="comments_link">
+                                        <span class="grey_comment_icon"> 1</span>
+                                    </a>
+                                                                    <a href="https://www.ixbt.com/live/t/141196/">Не верь первой версии: 10 захватывающих фильмов про расследования загадочных убийств</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                
+                                
+
+
+
+
+                            
+                                <li class="item"><a href="https://www.ixbt.com/live/t/141193/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/11/93/4e922d3af7.webp?w=115&h=115&resize=entropy"></div>
+                                                                        <a title="Наши блоги" class="a-razdel a-razdel-live" href="https://www.ixbt.com/live/index/reviews/">&nbsp;live&nbsp;</a>                                                                                                                                                 <span class="time_iteration_icon">17:34</span>                                    <a href="https://www.ixbt.com/live/t/141193/#comments" rel="nofollow" class="comments_link">
+                                        <span class="grey_comment_icon"> 1</span>
+                                    </a>
+                                                                    <a href="https://www.ixbt.com/live/t/141193/">Одни из тех триллеров, которые скрывают финал до конца и получили высокий рейтинг на IMDb</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                
+                                
+
+
+
+
+                            
+                                <li class="item"><a href="https://www.ixbt.com/live/t/141170/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/11/70/1cc256a820.png?w=115&h=115&resize=entropy"></div>
+                                                                        <a title="Наши блоги" class="a-razdel a-razdel-live" href="https://www.ixbt.com/live/index/reviews/">&nbsp;live&nbsp;</a>                                                                                                                                                 <span class="time_iteration_icon">17:03</span>                                    <a href="https://www.ixbt.com/live/t/141170/#comments" rel="nofollow" class="comments_link">
+                                        <span class="grey_comment_icon"> 5</span>
+                                    </a>
+                                                                    <a href="https://www.ixbt.com/live/t/141170/">5 книг для изучения программирования на базе языка C#</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                
+                                
+
+
+
+
+                            
+                                <li class="item"><a href="https://www.ixbt.com/live/t/141186/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/11/86/38c21d0a43.jpg?w=115&h=115&resize=entropy"></div>
+                                                                        <a title="Наши блоги" class="a-razdel a-razdel-live" href="https://www.ixbt.com/live/index/reviews/">&nbsp;live&nbsp;</a>                                                                                                                                                 <span class="time_iteration_icon">16:12</span>                                    <a href="https://www.ixbt.com/live/t/141186/">Как не выкидывать деньги и не кормить продавцов.Трачу минимум денег на даче и получаю урожай при этом</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                
+                                
+
+
+
+
+                            
+                                <li class="item"><a href="https://www.ixbt.com/live/t/141178/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/11/78/2ddd376c98.png?w=115&h=115&resize=entropy"></div>
+                                                                        <a title="Наши блоги" class="a-razdel a-razdel-live" href="https://www.ixbt.com/live/index/reviews/">&nbsp;live&nbsp;</a>                                                                                                                                                 <span class="time_iteration_icon">16:04</span>                                    <a href="https://www.ixbt.com/live/t/141178/#comments" rel="nofollow" class="comments_link">
+                                        <span class="grey_comment_icon"> 1</span>
+                                    </a>
+                                                                    <a href="https://www.ixbt.com/live/t/141178/">Одни из лучших детективных фильмов за всю историю кино, получивших «Оскар»</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                
+                                
+
+
+
+
+                            
+                                <li class="item"><a href="https://www.ixbt.com/live/t/141182/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/11/82/a20bf6b606.jpg?w=115&h=115&resize=entropy"></div>
+                                                                        <a title="Наши блоги" class="a-razdel a-razdel-live" href="https://www.ixbt.com/live/index/reviews/">&nbsp;live&nbsp;</a>                                                                                                                                                 <span class="time_iteration_icon">15:35</span>                                    <a href="https://www.ixbt.com/live/t/141182/">Эпизод за эпизодом: 10 сериалов, в которых каждая серия — шедевр, по версии Collider</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                
+                                
+
+
+
+
+                            
+                                <li class="item"><a href="https://www.ixbt.com/live/t/141175/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/11/75/6d7b451a1e.png?w=115&h=115&resize=entropy"></div>
+                                                                        <a title="Наши блоги" class="a-razdel a-razdel-live" href="https://www.ixbt.com/live/index/reviews/">&nbsp;live&nbsp;</a>                                                                                                                                                 <span class="time_iteration_icon">15:22</span>                                    <a href="https://www.ixbt.com/live/t/141175/">Почему новые смартфоны всё реже получают зарядку в комплекте — и выгодно ли это пользователю</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                
+                                
+
+
+
+
+                            
+                                <li class="item"><a href="https://www.ixbt.com/live/t/141166/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/11/66/c04cfbee79.png?w=115&h=115&resize=entropy"></div>
+                                                                        <a title="Наши блоги" class="a-razdel a-razdel-live" href="https://www.ixbt.com/live/index/reviews/">&nbsp;live&nbsp;</a>                                                                                                                                                 <span class="time_iteration_icon">14:13</span>                                    <a href="https://www.ixbt.com/live/t/141166/#comments" rel="nofollow" class="comments_link">
+                                        <span class="grey_comment_icon"> 1</span>
+                                    </a>
+                                                                    <a href="https://www.ixbt.com/live/t/141166/">Хочешь интригу без тяжести? Тогда вот: 10 лёгких детективных сериалов</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                
+                                
+
+
+
+
+                            
+                                <li class="item"><a href="https://www.ixbt.com/live/t/141167/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/11/67/69688918ec.png?w=115&h=115&resize=entropy"></div>
+                                                                        <a title="Наши блоги" class="a-razdel a-razdel-live" href="https://www.ixbt.com/live/index/reviews/">&nbsp;live&nbsp;</a>                                                                                                                                                 <span class="time_iteration_icon">14:13</span>                                    <a href="https://www.ixbt.com/live/t/141167/">Одни из лучших российских драм 2024-2025 годов: фильмы и мини-сериалы с рейтингом 7.5 и выше</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                
+                                
+
+
+
+
+                            
+                                <li class="item"><a href="https://www.ixbt.com/live/t/141142/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/11/42/ee4ee3fa2d.jpg?w=115&h=115&resize=entropy"></div>
+                                                                        <a title="Наши блоги" class="a-razdel a-razdel-live" href="https://www.ixbt.com/live/index/reviews/">&nbsp;live&nbsp;</a>                                                                                                                                                 <span class="time_iteration_icon">13:50</span>                                    <a href="https://www.ixbt.com/live/t/141142/#comments" rel="nofollow" class="comments_link">
+                                        <span class="grey_comment_icon"> 3</span>
+                                    </a>
+                                                                    <a href="https://www.ixbt.com/live/t/141142/">Как отличить видео, созданное нейросетью, от реального</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                
+                                
+
+
+
+
+                            
+                                <li class="item"><a href="https://www.ixbt.com/live/t/140870/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/08/70/a62347e423.jpg?w=115&h=115&resize=entropy"></div>
+                                                                        <a title="Наши блоги" class="a-razdel a-razdel-live" href="https://www.ixbt.com/live/index/reviews/">&nbsp;live&nbsp;</a>                                                                                                                                                 <span class="time_iteration_icon">13:48</span>                                    <a href="https://www.ixbt.com/live/t/140870/">10 триллеров с высоким рейтингом: фильмы с неожиданным поворотом сюжета</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                
+                                
+
+
+
+
+                            
+                                <li class="item"><a href="https://www.ixbt.com/live/t/141160/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/11/60/ac58d084f9.jpg?w=115&h=115&resize=entropy"></div>
+                                                                        <a title="Наши блоги" class="a-razdel a-razdel-live" href="https://www.ixbt.com/live/index/reviews/">&nbsp;live&nbsp;</a>                                                                                                                                                 <span class="time_iteration_icon">13:41</span>                                    <a href="https://www.ixbt.com/live/t/141160/#comments" rel="nofollow" class="comments_link">
+                                        <span class="grey_comment_icon"> 1</span>
+                                    </a>
+                                                                    <a href="https://www.ixbt.com/live/t/141160/">Подборка экранизаций Стивена Кинга последних лет</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                
+                                
+
+
+
+
+                            
+                                <li class="item"><a href="https://www.ixbt.com/live/t/141148/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/11/48/00e8ac3627.jpg?w=115&h=115&resize=entropy"></div>
+                                                                        <a title="Наши блоги" class="a-razdel a-razdel-live" href="https://www.ixbt.com/live/index/reviews/">&nbsp;live&nbsp;</a>                                                                                                                                                 <span class="time_iteration_icon">13:40</span>                                    <a href="https://www.ixbt.com/live/t/141148/">От часов до компьютеров: как «Электроника» стала главным производителем техники в СССР и что от неё осталось</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                
+                                
+
+
+
+
+                            
+                                <li class="item"><a href="https://www.ixbt.com/live/t/141165/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/11/65/8f32ccac41.webp?w=115&h=115&resize=entropy"></div>
+                                                                        <a title="Наши блоги" class="a-razdel a-razdel-live" href="https://www.ixbt.com/live/index/reviews/">&nbsp;live&nbsp;</a>                                                                                                                                                 <span class="time_iteration_icon">13:35</span>                                    <a href="https://www.ixbt.com/live/t/141165/">10 фантастических фильмов с запутанным сюжетом, которые перевернут ваше представление о будущем</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                
+                                
+
+
+
+
+                            
+                                <li class="item"><a href="https://www.ixbt.com/live/t/141026/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/10/26/211a66bf3f.jpg?w=115&h=115&resize=entropy"></div>
+                                                                        <a title="Наши блоги" class="a-razdel a-razdel-live" href="https://www.ixbt.com/live/index/reviews/">&nbsp;live&nbsp;</a>                                                                                                                                                 <span class="time_iteration_icon">13:00</span>                                    <a href="https://www.ixbt.com/live/t/141026/#comments" rel="nofollow" class="comments_link">
+                                        <span class="grey_comment_icon"> 3</span>
+                                    </a>
+                                                                    <a href="https://www.ixbt.com/live/t/141026/">Первый смартфон на Dimensity 7100: подробный обзор Infinix NOTE Edge</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                
+                                
+
+
+
+
+                            
+                                <li class="item"><a href="https://www.ixbt.com/live/t/140612/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/06/12/a100c22a19.jpg?w=115&h=115&resize=entropy"></div>
+                                                                                                                                                <a title="Market - новости рынка, обзоры цен, лента скидок" class="a-razdel a-razdel-market" href="http://ixbt.market">&nbsp;market&nbsp;</a>                                                                        <span class="time_iteration_icon">15 фев 10:31</span>                                    <a href="https://www.ixbt.com/live/t/140612/">23 Февраля: что подарить сыну или младшему брату? Гид по подаркам для подростков и студентов</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                
+                                
+
+
+
+
+                            
+                                <li class="item"><a href="https://prosound.ixbt.com/keyboards/arturia-keystep-mk2.shtml">
+                                    <div class="item-image>"><img src="https://prosound.ixbt.com/pics/2026/02/arturia-keystep-mk2-ico.jpg?c115"></div>
+                                                                                                            <a title="Prosound - обзоры профессионального аудио-оборудования" class="a-razdel a-razdel-prosound" href="http://prosound.ixbt.com">&nbsp;prosound&nbsp;</a>                                                                                                            <span class="time_iteration_icon">02 фев 13:20</span>                                    <a href="https://prosound.ixbt.com/keyboards/arturia-keystep-mk2.shtml">Arturia KeyStep MK2 – второе поколение контроллера KeyStep c аппаратным секвенсором/арпеджиатором</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                
+                                
+
+
+
+
+                            
+                                <li class="item"><a href="/mobile/huawei-watch-pay-flipup.html">
+                                    <div class="item-image>"><img src="/img/r30/00/02/89/74/20251223_194704_sq1.jpg?w=115&h=115&resize=entropy"></div>
+                                                                                                                                                                                    <a class="a-razdel a-razdel-ixbt" title="мобильные устройства" href="/mobile/">&nbsp;mobile&nbsp;</a>                                    <span class="time_iteration_icon">2025-12-30 19:53</span>                                    <a href="/mobile/huawei-watch-pay-flipup.html#comments" rel="nofollow" class="comments_link">
+                                        <span class="grey_comment_icon"> 7</span>
+                                    </a>
+                                                                    <a href="/mobile/huawei-watch-pay-flipup.html">Как теперь работает оплата российскими картами на умных часах Huawei: тест приложения FlipUp</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                
+                                
+
+
+
+
+                            
+                                <li class="item"><a href="https://ixbt.games/articles/2025/08/18/tolko-po-pasportu-i-s-secure-boot-razbiraem-vozmoznosti-trebovaniya-i-spory-vokrug-novyx-anticitov.html">
+                                    <div class="item-image>"><img src="https://ixbt.online/gametech/covers/2025/08/15/nova-filepond-kYjv5B.png?w=170&h=170&resize=entropy"></div>
+                                    <a title="iXBT.games - наш проект про игры" class="a-razdel a-razdel-gametech"  href="https://ixbt.games">&nbsp;games&nbsp;</a>                                                                                                                                                                                    <span class="time_iteration_icon">2025-08-21 18:00</span>                                    <a href="https://ixbt.games/articles/2025/08/18/tolko-po-pasportu-i-s-secure-boot-razbiraem-vozmoznosti-trebovaniya-i-spory-vokrug-novyx-anticitov.html">Только по паспорту и с Secure Boot: разбираем возможности, требования и споры вокруг новых античитов</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                
+                                
+
+
+
+
+                                                        <!-- End Ixbt Market -->
+
+
+
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="b-block b-block__newslistdefault b-lined-title">
+                    <h3 class="lined double_href" style="margin-bottom: 0px;" ><a href="https://www.ixbt.com/live/blog/games/">Игровые блоги</a></h3>
+                    <div class="list-container projects-news-list">
+                        <ul>
+                            
+
+                                <li class="item"><a href="https://www.ixbt.com/live/t/138992/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/13/89/92/5aef32d8ff.png?w=115&h=115&resize=entropy"></div>
+                                    <span class="time_iteration_icon">21 мин назад</span>                                    <a href="https://www.ixbt.com/live/t/138992/">10 лучших самолётов 6-го ранга в War Thunder</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                                            
+
+                                <li class="item"><a href="https://www.ixbt.com/live/t/139737/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/13/97/37/353cb7df43.jpg?w=115&h=115&resize=entropy"></div>
+                                    <span class="time_iteration_icon">18 фев 18:43</span>                                    <a href="https://www.ixbt.com/live/t/139737/">Обзор Dying Light: The Beast  - достойное продолжение серии или полный провал?</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                                            
+
+                                <li class="item"><a href="https://www.ixbt.com/live/t/140872/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/08/72/1b02e1e10a.jpg?w=115&h=115&resize=entropy"></div>
+                                    <span class="time_iteration_icon">17 фев 18:19</span>                                    <a href="https://www.ixbt.com/live/t/140872/">Подробные впечатления от State of Play 2026: упадок Sony и возрождение Konami?</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                                            
+
+                                <li class="item"><a href="https://www.ixbt.com/live/t/140523/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/05/23/e4e357dea8.jpg?w=115&h=115&resize=entropy"></div>
+                                    <span class="time_iteration_icon">17 фев 12:32</span>                                    <a href="https://www.ixbt.com/live/t/140523/">Обзор игры Dispatch - мое главное разочарование 2025 года</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                                            
+
+                                <li class="item"><a href="https://www.ixbt.com/live/t/140471/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/04/71/3e2ceb174e.jpg?w=115&h=115&resize=entropy"></div>
+                                    <span class="time_iteration_icon">16 фев 18:45</span>                                    <a href="https://www.ixbt.com/live/t/140471/">Ubisoft и отменённые проекты: 24 игры, которых не стало</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                                            
+
+                                <li class="item"><a href="https://www.ixbt.com/live/t/140378/">
+                                    <div class="item-image>"><img src="https://ixbt.online/live/topics/preview/00/14/03/78/3555a56eb5.png?w=115&h=115&resize=entropy"></div>
+                                    <span class="time_iteration_icon">16 фев 14:51</span>                                    <a href="https://www.ixbt.com/live/t/140378/">Преодоление страхов: как «высокий уровень сложности» делает видеоигры хуже и лучше?</a>
+                                    <span class="item-helper"><span class="item-helper__more"><div>
+
+
+
+                                        </div></span></span>
+                                </li>
+                                                                                    </ul>
+                    </div>
+                </div>
+
+
+                <div class="b-block b-block__conflist b-lined-title js-conf-block">
+                    <h3 class="lined double_href" style="margin-bottom: 0px;"><a href="https://forum.ixbt.com">Конференция</a></h3>
+                    <div class="rightconf-container">
+                        <ul>
+                                                            <li class="item"><a href="https://forum.ixbt.com/topic.cgi?id=70:11414-65#l" class="item-text hyphens">
+
+                                                                            <span class="grey_comment_icon grey_comment_icon_big">
+                                        1k
+                                    </span>
+                                                                        <span class="time_iteration_icon"> 21:08 </span>
+                                    <span class="linktext">Китайские автомобили. Обсудим? (часть 6)</span>
+                                </a></li>
+                                                            <li class="item"><a href="https://forum.ixbt.com/topic.cgi?id=12:59005-29#l" class="item-text hyphens">
+
+                                                                            <span class="grey_comment_icon grey_comment_icon_big">
+                                        676                                    </span>
+                                                                        <span class="time_iteration_icon"> 21:08 </span>
+                                    <span class="linktext">Обсуждение статьи iXBT.com: "Lisk Audio Lisa — российская звуковая карта 32 бит 384 кГц с мощным усилителем для наушников"</span>
+                                </a></li>
+                                                            <li class="item"><a href="https://forum.ixbt.com/topic.cgi?id=82:2288-14#l" class="item-text hyphens">
+
+                                                                            <span class="grey_comment_icon grey_comment_icon_big">
+                                        376                                    </span>
+                                                                        <span class="time_iteration_icon"> 21:07 </span>
+                                    <span class="linktext">Заземление сна (на тело, белье или кровать). </span>
+                                </a></li>
+                                                            <li class="item"><a href="https://forum.ixbt.com/topic.cgi?id=12:59072-29#l" class="item-text hyphens">
+
+                                                                            <span class="grey_comment_icon grey_comment_icon_big">
+                                        580                                    </span>
+                                                                        <span class="time_iteration_icon"> 21:07 </span>
+                                    <span class="linktext">Выбор активных стерео колонок (2.0) (часть 3)</span>
+                                </a></li>
+                                                            <li class="item"><a href="https://forum.ixbt.com/topic.cgi?id=71:2023-8#l" class="item-text hyphens">
+
+                                                                            <span class="grey_comment_icon grey_comment_icon_big">
+                                        227                                    </span>
+                                                                        <span class="time_iteration_icon"> 21:05 </span>
+                                    <span class="linktext">Поговорим о велосипедах (часть 63).Не майская</span>
+                                </a></li>
+                                                            <li class="item"><a href="https://forum.ixbt.com/topic.cgi?id=20:32442-6#l" class="item-text hyphens">
+
+                                                                            <span class="grey_comment_icon grey_comment_icon_big">
+                                        152                                    </span>
+                                                                        <span class="time_iteration_icon"> 21:05 </span>
+                                    <span class="linktext">Динамический диапазон от фотоаппарата до монитора</span>
+                                </a></li>
+                                                            <li class="item"><a href="https://forum.ixbt.com/topic.cgi?id=63:7077-44#l" class="item-text hyphens">
+
+                                                                            <span class="grey_comment_icon grey_comment_icon_big">
+                                        1k
+                                    </span>
+                                                                        <span class="time_iteration_icon"> 21:04 </span>
+                                    <span class="linktext">Современная научная фантастика. Лучшим научно-фантастическим фильмом 2013-2016гг. выбран Интерстеллар / Interstellar(2014) (часть 2)</span>
+                                </a></li>
+                                                            <li class="item"><a href="https://forum.ixbt.com/topic.cgi?id=47:12215-72#l" class="item-text hyphens">
+
+                                                                            <span class="grey_comment_icon grey_comment_icon_big">
+                                        2k
+                                    </span>
+                                                                        <span class="time_iteration_icon"> 21:04 </span>
+                                    <span class="linktext">Выбор измерителя загрязнения воздуха</span>
+                                </a></li>
+                                                            <li class="item"><a href="https://forum.ixbt.com/topic.cgi?id=20:32468-13#l" class="item-text hyphens">
+
+                                                                            <span class="grey_comment_icon grey_comment_icon_big">
+                                        351                                    </span>
+                                                                        <span class="time_iteration_icon"> 21:04 </span>
+                                    <span class="linktext">Объясните пожалуйста. Почему нет нужных объективов.</span>
+                                </a></li>
+                                                            <li class="item"><a href="https://forum.ixbt.com/topic.cgi?id=71:2020-32#l" class="item-text hyphens">
+
+                                                                            <span class="grey_comment_icon grey_comment_icon_big">
+                                        1k
+                                    </span>
+                                                                        <span class="time_iteration_icon"> 21:03 </span>
+                                    <span class="linktext">Фитнесс, силовой тренинг, физкультура.  (часть 2)</span>
+                                </a></li>
+                                                    </ul>
+                    </div>
+                </div>
+
+                <div class="b-block b-block__newslistdefault b-lined-title">
+                    <h3 class="lined double_href" style="margin-bottom: 0px;" ><a href="https://www.ixbt.com/live/blog/contest/">Конкурсы</a><a class="href_right_news" href="https://www.ixbt.com/live/blog/contest/" >[ Подписка ]</a></h3>
+                    <div class="list-container">
+                        <ul>
+                            
+                                <li class="item"><span class="time_iteration_icon"> 2025-12-23 22:07</span>
+                                    <a href="https://www.ixbt.com/live/t/134350/#comments" rel="nofollow" class="comments_link"><span class="grey_comment_icon">4</span></a>                                    <a href="https://www.ixbt.com/live/t/134350/">IXBT Brand 2025 — выбор читателей</a></li>
+                                                            
+                                <li class="item"><span class="time_iteration_icon"> 2025-07-10 10:35</span>
+                                                                        <a href="https://www.ixbt.com/live/t/112952/">Результаты опроса «IXBT Brand 2024 — выбор читателей»</a></li>
+                                                        </ul>
+                    </div>
+                </div>
+
+
+
+                <span class="mobile-hide tablet-hide">
+                  <div class="b-block b-block__tagscloud b-lined-title"><h3 class="lined double_href"><a target="_blank" href="https://www.ixbt.com/tag/">Теги</a></h3><div class="tagscloud-container"><a href="/tag/amd/" rel="tag"><span style="font-size: 26px">AMD </span></a><a href="/tag/android/" rel="tag"><span style="font-size: 17px">Android </span></a><a href="/tag/apple/" rel="tag"><span style="font-size: 37px">Apple </span></a><a href="/tag/asus/" rel="tag"><span style="font-size: 16.5px">Asus </span></a><a href="/tag/facebook/" rel="tag"><span style="font-size: 15.5px">Facebook </span></a><a href="/tag/google/" rel="tag"><span style="font-size: 25.5px">Google </span></a><a href="/tag/honor/" rel="tag"><span style="font-size: 26.5px">Honor </span></a><a href="/tag/huawei/" rel="tag"><span style="font-size: 35.5px">Huawei </span></a><a href="/tag/intel/" rel="tag"><span style="font-size: 23.5px">Intel </span></a><a href="/tag/iphone/" rel="tag"><span style="font-size: 20.5px">iPhone </span></a><a href="/tag/lenovo/" rel="tag"><span style="font-size: 16px">Lenovo </span></a><a href="/tag/lg/" rel="tag"><span style="font-size: 16px">LG </span></a><a href="/tag/mediatek/" rel="tag"><span style="font-size: 15.5px">MediaTek </span></a><a href="/tag/meizu/" rel="tag"><span style="font-size: 16.5px">Meizu </span></a><a href="/tag/microsoft/" rel="tag"><span style="font-size: 24.5px">Microsoft </span></a><a href="/tag/miui/" rel="tag"><span style="font-size: 16px">MIUI </span></a><a href="/tag/motorola/" rel="tag"><span style="font-size: 15.5px">Motorola </span></a><a href="/tag/nokia/" rel="tag"><span style="font-size: 16px">Nokia </span></a><a href="/tag/nvidia/" rel="tag"><span style="font-size: 19px">NVIDIA </span></a><a href="/tag/oneplus/" rel="tag"><span style="font-size: 20px">OnePlus </span></a><a href="/tag/oppo/" rel="tag"><span style="font-size: 16px">OPPO </span></a><a href="/tag/playstation/" rel="tag"><span style="font-size: 18.5px">PlayStation </span></a><a href="/tag/poco/" rel="tag"><span style="font-size: 16px">Poco </span></a><a href="/tag/qualcomm/" rel="tag"><span style="font-size: 16px">Qualcomm </span></a><a href="/tag/realme/" rel="tag"><span style="font-size: 21.5px">Realme </span></a><a href="/tag/redmi/" rel="tag"><span style="font-size: 30px">Redmi </span></a><a href="/tag/samsung/" rel="tag"><span style="font-size: 42.5px">Samsung </span></a><a href="/tag/sony/" rel="tag"><span style="font-size: 24px">SONY </span></a><a href="/tag/tesla/" rel="tag"><span style="font-size: 18px">Tesla </span></a><a href="/tag/vivo/" rel="tag"><span style="font-size: 16.5px">Vivo </span></a><a href="/tag/windows/" rel="tag"><span style="font-size: 18.5px">Windows </span></a><a href="/tag/xbox/" rel="tag"><span style="font-size: 16px">Xbox </span></a><a href="/tag/xiaomi/" rel="tag"><span style="font-size: 50px">Xiaomi </span></a><a href="/tag/авто/" rel="tag"><span style="font-size: 19.5px">авто </span></a><a href="/tag/электротранспорт/" rel="tag"><span style="font-size: 19px">электротранспорт </span></a></div></div>
+                </span>
+
+                            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    //Перестановки блоков на планшете и мобиле
+    (function addTopMenuSearch() {
+        if( window.matchMedia("(min-width: 600px)").matches && window.matchMedia("(max-width: 1024px)").matches) {
+            $(".video-slider-block").insertBefore(".js-market-block");
+            $(".js-conf-block").insertBefore(".js-audio-block");
+            $(".js-projects").insertAfter(".js-review-block");
+        }
+
+        if (window.matchMedia("(max-width: 600px)").matches) {
+            $(".js-news-block").insertBefore(".js-review-block");
+            $(".video-slider-block").insertAfter(".js-review-block");
+        }
+
+    })();
+</script>
+
+<div class="recommend_item-container">
+        </div>
+
+<div class="b-content b-content__footer">
+    <link rel="stylesheet" href="https://www.ixbt.com/site2/resources/css/gpdr-panel.css">
+
+<div class="gdpr-root" style="display: none;">
+    <div class="gdpr-text">Для работы проектов iXBT.com нужны файлы cookie и сервисы аналитики. Продолжая посещать сайты проектов, вы соглашаетесь с нашей <a href="https://forum.ixbt.com/?id=rules:cookie"
+                                                                                                                                                              target="_blank" rel="noopener noreferrer">Политикой сбора данных</a>
+    </div>
+    <button type="button" class="gdpr-dismiss" aria-label="Закрыть предупреждение" onclick="setCookie('cookie_policy_accepted','1',{path: '/', expires: 36500000, domain: '.ixbt.com'});const ele = document.querySelector('.gdpr-root');ele.style.display = 'none';">
+        <svg data-testid="svg-symbol" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+             class="SvgSymbol-module_root__2CsRW SvgSymbol-module_medium__2eF5L SvgSymbol-module_cross__J2lCN"
+             width="18" height="18" viewBox="0 0 18 18">
+            <path fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-width="1.5" vector-effect="non-scaling-stroke" d="M2 2l14 14M16 2L2 16"></path>
+        </svg>
+    </button>
+</div>
+<script>
+    function getCookie(name) {
+        var matches = document.cookie.match(new RegExp(
+            "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+        ));
+        return matches ? decodeURIComponent(matches[1]) : undefined;
+    }
+
+    // уcтанавливает cookie
+    function setCookie(name, value, props) {
+
+        props = props || {};
+
+        var exp = props.expires;
+
+        if (typeof exp == "number" && exp) {
+            var d = new Date();
+            d.setTime(d.getTime() + exp*1000);
+            exp = props.expires = d
+        }
+
+        if(exp && exp.toUTCString) { props.expires = exp.toUTCString() }
+
+        value = encodeURIComponent(value);
+
+        var updatedCookie = name + "=" + value;
+
+        for(var propName in props){
+            updatedCookie += "; " + propName;
+            var propValue = props[propName];
+            if(propValue !== true){ updatedCookie += "=" + propValue }
+        }
+        document.cookie = updatedCookie;
+    }
+
+
+    if(getCookie('cookie_policy_accepted') == '1'){
+
+    } else {
+        const ele = document.querySelector('.gdpr-root');
+        ele.style.display = 'flex';
+    }
+</script><div class="b-content b-content--wrapper" style="flex-wrap: wrap; justify-content:center; text-align: center; padding: 1rem; background-color: #15803d; margin-bottom: 1rem; border-radius: 1rem; display: flex; flex-direction: row"><a style="color: white; font-weight: 600; display: flex; white-space: nowrap; margin-top: 0.5rem; margin-bottom: 0.5rem;" href="https://www.ixbt.com/ch/design.html">Попробовать новый дизайн <svg style="margin-left: 0.5rem;width: 1.5rem; height: 1.5rem;" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12c0-1.232-.046-2.453-.138-3.662a4.006 4.006 0 00-3.7-3.7 48.678 48.678 0 00-7.324 0 4.006 4.006 0 00-3.7 3.7c-.017.22-.032.441-.046.662M19.5 12l3-3m-3 3l-3-3m-12 3c0 1.232.046 2.453.138 3.662a4.006 4.006 0 003.7 3.7 48.656 48.656 0 007.324 0 4.006 4.006 0 003.7-3.7c.017-.22.032-.441.046-.662M4.5 12l3 3m-3-3l-3 3" />
+    </svg>
+  </a>&nbsp; &nbsp; &nbsp; <a style="color: white; font-weight:600; display:flex; white-space: nowrap; margin-top: 0.5rem; margin-bottom: 0.5rem;" href="https://www.ixbt.com/page/design.html">Подробнее</a></div>
+
+<div class="b-footer">
+
+
+
+
+  <div class="b-block block__footer">
+    <div class="b-content--wrapper">
+      <div class="g-grid" style="background-color: #5c5ca6;">
+        <div class="g-grid_column g-grid_column__4">
+          <div class="s-logo"><i class="icon icon-logo_ixbt"> </i></div>
+          <p class="copy opacity">Copyright &copy; 1997—2025.</p><a href="https://www.ixbt.com/page/about.html" class="about">О сайте</a>
+          <p>Адрес для связи info@ixbt.com</p>
+        </div>
+        <div class="g-grid_column g-grid_column__4">
+          <div class="footer-menu">
+            <div class="footer-menu__title">Наши проекты</div>
+            <ul class="small">
+              <li><a href="https://www.ixbt.com/">ixbt.com</a></li>
+              <li><a href="https://forum.ixbt.com/">Конференция</a></li>
+              <li><a href="https://www.ixbt.com/live/">Live</a></li>
+              <li><a href="https://ixbt.photo/">Фото</a></li>
+              <li><a href="https://ixbt.video/">Видео</a></li>
+            </ul>
+            <ul class="small">
+              <li><a href="https://gametech.ru/">Gametech</a></li>
+              <li><a href="https://ixbt.market/">Market</a></li>
+              <li><a href="https://komok.com/">Komok</a></li>
+              <li><a href="https://prosound.ixbt.com/">Prosound</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="g-grid_column g-grid_column__4">
+          <div class="footer-menu">
+            <div class="footer-menu__title">Полезные ссылки</div>
+            <ul>
+              <li><a href="https://www.ixbt.com/authors/">Наши авторы</a></li>
+              <li><a href="https://ixbt.media/stat">Статистика</a></li>
+              <li><a href="http://www.ixbt.com/news/search/">Поиск</a></li>
+              <li><a href="https://www.ixbt.com/page/export.html">Экспорт данных</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="g-grid_column g-grid_column__4">
+          <div class="footer-menu">
+            <div class="footer-menu__title">Связь с администрацией</div>
+            <ul>
+              <li><a href="https://www.ixbt.com/page/advert.html">Реклама и пиар</a></li>
+              <li><a href="https://forum.ixbt.com/?id=rules:ixbt">Правила комментирования</a></li>
+
+              <li><a href="https://forum.ixbt.com/?id=rules:cookie">Политика использования cookie</a></li>
+              <li><a href="https://forum.ixbt.com/?id=rules:persdatapolicy">Политика защиты и обработки персональных данных</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="g-grid_column g-grid_column__2">
+          <div class="s-18plus"><i class="icon icon-mature"></i></div>
+        </div>
+      </div>
+      <p class="opacity">Нашли ошибку? Выделите текст и нажмите Shift+Enter.</p>
+    </div>
+  </div>
+</div>
+<div class="b-footer__mobile">
+  <div class="b-footer__mobile--wrapper">
+    <div class="footer-top">
+        </div>
+    <div class="footer-bottom">
+      <ul>
+        <li style="margin: 10px 10px 10px 0;"><a href="/">На главную</a></li>
+        <li style="margin: 10px 10px 10px 0;"><a href="/page/about.html">О сайте</a></li>
+        <li style="margin: 10px 10px 10px 0;">Адрес для связи info@ixbt.com</li>
+        <li style="margin: 10px 10px 10px 0;"><a href="https://forum.ixbt.com/?id=rules:cookie">Куки</a></li>
+        <li style="margin: 10px 10px 10px 0;"><a href="https://forum.ixbt.com/?id=rules:persdata">Персональные данные</a>
+        <li style="margin: 10px 10px 10px 0;"><a href="/page/advert.html">Реклама и пиар</a></li>
+
+            </ul>
+
+      <p class="copy">Copyright &copy; 1997-2025</p>
+      <div class="s-18plus">
+        <i class="icon icon-mature" style="top:-40px; position: relative;"></i>
+        <a href="/" class="logo"><i class="icon icon-logo_ixbt" style="padding-left:5px;"></i></a>
+      </div>
+
+    </div>
+  </div>
+</div>
+</div>
+
+<script>
+    $.each($(".b-poll"), function (index, value) {
+        var that = $(this);
+        $.ajax({
+            url: '/include2/opinion.html?utm_time=' + Math.round(+new Date()/1000),
+            type: 'GET',
+            success: function(data){
+                that.html(data);
+            }
+        });
+    });
+    $(document).ready(function() {
+        var date = new Date;
+        date.setDate(date.getDate()+7);
+        $.ajax({
+            url: "//cmt.ixbt.com/cgi/auth_jsp.pl",
+            cache: false,
+            type: "POST",
+            data: {ref: 'ixbt'},
+            dataType: 'json',
+            xhrFields: {withCredentials: true},
+            success: function (data, stat, xhr) {
+                if (data.premium == 0) {
+                    document.cookie = "auth_param=u~lg1#; site=.ixbt.com; path=/; expires="+date.toUTCString();
+                } else if (data.premium == null) {
+                    document.cookie = "auth_param=; site=.ixbt.com; path=/; expires="+date.toUTCString();
+                } else if(data.hide_ad == true)  {
+                    document.cookie = "auth_param=?y3%rN; site=.ixbt.com; path=/; expires="+date.toUTCString();
+                }
+            }
+        });
+    });
+</script>
+<script>
+
+function setCookieDesign(n,v,d){let e="";if(d){const t=new Date();t.setTime(t.getTime()+(d*24*60*60*1000));e="; expires="+t.toUTCString()}document.cookie=n+"="+(v||"")+e+"; path=/; domain=.ixbt.com"}function getCookieDesign(n){const e=n+"=";const c=document.cookie.split(';');for(let i=0;i<c.length;i++){let k=c[i];while(k.charAt(0)===' ')k=k.substring(1,k.length);if(k.indexOf(e)===0)return k.substring(e.length,k.length)}return null}function checkAndSetCookieDesign(){const n='ixbt_new_design_setup';const v=getCookieDesign(n);if(v!==null)return;const r=Math.floor(Math.random()*5)+1;if(r===1){setCookieDesign(n,10,180);(window.jitsuQ=window.jitsuQ||[]).push(function(jitsu){jitsu.page({project_slug:"ixbt",page_type:"switch",publication_type:"",publication_id:"",design:'legacy',ym_uid:getCookie('_ym_uid'),ym_first_visit:getCookie('_ym_d'),ym_has_adblock:getCookie('_ym_isad'),cookie_policy_accepted:getCookie('cookie_policy_accepted'),other_ids:{tmr_lvid:getCookie('tmr_lvid'),top100_id:getCookie('top100_id'),adtech_uid:getCookie('adtech_uid'),ajs_anonymous_id:getCookie('ajs_anonymous_id'),ajs_user_id:getCookie('ajs_user_id')}});jitsu.track('ixbt_switch_to_new_design',{project_slug:"ixbt",design:"legacy"})})}}checkAndSetCookieDesign();
+</script>
+
+</body>
+</html>
+<!-- fc 307 1771524499 -->

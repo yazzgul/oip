@@ -1,0 +1,3312 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Dota 2 — обновления, новости, матчи, турниры, гайды, герои</title>
+    <meta name="description" content="Крупнейшее русскоязычное сообщество Dota 2. Расписание матчей и турниров, актуальные новости, лучшие гайды, захватывающие стримы, база знаний героев и предметов и многое другое" />
+    
+    
+                        <link rel="canonical" href="https://dota2.ru/">
+                <link rel="alternate" type="application/rss+xml" title="RSS-лента для Dota 2 Новости" href="/news/rss/" />
+    
+    
+    <meta property="og:url" content="https://dota2.ru/"/>
+<meta property="og:site_name" content="dota2.ru"/>
+<meta property="twitter:domain" content="dota2.ru"/>
+<meta property="twitter:site" content="@"/>
+
+    <meta property="og:title" content="Dota 2 — обновления, новости, матчи, турниры, гайды, герои"/>
+    <meta property="twitter:title" content="Dota 2 — обновления, новости, матчи, турниры, гайды, герои"/>
+
+    <meta property="og:description" content="Крупнейшее русскоязычное сообщество Dota 2. Расписание матчей и турниров, актуальные новости, лучшие гайды, захватывающие стримы, база знаний героев и предметов и многое другое"/>
+    <meta property="twitter:description" content="Крупнейшее русскоязычное сообщество Dota 2. Расписание матчей и турниров, актуальные новости, лучшие гайды, захватывающие стримы, база знаний героев и предметов и многое другое"/>
+
+
+<meta property="og:type" content="article"/>
+
+<meta property="og:image" content="https://dota2.ru/img/logom.png"/>
+<meta property="twitter:image" content="https://dota2.ru/img/logom.png"/>
+
+
+
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/css/build/style.min.css?879">
+    <style type="text/css">
+        .index__news-name {
+            overflow: hidden;
+        }
+    </style>
+
+    <script src="/js/manifest.js?879"></script>
+    <script src="/js/vendor.js?879"></script>
+    <script src="/js/app.min.js?879"></script>
+    <script src="/js/vendors/tippy/popper.min.js?879"></script>
+    <script src="/js/vendors/tippy/tippy-bundle.umd.min.js?879"></script>
+
+    
+    
+                    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/favicon/manifest.json">
+        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="theme-color" content="#1a1b20">
+    
+    
+    <script>
+        function closeAndOpenMenu() {
+            $('#nav-menu').toggleClass('mod-open');
+            $('body').toggleClass('mod-fixed');
+            $('.js-menu-hamburger').toggleClass('is-active');
+        }
+    </script>
+
+    <script src="/js/forum/mobile-detect.min.js?879"></script>
+    <script src="/js/forum/app.min.js?879"></script>
+
+    <script type="text/javascript">
+        function isLogged() {
+                            return '';
+                    }
+
+        function getForumPrefix() {
+            return 'forum/';
+        }
+
+        window.cacheTime = parseInt(879);
+    </script>
+</head>
+
+<body id="id">
+            <script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous"></script>
+
+        <script>
+            window.yaContextCb = window.yaContextCb || []
+        </script>
+        <script src="https://yandex.ru/ads/system/context.js" async></script>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+                        <div class="ranni"></div>
+<div id="dappo">
+<style>
+    #project-dota2, .full-wrap { padding-top: 15px; }
+    nav, .menu { border-radius: 3px 3px 0 0; }
+</style>
+
+
+		
+	<!--Тип баннера: Branding Desktop-->
+	<!--Расположение: <верх страницы>-->
+	<div id="adfox_162739084977923184"></div>
+	<script>
+	    window.yaContextCb.push(()=>{
+	        Ya.adfoxCode.create({
+	            ownerId: 265472,
+	        containerId: 'adfox_162739084977923184',
+	            params: {
+	                pp: 'g',
+	            ps: 'dgcr',
+	            p2: 'gomx'
+	            }
+	        })
+	    })
+	</script>
+
+	
+
+
+<!-- Общие стили -->
+<style type="text/css">
+	#project-dota2,
+	.full-wrap {
+		padding-top: 15px;
+	}
+
+@media screen and (max-width: 1250px)
+{
+	body #dappo {
+		background: none !important;
+		min-width: initial !important;
+		/*padding: 0 !important;*/
+	}
+	body #dappo > .dessa a {
+		position: static !important;
+		height: auto !important;
+	}
+	body #dappo > .dessa .brand1250 {
+		display: block !important;
+		width: 100%;
+	}
+	#project-dota2, .full-wrap {
+		padding-top: 0;
+	}
+}
+@media screen and (max-width: 426px)
+{
+	body #dappo > .dessa a > .brand1250 {
+		display: none !important;
+	}
+
+	body #dappo > .dessa a > .brand425 {
+		display: block !important;
+		width: 100%;
+	}
+}
+
+#dappo {
+		padding: px 0 0;
+	min-width: 1250px;
+}
+nav,
+.menu {
+	border-radius: 3px 3px 0 0;
+}
+
+#iaj14 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: px;
+}
+</style>
+
+<script>
+    // Должен работать только если включены куки
+    if (navigator.cookieEnabled)
+    {
+            }
+</script>
+
+            <!--Тип баннера: FullScreen-->
+            <!--Расположение: Фуллскрин-->
+            <div id="adfox_160692213450175464"></div>
+            <script>
+                window.Ya.adfoxCode.create({
+                    ownerId: 265472,
+                    containerId: 'adfox_160692213450175464',
+                    params: {
+                        pp: 'xdn',
+                        ps: 'dgcr',
+                        p2: 'gqwg'
+                    }
+                });
+            </script>
+
+<!--Тип баннера: BannerLine Catfish Desktop-->
+<!--Расположение: низ страницы-->
+<div id="adfox_163346105586796801"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 265472,
+            containerId: 'adfox_163346105586796801',
+            params: {
+                pp: 'i',
+                ps: 'dgcr',
+                p2: 'hfpm'
+            }
+        })
+    })
+</script>
+
+                <div id="project-dota2">
+        
+        <header class="header">
+            <div class="header-sub" id="header">
+                <div class="header__subb">
+                    <ul id="mobile-navigation" class="navigation__list--mobile">
+                        
+<li class="navigation__item ">
+    <a class="navigation__link text-clip" href="/forum/">Форум</a>
+
+    <ul class="navigation__sublist">
+        <li class="navigation__subitem">
+            <a class="navigation__sublink" href="/forum/feed">Лента</a>
+        </li>
+    </ul>
+
+    <div class="navigation__item-notices">
+                    </div>
+</li>
+<li class="navigation__item ">
+    <a class="navigation__link text-clip" href="/news/">Новости</a>
+
+            <ul class="navigation__sublist">
+            <li class="navigation__subitem ">
+                <a class="navigation__sublink" href="/blogs/">Блоги</a>
+            </li>
+        </ul>
+    
+
+    <div class="navigation__item-notices">
+                                                                    </div>
+</li>
+<li class="navigation__item ">
+    <a class="navigation__link text-clip" href="/esport/matches/">Киберспорт</a>
+
+    <ul class="navigation__sublist">
+        <li class="navigation__subitem ">
+            <a class="navigation__sublink" href="/esport/matches/">Матчи</a>
+        </li>
+        <li class="navigation__subitem ">
+            <a class="navigation__sublink" href="/esport/tournaments/">Турниры</a>
+        </li>
+        <li class="navigation__subitem ">
+            <a class="navigation__sublink" href="/esport/matches/calendar/">Календарь</a>
+        </li>
+        <li class="navigation__subitem ">
+            <a class="navigation__sublink" href="/esport/ept/9">EPT</a>
+        </li>
+        <li class="navigation__subitem ">
+            <a class="navigation__sublink" href="/esport/teams/">Команды</a>
+        </li>
+        <li class="navigation__subitem ">
+            <a class="navigation__sublink" href="/esport/players/">Игроки</a>
+        </li>
+        <li class="navigation__subitem ">
+            <a class="navigation__sublink" href="/esport/builds/">Сборки игроков</a>
+        </li>
+    </ul>
+
+    <div class="navigation__item-notices">
+                                                                            </div>
+</li>
+    <li class="navigation__item ">
+        <a class="navigation__link text-clip" href="/heroes/">База знаний</a>
+
+        <ul class="navigation__sublist">
+            <li class="navigation__subitem ">
+                <a class="navigation__sublink" href="/heroes/">Герои</a>
+            </li>
+            <li class="navigation__subitem ">
+                <a class="navigation__sublink" href="/counterpick/">Контрпики</a>
+            </li>
+            <li class="navigation__subitem ">
+                <a class="navigation__sublink" href="/items/">Предметы</a>
+            </li>
+            <li class="navigation__subitem ">
+                <a class="navigation__sublink" href="/mechanics/">Механики</a>
+            </li>
+            <li class="navigation__subitem ">
+                <a class="navigation__sublink" href="/guides/">Гайды</a>
+            </li>
+            <li class="navigation__subitem ">
+                <a class="navigation__sublink" href="/tactics/">Тактика</a>
+            </li>
+            <li class="navigation__subitem">
+                <a class="navigation__sublink" href="/forum/forums/texnicheskaja-podderzhka.47/">Тех. поддержка</a>
+            </li>
+            <li class="navigation__subitem ">
+                <a class="navigation__sublink" href="/faq/">Частые вопросы</a>
+            </li>
+        </ul>
+
+        <div class="navigation__item-notices">
+                                                                                            </div>
+    </li>
+
+<li class="navigation__item ">
+    <a class="navigation__link text-clip" href="/streams/">Стримы</a>
+
+    <div class="navigation__item-notices">
+                    </div>
+</li>
+    <li class="navigation__item ">
+        <a class="navigation__link text-clip" href="/video/">Видео</a>
+
+        <div class="navigation__item-notices">
+                                            </div>
+    </li>
+    <li class="navigation__item ">
+        <a class="navigation__link text-clip" href="/memes/">Мемы</a>
+
+        <div class="navigation__item-notices">
+                                </div>
+    </li>
+
+    <!--    <li class="navigation__item social-menu">-->
+<!--        <a class="navigation__link text-clip navigation__link-social" href="//t.me/--><!--" target="_blank"><i class="fab fa-telegram-plane"></i></a>-->
+<!--    </li>-->
+
+  <li class="navigation__item social-menu">
+      <style type="text/css">
+    #ggbetgift span {
+        position: absolute;
+        top: 5px;
+        right: 5px;
+        padding: 0 5px;
+        font-weight: 500;
+        font-size: 10px;
+        line-height: 15px;
+        color: #fff;
+        background: #d42c2f;
+        border-radius: 4px;
+    }
+    .navigation__link.ggbetgift .info-bonus__container {
+        left: -100px;
+    }
+    .info-bonus__text {
+        margin: 0 0 10px;
+    }
+    .navigation__link.ggbetgift {
+        display: flex;
+        position: relative;
+    }
+    .navigation__link.ggbetgift .info-bonus__container {
+        display: none;
+        top: 100%;
+        min-width: 246px;
+        z-index: 10;
+        position: absolute;
+        padding: 20px;
+        width: 110px;
+        background: #26272c;
+        margin-left: 5px;
+        color: #c2c2c4;
+        text-align: center;
+        border-radius: 5px;
+        border-top: 1px solid #1a1b20;
+    }
+    .navigation__link.ggbetgift .info-bonus__container a:first-child {
+        display: block;
+    }
+    .navigation__link.ggbetgift .info-bonus__container img {
+        width: 150px;
+        height: auto;
+        padding: 10px 0;
+    }
+
+    .navigation__link.ggbetgift .info-bonus__container a.info-bonus__link {
+        display: block;
+        background: #00c7b1;
+        padding: 10px;
+        color: #FFF;
+        border-radius: 5px;
+        font-weight: bold;
+    }
+    .navigation__link.ggbetgift .info-bonus__container a.info-bonus__link:hover {
+        opacity: 0.9;
+    }
+
+
+</style>
+<div class="navigation__link tournaments ggbetgift">
+    <button id="ggbetgift" class="text-clip tlgmicon">
+        <img src="/img/gggift.png" style="width:26px;">
+                    <span>1</span>
+            </button>
+
+ 
+    <div class="info-bonus__container">
+    <a href="//dota2.ru/leave/147/?erid=3apb1Qrwwr2uBg1XKwxg7w1CC2h2BXWK6xzty56odipKJ" rel="nofollow" target="_blank">
+        <img src="/img/esport/odds/pari-purple.png">
+    </a>
+    <div class="info-bonus__text">
+        Фрибеты 5х1000 р. всем<br>новым пользователям!
+    </div>
+    <a href="//dota2.ru/leave/147/?erid=3apb1Qrwwr2uBg1XKwxg7w1CC2h2BXWK6xzty56odipKJ" rel="nofollow" target="_blank" class="info-bonus__link">
+        ПОЛУЧИТЬ ФРИБЕТ
+    </a>
+    <div style="font-size: 11px; color: #888; margin-top: 10px; line-height: 14px;">Реклама. ООО "БК "ПАРИ".<br>ИНН: 7703365167</div>
+</div>
+            
+</div>
+
+<script>
+    $('#ggbetgift').on('click', function (e) {
+        let container = $('.info-bonus__container');
+        container.is(':visible') ? container.hide() : container.show();
+    })
+</script>
+  </li>
+
+    
+  
+
+
+                    </ul>
+                    <div class="header__subb-menu">
+                        <div class="header__logo navigation__list--active">
+                            <a href="/">
+                                <img class="header__logo-big" src="/img/logo.png" alt="logo">
+                                <img class="header__logo-small" src="/img/logom.png" alt="logo">
+                            </a>
+
+                            <div class="navigation__item-notices">
+                                                                                                                                                            </div>
+                        </div>
+                        <nav class="navigation">
+                            <ul class="navigation__list">
+                                
+<li class="navigation__item ">
+    <a class="navigation__link text-clip" href="/forum/">Форум</a>
+
+    <ul class="navigation__sublist">
+        <li class="navigation__subitem">
+            <a class="navigation__sublink" href="/forum/feed">Лента</a>
+        </li>
+    </ul>
+
+    <div class="navigation__item-notices">
+                    </div>
+</li>
+<li class="navigation__item ">
+    <a class="navigation__link text-clip" href="/news/">Новости</a>
+
+            <ul class="navigation__sublist">
+            <li class="navigation__subitem ">
+                <a class="navigation__sublink" href="/blogs/">Блоги</a>
+            </li>
+        </ul>
+    
+
+    <div class="navigation__item-notices">
+                                                                    </div>
+</li>
+<li class="navigation__item ">
+    <a class="navigation__link text-clip" href="/esport/matches/">Киберспорт</a>
+
+    <ul class="navigation__sublist">
+        <li class="navigation__subitem ">
+            <a class="navigation__sublink" href="/esport/matches/">Матчи</a>
+        </li>
+        <li class="navigation__subitem ">
+            <a class="navigation__sublink" href="/esport/tournaments/">Турниры</a>
+        </li>
+        <li class="navigation__subitem ">
+            <a class="navigation__sublink" href="/esport/matches/calendar/">Календарь</a>
+        </li>
+        <li class="navigation__subitem ">
+            <a class="navigation__sublink" href="/esport/ept/9">EPT</a>
+        </li>
+        <li class="navigation__subitem ">
+            <a class="navigation__sublink" href="/esport/teams/">Команды</a>
+        </li>
+        <li class="navigation__subitem ">
+            <a class="navigation__sublink" href="/esport/players/">Игроки</a>
+        </li>
+        <li class="navigation__subitem ">
+            <a class="navigation__sublink" href="/esport/builds/">Сборки игроков</a>
+        </li>
+    </ul>
+
+    <div class="navigation__item-notices">
+                                                                            </div>
+</li>
+    <li class="navigation__item ">
+        <a class="navigation__link text-clip" href="/heroes/">База знаний</a>
+
+        <ul class="navigation__sublist">
+            <li class="navigation__subitem ">
+                <a class="navigation__sublink" href="/heroes/">Герои</a>
+            </li>
+            <li class="navigation__subitem ">
+                <a class="navigation__sublink" href="/counterpick/">Контрпики</a>
+            </li>
+            <li class="navigation__subitem ">
+                <a class="navigation__sublink" href="/items/">Предметы</a>
+            </li>
+            <li class="navigation__subitem ">
+                <a class="navigation__sublink" href="/mechanics/">Механики</a>
+            </li>
+            <li class="navigation__subitem ">
+                <a class="navigation__sublink" href="/guides/">Гайды</a>
+            </li>
+            <li class="navigation__subitem ">
+                <a class="navigation__sublink" href="/tactics/">Тактика</a>
+            </li>
+            <li class="navigation__subitem">
+                <a class="navigation__sublink" href="/forum/forums/texnicheskaja-podderzhka.47/">Тех. поддержка</a>
+            </li>
+            <li class="navigation__subitem ">
+                <a class="navigation__sublink" href="/faq/">Частые вопросы</a>
+            </li>
+        </ul>
+
+        <div class="navigation__item-notices">
+                                                                                            </div>
+    </li>
+
+<li class="navigation__item ">
+    <a class="navigation__link text-clip" href="/streams/">Стримы</a>
+
+    <div class="navigation__item-notices">
+                    </div>
+</li>
+    <li class="navigation__item ">
+        <a class="navigation__link text-clip" href="/video/">Видео</a>
+
+        <div class="navigation__item-notices">
+                                            </div>
+    </li>
+    <li class="navigation__item ">
+        <a class="navigation__link text-clip" href="/memes/">Мемы</a>
+
+        <div class="navigation__item-notices">
+                                </div>
+    </li>
+
+    <!--    <li class="navigation__item social-menu">-->
+<!--        <a class="navigation__link text-clip navigation__link-social" href="//t.me/--><!--" target="_blank"><i class="fab fa-telegram-plane"></i></a>-->
+<!--    </li>-->
+
+  <li class="navigation__item social-menu">
+      <style type="text/css">
+    #ggbetgift span {
+        position: absolute;
+        top: 5px;
+        right: 5px;
+        padding: 0 5px;
+        font-weight: 500;
+        font-size: 10px;
+        line-height: 15px;
+        color: #fff;
+        background: #d42c2f;
+        border-radius: 4px;
+    }
+    .navigation__link.ggbetgift .info-bonus__container {
+        left: -100px;
+    }
+    .info-bonus__text {
+        margin: 0 0 10px;
+    }
+    .navigation__link.ggbetgift {
+        display: flex;
+        position: relative;
+    }
+    .navigation__link.ggbetgift .info-bonus__container {
+        display: none;
+        top: 100%;
+        min-width: 246px;
+        z-index: 10;
+        position: absolute;
+        padding: 20px;
+        width: 110px;
+        background: #26272c;
+        margin-left: 5px;
+        color: #c2c2c4;
+        text-align: center;
+        border-radius: 5px;
+        border-top: 1px solid #1a1b20;
+    }
+    .navigation__link.ggbetgift .info-bonus__container a:first-child {
+        display: block;
+    }
+    .navigation__link.ggbetgift .info-bonus__container img {
+        width: 150px;
+        height: auto;
+        padding: 10px 0;
+    }
+
+    .navigation__link.ggbetgift .info-bonus__container a.info-bonus__link {
+        display: block;
+        background: #00c7b1;
+        padding: 10px;
+        color: #FFF;
+        border-radius: 5px;
+        font-weight: bold;
+    }
+    .navigation__link.ggbetgift .info-bonus__container a.info-bonus__link:hover {
+        opacity: 0.9;
+    }
+
+
+</style>
+<div class="navigation__link tournaments ggbetgift">
+    <button id="ggbetgift" class="text-clip tlgmicon">
+        <img src="/img/gggift.png" style="width:26px;">
+                    <span>1</span>
+            </button>
+
+ 
+    <div class="info-bonus__container">
+    <a href="//dota2.ru/leave/147/?erid=3apb1Qrwwr2uBg1XKwxg7w1CC2h2BXWK6xzty56odipKJ" rel="nofollow" target="_blank">
+        <img src="/img/esport/odds/pari-purple.png">
+    </a>
+    <div class="info-bonus__text">
+        Фрибеты 5х1000 р. всем<br>новым пользователям!
+    </div>
+    <a href="//dota2.ru/leave/147/?erid=3apb1Qrwwr2uBg1XKwxg7w1CC2h2BXWK6xzty56odipKJ" rel="nofollow" target="_blank" class="info-bonus__link">
+        ПОЛУЧИТЬ ФРИБЕТ
+    </a>
+    <div style="font-size: 11px; color: #888; margin-top: 10px; line-height: 14px;">Реклама. ООО "БК "ПАРИ".<br>ИНН: 7703365167</div>
+</div>
+            
+</div>
+
+<script>
+    $('#ggbetgift').on('click', function (e) {
+        let container = $('.info-bonus__container');
+        container.is(':visible') ? container.hide() : container.show();
+    })
+</script>
+  </li>
+
+    
+  
+
+
+                            </ul>
+                            <div id="swapMobileMenu" class="navigation__item navigation__item--mobile dota2">
+                                <div class="navigation__link text-clip">
+                                    <i class="fas fa-bars"></i>
+                                    <i style="display: none" class="fas fa-times"></i>
+                                </div>
+                            </div>
+                        </nav>
+                    </div>
+                    <ul class="header__list">
+                        <!--                        <li class="header__item social-menu-tournament">-->
+<!--                            <a class="navigation__link text-clip" href="//t.me/--><!--" target="_blank"><i class="fab fa-telegram-plane"></i></a>-->
+<!--                        </li>-->
+
+
+                    <li class="header__item social-menu-tournament">
+                        <style type="text/css">
+    #ggbetgift2 span {
+        position: absolute;
+        top: 5px;
+        right: 5px;
+        padding: 0 5px;
+        font-weight: 500;
+        font-size: 10px;
+        line-height: 15px;
+        color: #fff;
+        background: #d42c2f;
+        border-radius: 4px;
+    }
+    .navigation__link.ggbetgift2 .info-bonus__container2 {
+        left: 0;
+    }
+    .info-bonus__text {
+        margin: 0 0 10px;
+    }
+    .navigation__link.ggbetgift2 {
+        display: flex;
+        position: relative;
+    }
+    .navigation__link.ggbetgift2 .info-bonus__container2 {
+        display: none;
+        top: 100%;
+        min-width: 246px;
+        z-index: 10;
+        position: absolute;
+        padding: 20px;
+        width: 110px;
+        background: #26272c;
+        margin-left: 5px;
+        color: #c2c2c4;
+        text-align: center;
+        border-radius: 5px;
+        border-top: 1px solid #1a1b20;
+    }
+    .navigation__link.ggbetgift2 .info-bonus__container2 a:first-child {
+        display: block;
+    }
+    .navigation__link.ggbetgift2 .info-bonus__container2 img {
+        width: 130px;
+        height: auto;
+        padding: 10px 0;
+    }
+
+    .navigation__link.ggbetgift2 .info-bonus__container2 a.info-bonus__link {
+        display: block;
+        background: #00c7b1;
+        padding: 10px;
+        color: #FFF;
+        border-radius: 5px;
+    }
+    @media (max-width: 360px) {
+        a.navigation__link.text-clip.tlgmicon:nth-child(2){
+            display: none;
+        }
+    }
+</style>
+<div class="navigation__link ggbetgift2">
+    <button id="ggbetgift2" class="text-clip tlgmicon">
+        <img style="width: 26px" src="/img/gggift.png">
+                    <span>1</span>
+            </button>
+
+ 
+    <div class="info-bonus__container2">
+    <a href="//dota2.ru/leave/189/?erid=3apb1Qrwwr2uBg1XKwxg7w1CC2h2BXWK6xzty56odipKJ" rel="nofollow" target="_blank">
+        <img src="/img/esport/odds/pari-purple.png">
+    </a>
+    <div class="info-bonus__text">
+        Фрибеты 5х1000 р. всем<br>новым пользователям!
+    </div>
+    <a href="//dota2.ru/leave/189/?erid=3apb1Qrwwr2uBg1XKwxg7w1CC2h2BXWK6xzty56odipKJ" rel="nofollow" target="_blank" class="info-bonus__link">
+        ПОЛУЧИТЬ ФРИБЕТ
+    </a>
+    <div style="font-size: 11px; color: #888; margin-top: 10px; line-height: 14px;">Реклама. ООО "БК "ПАРИ".<br>ИНН: 7703365167</div>
+</div>
+            
+</div>
+<script>
+    $('.ggbetgift2').on('click', function (e) {
+        let container = $('.info-bonus__container2');
+
+        let firstClick = $(this).find('span');
+        if(firstClick) {
+            firstClick.hide();
+
+            Core.Ajax.post('/api/banner/closeBanner', {days: 3}, function (response){});
+        }
+
+        container.is(':visible') ? container.hide() : container.show();
+    })
+</script>
+                    </li>
+
+                    
+                    
+                        <li class="header__item header__item-search">
+                            <input type="text" class="header__item-search__field content-inline hidden">
+                            <button class="header__link header__link-search__button" onclick="Utils.openSearch()">
+                                <img src="/img/header/search.svg" alt="">
+                            </button>
+                            <button class="header__link header__link-search-close__button" onclick="Utils.hideIfOpen()" style="display: none">
+                                <img src="/img/news-news/times.svg" alt="">
+                            </button>
+                        </li>
+
+                        
+                                                    <li class="header__item">
+                                <a class="header__link" href="/forum/notifications/">
+                                    <img src="/img/header/bell.svg" alt="">
+                                                                            <span>1</span>
+                                                                    </a>
+                            </li>
+                        
+                                                    <li class="header__item">
+                                <a class="header__link header__link--exit mr6" href="javascript:void(0)" onclick="Utils.login()">
+                                    <i class="fas fa-sign-in-alt"></i> Войти
+                                </a>
+                            </li>
+                                            </ul>
+                </div>
+            </div>
+            <style>
+    .lern {
+        width: 1220px;
+        /*height: 90px;*/
+        margin: 0 auto 16px;
+        /*background: #26272c;*/
+        display: block;
+        overflow: hidden;
+        position: relative;
+        max-height: 120px;
+    }
+    .lern > div {
+        text-align: center;
+    }
+    .lern a {
+        /*width: 1220px;*/
+        /*height: 90px;*/
+        display: block;
+    }
+    .a72 {
+        display: block;
+    }
+    .a42 {
+        display: none;
+        max-width: 425px;
+        margin: 0 auto;
+    }
+
+    @media only screen and (max-width: 1200px)
+    {
+        .lern {
+            width: 100%;
+            height: auto;
+            font-size: 0;
+        }
+        .lern.adv {
+            height: auto;
+        }
+        .lern a {
+            width: auto;
+            height: auto;
+            background: none;
+            margin: 0;
+        }
+        .lern img {
+            width: 100%;
+        }
+    }
+
+    @media screen and (max-width: 426px)
+    {
+        .a72 {
+            display: none;
+        }
+
+        .a42 {
+            display: block;
+            width: 100%;
+        }
+        .amwrite {
+            display: none;
+        }
+    }
+
+    .amwrite {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        font-size: 10px;
+        padding: 2px 5px;
+        background: #000;
+        opacity: .8;
+        border-radius: 5px 0 0 0;
+    }
+</style>
+<div class="lern adv">
+
+    
+        
+                            <!--Тип баннера: 728x90 Desktop-->
+                <!--Расположение: 728x90 Top-->
+                <div id="adfox_164758808680821249"></div>
+                <script>
+                    window.yaContextCb.push(()=>{
+                        Ya.adfoxCode.create({
+                            ownerId: 265472,
+                            containerId: 'adfox_164758808680821249',
+                            params: {
+                                pp: 'bsuk',
+                                ps: 'dgcr',
+                                p2: 'hjil'
+                            }
+                        })
+                    })
+                </script>
+                            
+            </div>
+
+    <!--Тип баннера: 1x1-->
+    <!--Расположение: верх страницы-->
+    <!-- <div id="adfox_164759753920793037"></div>
+    <script>
+        window.yaContextCb.push(()=>{
+            Ya.adfoxCode.create({
+                ownerId: 265472,
+                containerId: 'adfox_164759753920793037',
+                params: {
+                    pp: 'g',
+                    ps: 'dgcr',
+                    p2: 'frfe'
+                }
+            })
+        })
+    </script> -->
+
+        </header>
+
+        
+<main class="index">
+    <div class="container">
+	    
+    <section class="owl-matches new-m-matches overflow-list">
+        <div class="owl-preload" data-start="5">
+            <i class="fas fa-spinner fa-spin"></i>
+        </div>
+
+        <div class="owl-container-carousel">
+            <button class="matches__toggle-left" data-action="previous">
+                <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M5.78033 9.7803C5.48744 10.0732 5.01256 10.0732 4.71967 9.7803L.469668 5.53033C.176777 5.23744.176777 4.76256.469668 4.46967L4.71967.21967C5.01256-.0732196 5.48744-.0732196 5.78033.21967 6.0732.51256 6.0732.987441 5.78033 1.28033L2.06066 5 5.78033 8.7197C6.0732 9.0126 6.0732 9.4874 5.78033 9.7803z" fill="#afafb3"></path>
+                </svg>
+            </button>
+            <div id="matches-slider" class="owl-carousel matches__slider w-100" data-start="5">
+                                    <div data-match="33046" class="matches__slide js-item" style="background-image:linear-gradient(180deg,rgba(14,14,16,.82) 0%,#333438 100%),url(/img/esport/tournament/1075.webp?1752252743?1752252743);">
+
+    <a href="/esport/match/33046-pipsqueak4-vs-avulus/">
+        <div class="matches__slide-left">
+            <img src="/img/esport/team/6835.webp?1757388990" alt="team">
+            <p class="text-clip">Pips+4</p>
+                    </div>
+        <div class="matches__slide-middle">
+            <object class="matches__slide-middle__object-link">
+                <a class="matches__slide-dota" href="/esport/tournament/1075-cct-season-2-series-7/">
+                    <img src="/img/esport/tournament_mini/1075.webp?1752252743" alt="CCT Season 2 Series 7">
+                </a>
+            </object>
+                            <div class="matches__slide-cup status">
+                    <div class='score'>2:0</div>                </div>
+                    </div>
+        <div class="matches__slide-right">
+            <img src="/img/esport/team/6459.webp?1727449338" alt="team">
+            <p class="text-clip">AVULUS</p>
+                    </div>
+    </a>
+        <a class="matches__slide__tournament-wrap matches__slide--no-hover" href="/esport/tournament/1075-cct-season-2-series-7/" data-match="33046">
+        CCT Season 2 Series 7    </a>
+</div>                                    <div data-match="33011" class="matches__slide js-item" style="background-image:linear-gradient(180deg,rgba(14,14,16,.82) 0%,#333438 100%),url(/img/esport/tournament/1094.webp?1757655721?1757655721);">
+
+    <a href="/esport/match/33011-tundra-esports-vs-execration/">
+        <div class="matches__slide-left">
+            <img src="/img/esport/team/5536.webp?1658075459" alt="team">
+            <p class="text-clip">Tundra</p>
+                    </div>
+        <div class="matches__slide-middle">
+            <object class="matches__slide-middle__object-link">
+                <a class="matches__slide-dota" href="/esport/tournament/1094-dreamleague-season-28/">
+                    <img src="/img/esport/tournament_mini/1094.webp?1757655721" alt="DreamLeague Season 28">
+                </a>
+            </object>
+                            <div class="matches__slide-cup status">
+                    <div class='score'>2:0</div>                </div>
+                    </div>
+        <div class="matches__slide-right">
+            <img src="/img/esport/team/59.webp?1734259830" alt="team">
+            <p class="text-clip">XctN</p>
+                    </div>
+    </a>
+        <a class="matches__slide__tournament-wrap matches__slide--no-hover" href="/esport/tournament/1094-dreamleague-season-28/" data-match="33011">
+        DreamLeague Season 28    </a>
+</div>                                    <div data-match="33008" class="matches__slide js-item" style="background-image:linear-gradient(180deg,rgba(14,14,16,.82) 0%,#333438 100%),url(/img/esport/tournament/1094.webp?1757655721?1757655721);">
+
+    <a href="/esport/match/33008-team-spirit-vs-team-falcons/">
+        <div class="matches__slide-left">
+            <img src="/img/esport/team/67.webp?1678812369" alt="team">
+            <p class="text-clip">Spirit</p>
+                    </div>
+        <div class="matches__slide-middle">
+            <object class="matches__slide-middle__object-link">
+                <a class="matches__slide-dota" href="/esport/tournament/1094-dreamleague-season-28/">
+                    <img src="/img/esport/tournament_mini/1094.webp?1757655721" alt="DreamLeague Season 28">
+                </a>
+            </object>
+                            <div class="matches__slide-cup status">
+                    <div class='score'>1:1</div>                </div>
+                    </div>
+        <div class="matches__slide-right">
+            <img src="/img/esport/team/6277.webp?1700131113" alt="team">
+            <p class="text-clip">Falcons</p>
+                    </div>
+    </a>
+        <a class="matches__slide__tournament-wrap matches__slide--no-hover" href="/esport/tournament/1094-dreamleague-season-28/" data-match="33008">
+        DreamLeague Season 28    </a>
+</div>                                    <div data-match="33009" class="matches__slide js-item" style="background-image:linear-gradient(180deg,rgba(14,14,16,.82) 0%,#333438 100%),url(/img/esport/tournament/1094.webp?1757655721?1757655721);">
+
+    <a href="/esport/match/33009-natus-vincere-vs-mouz/">
+        <div class="matches__slide-left">
+            <img src="/img/esport/team/25.webp?1597580927" alt="team">
+            <p class="text-clip">NAVI</p>
+                    </div>
+        <div class="matches__slide-middle">
+            <object class="matches__slide-middle__object-link">
+                <a class="matches__slide-dota" href="/esport/tournament/1094-dreamleague-season-28/">
+                    <img src="/img/esport/tournament_mini/1094.webp?1757655721" alt="DreamLeague Season 28">
+                </a>
+            </object>
+                            <div class="matches__slide-cup status">
+                    <div class='score'>0:2</div>                </div>
+                    </div>
+        <div class="matches__slide-right">
+            <img src="/img/esport/team/783.webp?1709974874" alt="team">
+            <p class="text-clip">MOUZ</p>
+                    </div>
+    </a>
+        <a class="matches__slide__tournament-wrap matches__slide--no-hover" href="/esport/tournament/1094-dreamleague-season-28/" data-match="33009">
+        DreamLeague Season 28    </a>
+</div>                                    <div data-match="33010" class="matches__slide js-item" style="background-image:linear-gradient(180deg,rgba(14,14,16,.82) 0%,#333438 100%),url(/img/esport/tournament/1094.webp?1757655721?1757655721);">
+
+    <a href="/esport/match/33010-xtreme-gaming-vs-gamerlegion/">
+        <div class="matches__slide-left">
+            <img src="/img/esport/team/5490.webp?1610096017" alt="team">
+            <p class="text-clip">XG</p>
+                    </div>
+        <div class="matches__slide-middle">
+            <object class="matches__slide-middle__object-link">
+                <a class="matches__slide-dota" href="/esport/tournament/1094-dreamleague-season-28/">
+                    <img src="/img/esport/tournament_mini/1094.webp?1757655721" alt="DreamLeague Season 28">
+                </a>
+            </object>
+                            <div class="matches__slide-cup status">
+                    <div class='score'>1:1</div>                </div>
+                    </div>
+        <div class="matches__slide-right">
+            <img src="/img/esport/team/6878.webp?1763176739" alt="team">
+            <p class="text-clip">GL</p>
+                    </div>
+    </a>
+        <a class="matches__slide__tournament-wrap matches__slide--no-hover" href="/esport/tournament/1094-dreamleague-season-28/" data-match="33010">
+        DreamLeague Season 28    </a>
+</div>                                    <div data-match="33007" class="matches__slide js-item" style="background-image:linear-gradient(180deg,rgba(14,14,16,.82) 0%,#333438 100%),url(/img/esport/tournament/1094.webp?1757655721?1757655721);">
+
+    <a href="/esport/match/33007-betboom-team-vs-yakult-brothers/">
+        <div class="matches__slide-left">
+            <img src="/img/esport/team/5801.webp?1719837605" alt="team">
+            <p class="text-clip">BB</p>
+                    </div>
+        <div class="matches__slide-middle">
+            <object class="matches__slide-middle__object-link">
+                <a class="matches__slide-dota" href="/esport/tournament/1094-dreamleague-season-28/">
+                    <img src="/img/esport/tournament_mini/1094.webp?1757655721" alt="DreamLeague Season 28">
+                </a>
+            </object>
+                            <div class="matches__slide-cup status">
+                    <div class='score'>2:0</div>                </div>
+                    </div>
+        <div class="matches__slide-right">
+            <img src="/img/esport/team/6521.webp?1759149607" alt="team">
+            <p class="text-clip">Yakult</p>
+                    </div>
+    </a>
+        <a class="matches__slide__tournament-wrap matches__slide--no-hover" href="/esport/tournament/1094-dreamleague-season-28/" data-match="33007">
+        DreamLeague Season 28    </a>
+</div>                                    <div data-match="33047" class="matches__slide js-item" style="background-image:linear-gradient(180deg,rgba(14,14,16,.82) 0%,#333438 100%),url(/img/esport/tournament/1075.webp?1752252743?1752252743);">
+
+    <a href="/esport/match/33047-l1ga-team-vs-pipsqueak4/">
+        <div class="matches__slide-left">
+            <img src="/img/esport/team/6331.webp?1704554867" alt="team">
+            <p class="text-clip">L1GA</p>
+                            <p class="matches__slide-coeff">
+                    
+                                                                                                                        <object>
+                                        <a href="/gobet/85674" rel="nofollow noopener noreferrer" target="_blank" class="match-odds-link">
+                                            9.00                                        </a>
+                                    </object>
+                                                            
+                        
+                                    </p>
+                    </div>
+        <div class="matches__slide-middle">
+            <object class="matches__slide-middle__object-link">
+                <a class="matches__slide-dota" href="/esport/tournament/1075-cct-season-2-series-7/">
+                    <img src="/img/esport/tournament_mini/1075.webp?1752252743" alt="CCT Season 2 Series 7">
+                </a>
+            </object>
+                            <div class="gradient-btn matches__slide-live">
+                    LIVE                </div>
+                    </div>
+        <div class="matches__slide-right">
+            <img src="/img/esport/team/6835.webp?1757388990" alt="team">
+            <p class="text-clip">Pips+4</p>
+                            <p class="matches__slide-coeff">
+                    
+                        
+                                                                                                <object>
+                                        <a href="/gobet/85674" rel="nofollow noopener noreferrer" target="_blank" class="match-odds-link">
+                                            1.01                                        </a>
+                                    </object>
+                                                            
+                        
+                                    </p>
+                    </div>
+    </a>
+    
+        
+        
+                            
+                                            <a href="/gobet/85674" title="Сделать ставку" class="matches__slide-bet matches__slide--no-hover" target="_blank" rel="nofollow noopener noreferrer">
+                            <img src="/img/esport/odds/paribet.png">
+                        </a>
+                    
+                            
+                <a class="matches__slide__tournament-wrap matches__slide--no-hover" href="/esport/tournament/1075-cct-season-2-series-7/" data-match="33047">
+        CCT Season 2 Series 7    </a>
+</div>                                    <div data-match="33003" class="matches__slide js-item" style="background-image:linear-gradient(180deg,rgba(14,14,16,.82) 0%,#333438 100%),url(/img/esport/tournament/1094.webp?1757655721?1757655721);">
+
+    <a href="/esport/match/33003-og-vs-team-liquid/">
+        <div class="matches__slide-left">
+            <img src="/img/esport/team/44.webp?1767344343" alt="team">
+            <p class="text-clip">OG</p>
+                            <p class="matches__slide-coeff">
+                    
+                                                                                                                        <object>
+                                        <a href="/gobet/85581" rel="nofollow noopener noreferrer" target="_blank" class="match-odds-link">
+                                            2.48                                        </a>
+                                    </object>
+                                                            
+                        
+                                    </p>
+                    </div>
+        <div class="matches__slide-middle">
+            <object class="matches__slide-middle__object-link">
+                <a class="matches__slide-dota" href="/esport/tournament/1094-dreamleague-season-28/">
+                    <img src="/img/esport/tournament_mini/1094.webp?1757655721" alt="DreamLeague Season 28">
+                </a>
+            </object>
+                            <div class="gradient-btn matches__slide-live">
+                    LIVE                </div>
+                    </div>
+        <div class="matches__slide-right">
+            <img src="/img/esport/team/45.webp?1678285470" alt="team">
+            <p class="text-clip">Liquid</p>
+                            <p class="matches__slide-coeff">
+                    
+                        
+                                                                                                <object>
+                                        <a href="/gobet/85581" rel="nofollow noopener noreferrer" target="_blank" class="match-odds-link">
+                                            1.50                                        </a>
+                                    </object>
+                                                            
+                        
+                                    </p>
+                    </div>
+    </a>
+    
+        
+        
+                            
+                                            <a href="/gobet/85581" title="Сделать ставку" class="matches__slide-bet matches__slide--no-hover" target="_blank" rel="nofollow noopener noreferrer">
+                            <img src="/img/esport/odds/paribet.png">
+                        </a>
+                    
+                            
+                <a class="matches__slide__tournament-wrap matches__slide--no-hover" href="/esport/tournament/1094-dreamleague-season-28/" data-match="33003">
+        DreamLeague Season 28    </a>
+</div>                                    <div data-match="33004" class="matches__slide js-item" style="background-image:linear-gradient(180deg,rgba(14,14,16,.82) 0%,#333438 100%),url(/img/esport/tournament/1094.webp?1757655721?1757655721);">
+
+    <a href="/esport/match/33004-parivision-vs-aurora-gaming/">
+        <div class="matches__slide-left">
+            <img src="/img/esport/team/6522.webp?1729492397" alt="team">
+            <p class="text-clip">PARI</p>
+                            <p class="matches__slide-coeff">
+                    
+                                                                                                                        <object>
+                                        <a href="/gobet/85578" rel="nofollow noopener noreferrer" target="_blank" class="match-odds-link">
+                                            1.01                                        </a>
+                                    </object>
+                                                            
+                        
+                                    </p>
+                    </div>
+        <div class="matches__slide-middle">
+            <object class="matches__slide-middle__object-link">
+                <a class="matches__slide-dota" href="/esport/tournament/1094-dreamleague-season-28/">
+                    <img src="/img/esport/tournament_mini/1094.webp?1757655721" alt="DreamLeague Season 28">
+                </a>
+            </object>
+                            <div class="gradient-btn matches__slide-live">
+                    LIVE                </div>
+                    </div>
+        <div class="matches__slide-right">
+            <img src="/img/esport/team/6281.webp?1741361793" alt="team">
+            <p class="text-clip">Aurora</p>
+                            <p class="matches__slide-coeff">
+                    
+                        
+                                                                                                <object>
+                                        <a href="/gobet/85578" rel="nofollow noopener noreferrer" target="_blank" class="match-odds-link">
+                                            14.00                                        </a>
+                                    </object>
+                                                            
+                        
+                                    </p>
+                    </div>
+    </a>
+    
+        
+        
+                            
+                                            <a href="/gobet/85578" title="Сделать ставку" class="matches__slide-bet matches__slide--no-hover" target="_blank" rel="nofollow noopener noreferrer">
+                            <img src="/img/esport/odds/paribet.png">
+                        </a>
+                    
+                            
+                <a class="matches__slide__tournament-wrap matches__slide--no-hover" href="/esport/tournament/1094-dreamleague-season-28/" data-match="33004">
+        DreamLeague Season 28    </a>
+</div>                                    <div data-match="33006" class="matches__slide js-item" style="background-image:linear-gradient(180deg,rgba(14,14,16,.82) 0%,#333438 100%),url(/img/esport/tournament/1094.webp?1757655721?1757655721);">
+
+    <a href="/esport/match/33006-team-yandex-vs-pain-gaming/">
+        <div class="matches__slide-left">
+            <img src="/img/esport/team/6819.webp?1750682489" alt="team">
+            <p class="text-clip">Yandex</p>
+                            <p class="matches__slide-coeff">
+                    
+                                                                                                                        <object>
+                                        <a href="/gobet/85579" rel="nofollow noopener noreferrer" target="_blank" class="match-odds-link">
+                                            1.85                                        </a>
+                                    </object>
+                                                            
+                        
+                                    </p>
+                    </div>
+        <div class="matches__slide-middle">
+            <object class="matches__slide-middle__object-link">
+                <a class="matches__slide-dota" href="/esport/tournament/1094-dreamleague-season-28/">
+                    <img src="/img/esport/tournament_mini/1094.webp?1757655721" alt="DreamLeague Season 28">
+                </a>
+            </object>
+                            <div class="gradient-btn matches__slide-live">
+                    LIVE                </div>
+                    </div>
+        <div class="matches__slide-right">
+            <img src="/img/esport/team/232.webp?1747150949" alt="team">
+            <p class="text-clip">paiN</p>
+                            <p class="matches__slide-coeff">
+                    
+                        
+                                                                                                <object>
+                                        <a href="/gobet/85579" rel="nofollow noopener noreferrer" target="_blank" class="match-odds-link">
+                                            1.89                                        </a>
+                                    </object>
+                                                            
+                        
+                                    </p>
+                    </div>
+    </a>
+    
+        
+        
+                            
+                                            <a href="/gobet/85579" title="Сделать ставку" class="matches__slide-bet matches__slide--no-hover" target="_blank" rel="nofollow noopener noreferrer">
+                            <img src="/img/esport/odds/paribet.png">
+                        </a>
+                    
+                            
+                <a class="matches__slide__tournament-wrap matches__slide--no-hover" href="/esport/tournament/1094-dreamleague-season-28/" data-match="33006">
+        DreamLeague Season 28    </a>
+</div>                                    <div data-match="33015" class="matches__slide js-item" style="background-image:linear-gradient(180deg,rgba(14,14,16,.82) 0%,#333438 100%),url(/img/esport/tournament/1094.webp?1757655721?1757655721);">
+
+    <a href="/esport/match/33015-team-spirit-vs-execration/">
+        <div class="matches__slide-left">
+            <img src="/img/esport/team/67.webp?1678812369" alt="team">
+            <p class="text-clip">Spirit</p>
+                            <p class="matches__slide-coeff">
+                    
+                                                                                                                        <object>
+                                        <a href="/gobet/85583" rel="nofollow noopener noreferrer" target="_blank" class="match-odds-link">
+                                            1.85                                        </a>
+                                    </object>
+                                                            
+                        
+                                    </p>
+                    </div>
+        <div class="matches__slide-middle">
+            <object class="matches__slide-middle__object-link">
+                <a class="matches__slide-dota" href="/esport/tournament/1094-dreamleague-season-28/">
+                    <img src="/img/esport/tournament_mini/1094.webp?1757655721" alt="DreamLeague Season 28">
+                </a>
+            </object>
+                            <div class="time">
+                    <p class='matches__slide-time'>
+            21:30
+            <span data-time='1771525800' class='date' data-id='1771525800'>19.02</span>
+        </p><div class="to-start-time">Через 18 мин.</div>                </div>
+                    </div>
+        <div class="matches__slide-right">
+            <img src="/img/esport/team/59.webp?1734259830" alt="team">
+            <p class="text-clip">XctN</p>
+                            <p class="matches__slide-coeff">
+                    
+                        
+                                                                                                <object>
+                                        <a href="/gobet/85583" rel="nofollow noopener noreferrer" target="_blank" class="match-odds-link">
+                                            2.50                                        </a>
+                                    </object>
+                                                            
+                        
+                                    </p>
+                    </div>
+    </a>
+    
+        
+        
+                            
+                                            <a href="/gobet/85583" title="Сделать ставку" class="matches__slide-bet matches__slide--no-hover" target="_blank" rel="nofollow noopener noreferrer">
+                            <img src="/img/esport/odds/paribet.png">
+                        </a>
+                    
+                            
+                <a class="matches__slide__tournament-wrap matches__slide--no-hover" href="/esport/tournament/1094-dreamleague-season-28/" data-match="33015">
+        DreamLeague Season 28    </a>
+</div>                                    <div data-match="33014" class="matches__slide js-item" style="background-image:linear-gradient(180deg,rgba(14,14,16,.82) 0%,#333438 100%),url(/img/esport/tournament/1094.webp?1757655721?1757655721);">
+
+    <a href="/esport/match/33014-mouz-vs-gamerlegion/">
+        <div class="matches__slide-left">
+            <img src="/img/esport/team/783.webp?1709974874" alt="team">
+            <p class="text-clip">MOUZ</p>
+                            <p class="matches__slide-coeff">
+                    
+                                                                                                                        <object>
+                                        <a href="/gobet/85584" rel="nofollow noopener noreferrer" target="_blank" class="match-odds-link">
+                                            2.10                                        </a>
+                                    </object>
+                                                            
+                        
+                                    </p>
+                    </div>
+        <div class="matches__slide-middle">
+            <object class="matches__slide-middle__object-link">
+                <a class="matches__slide-dota" href="/esport/tournament/1094-dreamleague-season-28/">
+                    <img src="/img/esport/tournament_mini/1094.webp?1757655721" alt="DreamLeague Season 28">
+                </a>
+            </object>
+                            <div class="time">
+                    <p class='matches__slide-time'>
+            21:30
+            <span data-time='1771525800' class='date' data-id='1771525800'>19.02</span>
+        </p><div class="to-start-time">Через 18 мин.</div>                </div>
+                    </div>
+        <div class="matches__slide-right">
+            <img src="/img/esport/team/6878.webp?1763176739" alt="team">
+            <p class="text-clip">GL</p>
+                            <p class="matches__slide-coeff">
+                    
+                        
+                                                                                                <object>
+                                        <a href="/gobet/85584" rel="nofollow noopener noreferrer" target="_blank" class="match-odds-link">
+                                            2.30                                        </a>
+                                    </object>
+                                                            
+                        
+                                    </p>
+                    </div>
+    </a>
+    
+        
+        
+                            
+                                            <a href="/gobet/85584" title="Сделать ставку" class="matches__slide-bet matches__slide--no-hover" target="_blank" rel="nofollow noopener noreferrer">
+                            <img src="/img/esport/odds/paribet.png">
+                        </a>
+                    
+                            
+                <a class="matches__slide__tournament-wrap matches__slide--no-hover" href="/esport/tournament/1094-dreamleague-season-28/" data-match="33014">
+        DreamLeague Season 28    </a>
+</div>                                    <div data-match="33013" class="matches__slide js-item" style="background-image:linear-gradient(180deg,rgba(14,14,16,.82) 0%,#333438 100%),url(/img/esport/tournament/1094.webp?1757655721?1757655721);">
+
+    <a href="/esport/match/33013-tundra-esports-vs-natus-vincere/">
+        <div class="matches__slide-left">
+            <img src="/img/esport/team/5536.webp?1658075459" alt="team">
+            <p class="text-clip">Tundra</p>
+                            <p class="matches__slide-coeff">
+                    
+                                                                                                                        <object>
+                                        <a href="/gobet/85585" rel="nofollow noopener noreferrer" target="_blank" class="match-odds-link">
+                                            3.00                                        </a>
+                                    </object>
+                                                            
+                        
+                                    </p>
+                    </div>
+        <div class="matches__slide-middle">
+            <object class="matches__slide-middle__object-link">
+                <a class="matches__slide-dota" href="/esport/tournament/1094-dreamleague-season-28/">
+                    <img src="/img/esport/tournament_mini/1094.webp?1757655721" alt="DreamLeague Season 28">
+                </a>
+            </object>
+                            <div class="time">
+                    <p class='matches__slide-time'>
+            21:30
+            <span data-time='1771525800' class='date' data-id='1771525800'>19.02</span>
+        </p><div class="to-start-time">Через 18 мин.</div>                </div>
+                    </div>
+        <div class="matches__slide-right">
+            <img src="/img/esport/team/25.webp?1597580927" alt="team">
+            <p class="text-clip">NAVI</p>
+                            <p class="matches__slide-coeff">
+                    
+                        
+                                                                                                <object>
+                                        <a href="/gobet/85585" rel="nofollow noopener noreferrer" target="_blank" class="match-odds-link">
+                                            2.05                                        </a>
+                                    </object>
+                                                            
+                        
+                                    </p>
+                    </div>
+    </a>
+    
+        
+        
+                            
+                                            <a href="/gobet/85585" title="Сделать ставку" class="matches__slide-bet matches__slide--no-hover" target="_blank" rel="nofollow noopener noreferrer">
+                            <img src="/img/esport/odds/paribet.png">
+                        </a>
+                    
+                            
+                <a class="matches__slide__tournament-wrap matches__slide--no-hover" href="/esport/tournament/1094-dreamleague-season-28/" data-match="33013">
+        DreamLeague Season 28    </a>
+</div>                                    <div data-match="33012" class="matches__slide js-item" style="background-image:linear-gradient(180deg,rgba(14,14,16,.82) 0%,#333438 100%),url(/img/esport/tournament/1094.webp?1757655721?1757655721);">
+
+    <a href="/esport/match/33012-xtreme-gaming-vs-team-falcons/">
+        <div class="matches__slide-left">
+            <img src="/img/esport/team/5490.webp?1610096017" alt="team">
+            <p class="text-clip">XG</p>
+                            <p class="matches__slide-coeff">
+                    
+                                                                                                                        <object>
+                                        <a href="/gobet/85582" rel="nofollow noopener noreferrer" target="_blank" class="match-odds-link">
+                                            5.30                                        </a>
+                                    </object>
+                                                            
+                        
+                                    </p>
+                    </div>
+        <div class="matches__slide-middle">
+            <object class="matches__slide-middle__object-link">
+                <a class="matches__slide-dota" href="/esport/tournament/1094-dreamleague-season-28/">
+                    <img src="/img/esport/tournament_mini/1094.webp?1757655721" alt="DreamLeague Season 28">
+                </a>
+            </object>
+                            <div class="time">
+                    <p class='matches__slide-time'>
+            21:30
+            <span data-time='1771525800' class='date' data-id='1771525800'>19.02</span>
+        </p><div class="to-start-time">Через 18 мин.</div>                </div>
+                    </div>
+        <div class="matches__slide-right">
+            <img src="/img/esport/team/6277.webp?1700131113" alt="team">
+            <p class="text-clip">Falcons</p>
+                            <p class="matches__slide-coeff">
+                    
+                        
+                                                                                                <object>
+                                        <a href="/gobet/85582" rel="nofollow noopener noreferrer" target="_blank" class="match-odds-link">
+                                            2.10                                        </a>
+                                    </object>
+                                                            
+                        
+                                    </p>
+                    </div>
+    </a>
+    
+        
+        
+                            
+                                            <a href="/gobet/85582" title="Сделать ставку" class="matches__slide-bet matches__slide--no-hover" target="_blank" rel="nofollow noopener noreferrer">
+                            <img src="/img/esport/odds/paribet.png">
+                        </a>
+                    
+                            
+                <a class="matches__slide__tournament-wrap matches__slide--no-hover" href="/esport/tournament/1094-dreamleague-season-28/" data-match="33012">
+        DreamLeague Season 28    </a>
+</div>                                    <div data-match="33054" class="matches__slide js-item" style="background-image:linear-gradient(180deg,rgba(14,14,16,.82) 0%,#333438 100%),url(/img/esport/tournament/1157.webp?1770026402?1770026402);">
+
+    <a href="/esport/match/33054-yangon-galacticos-vs-ivory/">
+        <div class="matches__slide-left">
+            <img src="/img/esport/team/5501.webp?1671790628" alt="team">
+            <p class="text-clip">Yangon</p>
+                            <p class="matches__slide-coeff">
+                    
+                                                                                                                        <object>
+                                        <a href="/gobet/85661" rel="nofollow noopener noreferrer" target="_blank" class="match-odds-link">
+                                            1.85                                        </a>
+                                    </object>
+                                                            
+                        
+                                    </p>
+                    </div>
+        <div class="matches__slide-middle">
+            <object class="matches__slide-middle__object-link">
+                <a class="matches__slide-dota" href="/esport/tournament/1157-epl-world-series-southeast-asia-season-12/">
+                    <img src="/img/esport/tournament_mini/1157.webp?1770026402" alt="EPL World Series: Southeast Asia Season 12">
+                </a>
+            </object>
+                            <div class="time">
+                    <p class='matches__slide-time'>
+            07:00
+            <span data-time='1771560000' class='date' data-id='1771560000'>20.02</span>
+        </p><div class="to-start-time">Через 9 ч. 48 мин.</div>                </div>
+                    </div>
+        <div class="matches__slide-right">
+            <img src="/img/esport/team/6479.webp?1734363910" alt="team">
+            <p class="text-clip">Ivory</p>
+                            <p class="matches__slide-coeff">
+                    
+                        
+                                                                                                <object>
+                                        <a href="/gobet/85661" rel="nofollow noopener noreferrer" target="_blank" class="match-odds-link">
+                                            1.85                                        </a>
+                                    </object>
+                                                            
+                        
+                                    </p>
+                    </div>
+    </a>
+    
+        
+        
+                            
+                                            <a href="/gobet/85661" title="Сделать ставку" class="matches__slide-bet matches__slide--no-hover" target="_blank" rel="nofollow noopener noreferrer">
+                            <img src="/img/esport/odds/paribet.png">
+                        </a>
+                    
+                            
+                <a class="matches__slide__tournament-wrap matches__slide--no-hover" href="/esport/tournament/1157-epl-world-series-southeast-asia-season-12/" data-match="33054">
+        EPL World Series: Southeast Asia Season 12    </a>
+</div>                            </div>
+            <button class="matches__toggle-right" data-action="next">
+                <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M5.78033 9.7803C5.48744 10.0732 5.01256 10.0732 4.71967 9.7803L.469668 5.53033C.176777 5.23744.176777 4.76256.469668 4.46967L4.71967.21967C5.01256-.0732196 5.48744-.0732196 5.78033.21967 6.0732.51256 6.0732.987441 5.78033 1.28033L2.06066 5 5.78033 8.7197C6.0732 9.0126 6.0732 9.4874 5.78033 9.7803z" fill="#afafb3"></path>
+                </svg>
+            </button>
+        </div>
+    </section>
+        
+        <div class="index__wrap">
+	        <section class="index__left-bar">
+  
+  	  
+<div class="forum component-block  component-block__hide-after-12">
+	<a class="component-block__title subtitle-global" href="/forum/">Форум</a>
+	<ul class="component-block__list forum__list">
+                                    <li class="forum__item component-block__link-wrapper">
+                    <a class="component-block__link" href="/forum/threads/kak-vyigrat-ochen-slozhnuju-igru.1625711/">
+                        <img class="component-block__img component-block__img--width-36 component-block__img--radius"
+                             src="/img/forum/forum-icons/148.png?879" alt="img">
+                        
+                        <div class="component-block__block forum__block">
+                            <p class="component-text-grey-13 text-clip">
+                                Как выиграть очень сложную игру?                            </p>
+                            
+                            <span class="component-text-grey-11">
+                                L123                                <img src="/img/forum/icon-1.svg" alt="img">6                            </span>
+                        </div>
+                    </a>
+    
+                    <div class="short">
+                        <div class="topic-header">Как выиграть очень сложную игру?</div>
+                        <div class="short-author">
+                            <div class="author">Автор: L123</div>
+                            <div class="node">Рейтинговая система и статистика</div>
+                        </div>
+                        <div class="message">Хочу спросить у более скиловых игроков, что я мог сделать в этой игре, чтобы ее выиграть?: Я выиграл мид, к 10-й минуте у меня было 7/1. После этого начал активно двигаться по карте - гангать сайдлайны...</div>
+                        <div class="bottom-block">
+                            <time class="node" data-time="1771520697"></time>
+                        </div>
+                    </div>
+                </li>
+                                                                                                            <li class="forum__item component-block__link-wrapper">
+                    <a class="component-block__link" href="/forum/threads/itogi-tupnira-blast-spojlery.1625473/">
+                        <img class="component-block__img component-block__img--width-36 component-block__img--radius"
+                             src="/img/forum/forum-icons/145.png?879" alt="img">
+                        
+                        <div class="component-block__block forum__block">
+                            <p class="component-text-grey-13 text-clip">
+                                Итоги тупнира Бласт ( спойлеры )                            </p>
+                            
+                            <span class="component-text-grey-11">
+                                Trizy                                <img src="/img/forum/icon-2.svg" alt="img">37                            </span>
+                        </div>
+                    </a>
+    
+                    <div class="short">
+                        <div class="topic-header">Итоги тупнира Бласт ( спойлеры )</div>
+                        <div class="short-author">
+                            <div class="author">Автор: Trizy</div>
+                            <div class="node">Киберспорт: матчи, турниры, команды и игроки</div>
+                        </div>
+                        <div class="message">Сам формат турнира - полнейший мусор , смотреть две бо5 плей-офф - идея дебила конченого . Ничего лучше швейцарки не было . Ликвид по дефолт у выиграли      По игрокам кто выделился :  Всё 4 игрока Ликвид...</div>
+                        <div class="bottom-block">
+                            <time class="node" data-time="1771256251"></time>
+                        </div>
+                    </div>
+                </li>
+                                                <li class="forum__item component-block__link-wrapper">
+                    <a class="component-block__link" href="/forum/threads/propal-aegis-syn-shljupki.1625716/">
+                        <img class="component-block__img component-block__img--width-36 component-block__img--radius"
+                             src="/img/forum/forum-icons/175.png?879" alt="img">
+                        
+                        <div class="component-block__block forum__block">
+                            <p class="component-text-grey-13 text-clip">
+                                Пропал аегис = сын шлюпки                            </p>
+                            
+                            <span class="component-text-grey-11">
+                                Kopa_CoCHoBa9I                                <img src="/img/forum/icon-2.svg" alt="img">0                            </span>
+                        </div>
+                    </a>
+    
+                    <div class="short">
+                        <div class="topic-header">Пропал аегис = сын шлюпки</div>
+                        <div class="short-author">
+                            <div class="author">Автор: Kopa_CoCHoBa9I</div>
+                            <div class="node">Обитель нытья</div>
+                        </div>
+                        <div class="message">Ну реально сука, в игре абсолютно всегда есть возможности реализовать аегис, сейчас мета файтов за респект. Мб есть исключения когда вы в пати у вас какой-то план типа пофармить лес до рефрешера на воиде...</div>
+                        <div class="bottom-block">
+                            <time class="node" data-time="1771524621"></time>
+                        </div>
+                    </div>
+                </li>
+                                                <li class="forum__item component-block__link-wrapper">
+                    <a class="component-block__link" href="/forum/threads/luz-strim-idet.1625708/">
+                        <img class="component-block__img component-block__img--width-36 component-block__img--radius"
+                             src="/img/forum/forum-icons/175.png?879" alt="img">
+                        
+                        <div class="component-block__block forum__block">
+                            <p class="component-text-grey-13 text-clip">
+                                луз стрим идет                            </p>
+                            
+                            <span class="component-text-grey-11">
+                                Eagerbebetter                                <img src="/img/forum/icon-2.svg" alt="img">8                            </span>
+                        </div>
+                    </a>
+    
+                    <div class="short">
+                        <div class="topic-header">луз стрим идет</div>
+                        <div class="short-author">
+                            <div class="author">Автор: Eagerbebetter</div>
+                            <div class="node">Обитель нытья</div>
+                        </div>
+                        <div class="message">выигруем игру фантомка ммусор идет фидить 3 раза в ряд стрики...итог мы слили..он скзала что уровняывает шансы...откудас только идиотов.https://stratz.com/matches/8697341016...</div>
+                        <div class="bottom-block">
+                            <time class="node" data-time="1771524578"></time>
+                        </div>
+                    </div>
+                </li>
+                                                <li class="forum__item component-block__link-wrapper">
+                    <a class="component-block__link" href="/forum/threads/llm-ne-mogu-prijti-v-sebja.1625423/">
+                        <img class="component-block__img component-block__img--width-36 component-block__img--radius"
+                             src="/img/forum/forum-icons/215.png?879" alt="img">
+                        
+                        <div class="component-block__block forum__block">
+                            <p class="component-text-grey-13 text-clip">
+                                LLM - не могу прийти в себя                            </p>
+                            
+                            <span class="component-text-grey-11">
+                                SlowLySho0t                                <img src="/img/forum/icon-2.svg" alt="img">85                            </span>
+                        </div>
+                    </a>
+    
+                    <div class="short">
+                        <div class="topic-header">LLM - не могу прийти в себя</div>
+                        <div class="short-author">
+                            <div class="author">Автор: SlowLySho0t</div>
+                            <div class="node">Программирование и ИИ</div>
+                        </div>
+                        <div class="message">В общем с ноября месяца начал вкатываться во всю эту движуху. И вот 14.02.2026 - я и мой коллега за 1 день пилим проект в сфере 1С. Который ранее делала команда разработчиков с аналитиками. Мы вчера в...</div>
+                        <div class="bottom-block">
+                            <time class="node" data-time="1771524526"></time>
+                        </div>
+                    </div>
+                </li>
+                                                <li class="forum__item component-block__link-wrapper">
+                    <a class="component-block__link" href="/forum/threads/menja-nado-izolirovat-ot-obschestva.1625713/">
+                        <img class="component-block__img component-block__img--width-36 component-block__img--radius"
+                             src="/img/forum/forum-icons/6.png?879" alt="img">
+                        
+                        <div class="component-block__block forum__block">
+                            <p class="component-text-grey-13 text-clip">
+                                Меня надо изолировать от общества?                            </p>
+                            
+                            <span class="component-text-grey-11">
+                                Сказлипоп                                <img src="/img/forum/icon-2.svg" alt="img">12                            </span>
+                        </div>
+                    </a>
+    
+                    <div class="short">
+                        <div class="topic-header">Меня надо изолировать от общества?</div>
+                        <div class="short-author">
+                            <div class="author">Автор: Сказлипоп</div>
+                            <div class="node">Таверна</div>
+                        </div>
+                        <div class="message">Являюсь обладетелем этой серии игр... Спойлер   Прошел, но пока не все. Надо ли меня изолировать от общества куда нить подальше от людей?   самоирония...</div>
+                        <div class="bottom-block">
+                            <time class="node" data-time="1771524497"></time>
+                        </div>
+                    </div>
+                </li>
+                                                <li class="forum__item component-block__link-wrapper">
+                    <a class="component-block__link" href="/forum/threads/kniga-na-polu.1625707/">
+                        <img class="component-block__img component-block__img--width-36 component-block__img--radius"
+                             src="/img/forum/forum-icons/6.png?879" alt="img">
+                        
+                        <div class="component-block__block forum__block">
+                            <p class="component-text-grey-13 text-clip">
+                                Книга на полу                            </p>
+                            
+                            <span class="component-text-grey-11">
+                                Флютя                                <img src="/img/forum/icon-2.svg" alt="img">6                            </span>
+                        </div>
+                    </a>
+    
+                    <div class="short">
+                        <div class="topic-header">Книга на полу</div>
+                        <div class="short-author">
+                            <div class="author">Автор: Флютя</div>
+                            <div class="node">Таверна</div>
+                        </div>
+                        <div class="message">Почему после прочтения книги хочется лечь на пол и ничего больше не делать никогда?...</div>
+                        <div class="bottom-block">
+                            <time class="node" data-time="1771524414"></time>
+                        </div>
+                    </div>
+                </li>
+                                                <li class="forum__item component-block__link-wrapper">
+                    <a class="component-block__link" href="/forum/threads/rejdery-arkov.1620179/">
+                        <img class="component-block__img component-block__img--width-36 component-block__img--radius"
+                             src="/img/forum/forum-icons/197.png?879" alt="img">
+                        
+                        <div class="component-block__block forum__block">
+                            <p class="component-text-grey-13 text-clip">
+                                рейдеры арков                            </p>
+                            
+                            <span class="component-text-grey-11">
+                                Almighty One                                <img src="/img/forum/icon-2.svg" alt="img">618                            </span>
+                        </div>
+                    </a>
+    
+                    <div class="short">
+                        <div class="topic-header">рейдеры арков</div>
+                        <div class="short-author">
+                            <div class="author">Автор: Almighty One</div>
+                            <div class="node">Shooter, Battle Royale</div>
+                        </div>
+                        <div class="message">HAVE YOUR EYES ADJUSTED TO THE DARK YET, RAIDER?   альтернативное лого   тлдр: об игре + мое впечатление об игре   ARC Raiders — это стильный extraction-шутер от третьего лица (как Escape from Tarkov...</div>
+                        <div class="bottom-block">
+                            <time class="node" data-time="1771524357"></time>
+                        </div>
+                    </div>
+                </li>
+                                                <li class="forum__item component-block__link-wrapper">
+                    <a class="component-block__link" href="/forum/threads/sindrom-mistera-infiniti.1625709/">
+                        <img class="component-block__img component-block__img--width-36 component-block__img--radius"
+                             src="/img/forum/forum-icons/6.png?879" alt="img">
+                        
+                        <div class="component-block__block forum__block">
+                            <p class="component-text-grey-13 text-clip">
+                                Синдром мистера Инфинити                            </p>
+                            
+                            <span class="component-text-grey-11">
+                                MrInfinity666                                <img src="/img/forum/icon-2.svg" alt="img">5                            </span>
+                        </div>
+                    </a>
+    
+                    <div class="short">
+                        <div class="topic-header">Синдром мистера Инфинити</div>
+                        <div class="short-author">
+                            <div class="author">Автор: MrInfinity666</div>
+                            <div class="node">Таверна</div>
+                        </div>
+                        <div class="message">Как думаете, в честь мистера Инфинити назовут его собственное психическое расстройство или нет? Синдром мистера Инфинити - звучит хайпово. Да?...</div>
+                        <div class="bottom-block">
+                            <time class="node" data-time="1771524299"></time>
+                        </div>
+                    </div>
+                </li>
+                                                <li class="forum__item component-block__link-wrapper">
+                    <a class="component-block__link" href="/forum/threads/korejskie-doramy.1625714/">
+                        <img class="component-block__img component-block__img--width-36 component-block__img--radius"
+                             src="/img/forum/forum-icons/23.png?879" alt="img">
+                        
+                        <div class="component-block__block forum__block">
+                            <p class="component-text-grey-13 text-clip">
+                                Корейские дорамы                            </p>
+                            
+                            <span class="component-text-grey-11">
+                                Trizy                                <img src="/img/forum/icon-2.svg" alt="img">6                            </span>
+                        </div>
+                    </a>
+    
+                    <div class="short">
+                        <div class="topic-header">Корейские дорамы</div>
+                        <div class="short-author">
+                            <div class="author">Автор: Trizy</div>
+                            <div class="node">Кино, сериалы и книги</div>
+                        </div>
+                        <div class="message">Крч начал опять смотреть дорамы   Мои любимые : Королева Что Рин , и Золотая ложка ,ну и Паразиты , годнота .   Смотрел : Наследники , ну такое , и На пути к небесам , в начале было интересно, а дальше...</div>
+                        <div class="bottom-block">
+                            <time class="node" data-time="1771524245"></time>
+                        </div>
+                    </div>
+                </li>
+                                                <li class="forum__item component-block__link-wrapper">
+                    <a class="component-block__link" href="/forum/threads/korporativnyj-chatik.1625715/">
+                        <img class="component-block__img component-block__img--width-36 component-block__img--radius"
+                             src="/img/forum/forum-icons/6.png?879" alt="img">
+                        
+                        <div class="component-block__block forum__block">
+                            <p class="component-text-grey-13 text-clip">
+                                Корпоративный чатик                            </p>
+                            
+                            <span class="component-text-grey-11">
+                                Педогрязь                                <img src="/img/forum/icon-2.svg" alt="img">3                            </span>
+                        </div>
+                    </a>
+    
+                    <div class="short">
+                        <div class="topic-header">Корпоративный чатик</div>
+                        <div class="short-author">
+                            <div class="author">Автор: Педогрязь</div>
+                            <div class="node">Таверна</div>
+                        </div>
+                        <div class="message">Здарова. Задолбал макс. Уже добрался до нашей микро корпорации. Болтал сейчас с большими дядькам, что есть решение надёжное, вместо непонятного макса. Нужен только жирный айтишник и xmpp сервак настроить...</div>
+                        <div class="bottom-block">
+                            <time class="node" data-time="1771524071"></time>
+                        </div>
+                    </div>
+                </li>
+                                                <li class="forum__item component-block__link-wrapper">
+                    <a class="component-block__link" href="/forum/threads/kakaja-moba-na-mobilke-luchshaja.1625712/">
+                        <img class="component-block__img component-block__img--width-36 component-block__img--radius"
+                             src="/img/forum/forum-icons/24.png?879" alt="img">
+                        
+                        <div class="component-block__block forum__block">
+                            <p class="component-text-grey-13 text-clip">
+                                Какая моба на мобилке лучшая?                            </p>
+                            
+                            <span class="component-text-grey-11">
+                                JustSupp                                <img src="/img/forum/icon-2.svg" alt="img">7                            </span>
+                        </div>
+                    </a>
+    
+                    <div class="short">
+                        <div class="topic-header">Какая моба на мобилке лучшая?</div>
+                        <div class="short-author">
+                            <div class="author">Автор: JustSupp</div>
+                            <div class="node">Другие игры</div>
+                        </div>
+                        <div class="message">Вообщем, у меня комп сломался, а жрать говно как в доте хочется. Какая мобильная моба лучшая среди них? Жаль что практически все мобы на мобилке около анимешный кал, но увы, придется ТЕРПЕТЬ...</div>
+                        <div class="bottom-block">
+                            <time class="node" data-time="1771523899"></time>
+                        </div>
+                    </div>
+                </li>
+                                                <li class="forum__item component-block__link-wrapper">
+                    <a class="component-block__link" href="/forum/threads/zadumal-sobrat-komp.1625514/">
+                        <img class="component-block__img component-block__img--width-36 component-block__img--radius"
+                             src="/img/forum/forum-icons/178.png?879" alt="img">
+                        
+                        <div class="component-block__block forum__block">
+                            <p class="component-text-grey-13 text-clip">
+                                Задумал собрать комп                            </p>
+                            
+                            <span class="component-text-grey-11">
+                                SniperFrom2052                                <img src="/img/forum/icon-2.svg" alt="img">55                            </span>
+                        </div>
+                    </a>
+    
+                    <div class="short">
+                        <div class="topic-header">Задумал собрать комп</div>
+                        <div class="short-author">
+                            <div class="author">Автор: SniperFrom2052</div>
+                            <div class="node">Сборка ПК, значительный апгрейд</div>
+                        </div>
+                        <div class="message">Задумал собрать комп. До этого сидел на ноутбучном железе. Собирать буду через месяц. мб больше. ХЗ. как пойдет. Буду рад если поможете. Планы такие:Собираю комп без видеокарты. Пару месяцев сижу на встройке.Дальше...</div>
+                        <div class="bottom-block">
+                            <time class="node" data-time="1771523623"></time>
+                        </div>
+                    </div>
+                </li>
+                    	</ul>
+</div>	  
+  
+    <div class="tournament component-block">
+        <a class="component-block__title subtitle-global" href="/esport/tournaments/">Турниры</a>
+        <ul class="component-block__list">
+                            <li class="tournament__time">Предстоящие</li>
+                
+                                    
+<li class="tournament__item">
+	<a class="component-block__link" href="/esport/tournament/1159-cct-season-2-south-america-series-3/">
+		<img class="component-block__img component-block__img--width-36"
+		     src="/img/esport/tournament_mini/1159.webp?1770477701"
+		     alt="CCT Season 2: South America Series 3">
+		
+		<div class="component-block__block">
+			<p class="component-text-grey-13 text-clip">
+				CCT Season 2: South America Series 3			</p>
+			
+			<span class="component-text-grey-11">
+									28 фев - 8 мар 2026								<span class="text-color--green">
+					$20 000				</span>
+			</span>
+		</div>
+	</a>
+</li>                                    
+<li class="tournament__item">
+	<a class="component-block__link" href="/esport/tournament/1108-pgl-wallachia-season-7/">
+		<img class="component-block__img component-block__img--width-36"
+		     src="/img/esport/tournament_mini/1108.webp?1759047098"
+		     alt="PGL Wallachia Season 7">
+		
+		<div class="component-block__block">
+			<p class="component-text-grey-13 text-clip">
+				PGL Wallachia Season 7			</p>
+			
+			<span class="component-text-grey-11">
+									7 - 15 мар 2026								<span class="text-color--green">
+					$1 000 000				</span>
+			</span>
+		</div>
+	</a>
+</li>                                    
+<li class="tournament__item">
+	<a class="component-block__link" href="/esport/tournament/1097-esl-one-birmingham-2026/">
+		<img class="component-block__img component-block__img--width-36"
+		     src="/img/esport/tournament_mini/1097.webp?1757662823"
+		     alt="ESL One Birmingham 2026">
+		
+		<div class="component-block__block">
+			<p class="component-text-grey-13 text-clip">
+				ESL One Birmingham 2026			</p>
+			
+			<span class="component-text-grey-11">
+									22 - 29 мар 2026								<span class="text-color--green">
+					$1 000 000				</span>
+			</span>
+		</div>
+	</a>
+</li>                                    
+<li class="tournament__item">
+	<a class="component-block__link" href="/esport/tournament/1155-blast-slam-vii-zakrytye-kvalifikacii-ugo-vostocnoj-azii/">
+		<img class="component-block__img component-block__img--width-36"
+		     src="/img/esport/tournament_mini/1155.webp?1769018255"
+		     alt="Blast Slam VII: Закрытые квалификации Юго-Восточной Азии">
+		
+		<div class="component-block__block">
+			<p class="component-text-grey-13 text-clip">
+				Blast Slam VII: Закрытые квалификации Юго-Восточной Азии			</p>
+			
+			<span class="component-text-grey-11">
+									2 - 3 апр 2026								<span class="text-color--green">
+									</span>
+			</span>
+		</div>
+	</a>
+</li>                                    
+<li class="tournament__item">
+	<a class="component-block__link" href="/esport/tournament/1154-blast-slam-vii-zakrytye-kvalifikacii-kitaa/">
+		<img class="component-block__img component-block__img--width-36"
+		     src="/img/esport/tournament_mini/1154.webp?1769017880"
+		     alt="Blast Slam VII: Закрытые квалификации Китая">
+		
+		<div class="component-block__block">
+			<p class="component-text-grey-13 text-clip">
+				Blast Slam VII: Закрытые квалификации Китая			</p>
+			
+			<span class="component-text-grey-11">
+									2 - 3 апр 2026								<span class="text-color--green">
+									</span>
+			</span>
+		</div>
+	</a>
+</li>                                        
+                            <li class="tournament__time">Текущие</li>
+                
+                                    
+<li class="tournament__item">
+	<a class="component-block__link" href="/esport/tournament/1075-cct-season-2-series-7/">
+		<img class="component-block__img component-block__img--width-36"
+		     src="/img/esport/tournament_mini/1075.webp?1752252743"
+		     alt="CCT Season 2 Series 7">
+		
+		<div class="component-block__block">
+			<p class="component-text-grey-13 text-clip">
+				CCT Season 2 Series 7			</p>
+			
+			<span class="component-text-grey-11">
+									12 - 20 фев 2026								<span class="text-color--green">
+					$40 000				</span>
+			</span>
+		</div>
+	</a>
+</li>                                    
+<li class="tournament__item">
+	<a class="component-block__link" href="/esport/tournament/1157-epl-world-series-southeast-asia-season-12/">
+		<img class="component-block__img component-block__img--width-36"
+		     src="/img/esport/tournament_mini/1157.webp?1770026402"
+		     alt="EPL World Series: Southeast Asia Season 12">
+		
+		<div class="component-block__block">
+			<p class="component-text-grey-13 text-clip">
+				EPL World Series: Southeast Asia Season 12			</p>
+			
+			<span class="component-text-grey-11">
+									2 - 21 фев 2026								<span class="text-color--green">
+					$10 000				</span>
+			</span>
+		</div>
+	</a>
+</li>                                    
+<li class="tournament__item">
+	<a class="component-block__link" href="/esport/tournament/1160-epl-championship-season-2/">
+		<img class="component-block__img component-block__img--width-36"
+		     src="/img/esport/tournament_mini/1160.webp?1771500791"
+		     alt="EPL Championship Season 2">
+		
+		<div class="component-block__block">
+			<p class="component-text-grey-13 text-clip">
+				EPL Championship Season 2			</p>
+			
+			<span class="component-text-grey-11">
+									19 - 28 фев 2026								<span class="text-color--green">
+					$7 500				</span>
+			</span>
+		</div>
+	</a>
+</li>                                    
+<li class="tournament__item">
+	<a class="component-block__link" href="/esport/tournament/1094-dreamleague-season-28/">
+		<img class="component-block__img component-block__img--width-36"
+		     src="/img/esport/tournament_mini/1094.webp?1757655721"
+		     alt="DreamLeague Season 28">
+		
+		<div class="component-block__block">
+			<p class="component-text-grey-13 text-clip">
+				DreamLeague Season 28			</p>
+			
+			<span class="component-text-grey-11">
+									16 фев - 1 мар 2026								<span class="text-color--green">
+					$1 000 000				</span>
+			</span>
+		</div>
+	</a>
+</li>                                    
+<li class="tournament__item">
+	<a class="component-block__link" href="/esport/tournament/1158-lunar-snake-trophy-6/">
+		<img class="component-block__img component-block__img--width-36"
+		     src="/img/esport/tournament_mini/1158.webp?1770373514"
+		     alt="Lunar Snake Trophy 6">
+		
+		<div class="component-block__block">
+			<p class="component-text-grey-13 text-clip">
+				Lunar Snake Trophy 6			</p>
+			
+			<span class="component-text-grey-11">
+									7 фев - 3 мар 2026								<span class="text-color--green">
+					$15 000				</span>
+			</span>
+		</div>
+	</a>
+</li>                                        
+                            <li class="tournament__time">Прошедшие</li>
+                
+                                    
+<li class="tournament__item">
+	<a class="component-block__link" href="/esport/tournament/1156-european-pro-league-season-34/">
+		<img class="component-block__img component-block__img--width-36"
+		     src="/img/esport/tournament_mini/1156.webp?1769918045"
+		     alt="European Pro League Season 34">
+		
+		<div class="component-block__block">
+			<p class="component-text-grey-13 text-clip">
+				European Pro League Season 34			</p>
+			
+			<span class="component-text-grey-11">
+									31 янв - 17 фев 2026								<span class="text-color--green">
+					$20 000				</span>
+			</span>
+		</div>
+	</a>
+</li>                                    
+<li class="tournament__item">
+	<a class="component-block__link" href="/esport/tournament/1005-blast-slam-vi/">
+		<img class="component-block__img component-block__img--width-36"
+		     src="/img/esport/tournament_mini/1005.webp?1738474551"
+		     alt="BLAST Slam VI">
+		
+		<div class="component-block__block">
+			<p class="component-text-grey-13 text-clip">
+				BLAST Slam VI			</p>
+			
+			<span class="component-text-grey-11">
+									3 - 15 фев 2026								<span class="text-color--green">
+					$1 000 000				</span>
+			</span>
+		</div>
+	</a>
+</li>                                    
+<li class="tournament__item">
+	<a class="component-block__link" href="/esport/tournament/1144-dreamleague-division-2-season-3/">
+		<img class="component-block__img component-block__img--width-36"
+		     src="/img/esport/tournament_mini/1144.webp?1766219123"
+		     alt="DreamLeague Division 2 Season 3">
+		
+		<div class="component-block__block">
+			<p class="component-text-grey-13 text-clip">
+				DreamLeague Division 2 Season 3			</p>
+			
+			<span class="component-text-grey-11">
+									4 - 12 фев 2026								<span class="text-color--green">
+					$50 000				</span>
+			</span>
+		</div>
+	</a>
+</li>                                    
+<li class="tournament__item">
+	<a class="component-block__link" href="/esport/tournament/1147-fissure-universe-episode-8/">
+		<img class="component-block__img component-block__img--width-36"
+		     src="/img/esport/tournament_mini/1147.webp?1768469071"
+		     alt="FISSURE Universe: Episode 8">
+		
+		<div class="component-block__block">
+			<p class="component-text-grey-13 text-clip">
+				FISSURE Universe: Episode 8			</p>
+			
+			<span class="component-text-grey-11">
+									29 янв - 1 фев 2026								<span class="text-color--green">
+					$250 000				</span>
+			</span>
+		</div>
+	</a>
+</li>                                    
+<li class="tournament__item">
+	<a class="component-block__link" href="/esport/tournament/1143-esl-challenger-china/">
+		<img class="component-block__img component-block__img--width-36"
+		     src="/img/esport/tournament_mini/1143.webp?1766202520"
+		     alt="ESL Challenger China">
+		
+		<div class="component-block__block">
+			<p class="component-text-grey-13 text-clip">
+				ESL Challenger China			</p>
+			
+			<span class="component-text-grey-11">
+									30 янв - 1 фев 2026								<span class="text-color--green">
+					$142 000				</span>
+			</span>
+		</div>
+	</a>
+</li>                                    </ul>
+    </div>
+</section>	        
+<section class="index__main">
+    <ul class="cat js-news-categories-list global-content__btn-block games_categories" id="news-categories" data-page="main" data-category-update="0">
+                    <li class="btn-global change-game " data-game-code="all">
+                <img class="news-game-icon" src="/img/esg/main-page-icons/all.svg" alt="all-games" style="width: 32px;" title="Все игры">
+            </li>
+                    <li class="btn-global change-game  btn-global--active" data-game-code="dota2">
+                <img class="news-game-icon" src="/img/esg/main-page-icons/dota2.svg" alt="dota2" style="width: 22px;" title="Dota 2">
+            </li>
+                    <li class="btn-global change-game " data-game-code="deadlock">
+                <img class="news-game-icon" src="/img/esg/main-page-icons/deadlock.svg" alt="deadlock" style="width: 28px;" title="Deadlock">
+            </li>
+                    <li class="btn-global change-game " data-game-code="csgo">
+                <img class="news-game-icon" src="/img/esg/main-page-icons/cs.svg" alt="csgo" style="width: 22px;" title="Counter strike 2">
+            </li>
+                    <li class="btn-global change-game " data-game-code="other">
+                <img class="news-game-icon" src="/img/esg/main-page-icons/games.svg" alt="games" style="width: 32px;" title="Игры">
+            </li>
+                <li class="btn-global btn-right change-category" data-news-tab="1" data-category-code="updates">Обновления</li>
+    </ul>
+
+    <ul id="news-categories-blocks" class="index__news-list js-news-categories-blocks" data-type="default">
+            <li class="index__news-item " data-game="1">
+        <a class="index__news-link game-icon js-game-icon" href="/interviews/59266-seryj-kardinal-doty-1-oloash-ruhub-talanty-i-kibersport-nulevyh/">
+
+            <img class="index__news-img" src="https://dota2.ru/img/news/t1771442411.webp" loading="lazy" alt="img">
+            
+            <div class="index__news-name">
+                Серый кардинал Доты #1: Olo)AsH — RuHub, таланты и киберспорт нулевых            </div>
+
+            <div class="index__news-stat">
+                вчера в 23:27                <span>
+                                            <img src="/img/icon-like.svg" alt="img">6                                                                <img src="/img/forum/icon-2.svg" alt="img">5                                                        </span>
+            </div>
+
+                                                <div class="gradient-btn index__news-block-pinned exclusive">
+                        <i class="fab fa-gripfire"></i>
+                        <span>Эксклюзив</span>
+                    </div>
+                                    </a>
+    </li>
+    <li class="index__news-item " data-game="1">
+        <a class="index__news-link game-icon js-game-icon" href="/news/60677-boxi-o-viper-nikto-iz-miderov-ne-lubit-na-nem-igrat-krome-kakih-nibud-psihopatov/">
+
+            <img class="index__news-img" src="https://dota2.ru/img/news/t1771523406.webp" loading="lazy" alt="img">
+            
+            <div class="index__news-name">
+                Boxi о Viper: «Никто из мидеров не любит на нем играть, кроме каких-нибудь... психопатов»            </div>
+
+            <div class="index__news-stat">
+                23 мин. назад                <span>
+                                                                            </span>
+            </div>
+
+                    </a>
+    </li>
+    <li class="index__news-item " data-game="1">
+        <a class="index__news-link game-icon js-game-icon" href="/news/60675-niku-esli-a-vyigrau-ti-do-20-let-a-dumau-a-spokojno-mogu-perejti-v-lol/">
+
+            <img class="index__news-img" src="https://dota2.ru/img/news/t1771519828.webp" loading="lazy" alt="img">
+            
+            <div class="index__news-name">
+                Niku: «Если я выиграю TI до 20 лет, я думаю, я спокойно могу перейти в LoL»            </div>
+
+            <div class="index__news-stat">
+                2 час. назад                <span>
+                                                                <img src="/img/forum/icon-2.svg" alt="img">1                                                        </span>
+            </div>
+
+                    </a>
+    </li>
+    <li class="index__news-item " data-game="1">
+        <a class="index__news-link game-icon js-game-icon" href="/news/60673-noone-esli-stavit-kogo-to-vyse-seba-to-eto-byl-by-nisha-konecno-ze-ese-gpk-i-malr1ne/">
+
+            <img class="index__news-img" src="https://dota2.ru/img/news/t1771516244.webp" loading="lazy" alt="img">
+            
+            <div class="index__news-name">
+                No[o]ne: «Если ставить кого-то выше себя, то это был бы Nisha, конечно же. Еще gpk и Malr1ne»            </div>
+
+            <div class="index__news-stat">
+                3 час. назад                <span>
+                                                                <img src="/img/forum/icon-2.svg" alt="img">1                                                        </span>
+            </div>
+
+                    </a>
+    </li>
+    <li class="index__news-item " data-game="1">
+        <a class="index__news-link game-icon js-game-icon" href="/news/60671-v-osnovnom-vse-pracutsa-boatsa-potomu-cto-ludi-otslezivaut-pavel-maslov-o-futbolistah-igrausih-v-dota-2/">
+
+            <img class="index__news-img" src="https://dota2.ru/img/news/t1771513285.webp" loading="lazy" alt="img">
+            
+            <div class="index__news-name">
+                В основном все прячутся, боятся, потому что люди отслеживают — Павел Маслов о футболистах, играющих в Dota 2            </div>
+
+            <div class="index__news-stat">
+                4 час. назад                <span>
+                                            <img src="/img/icon-like.svg" alt="img">3                                                                <img src="/img/forum/icon-2.svg" alt="img">1                                                        </span>
+            </div>
+
+                    </a>
+    </li>
+    <li class="index__news-item " data-game="1">
+        <a class="index__news-link game-icon js-game-icon" href="/news/60669-quinn-nisha-eto-lubimyj-mider-vasih-lubimyh-miderov-vse-midery-obozaut-ego/">
+
+            <img class="index__news-img" src="https://dota2.ru/img/news/t1771511459.webp" loading="lazy" alt="img">
+            
+            <div class="index__news-name">
+                Quinn: «Nisha — это любимый мидер ваших любимых мидеров. Все мидеры обожают его»            </div>
+
+            <div class="index__news-stat">
+                4 час. назад                <span>
+                                            <img src="/img/icon-like.svg" alt="img">2                                                                <img src="/img/forum/icon-2.svg" alt="img">1                                                        </span>
+            </div>
+
+                    </a>
+    </li>
+    <li class="index__news-item " data-game="1">
+        <a class="index__news-link game-icon js-game-icon" href="/news/60666-ws-o-largo-na-sapporte-on-takze-horos-no-na-trojke-on-smotritsa-lucse/">
+
+            <img class="index__news-img" src="https://dota2.ru/img/news/t1752220485.webp" loading="lazy" alt="img">
+            
+            <div class="index__news-name">
+                Ws о Largo: «На саппорте он также хорош, но на „тройке“ он смотрится лучше»            </div>
+
+            <div class="index__news-stat">
+                5 час. назад                <span>
+                                                                            </span>
+            </div>
+
+                    </a>
+    </li>
+    <li class="index__news-item " data-game="1">
+        <a class="index__news-link game-icon js-game-icon" href="/news/60665-a-libo-dolzen-kastit-matci-libo-probovat-seba-na-pro-scene-bylo-by-prikolno-sdelat-media-stariy-bog/">
+
+            <img class="index__news-img" src="https://dota2.ru/img/news/t1771508903.webp" loading="lazy" alt="img">
+            
+            <div class="index__news-name">
+                Я либо должен кастить матчи, либо пробовать себя на про-сцене. Было бы прикольно сделать медиа — Stariy_bog            </div>
+
+            <div class="index__news-stat">
+                5 час. назад                <span>
+                                                                <img src="/img/forum/icon-2.svg" alt="img">5                                                        </span>
+            </div>
+
+                    </a>
+    </li>
+    <li class="index__news-item " data-game="1">
+        <a class="index__news-link game-icon js-game-icon" href="/news/60663-cr1t-o-largo-u-nego-bolsoj-potencial-osobenno-v-sorevnovatelnoj-srede-est-bezumno-silnye-kombinacii/">
+
+            <img class="index__news-img" src="https://dota2.ru/img/news/t1730381892.webp" loading="lazy" alt="img">
+            
+            <div class="index__news-name">
+                Cr1t о Largo: «У него большой потенциал, особенно в соревновательной среде. Есть безумно сильные комбинации»            </div>
+
+            <div class="index__news-stat">
+                6 час. назад                <span>
+                                                                            </span>
+            </div>
+
+                    </a>
+    </li>
+    <li class="index__news-item " data-game="1">
+        <a class="index__news-link game-icon js-game-icon" href="/news/60664-ramzes666-tri-mazora-samaa-klassnaa-sistema-byla/">
+
+            <img class="index__news-img" src="https://dota2.ru/img/news/t1771505388.webp" loading="lazy" alt="img">
+            
+            <div class="index__news-name">
+                RAMZES666: «Три „мажора“ — самая *** [классная] система была»            </div>
+
+            <div class="index__news-stat">
+                6 час. назад                <span>
+                                                                <img src="/img/forum/icon-2.svg" alt="img">9                                                        </span>
+            </div>
+
+                    </a>
+    </li>
+    <li class="index__news-item " data-game="1">
+        <a class="index__news-link game-icon js-game-icon" href="/news/60661-so-bad-o-perevode-munkushi-v-zapas-v-celom-eto-resenie-bylo-prinato-s-ego-storony/">
+
+            <img class="index__news-img" src="https://dota2.ru/img/news/t1771503601.webp" loading="lazy" alt="img">
+            
+            <div class="index__news-name">
+                so bad о переводе Munkushi~  в запас: «В целом это решение было принято с его стороны»            </div>
+
+            <div class="index__news-stat">
+                6 час. назад                <span>
+                                                                <img src="/img/forum/icon-2.svg" alt="img">1                                                        </span>
+            </div>
+
+                    </a>
+    </li>
+    <li class="index__news-item " data-game="1">
+        <a class="index__news-link game-icon js-game-icon" href="/news/60660-ari-o-vybore-mezdu-dalnim-i-bliznim-sapportom-dla-mena-eto-ne-principialno/">
+
+            <img class="index__news-img" src="https://dota2.ru/img/news/t1765810197.webp" loading="lazy" alt="img">
+            
+            <div class="index__news-name">
+                ari о выборе между дальним и ближним саппортом: «Для меня это не принципиально»            </div>
+
+            <div class="index__news-stat">
+                6 час. назад                <span>
+                                                                            </span>
+            </div>
+
+                    </a>
+    </li>
+    <li class="index__news-item " data-game="1">
+        <a class="index__news-link game-icon js-game-icon" href="/news/60659-seleri-ob-igre-na-pugna-nuzno-zapominat-portrety-vseh-souznikov-i-gde-oni-nahodatsa/">
+
+            <img class="index__news-img" src="https://dota2.ru/img/news/t1762537026.webp" loading="lazy" alt="img">
+            
+            <div class="index__news-name">
+                Seleri об игре на Pugna: «Нужно запоминать портреты всех союзников и где они находятся»            </div>
+
+            <div class="index__news-stat">
+                7 час. назад                <span>
+                                                                            </span>
+            </div>
+
+                    </a>
+    </li>
+    <li class="index__news-item " data-game="1">
+        <a class="index__news-link game-icon js-game-icon" href="/news/60658-fng-dote-poploheet-cerez-let-pat-uze-ne-budet-vsego-togo-cto-est-u-nas-sejcas/">
+
+            <img class="index__news-img" src="https://dota2.ru/img/news/t1771498857.webp" loading="lazy" alt="img">
+            
+            <div class="index__news-name">
+                Fng: «Доте поплохеет через лет пять уже. Не будет всего того, что есть у нас сейчас»            </div>
+
+            <div class="index__news-stat">
+                8 час. назад                <span>
+                                                                <img src="/img/forum/icon-2.svg" alt="img">3                                                        </span>
+            </div>
+
+                    </a>
+    </li>
+    <li class="index__news-item " data-game="1">
+        <a class="index__news-link game-icon js-game-icon" href="/news/60656-trener-aurora-gaming-lorenof-bolse-fokusiruetsa-na-makro-a-mikoto-na-mikro/">
+
+            <img class="index__news-img" src="https://dota2.ru/img/news/t1684161387.jpg" loading="lazy" alt="img">
+            
+            <div class="index__news-name">
+                Тренер Aurora Gaming: «Lorenof больше фокусируется на макро, а Mikoto на микро»            </div>
+
+            <div class="index__news-stat">
+                8 час. назад                <span>
+                                            <img src="/img/icon-like.svg" alt="img">1                                                                <img src="/img/forum/icon-2.svg" alt="img">3                                                        </span>
+            </div>
+
+                    </a>
+    </li>
+    <li class="index__news-item " data-game="1">
+        <a class="index__news-link game-icon js-game-icon" href="/news/60657-arteezy-mne-kazetsa-cto-novoe-pokolenie-igrokov-ocen-apaticnoe-dla-mena-eto-udrucause/">
+
+            <img class="index__news-img" src="https://dota2.ru/img/news/t1771497576.webp" loading="lazy" alt="img">
+            
+            <div class="index__news-name">
+                Arteezy: «Мне кажется, что новое поколение игроков очень апатичное. Для меня это удручающе»            </div>
+
+            <div class="index__news-stat">
+                8 час. назад                <span>
+                                            <img src="/img/icon-like.svg" alt="img">2                                                                <img src="/img/forum/icon-2.svg" alt="img">1                                                        </span>
+            </div>
+
+                    </a>
+    </li>
+    <li class="index__news-item " data-game="1">
+        <a class="index__news-link game-icon js-game-icon" href="/news/60655-maelstorm-cpirit-ocevidno-tolko-huze-igraut-uze-to-cto-vyigrano-ne-mogut-dozat/">
+
+            <img class="index__news-img" src="https://dota2.ru/img/news/t1771495770.webp" loading="lazy" alt="img">
+            
+            <div class="index__news-name">
+                Maelstorm: «Cпирит, очевидно, только хуже играют. Уже то, что выиграно, не могут дожать»            </div>
+
+            <div class="index__news-stat">
+                9 час. назад                <span>
+                                            <img src="/img/icon-like.svg" alt="img">2                                                                <img src="/img/forum/icon-2.svg" alt="img">1                                                        </span>
+            </div>
+
+                    </a>
+    </li>
+    <li class="index__news-item " data-game="1">
+        <a class="index__news-link game-icon js-game-icon" href="/news/60652-33-o-startovyh-predmetah-sejcas-dovolno-slozno-sdelat-zakup-bez-tango-on-dovolno-zadnyj/">
+
+            <img class="index__news-img" src="https://dota2.ru/img/news/t1722162266.webp" loading="lazy" alt="img">
+            
+            <div class="index__news-name">
+                33 о стартовых предметах: «Сейчас довольно сложно сделать закуп без Tango, он довольно жадный»            </div>
+
+            <div class="index__news-stat">
+                9 час. назад                <span>
+                                            <img src="/img/icon-like.svg" alt="img">5                                                                            </span>
+            </div>
+
+                    </a>
+    </li>
+    </ul>
+
+            <a class="index__news-load append-more-records append-more-records--main-page js-news-append-on-main" href="#"
+            data-clicks="1"
+            data-url="/api/news/appendOnMain/"
+            data-type="default"
+            data-page="1"
+        >
+            Показать больше
+            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M5.78033 9.7803C5.48744 10.0732 5.01256 10.0732 4.71967 9.7803L.469668 5.53033C.176777 5.23744.176777 4.76256.469668 4.46967L4.71967.21967C5.01256-.0732196 5.48744-.0732196 5.78033.21967 6.0732.51256 6.0732.987441 5.78033 1.28033L2.06066 5 5.78033 8.7197C6.0732 9.0126 6.0732 9.4874 5.78033 9.7803z" fill="#afafb3"></path>
+            </svg>
+        </a>
+    </section>	        <section class="index__right-bar">
+			
+    <div class="component-block">
+        <a class="component-block__title subtitle-global" href="/forum/login/">Авторизация</a>
+    
+        <form class="authorization__form authorization__form-on-main-page" action="javascript:Auth.login()">
+            <input tabindex="1" class="authorization__input" type="text" name="user" id="login_credential_form" placeholder="E-mail или ник пользователя" minlength="1" maxlength="50" required>
+            <input tabindex="2" class="authorization__input" type="password" name="password" id="login_password_form" placeholder="Пароль" minlength="1" required autocomplete="false">
+            <input class="visually-hidden authorization__checkbox-input" type="checkbox" name="remember" id="login_remember_me_form" checked>
+            <label class="authorization__checkbox" for="login_remember_me_form">
+                <span class="authorization__checkbox-label">
+                    <i class="fas fa-check"></i>
+                </span>
+                Запомнить меня
+            </label>
+            <button tabindex="3" class="authorization__btn mb32" type="submit">
+                Войти <i class="fas fa-sign-in-alt"></i>
+            </button>
+            <div class="authorization__social">
+                <a class="authorization__social--vk" href="/members/login/vk/">
+                    <i class="fab fa-vk"></i>
+                    Вконтакте
+                </a>
+                <a class="authorization__social--steam" href="/members/login/steam/">
+                    <i class="fab fa-steam"></i>
+                    Steam
+                </a>
+            </div>
+            <div class="authorization__question">
+                <a href="/forum/password-recovery/">
+                    Забыли пароль
+                </a>
+                <span>|</span>
+                <a href="#" id="site-register">
+                    Зарегистрироваться
+                </a>
+            </div>
+        </form>
+    </div>
+
+
+    
+	
+        <div class="component-block">
+  <div class="component-block__title subtitle-global">
+    <ul class="flex justify-content-space-between w-100 align-items-center component-block__socials">
+      <li>
+        <a class="component-block__socials-link component-block__socials-link-tg" href="//t.me/dota2_russia" target="_blank">
+          <i class="fab fa-telegram-plane"></i>
+        </a>
+      </li>
+            <li>
+        <a class="component-block__socials-link component-block__socials-link-vk" href="//vk.com/d2ru" target="_blank">
+          <i class="fab fa-vk"></i>
+        </a>
+      </li>
+      <li>
+        <a class="component-block__socials-link component-block__socials-link-youtube" href="https://www.youtube.com/c/Dota2Russia" target="_blank">
+          <i class="fab fa-youtube"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>  
+	
+<div class="comments component-block  component-block__hide-after-12">
+    <div class="component-block__title subtitle-global">Комментарии</div>
+    <ul class="component-block__list forum__list">
+
+                            <li class="forum__item component-block__link-wrapper">
+                        <a class="component-block__link" href="/news/60674/#comment-block1720586">
+
+                            <div class="component-block__block forum__block">
+                                <p class="component-text-grey-13 text-clip">
+                                    «Уютные» игры набирают значительную популярность в Steam                                </p>
+                                <div class="component-text-grey-11 comment-text">
+                                    «Уютные» игры набирают значительную популярность в Steam<br />
+Dota 2<br />
+19 февраля 2026, 19:28<br />
+уютненько <img title=":Lastochka:" src="/img/forum/emoticons/Lastochka.png" height="28" data-smile="1" data-shortcut=":Lastochka:" alt="Lastochka.png">                                </div>
+                                <div class="component-text-grey-11">
+                                    <div class="comment-author" >
+                                        dbchecker                                    </div>
+                                    <div class="comment-time">
+                                        <i class="far fa-clock"></i>
+                                        <span class="time category-message-time" data-time="1771524229">
+                                                                                    </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+
+                        <div class="short">
+                            <div class="topic-header">«Уютные» игры набирают значительную популярность в Steam</div>
+                            <div class="short-author">
+                                <div class="author">Автор: dbchecker</div>
+                                <div class="node"></div>
+                            </div>
+                            <div class="message">«Уютные» игры набирают значительную популярность в Steam<br />
+Dota 2<br />
+19 февраля 2026, 19:28<br />
+уютненько <img title=":Lastochka:" src="/img/forum/emoticons/Lastochka.png" height="28" data-smile="1" data-shortcut=":Lastochka:" alt="Lastochka.png"></div>
+                            <div class="bottom-block">
+                                <time class="node" data-time="1771524229"></time>
+                            </div>
+                        </div>
+                    </li>
+                            <li class="forum__item component-block__link-wrapper">
+                        <a class="component-block__link" href="/news/60665/#comment-block1720584">
+
+                            <div class="component-block__block forum__block">
+                                <p class="component-text-grey-13 text-clip">
+                                    Я либо должен кастить матчи, либо пробовать себя на про-сцене. Было бы прикольно сделать медиа — Stariy_bog                                </p>
+                                <div class="component-text-grey-11 comment-text">
+                                    бл кого она выбрала <img title=":RabbitPLS:" src="/img/forum/emoticons/RabbitPLS.gif" height="28" data-smile="1" data-shortcut=":RabbitPLS:" alt="RabbitPLS.gif">                                </div>
+                                <div class="component-text-grey-11">
+                                    <div class="comment-author" >
+                                        botpassajir                                    </div>
+                                    <div class="comment-time">
+                                        <i class="far fa-clock"></i>
+                                        <span class="time category-message-time" data-time="1771522129">
+                                                                                    </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+
+                        <div class="short">
+                            <div class="topic-header">Я либо должен кастить матчи, либо пробовать себя на про-сцене. Было бы прикольно сделать медиа — Stariy_bog</div>
+                            <div class="short-author">
+                                <div class="author">Автор: botpassajir</div>
+                                <div class="node"></div>
+                            </div>
+                            <div class="message">бл кого она выбрала <img title=":RabbitPLS:" src="/img/forum/emoticons/RabbitPLS.gif" height="28" data-smile="1" data-shortcut=":RabbitPLS:" alt="RabbitPLS.gif"></div>
+                            <div class="bottom-block">
+                                <time class="node" data-time="1771522129"></time>
+                            </div>
+                        </div>
+                    </li>
+                            <li class="forum__item component-block__link-wrapper">
+                        <a class="component-block__link" href="/news/60675/#comment-block1720583">
+
+                            <div class="component-block__block forum__block">
+                                <p class="component-text-grey-13 text-clip">
+                                    Niku: «Если я выиграю TI до 20 лет, я думаю, я спокойно могу перейти в LoL»                                </p>
+                                <div class="component-text-grey-11 comment-text">
+                                    А я думаю что тим яндекс выиграли бы ликвидов, если бы играли в финале. сейчас на дрим лиге они жестко тра..т, с небольшим нюансом<img title=":PepeLaugh:" src="/img/forum/emoticons/sammyyPepekek.png" height="28" data-smile="1" data-shortcut=":PepeLaugh:" alt="sammyyPepekek.png">                                </div>
+                                <div class="component-text-grey-11">
+                                    <div class="comment-author" >
+                                        Spirten388                                    </div>
+                                    <div class="comment-time">
+                                        <i class="far fa-clock"></i>
+                                        <span class="time category-message-time" data-time="1771521014">
+                                                                                    </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+
+                        <div class="short">
+                            <div class="topic-header">Niku: «Если я выиграю TI до 20 лет, я думаю, я спокойно могу перейти в LoL»</div>
+                            <div class="short-author">
+                                <div class="author">Автор: Spirten388</div>
+                                <div class="node"></div>
+                            </div>
+                            <div class="message">А я думаю что тим яндекс выиграли бы ликвидов, если бы играли в финале. сейчас на дрим лиге они жестко тра..т, с небольшим нюансом<img title=":PepeLaugh:" src="/img/forum/emoticons/sammyyPepekek.png" height="28" data-smile="1" data-shortcut=":PepeLaugh:" alt="sammyyPepekek.png"></div>
+                            <div class="bottom-block">
+                                <time class="node" data-time="1771521014"></time>
+                            </div>
+                        </div>
+                    </li>
+                            <li class="forum__item component-block__link-wrapper">
+                        <a class="component-block__link" href="/news/60668/#comment-block1720579">
+
+                            <div class="component-block__block forum__block">
+                                <p class="component-text-grey-13 text-clip">
+                                    Valve выиграла суд против «патентного тролля» Ли Ротшильда                                </p>
+                                <div class="component-text-grey-11 comment-text">
+                                    Дота не связана ни с нг, ни с китайским нг, ни с хэлоуином. Хотя даже самые бомже конторы делают ивенты. Ну хоть с чем-то она связана. Может гениев доты по судам таскали, а сча вот вернутся в доту                                </div>
+                                <div class="component-text-grey-11">
+                                    <div class="comment-author" >
+                                        _dAViHci_                                    </div>
+                                    <div class="comment-time">
+                                        <i class="far fa-clock"></i>
+                                        <span class="time category-message-time" data-time="1771520104">
+                                                                                    </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+
+                        <div class="short">
+                            <div class="topic-header">Valve выиграла суд против «патентного тролля» Ли Ротшильда</div>
+                            <div class="short-author">
+                                <div class="author">Автор: _dAViHci_</div>
+                                <div class="node"></div>
+                            </div>
+                            <div class="message">Дота не связана ни с нг, ни с китайским нг, ни с хэлоуином. Хотя даже самые бомже конторы делают ивенты. Ну хоть с чем-то она связана. Может гениев доты по судам таскали, а сча вот вернутся в доту</div>
+                            <div class="bottom-block">
+                                <time class="node" data-time="1771520104"></time>
+                            </div>
+                        </div>
+                    </li>
+                            <li class="forum__item component-block__link-wrapper">
+                        <a class="component-block__link" href="/news/60669/#comment-block1720576">
+
+                            <div class="component-block__block forum__block">
+                                <p class="component-text-grey-13 text-clip">
+                                    Quinn: «Nisha — это любимый мидер ваших любимых мидеров. Все мидеры обожают его»                                </p>
+                                <div class="component-text-grey-11 comment-text">
+                                    В гранд финале 11 инта мне не понравилась его игра, можно было получше я думаю, вроде он 3 игры подряд на лешраке отыграл, а так не помню , что бы он чем то отичился, просто стабильный мидер как и gpk и прочии                                </div>
+                                <div class="component-text-grey-11">
+                                    <div class="comment-author" >
+                                        playdotka228                                    </div>
+                                    <div class="comment-time">
+                                        <i class="far fa-clock"></i>
+                                        <span class="time category-message-time" data-time="1771518051">
+                                                                                    </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+
+                        <div class="short">
+                            <div class="topic-header">Quinn: «Nisha — это любимый мидер ваших любимых мидеров. Все мидеры обожают его»</div>
+                            <div class="short-author">
+                                <div class="author">Автор: playdotka228</div>
+                                <div class="node"></div>
+                            </div>
+                            <div class="message">В гранд финале 11 инта мне не понравилась его игра, можно было получше я думаю, вроде он 3 игры подряд на лешраке отыграл, а так не помню , что бы он чем то отичился, просто стабильный мидер как и gpk и прочии</div>
+                            <div class="bottom-block">
+                                <time class="node" data-time="1771518051"></time>
+                            </div>
+                        </div>
+                    </li>
+            </ul>
+</div>
+			
+<section class="banvrekun adv"><div>
+
+
+    
+    
+        
+            <!--Тип баннера: 240x400 Desktop-->
+            <!--Расположение: 240x400 Top-->
+            <div id="adfox_167075681659784256"></div>
+            <script>
+                window.yaContextCb.push(()=>{
+                    Ya.adfoxCode.create({
+                        ownerId: 265472,
+                        containerId: 'adfox_167075681659784256',
+                        params: {
+                            pp: 'bsul',
+                            ps: 'dgcr',
+                            p2: 'hjin'
+                        }
+                    })
+                })
+            </script>
+
+                
+    
+    
+
+</div></section>    		
+	
+
+  	
+    <div class="streams component-block m-streams">
+        <a class="component-block__title subtitle-global" href="/streams/">Стримы</a>
+        <ul class="component-block__list">
+                            <li class="streams__item prior0">
+                                            <a class="component-block__link" href="/streams/19832-ramzes/">
+                            <img class="component-block__img component-block__img--width-42 component-block__img--radius"
+                                 src="/img/streams/m/19832.jpg?1771518603" alt="img">
+                            
+                            <div class="streams__item-component component-block__block">
+                                <p class="component-text-grey-13 text-clip streams__text">
+                                    ramzes                                    <span>
+                                        22673                                        <img src="/img/streams/icon-1.svg" alt="img">
+                                    </span>
+                                </p>
+                                <span class="component-text-grey-11 text-clip">
+                                    PARIVISION [0:1] Aurora Gaming | DreamLeague S28: Group Stage 1 | bo2 | /w @afoninje @vtunedota !tg !win !playerok                                </span>
+                            </div>
+                        </a>
+                                    </li>
+                            <li class="streams__item prior0">
+                                            <a class="component-block__link" href="/streams/27384-dota2_paragon_ru/">
+                            <img class="component-block__img component-block__img--width-42 component-block__img--radius"
+                                 src="/img/streams/m/27384.jpg?1771497003" alt="img">
+                            
+                            <div class="streams__item-component component-block__block">
+                                <p class="component-text-grey-13 text-clip streams__text">
+                                    dota2_paragon_ru                                    <span>
+                                        10848                                        <img src="/img/streams/icon-1.svg" alt="img">
+                                    </span>
+                                </p>
+                                <span class="component-text-grey-11 text-clip">
+                                    OG Esports [0:1] Team Liquid | DreamLeague S28: Group Stage | BO2 | @CrystalMaytv & @y0nd                                </span>
+                            </div>
+                        </a>
+                                    </li>
+                            <li class="streams__item prior0">
+                                            <a class="component-block__link" href="/streams/597-just_ns/">
+                            <img class="component-block__img component-block__img--width-42 component-block__img--radius"
+                                 src="/img/streams/m/597.jpg?1771498924" alt="img">
+                            
+                            <div class="streams__item-component component-block__block">
+                                <p class="component-text-grey-13 text-clip streams__text">
+                                    just_ns                                    <span>
+                                        10333                                        <img src="/img/streams/icon-1.svg" alt="img">
+                                    </span>
+                                </p>
+                                <span class="component-text-grey-11 text-clip">
+                                    Стримы от Ярослава Кузнецова                                </span>
+                            </div>
+                        </a>
+                                    </li>
+                            <li class="streams__item prior0">
+                                            <a class="component-block__link" href="/streams/5312-lenagol0vach/">
+                            <img class="component-block__img component-block__img--width-42 component-block__img--radius"
+                                 src="/img/streams/m/5312.jpg?1771512604" alt="img">
+                            
+                            <div class="streams__item-component component-block__block">
+                                <p class="component-text-grey-13 text-clip streams__text">
+                                    LenaGol0vach                                    <span>
+                                        6834                                        <img src="/img/streams/icon-1.svg" alt="img">
+                                    </span>
+                                </p>
+                                <span class="component-text-grey-11 text-clip">
+                                     НОВЫЙ ПАТЧ НАШЕЛ ИМБУ ПАТЧА ROAD TO TOP 100 НАШЕЛ ИМБУ ПАТЧА РОЗЫГРЫШ В ТГ ДАУБИ ДАУБИ                                 </span>
+                            </div>
+                        </a>
+                                    </li>
+                            <li class="streams__item prior0">
+                                            <a class="component-block__link" href="/streams/26607-dota2_paragon_ru2/">
+                            <img class="component-block__img component-block__img--width-42 component-block__img--radius"
+                                 src="/img/streams/m/26607.jpg?1771498924" alt="img">
+                            
+                            <div class="streams__item-component component-block__block">
+                                <p class="component-text-grey-13 text-clip streams__text">
+                                    dota2_paragon_ru2                                    <span>
+                                        5886                                        <img src="/img/streams/icon-1.svg" alt="img">
+                                    </span>
+                                </p>
+                                <span class="component-text-grey-11 text-clip">
+                                    PARIVISION [0:1] Aurora Gaming | DreamLeague S28: Group Stage | BO2 | @mortalles & @KawaiiSocks                                </span>
+                            </div>
+                        </a>
+                                    </li>
+                            <li class="streams__item prior0">
+                                            <a class="component-block__link" href="/streams/26656-dota2_paragon_ru4/">
+                            <img class="component-block__img component-block__img--width-42 component-block__img--radius"
+                                 src="/img/streams/m/26656.jpg?1771499883" alt="img">
+                            
+                            <div class="streams__item-component component-block__block">
+                                <p class="component-text-grey-13 text-clip streams__text">
+                                    dota2_paragon_ru4                                    <span>
+                                        3635                                        <img src="/img/streams/icon-1.svg" alt="img">
+                                    </span>
+                                </p>
+                                <span class="component-text-grey-11 text-clip">
+                                    BetBoom Team [2:0] Yakult Brothers | DreamLeague S28: Group Stage | BO2 | @artem1daaa & @Heassh                                </span>
+                            </div>
+                        </a>
+                                    </li>
+                            <li class="streams__item prior0">
+                                            <a class="component-block__link" href="/streams/26405-avice/">
+                            <img class="component-block__img component-block__img--width-42 component-block__img--radius"
+                                 src="/img/streams/m/26405.jpg?1771517043" alt="img">
+                            
+                            <div class="streams__item-component component-block__block">
+                                <p class="component-text-grey-13 text-clip streams__text">
+                                    avice                                    <span>
+                                        3149                                        <img src="/img/streams/icon-1.svg" alt="img">
+                                    </span>
+                                </p>
+                                <span class="component-text-grey-11 text-clip">
+                                    high skill dota 15k mmr top 100 eu ladder no jokes only tryhard !путьвкиберспорт !betboom !tg                                </span>
+                            </div>
+                        </a>
+                                    </li>
+                            <li class="streams__item prior0">
+                                            <a class="component-block__link" href="/streams/31964-rostikfacekid/">
+                            <img class="component-block__img component-block__img--width-42 component-block__img--radius"
+                                 src="/img/streams/m/31964.jpg?1771491963" alt="img">
+                            
+                            <div class="streams__item-component component-block__block">
+                                <p class="component-text-grey-13 text-clip streams__text">
+                                    rostikfacekid                                    <span>
+                                        2930                                        <img src="/img/streams/icon-1.svg" alt="img">
+                                    </span>
+                                </p>
+                                <span class="component-text-grey-11 text-clip">
+                                    пришел со школы запустил стримь pl tb mrph life drw[fp] 100k MMR 0 rank first in the world                                 </span>
+                            </div>
+                        </a>
+                                    </li>
+                        <a class="component-block__link" href="/streams/request/">
+                <img class="component-block__img component-block__img--width-42 component-block__img--radius"
+                        src="/img/noneStream.png" alt="Нажмите, чтобы разместить свой стрим">
+
+                <div class="streams__item-component component-block__block">
+                    <span class="component-text-grey-11 text-clip">
+                        Размести свой стрим тут
+                    </span>
+                </div>
+            </a>
+        </ul>
+    </div>
+	
+    <div class="memes component-block component-block__memes">
+        <a class="component-block__title subtitle-global" href="/memes/">Мемы</a>
+    
+        <div class="component-block__inner-block-wrap">
+            <button class="memes__btn memes__btn--left">
+                <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M5.78033 9.7803C5.48744 10.0732 5.01256 10.0732 4.71967 9.7803L.469668 5.53033C.176777 5.23744.176777 4.76256.469668 4.46967L4.71967.21967C5.01256-.0732196 5.48744-.0732196 5.78033.21967 6.0732.51256 6.0732.987441 5.78033 1.28033L2.06066 5 5.78033 8.7197C6.0732 9.0126 6.0732 9.4874 5.78033 9.7803z" fill="#afafb3"></path></svg>
+            </button>
+            
+                            <article class="item active" data-id="0" >
+                    <a class="memes__mem" href="/memes/79018/">
+                        <img src="/img/memes/2026/02/79018.webp"
+                             alt="Перейти к мему" >
+                    </a>
+                    <a class="memes__user" href="/forum/members/trinarium.614488/">
+                        <span class="component-text-grey-13 text-clip">
+                            <img class="avatar" src="/img/forum/avatars/s/614/614488.jpg?1732732735" alt="img">
+                            Trinarium                        </span>
+                        <span class="component-text-grey-13 memes__text">
+                            <img src="/img/forum-theme/like.svg" alt="img">-1                        </span>
+                    </a>
+                </article>
+                            <article class="item " data-id="1" style="display: none;">
+                    <a class="memes__mem" href="/memes/79014/">
+                        <img src="/img/memes/2026/02/79014.webp"
+                             alt="Перейти к мему" style="display: none;">
+                    </a>
+                    <a class="memes__user" href="/forum/members/almighty-one.787340/">
+                        <span class="component-text-grey-13 text-clip">
+                            <img class="avatar" src="/img/forum/avatars/s/787/787340.jpg?1771436228" alt="img">
+                            Almighty One                        </span>
+                        <span class="component-text-grey-13 memes__text">
+                            <img src="/img/forum-theme/like.svg" alt="img">3                        </span>
+                    </a>
+                </article>
+                            <article class="item " data-id="2" style="display: none;">
+                    <a class="memes__mem" href="/memes/79016/">
+                        <img src="/img/memes/2026/02/79016.webp"
+                             alt="Перейти к мему" style="display: none;">
+                    </a>
+                    <a class="memes__user" href="/forum/members/setsl0ter.344511/">
+                        <span class="component-text-grey-13 text-clip">
+                            <img class="avatar" src="/img/forum/avatars/default/avatar_s.png" alt="img">
+                            SetSL0TER                        </span>
+                        <span class="component-text-grey-13 memes__text">
+                            <img src="/img/forum-theme/like.svg" alt="img">23                        </span>
+                    </a>
+                </article>
+                            <article class="item " data-id="3" style="display: none;">
+                    <a class="memes__mem" href="/memes/79008/">
+                        <img src="/img/memes/2026/01/79008.webp"
+                             alt="Перейти к мему" style="display: none;">
+                    </a>
+                    <a class="memes__user" href="/forum/members/1nobody.823669/">
+                        <span class="component-text-grey-13 text-clip">
+                            <img class="avatar" src="/img/forum/avatars/s/823/823669.jpg?1767122891" alt="img">
+                            1Nobody                        </span>
+                        <span class="component-text-grey-13 memes__text">
+                            <img src="/img/forum-theme/like.svg" alt="img">-12                        </span>
+                    </a>
+                </article>
+                        
+            <button class="memes__btn memes__btn--right">
+                <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M5.78033 9.7803C5.48744 10.0732 5.01256 10.0732 4.71967 9.7803L.469668 5.53033C.176777 5.23744.176777 4.76256.469668 4.46967L4.71967.21967C5.01256-.0732196 5.48744-.0732196 5.78033.21967 6.0732.51256 6.0732.987441 5.78033 1.28033L2.06066 5 5.78033 8.7197C6.0732 9.0126 6.0732 9.4874 5.78033 9.7803z" fill="#afafb3"></path></svg>
+            </button>
+        </div>
+    </div>
+
+		
+	
+    <div class="calendar component-block">
+        <a class="component-block__title subtitle-global" href="/esport/matches/calendar/">Календарь киберспорта</a>
+        <ul class="component-block__list forum__list">
+            <li class="forum__item component-block__link-wrapper">
+                <div class="calendar-container" id="blockCalendarContainer"></div>
+            </li>
+            <li>
+                <div class="calendar-container__block" id="blockCalendarToday"></div>
+            </li>
+        </ul>
+    </div>
+    <script>
+        $(document).ready(function() {
+            const date = new Date();
+            Calendar.blockInit($('#blockCalendarContainer'), date.getFullYear(), date.getMonth());
+        });
+    </script>
+</section>        </div>
+    </div>
+</main><div id="page-not-active"></div>
+
+<script type="text/javascript">
+            var TOKEN = 'token';
+            
+            if (typeof(Utils) !== 'undefined') {
+                Utils.privilegesCache = [];
+                Utils.captcha_type = "google";
+                Utils.isLogged = false;
+                Utils.isBanned = false;
+                Utils.timezone = "Europe/Moscow";
+                Utils.user_id = parseInt("");
+                Utils.prefix = "forum/";
+                Utils.username = "";
+                Utils.username_safe = "";
+                Utils.user_link = "";
+                Utils.nick_color = "";
+                Utils.avatar_small = "";
+                Utils.avatar_timestamp = "";
+                Utils.is_online = parseInt("");
+                Utils.groupID = parseInt("0");
+                Utils.groupName = "Гость";
+                Utils.forumsList = JSON.parse(`[{"id":3,"node_id":0,"node_type_id":"Category","title":"Основной раздел","position":1,"posts_count":10522302,"topics_count":590286,"parsed_title":"osnovnoj-razdel","img":"\/img\/forum\/forum-icons\/3.png","parsed_topics_count":"590K","parsed_posts_count":"11M"},{"id":5,"node_id":3,"node_type_id":"Forum","title":"Общие вопросы и обсуждения","position":1,"posts_count":5189772,"topics_count":249023,"parsed_title":"obschie-voprosy-i-obsuzhdenija","img":"\/img\/forum\/forum-icons\/5.png","parsed_topics_count":"249K","parsed_posts_count":"5M"},{"id":6,"node_id":13,"node_type_id":"Forum","title":"Таверна","position":1,"posts_count":6743050,"topics_count":216637,"parsed_title":"taverna","img":"\/img\/forum\/forum-icons\/6.png","parsed_topics_count":"217K","parsed_posts_count":"7M"},{"id":8,"node_id":13,"node_type_id":"Forum","title":"Развитие портала","position":8,"posts_count":262586,"topics_count":12155,"parsed_title":"razvitie-portala","img":"\/img\/forum\/forum-icons\/8.png","parsed_topics_count":"12.1K","parsed_posts_count":"263K"},{"id":13,"node_id":0,"node_type_id":"Category","title":"Разное","position":6,"posts_count":8656811,"topics_count":285998,"parsed_title":"raznoe","img":"\/img\/forum\/forum-icons\/13.png","parsed_topics_count":"286K","parsed_posts_count":"9M"},{"id":19,"node_id":3,"node_type_id":"Forum","title":"Медиа Dota 2","position":19,"posts_count":309404,"topics_count":25753,"parsed_title":"media-dota-2","img":"\/img\/forum\/forum-icons\/19.png","parsed_topics_count":"25.7K","parsed_posts_count":"309K"},{"id":20,"node_id":19,"node_type_id":"Forum","title":"Стримы","position":20,"posts_count":226053,"topics_count":15606,"parsed_title":"strimy","img":"\/img\/forum\/forum-icons\/20.png","parsed_topics_count":"15.6K","parsed_posts_count":"226K"},{"id":23,"node_id":13,"node_type_id":"Forum","title":"Кино, сериалы и книги","position":5,"posts_count":428946,"topics_count":19842,"parsed_title":"kino-serialy-i-knigi","img":"\/img\/forum\/forum-icons\/23.png","parsed_topics_count":"19.8K","parsed_posts_count":"429K"},{"id":24,"node_id":25,"node_type_id":"Forum","title":"Другие игры","position":1,"posts_count":1517088,"topics_count":65985,"parsed_title":"drugie-igry","img":"\/img\/forum\/forum-icons\/24.png","parsed_topics_count":"65.9K","parsed_posts_count":"2M"},{"id":25,"node_id":0,"node_type_id":"Category","title":"Другие игры","position":5,"posts_count":2400842,"topics_count":80062,"parsed_title":"drugie-igry","img":"\/img\/forum\/forum-icons\/25.png","parsed_topics_count":"80K","parsed_posts_count":"2M"},{"id":27,"node_id":25,"node_type_id":"Forum","title":"League of Legends","position":3,"posts_count":556070,"topics_count":6656,"parsed_title":"league-of-legends","img":"\/img\/forum\/forum-icons\/27.png","parsed_topics_count":"6.6K","parsed_posts_count":"556K"},{"id":30,"node_id":13,"node_type_id":"Forum","title":"Музыка","position":4,"posts_count":363543,"topics_count":21538,"parsed_title":"muzyka","img":"\/img\/forum\/forum-icons\/30.png","parsed_topics_count":"21.5K","parsed_posts_count":"364K"},{"id":45,"node_id":120,"node_type_id":"Forum","title":"Dream Dota","position":7,"posts_count":147776,"topics_count":7171,"parsed_title":"dream-dota","img":"\/img\/forum\/forum-icons\/45.png","parsed_topics_count":"7.1K","parsed_posts_count":"148K"},{"id":47,"node_id":170,"node_type_id":"Forum","title":"Техническая поддержка по Dota 2","position":1,"posts_count":526484,"topics_count":55782,"parsed_title":"texnicheskaja-podderzhka-po-dota-2","img":"\/img\/forum\/forum-icons\/47.png","parsed_topics_count":"55.7K","parsed_posts_count":"526K"},{"id":78,"node_id":208,"node_type_id":"Forum","title":"Общие вопросы и обсуждения","position":1,"posts_count":204944,"topics_count":16945,"parsed_title":"obschie-voprosy-i-obsuzhdenija","img":"\/img\/forum\/forum-icons\/78.png","parsed_topics_count":"16.9K","parsed_posts_count":"205K"},{"id":86,"node_id":3,"node_type_id":"Forum","title":"Обмен внутриигровыми предметами Dota 2","position":17,"posts_count":995401,"topics_count":107701,"parsed_title":"obmen-vnutriigrovymi-predmetami-dota-2","img":"\/img\/forum\/forum-icons\/86.png","parsed_topics_count":"108K","parsed_posts_count":"995K"},{"id":106,"node_id":170,"node_type_id":"Forum","title":"Игровые девайсы и периферия","position":6,"posts_count":155995,"topics_count":11130,"parsed_title":"igrovye-devajsy-i-periferija","img":"\/img\/forum\/forum-icons\/106.png","parsed_topics_count":"11.1K","parsed_posts_count":"156K"},{"id":107,"node_id":3,"node_type_id":"Forum","title":"Поиск игроков в Dota 2","position":12,"posts_count":712557,"topics_count":89102,"parsed_title":"poisk-igrokov-v-dota-2","img":"\/img\/forum\/forum-icons\/107.png","parsed_topics_count":"89.1K","parsed_posts_count":"713K"},{"id":120,"node_id":3,"node_type_id":"Forum","title":"Герои: общие обсуждения","position":6,"posts_count":1456275,"topics_count":50668,"parsed_title":"geroi-obschie-obsuzhdenija","img":"\/img\/forum\/forum-icons\/120.png","parsed_topics_count":"50.6K","parsed_posts_count":"1M"},{"id":124,"node_id":86,"node_type_id":"Forum","title":"Обсуждения и цены","position":18,"posts_count":158389,"topics_count":19090,"parsed_title":"obsuzhdenija-i-ceny","img":"\/img\/forum\/forum-icons\/124.png","parsed_topics_count":"19K","parsed_posts_count":"158K"},{"id":139,"node_id":171,"node_type_id":"Forum","title":"Steam","position":9,"posts_count":91720,"topics_count":7896,"parsed_title":"steam","img":"\/img\/forum\/forum-icons\/139.png","parsed_topics_count":"7.9K","parsed_posts_count":"91.7K"},{"id":145,"node_id":3,"node_type_id":"Forum","title":"Киберспорт: матчи, турниры, команды и игроки","position":9,"posts_count":1047586,"topics_count":31895,"parsed_title":"kibersport-matchi-turniry-komandy-i-igroki","img":"\/img\/forum\/forum-icons\/145.png","parsed_topics_count":"31.9K","parsed_posts_count":"1M"},{"id":148,"node_id":3,"node_type_id":"Forum","title":"Рейтинговая система и статистика","position":5,"posts_count":811307,"topics_count":36144,"parsed_title":"rejtingovaja-sistema-i-statistika","img":"\/img\/forum\/forum-icons\/148.png","parsed_topics_count":"36.1K","parsed_posts_count":"811K"},{"id":152,"node_id":13,"node_type_id":"Forum","title":"Аниме и прочее","position":6,"posts_count":294311,"topics_count":11712,"parsed_title":"anime-i-prochee","img":"\/img\/forum\/forum-icons\/152.png","parsed_topics_count":"11.7K","parsed_posts_count":"294K"},{"id":162,"node_id":13,"node_type_id":"Forum","title":"Спорт","position":7,"posts_count":121189,"topics_count":4069,"parsed_title":"sport","img":"\/img\/forum\/forum-icons\/162.png","parsed_topics_count":"4K","parsed_posts_count":"121K"},{"id":166,"node_id":170,"node_type_id":"Forum","title":"Железо, новости и обсуждения","position":2,"posts_count":629537,"topics_count":23106,"parsed_title":"zhelezo-novosti-i-obsuzhdenija","img":"\/img\/forum\/forum-icons\/166.png","parsed_topics_count":"23.1K","parsed_posts_count":"630K"},{"id":167,"node_id":170,"node_type_id":"Forum","title":"Мобильные девайсы и прочая техника","position":7,"posts_count":119629,"topics_count":6069,"parsed_title":"mobilnye-devajsy-i-prochaja-texnika","img":"\/img\/forum\/forum-icons\/167.png","parsed_topics_count":"6K","parsed_posts_count":"120K"},{"id":170,"node_id":0,"node_type_id":"Category","title":"Технический раздел","position":4,"posts_count":1603977,"topics_count":109588,"parsed_title":"texnicheskij-razdel","img":"\/img\/forum\/forum-icons\/170.png","parsed_topics_count":"110K","parsed_posts_count":"2M"},{"id":171,"node_id":170,"node_type_id":"Forum","title":"Софт и прочие технические вопросы","position":8,"posts_count":101070,"topics_count":10346,"parsed_title":"soft-i-prochie-texnicheskie-voprosy","img":"\/img\/forum\/forum-icons\/171.png","parsed_topics_count":"10.3K","parsed_posts_count":"101K"},{"id":175,"node_id":5,"node_type_id":"Forum","title":"Обитель нытья","position":2,"posts_count":545727,"topics_count":24116,"parsed_title":"obitel-nytja","img":"\/img\/forum\/forum-icons\/175.png","parsed_topics_count":"24.1K","parsed_posts_count":"546K"},{"id":178,"node_id":166,"node_type_id":"Forum","title":"Сборка ПК, значительный апгрейд","position":3,"posts_count":124052,"topics_count":6883,"parsed_title":"sborka-pk-znachitelnyj-apgrejd","img":"\/img\/forum\/forum-icons\/178.png","parsed_topics_count":"6.8K","parsed_posts_count":"124K"},{"id":179,"node_id":166,"node_type_id":"Forum","title":"Выбор комплектующих, ноутбуков, консолей","position":4,"posts_count":100271,"topics_count":6678,"parsed_title":"vybor-komplektujuschix-noutbukov-konsolej","img":"\/img\/forum\/forum-icons\/179.png","parsed_topics_count":"6.6K","parsed_posts_count":"100K"},{"id":180,"node_id":166,"node_type_id":"Forum","title":"Компьютерная помощь по остальным вопросам","position":5,"posts_count":101892,"topics_count":8550,"parsed_title":"kompjuternaja-pomosch-po-ostalnym-voprosam","img":"\/img\/forum\/forum-icons\/180.png","parsed_topics_count":"8.5K","parsed_posts_count":"102K"},{"id":184,"node_id":5,"node_type_id":"Forum","title":"Обновления, патчи и ивенты","position":4,"posts_count":749237,"topics_count":16689,"parsed_title":"obnovlenija-patchi-i-iventy","img":"\/img\/forum\/forum-icons\/184.png","parsed_topics_count":"16.6K","parsed_posts_count":"749K"},{"id":190,"node_id":25,"node_type_id":"Forum","title":"MMO","position":4,"posts_count":200065,"topics_count":2181,"parsed_title":"mmo","img":"\/img\/forum\/forum-icons\/190.png","parsed_topics_count":"2.1K","parsed_posts_count":"200K"},{"id":197,"node_id":25,"node_type_id":"Forum","title":"Shooter, Battle Royale","position":2,"posts_count":114938,"topics_count":4813,"parsed_title":"shooter-battle-royale","img":"\/img\/forum\/forum-icons\/197.png","parsed_topics_count":"4.8K","parsed_posts_count":"115K"},{"id":208,"node_id":0,"node_type_id":"Category","title":"Counter-Strike 2","position":2,"posts_count":204982,"topics_count":16952,"parsed_title":"counter-strike-2","img":"\/img\/forum\/forum-icons\/208.png","parsed_topics_count":"16.9K","parsed_posts_count":"205K"},{"id":215,"node_id":170,"node_type_id":"Forum","title":"Программирование и ИИ","position":6,"posts_count":71262,"topics_count":3155,"parsed_title":"programmirovanie-i-ii","img":"\/img\/forum\/forum-icons\/215.png","parsed_topics_count":"3.1K","parsed_posts_count":"71.2K"},{"id":216,"node_id":6,"node_type_id":"Forum","title":"Игровая","position":2,"posts_count":104849,"topics_count":184,"parsed_title":"igrovaja","img":"\/img\/forum\/forum-icons\/216.png","parsed_topics_count":"184","parsed_posts_count":"105K"},{"id":217,"node_id":25,"node_type_id":"Forum","title":"DeadLock","position":5,"posts_count":12681,"topics_count":427,"parsed_title":"deadlock","img":"\/img\/forum\/forum-icons\/217.png","parsed_topics_count":"427","parsed_posts_count":"12.6K"},{"id":219,"node_id":208,"node_type_id":"Forum","title":"Киберспорт и медиа","position":2,"posts_count":31,"topics_count":5,"parsed_title":"kibersport-i-media","img":"\/img\/forum\/forum-icons\/219.png","parsed_topics_count":"5","parsed_posts_count":"31"},{"id":220,"node_id":208,"node_type_id":"Forum","title":"Поиск игроков CS2","position":3,"posts_count":7,"topics_count":2,"parsed_title":"poisk-igrokov-cs2","img":"\/img\/forum\/forum-icons\/220.png","parsed_topics_count":"2","parsed_posts_count":"7"},{"id":221,"node_id":13,"node_type_id":"Forum","title":"Общение по интересам","position":3,"posts_count":443186,"topics_count":45,"parsed_title":"obschenie-po-interesam","img":"\/img\/forum\/forum-icons\/221.png","parsed_topics_count":"45","parsed_posts_count":"443K"}]`);
+                Utils.server_name = "dota2.ru";
+        
+                Utils.isSuperUser = false;
+                Utils.isAdmin = false;
+                Utils.isSuperModerator = false;
+                Utils.isGlobalModerator = false;
+                Utils.isMobile = 0;
+        
+                Utils.config.chat.isAjax = false;
+                Utils.config.chat.server = "dota2.ru";
+                Utils.config.chat.port = parseInt("7020");
+                Utils.config.chatUpdateInterval = parseInt("10000");
+                Utils.config.chatIdleStartInterval = parseInt("300");
+                Utils.config.chatIdleInterval = parseInt("30000");
+                Utils.config.chatIdleIntervalLimit = parseInt("600");
+        
+                Utils.config.spamRestrictPosts = parseInt("100");
+
+                Utils.config.socketNotifications = false;
+        
+                Utils.config.post.charLimit = 100000;
+                Utils.config.post.limitPostsAfterLoad = 2;
+                Utils.config.post.smilesLimit = 100;
+                Utils.config.post.imgLimit = 300;
+                Utils.config.post.iframeLimit = 20;
+        
+                Utils.config.profile.signatureCharLimit = 500;
+                Utils.config.profile.statusCharLimit = 110;
+        
+                Utils.config.topic.createTopicThrottleTime = 180;
+        
+                $(document).ready(function () {
+                                                                                });
+            } else {
+                console.log('[app] Utils no loaded');
+            }
+        </script>
+<script src="/js/main/dist/main.js?879"></script><script src="/js/vendors/owl.carousel.js?879"></script><script src="/js/comments_new.min.js?879"></script><script src="/js/functions.min.js?879"></script><script src="/js/all.min.js?879"></script><script src="/js/matches_esport.min.js?879"></script><script src="/js/calendar_esport.min.js?879"></script>
+        <style>
+.a-in-after {
+    margin: 5px auto 0;
+    text-align: center;
+    height: 90px;
+    width: 728px;
+    overflow: hidden;
+}
+.adsafter {
+    width: 728px;
+    height: 90px;
+    margin: 16px auto 0;
+    background: #1b1c20;
+    display: block;
+    overflow: hidden;
+    position: relative;
+}
+@media only screen and (max-width: 728px)
+{
+    .adsafter {
+        width: 100%;
+        height: auto;
+        vertical-align: middle;
+        background: none;
+    }
+    .adsafter img {
+        width: 100%;
+    }   
+}
+@media screen and (max-width: 426px)
+{
+    .a72 {
+        display: none !important;
+    }
+    .a42 {
+        display: block !important;
+    }
+    .a42 img {
+        width: 100%;
+    }
+}
+</style>
+
+<div class="clb"></div>
+
+
+<div class="adsafter adv">
+
+            <!-- Yandex.RTB R-A-127884-3 -->
+        <div id="yandex_rtb_R-A-127884-3"></div>
+        <script>window.yaContextCb.push(()=>{
+          Ya.Context.AdvManager.render({
+            renderTo: 'yandex_rtb_R-A-127884-3',
+            blockId: 'R-A-127884-3'
+          })
+        })</script>
+    
+</div>
+    
+
+
+
+        </div>
+
+
+        
+        <footer class="footer">
+            <div id="vueContainer"></div>
+            <div class="footer__wrap container">
+                <div class="footer__top">
+                    <div class="footer__first">
+                        <!--LiveInternet counter--><script>
+new Image().src = "https://counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script><!--/LiveInternet-->
+
+<!--LiveInternet logo--><img src="https://counter.yadro.ru/logo?38.3"
+title="LiveInternet"
+alt="" style="border:0" width="31" height="31"/><!--/LiveInternet-->
+                        <div>18+</div>
+                    </div>
+                    <ul class="footer__list">
+	                                                <li class="footer__item">
+                                <a class="footer__link" href="/about/">О нас</a>
+                            </li>
+                            <li class="footer__item">
+                                <a class="footer__link" href="/questions/">Обратная связь</a>
+                            </li>
+                            <li class="footer__item">
+                                <a class="footer__link" href="/vacancy/">Вакансии</a>
+                            </li>
+                            <li class="footer__item">
+                                <a class="footer__link" href="/adv/">Реклама</a>
+                            </li>
+                            <li class="footer__item">
+                                <a class="footer__link" href="/donate/dotabuff/">Dotabuff Plus</a>
+                            </li>
+                                            </ul>
+                    <ul class="footer__social">
+                        <li>
+                          <a class="component-block__socials-link component-block__socials-link-tg" href="//t.me/dota2_russia" target="_blank">
+                            <i class="fab fa-telegram-plane"></i>
+                          </a>
+                        </li>
+                                                <li>
+                          <a class="component-block__socials-link component-block__socials-link-vk" href="//vk.com/d2ru" target="_blank">
+                            <i class="fab fa-vk"></i>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="component-block__socials-link component-block__socials-link-youtube" href="https://www.youtube.com/c/Dota2Russia" target="_blank">
+                            <i class="fab fa-youtube"></i>
+                          </a>
+                        </li>
+
+
+                                            </ul>
+                </div>
+            </div>
+            <div class="footer__bottom">
+                <div class="footer__bottom-wrap container">
+                                            <p>© 2010-2026 Все права защищены</p>
+                        <a href="//stormwall.pro/services/website_protection.php" target="_blank" title="Защита от DDoS атак | StormWall">
+                            Защита сайта от DDoS атак -
+                            <img src="/img/stormwall.png?3">
+                            StormWall
+                        </a>
+                                    </div>
+            </div>
+        </footer>
+
+                                    
+        
+        <div id="button-move-up"><i class="fa fa-angle-double-up fa-2x"></i></div>
+        <div id="button-scroll-unread" style="display: none;">
+            <i class="fas fa-chevron-right fa-2x"></i>
+            <div class="button-scroll-counter"></div>
+        </div>
+
+        <div data-page-current-section=""></div>
+        <div>
+            <div id="page-current-section" data-value=""></div>
+            <div id="page-current-address" data-value=""></div>
+        </div>
+        
+                    
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(22621522, "init", {
+		clickmap:true,
+		trackLinks:true,
+		accurateTrackBounce:true,
+		webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/22621522" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-15834660-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-15834660-3');
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+        
+        <div id="showUsersWhoRatePost" aria-hidden="true" tabindex="-1" role="dialog" class="global-content__modal-window" style="display: none;">
+            <div class="global-content__modal">
+                <button class="global-content__modal-window--btn-close" data-dismiss="modal">
+                    <i class="fa fa-times" aria-hidden="true"></i>
+                </button>
+                <div class="modal-content primary-content">
+                    <div class="authorization__title">
+                        Пользователи, оценившие пост
+                    </div>
+                    <div class="global-content__modal-body">
+        
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+                    <div id="loginModal" aria-hidden="true" tabindex="-1" role="dialog" class="global-content__modal-window" style="display: none;">
+                <div class="global-content__modal" style="width: 350px;">
+                    <button class="global-content__modal-window--btn-close" data-dismiss="modal">
+                        <i class="fa fa-times" aria-hidden="true"></i>
+                    </button>
+                    <div class="modal-content primary-content">
+                        <div class="authorization__title">
+                            Авторизация
+                        </div>
+                        <div class="global-content__modal-body" style="padding: 0">
+                            <form class="authorization__form" action="javascript:Auth.login()">
+                                <input tabindex="4" class="authorization__input" type="text" name="user" id="login_credential" placeholder="E-mail или ник пользователя" minlength="1" maxlength="50" required>
+                                <input tabindex="5" class="authorization__input" type="password" name="password" id="login_password" placeholder="Пароль" minlength="1" required autocomplete="false">
+                                <input class="visually-hidden authorization__checkbox-input" type="checkbox" name="remember" id="login_remember_me" checked>
+                                <label class="authorization__checkbox" for="login_remember_me">
+                                    <span class="authorization__checkbox-label">
+                                        <i class="fas fa-check"></i>
+                                    </span>
+                                    Запомнить меня
+                                </label>
+                                <button tabindex="6" class="authorization__btn mb32" type="submit">
+                                    Войти <i class="fas fa-sign-in-alt"></i>
+                                </button>
+                                <div class="authorization__social">
+                                    <a class="authorization__social--vk" href="/members/login/vk/">
+                                        <i class="fab fa-vk"></i>
+                                        Вконтакте
+                                    </a>
+                                    <a class="authorization__social--steam" href="/members/login/steam/">
+                                        <i class="fab fa-steam"></i>
+                                        Steam
+                                    </a>
+                                </div>
+                                <div class="authorization__question">
+                                    <a href="/forum/password-recovery/">
+                                        Забыли пароль
+                                    </a>
+                                    <span>|</span>
+                                    <a href="#" id="site-register">
+                                        Зарегистрироваться
+                                    </a>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script src="/js/forum/jquery-validate/jquery.validate.min.js"></script>
+            <script src="/js/forum/jquery-validate/localization/messages_ru.min.js"></script>
+            <script src="/js/forum/dist/auth.min.js?879"></script>
+        
+        
+        
+        
+        <script>
+            $(document).on('click', '#accept-cookies', function (e) {
+                $.ajax({
+                    method: 'GET',
+                    url: '/accept-cookies',
+                    dataType: 'JSON',
+                    success: function (response) {
+                        if (response.status == "success") {
+                            $(".accept-cookies").fadeOut(300);
+                        }
+                    } 
+                });
+            });
+        </script>
+
+        <div id="token" data-value="14ac0897f28e87c8f665b6f335599b11"></div>
+
+                
+        
+        <div class="title-tooltipe"></div>
+
+            </body>
+</html>

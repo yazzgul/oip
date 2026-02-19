@@ -1,0 +1,1164 @@
+
+    <!DOCTYPE html>
+    <html lang="ru-RU">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,initial-scale=1.0"/>
+        <meta name="csrf-param" content="_csrf-frontend">
+<meta name="csrf-token" content="FaVgMpGyehET7mslTCiac2YgPPBjGFlop5pIbmtp8MNi6hhV-tNMdT6jJGYtYt4wLE9sgg1abR-X-xcsRgHCtQ==">
+        <!--[if lt IE 9]>
+        <script>
+        document.createElement('header');
+        document.createElement('footer');
+        </script>
+        <![endif]-->
+        
+
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta http-equiv="x-dns-prefetch-control" content="on"/>
+
+        <link rel="apple-touch-icon" sizes="120x120" href="/img/system/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/img/system/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/img/system/favicon-16x16.png">
+        <link rel="manifest" href="/site.webmanifest">
+        <link rel="mask-icon" href="/img/system/safari-pinned-tab.svg" color="#5bbad5">
+        <link rel="shortcut icon" href="/img/system/favicon.ico">
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="msapplication-config" content="/img/system/browserconfig.xml">
+        <meta name="theme-color" content="#ffffff">
+
+        <meta property="fb:pages" content="107583709307238"/>
+        <title>Журнал OK! | Новости о звездах, красоте, здоровье и культуре</title>
+        <meta name="description" content="Все о самых ярких событиях светской жизни: эксклюзивные фоторепортажи, свежие новости из жизни звезд, модные тенденции, анонсы премьер, советы от звездных мам.">
+<meta name="keywords" content="Журнал,OK!">
+<meta property="og:title" content="Журнал OK! | Новости о звездах, красоте, здоровье и культуре">
+<meta property="og:description" content="Все о самых ярких событиях светской жизни: эксклюзивные фоторепортажи, свежие новости из жизни звезд, модные тенденции, анонсы премьер, советы от звездных мам.">
+<meta name="og:image" content="https://www.ok-magazine.ru">
+<meta property="article:author" content="https://www.facebook.com/">
+<meta name="article:publisher" content="ok-magazine.ru">
+<meta name="apple-itunes-app" content="ok-magazine.ru">
+<meta name="dcterms.dateCopyrighted" content="ok-magazine.ru">
+<meta property="og:site_name" content="Журнал OK!">
+<meta property="fb:app_id" content="107583709307238">
+<meta property="title" content="Журнал OK! | Новости о звездах, красоте, здоровье и культуре">
+<link href="https://www.ok-magazine.ru" rel="canonical">
+<link href="/css/styles.min.css?t=1770856212" rel="stylesheet">        <meta name='wmail-verification' content='7a8f61fdf63df500c777df965316d8fb'/>
+        <meta name="p:domain_verify" content="7cce8218c9a65b7febf4b58465c95915"/>
+<!--        <meta name="yandex-verification" content="daa11980708e9c5d" />-->
+<!--        <meta name="yandex-verification" content="377b44e15f74d400" />-->
+        <meta name="yandex-verification" content="1526aa23f919e402" />
+
+        <!-- Yandex.Metrika counter -->
+        <script type="text/javascript">
+            (function(m,e,t,r,i,k,a){
+                m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+                m[i].l=1*new Date();
+                for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+                k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+            })(window, document,'script','https://mc.yandex.ru/metrika/tag.js', 'ym');
+
+            ym(630419, 'init', {clickmap:true, accurateTrackBounce:true, trackLinks:true});
+        </script>
+        <noscript><div><img src="https://mc.yandex.ru/watch/630419" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+        <!-- /Yandex.Metrika counter -->
+
+
+
+        <link href="https://verstka.org/critical.css" rel="stylesheet">
+	<!--<style>
+		@media screen and (max-width: 1485px){
+			header .header-menu-search-open {
+				display:none;
+			}
+		}
+	</style>-->
+
+        <!-- Header Tag Code -->
+        <script data-cfasync='false' type='text/javascript'>/*<![CDATA[*/
+        (function(a, c, s, u) {
+            'Insticator' in a || (a.Insticator = {
+                ad: {
+                    loadAd: function(b) {
+                        Insticator.ad.q.push(b);
+                    }, q: [],
+                }, helper: {}, embed: {}, version: '4.0', q: [], load: function(t, o) {
+                    Insticator.q.push({t: t, o: o});
+                },
+            });
+            var b = c.createElement(s);
+            b.src = u;
+            b.async = !0;
+            var d = c.getElementsByTagName(s)[0];
+            d.parentNode.insertBefore(b, d);
+        })(window, document, 'script',
+            '//d3lcz8vpax4lo2.cloudfront.net/ads-code/b7cd678e-5de6-42ae-8c55-2cc4fc3eef49.js');/*]]>*/</script>
+        <!-- End Header Tag Code -->
+        <!-- Marquiz script start -->
+<script>
+(function(w, d, s, o){
+  var j = d.createElement(s); j.async = true; j.src = '//script.marquiz.ru/v2.js';j.onload = function() {
+    if (document.readyState !== 'loading') Marquiz.init(o);
+    else document.addEventListener("DOMContentLoaded", function() {
+      Marquiz.init(o);
+    });
+  };
+  d.head.insertBefore(j, d.head.firstElementChild);
+})(window, document, 'script', {
+    host: '//quiz.marquiz.ru',
+    region: 'ru',
+    id: '67d2c2c4fdca4100197bb8e4',
+    autoOpen: false,
+    autoOpenFreq: 'once',
+    openOnExit: false,
+    disableOnMobile: false
+  }
+);
+</script>
+<!-- Marquiz script end -->
+    </head>
+    <body >
+        <div class="layout">
+
+        <script>window.yaContextCb = window.yaContextCb || []</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: '3087289', type: 'pageView', start: (new Date()).getTime()});
+(function(d, w, id) {
+    if (d.getElementById(id)) return;
+    var ts = d.createElement('script');
+    ts.type = 'text/javascript';
+    ts.async = true;
+    ts.id = id;
+    ts.src = 'https://top-fwz1.mail.ru/js/code.js';
+    var f = function() {
+        var s = d.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ts, s);
+    };
+    if (w.opera == '[object Opera]') {
+        d.addEventListener('DOMContentLoaded', f, false);
+    } else {
+        f();
+    }
+})(document, window, 'topmailru-code');
+</script>
+<noscript>
+    <div>
+        <img src="https://top-fwz1.mail.ru/counter?id=3087289;js=na"
+             style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru"/>
+    </div>
+</noscript>
+<!-- //Rating@Mail.ru counter -->
+
+
+<!--AdFox START-->
+<!--yandex_adv-okmagazine-->
+<!--Площадка: Ok-magazine / Mercury / 1x1-->
+<!--Категория: <не задана>-->
+<!--Баннер: <не задана>-->
+<!--Тип баннера: 1x1-->
+<div id="adfox_166747314947348138"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 323627,
+            containerId: 'adfox_166747314947348138',
+            params: {
+                p1: 'cwcml',
+                p2: 'frfe',
+                pfc: 'eqxpk',
+                pfb: 'mumdf',
+                puid6: ''
+            }
+        })
+    })
+</script>
+
+        
+            <!--AdFox START-->
+<!--yandex_adv-okmagazine-->
+<!--Площадка: Ok-magazine / * / *-->
+<!--Тип баннера: Background-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_15681208066719943"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 323627,
+            containerId: 'adfox_15681208066719943',
+            params: {
+                pp: 'g',
+                ps: 'dobx',
+                p2: 'gntw'
+            },
+            onRender: function () {
+                document.querySelector('body').classList.add('branding');
+            },
+        });
+});
+</script>
+            <!--AdFox START-->
+<!--yandex_adv-okmagazine-->
+<!--Площадка: Ok-magazine / * / *-->
+<!--Тип баннера: Fullscreen-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_156812086462031292"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 323627,
+            containerId: 'adfox_156812086462031292',
+            params: {
+                pp: 'g',
+                ps: 'dobx',
+                p2: 'gntx'
+            }
+        });
+    });
+</script>
+            <div class="top-bn">
+    <div>
+                    <!--AdFox START-->
+            <!--yandex_adv-okmagazine-->
+            <!--Площадка: Ok-magazine / * / *-->
+            <!--Тип баннера: Перетяжка 100%-->
+            <!--Расположение: <верх страницы>-->
+            <div id="adfox_156811914817375931"></div>
+            <script>
+                window.yaContextCb.push(()=>{
+                    Ya.adfoxCode.create({
+                        ownerId: 323627,
+                        containerId: 'adfox_156811914817375931',
+                        params: {
+                            pp: 'g',
+                            ps: 'dobx',
+                            p2: 'y',
+                        },
+                    });
+            });
+            </script>
+        
+    </div>
+</div>
+
+            
+                <!--AdFox START-->
+    <!--yandex_adv-okmagazine-->
+    <!--Площадка: Ok-magazine / * / *-->
+    <!--Тип баннера: Bilboard-->
+    <!--Расположение: верх страницы-->
+    <div id="adfox_173676197296696822"></div>
+    <script>
+        window.yaContextCb.push(()=>{
+            Ya.adfoxCode.create({
+                ownerId: 323627,
+                containerId: 'adfox_173676197296696822',
+                params: {
+                    pp: 'g',
+                    ps: 'dobx',
+                    p2: 'jizp',
+                    puid6: ''
+                }
+            })
+        })
+    </script>
+<header class="main-header">
+    <div class="container">
+        <div class="row justify-content-between align-items-center position-relative">
+            <div class="col-2 col-lg-1">
+                <div class="burger js-toggle" data-target="header"></div>
+            </div>
+            <div class="col-8 col-lg-10 justify-content-center">
+                <div class="menu-content">
+                    <div class="block-links">
+    <a class="pointlink" href="/stars">Звезды</a>
+    <a class="pointlink" href="/fashion">Мода</a>
+    <a class="pointlink" href="/beauty">Красота</a>
+            <div class="logo">
+                            <svg class="ui-icon icon--logo">
+    <use xlink:href="/img/sprite/sprite.svg?v6#svg--logo"></use>
+</svg>
+                <h1 itemprop="headline" hidden>Журнал OK! | Новости о звездах, красоте, здоровье и культуре</h1>
+                    </div>
+        <a class="pointlink" href="/style">Стиль жизни</a>
+    <a class="pointlink" href="/auto">Автомобили</a>
+    <div class="special-link">
+    <a class="pointlink"
+        href="https://www.ok-magazine.ru/special/exeed-exlantix-et-3/"
+        >
+                        <img src="https://www.ok-magazine.ru/images/cache/2025/12/17/fit_200_50_false_q90_3468281_ece08192e13302edcb564b48a.jpeg" alt="EXEED EXLANTIX" title="EXEED EXLANTIX" class="special-button">
+            </a>
+</div>
+</div>
+                </div>
+            </div>
+            <div class="col-2 col-lg-1 text-right">
+                <div class="header-menu-search" id="header-search">
+    <div class="search-content">
+        <div class="search-headline">
+            <h2 class="title">Поиск</h2>
+            <div class="x-form-menu close-btn js-close-btn" data-target="#header-search">
+                <svg class="ui-icon icon--icon-close">
+    <use xlink:href="/img/sprite/sprite.svg?v6#svg--icon-close"></use>
+</svg>
+            </div>
+        </div>
+        <form action="/search/" accept-charset="UTF-8" method="get">
+            <input type="text" maxlength="128" name="searchString" placeholder="Введите слово для поиска" value="" title="" class="">
+            <button type="submit" name="" value="" class="">
+                <svg class="ui-icon icon--icon-search">
+    <use xlink:href="/img/sprite/sprite.svg?v6#svg--icon-search"></use>
+</svg>
+            </button>
+            <div class="fake-submit"></div>
+        </form>
+    </div>
+</div>
+<div class="header-search js-toggle c-pointer" data-target="#header-search">
+    <svg class="ui-icon icon--icon-search">
+    <use xlink:href="/img/sprite/sprite.svg?v6#svg--icon-search"></use>
+</svg>
+</div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="modal-menu">
+    <div class="container h-100">
+        <div class="row h-100">
+            <div class="modal-menu-body custom-scroll js-custom-scroll">
+<!--                <div class="modal-head">-->
+<!--                    <div class="socNetworks-for-modal">-->
+<!--                       --><!--  <a class="facebook" href="http://www.facebook.com/okrussia" target="_blank" title="facebook">facebook</a>--><!--                       --><!--  <a class="twitter" href="https://twitter.com/okmagazineru" target="_blank" title="twitter">twitter</a>--><!--                        <a class="vkontakte" href="http://vk.com/club21560979" target="_blank">vkontakte</a>-->
+<!--        --><!--                <a class="instagram" href="http://instagram.com/okmagazine_ru" target="_blank" title="twitter">instagram</a>--><!--                        <a class="ok" href="https://ok.ru/okrussia" target="_blank" title="ok.ru">ok.ru</a>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                <a class="modal-menu-top-news" href="#">-->
+<!--                    <span></span>-->
+<!--                </a>-->
+                <div class="modal-content">
+                    <div class="href-content">
+                        <ul>
+                            <li class="section"><a href="/stars">Звезды</a></li>
+                            <li><a href="/stars/news_0">Новости</a></li>
+                            <li><a href="/stars/interview">Интервью</a></li>
+                            <li><a href="/stars/chronicle">Хроника</a></li>
+                            <li><a href="/stars/report">Репортаж</a></li>
+                            <li><a href="/stars/ratings">Рейтинги</a></li>
+                            <li><a href="/stars/stars-index">Индекс звезд</a></li>
+                        </ul>
+                        <ul>
+                            <li class="section"><a href="/fashion">Мода</a></li>
+                            <li><a href="/fashion/news_1">Новости</a></li>
+                            <li><a href="/fashion/trends_0">Тенденции</a></li>
+                            <li><a href="/fashion/obraz">Звездный стиль</a></li>
+                                                    </ul>
+                        <ul>
+                            <li class="section"><a href="/beauty">Красота</a></li>
+                            <li><a href="/beauty/news_3">Новости</a></li>
+                            <li><a href="/beauty/trends_1">Тенденции</a></li>
+                            <li><a href="/beauty/stars_1">Звездный образ</a></li>
+                            <li><a href="/beauty/test-drive_1">Редакция тестирует</a></li>
+                            <li><a href="/beauty/aesthetics">Эстетика</a></li>
+                        </ul>
+                        <ul>
+                            <li class="section"><a href="/auto">Автомобили</a></li>
+                            <li><a href="/auto/news">Новости</a></li>
+                            <li><a href="/auto/test">Тест-драйв</a></li>
+                            <li><a href="/auto/travel">Путешествия</a></li>
+                        </ul>
+                    </div>
+                                        <div class="href-content">
+                        <ul>
+                            <li class="section"><a href="/style">Стиль жизни</a></li>
+                            <li><a href="/style/afisha">Афиша</a></li>
+                            <li><a href="/style/menu">Меню</a></li>
+                            <li><a href="/style/travel">Путешествия</a></li>
+                            <li><a href="/style/psychology">Психология</a></li>
+                            <li><a href="/style/test-drive_2">Тест-драйв</a></li>
+                            <li><a href="/style/trendy">Тренды</a></li>
+                        </ul>
+                        <ul>
+                            <li class="section"><a href="/ok-choice">Выбор ОК!</a></li>
+                            <li><a href="/ok-choice/kino">Кино</a></li>
+                            <li><a href="/ok-choice/teatr">Театр</a></li>
+                            <li><a href="/ok-choice/music">Музыка</a></li>
+                            <li><a href="/ok-choice/books">Книги</a></li>
+                            <li><a href="/ok-choice/restaurants">Рестораны</a></li>
+                        </ul>
+                        <ul class="special-projects-list">
+                            <li class="section"><a href="/goroscope">Гороскоп</a></li>
+                            <li class="section"><a href="/competitions">Конкурсы</a></li>
+                            <li class="section"><a href="/sp">Спецпроекты</a></li>
+                            <li class="section"><a href="/ok-awards-2018/">OK! Awards 2018</a></li>
+                            <li class="section"><a href="/ok-awards-2019/">OK! Awards 2019</a></li>
+                            <li class="section"><a href="/ok-awards-2020/">OK! Awards 2020</a></li>
+                            <li class="section"><a href="/ok-awards-2021/">OK! Awards 2021</a></li>
+                            <li class="section"><a href="/ok-awards-2022/">OK! Awards 2022</a></li>
+                            <li class="section"><a href="/ok-awards-2023/">OK! Awards 2023</a></li>
+                            <li class="section"><a href="/ok-awards-2024/">OK! Awards 2024</a></li>
+                        </ul>
+                        <ul class="columnists-list">
+                            <li class="section"><a href="/kolumnisti">Колумнисты</a></li>
+                            <li><a href="/kolumnisti/farkash">Алина Фаркаш</a></li>
+                            <li><a href="/kolumnisti/wlamberti">Уиллиам Ламберти</a></li>
+                            <li><a href="/kolumnisti/charisheva">Юлия Чарышева-Лоло</a></li>
+                            <li><a href="/kolumnisti/olgakaraput">Ольга Карпуть</a></li>
+                            <li><a href="/kolumnisti/shymakova">Мария Шумакова</a></li>
+                            <li><a href="/kolumnisti/sadovskaya">Арина Садовская</a></li>
+                            <li><a href="/kolumnisti/sedokova">Анна Седокова</a></li>
+                            <li><a href="/kolumnisti/shurshakov">Дмитрий Шуршаков</a></li>
+                        </ul>
+
+                    </div>
+
+                    <div class="href-content justify-content-between">
+                        <ul class="about-journal">
+                            <li><a href="/files4editor/MK_OK!magazine_2026_RUS.pdf" target="_blank">Скачать медиакит</a></li>
+                            <li><a href="/marketing">Реклама на сайте</a></li>
+                            <li><a href="/advert">Реклама в журнале</a></li>
+                            <li><a href="/contacts" target="_blank">Редакция</a></li>
+
+                        </ul>
+
+                        <div class="magazine-to-apps">
+                                                                                                                                                                    <div class="side">
+                                        <img class="pic-journal-in-apps"
+                                             src="https://www.ok-magazine.ru/images/cache/2026/2/12/fit_200_300_false_crop_2000_3000_82_0_q90_3530961_f89832ce0bff5df525e8fa3af.jpeg"
+                                             width="105" height="158" alt="№ 07-08 (998-999) В ПРОДАЖЕ С 12 ФЕВРАЛЯ 2026 ГОДА" title="№ 07-08 (998-999) В ПРОДАЖЕ С 12 ФЕВРАЛЯ 2026 ГОДА">
+                                    </div>
+                                                                                        <div class="side">
+                                <div class="d-lg-flex">
+                                    <h4>Журнал OK! на&nbsp;планшете и смартфоне:</h4>
+                                </div>
+                                <div class="d-lg-flex">
+                                <a href="https://apps.apple.com/ru/app/kiozk-%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%8B-%D0%B8-%D0%B0%D1%83%D0%B4%D0%B8%D0%BE%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/id1125901207"
+                                   target="_blank">
+                                    <img class="apps-google-apple" src="/img/googlePlay-modal.png" width="128"
+                                         height="40" alt="" title="">
+                                </a>
+                                <a href="https://play.google.com/store/apps/details?id=ru.kiozk.android" target="_blank">
+                                    <img class="apps-google-apple" src="/img/appStore-modal.png" width="128"
+                                         height="40" alt="" title="">
+                                </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="menu-footer-content">
+                    <div class="copy">
+                        © 2026 ООО «ХИТ ТВ» Все права защищены. 16+<br>
+                        <a href="/privacy_policy">Политика конфиденциальности</a>
+                        <p><a href="/agreements">Согласие пользователя сайта на обработку персональных данных</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+</header>
+            <div class="container">
+                <div class="row">
+                    <div class="col page-content">
+                        <div class="front-page-block" data-page="1" data-is-last-page="">
+            <div class="layout">
+    <div class="group">
+    <div class="swiper-container main-swiper-container">
+    <div class=" main-slider grid-rows">
+                    <div class="slogan-overlay">
+                Ok! Magazine            </div>
+                            <a
+                href="/stars/interview/536221-elena-i-vasilij-vakulenko"
+                class="top-main-material"
+                >
+                <span class="image">
+                    <img
+                        src="https://www.ok-magazine.ru/images/cache/2026/1/27/heighten_658_crop_2371_1333_228_517_q90_3508931_aef9e6dc64385be921d52318c.jpeg"
+                        width="1280"
+                        height="658"
+                        title="Елена и Василий Вакуленко (Баста): счастливые на «острове счастья»"
+                        alt="Елена и Василий Вакуленко (Баста): счастливые на «острове счастья»" />
+                    </span>
+                <span class="block-text">
+                    <span class="name-material">
+                        Елена и Василий Вакуленко (Баста): счастливые на «острове счастья»                    </span>
+                </span>
+            </a>
+                    <a
+                href="/stars/report/525161-gosti-ok-awards-bolshe-chem-zvyozdy"
+                class="top-main-material"
+                >
+                <span class="image">
+                    <img
+                        src="https://www.ok-magazine.ru/images/cache/2025/11/19/heighten_658_crop_2137_1202_384_286_q90_3410361_2107f4e4571277a5ab0dec9e5.jpeg"
+                        width="1280"
+                        height="658"
+                        title="Константин Хабенский, Ксения Собчак, Константин Богомолов, EMIN, Виктория Исакова, Яна Рудковская и другие гости OK! Awards «Больше чем звёзды»"
+                        alt="Константин Хабенский, Ксения Собчак, Константин Богомолов, EMIN, Виктория Исакова, Яна Рудковская и другие гости OK! Awards «Больше чем звёзды»" />
+                    </span>
+                <span class="block-text">
+                    <span class="name-material">
+                        Константин Хабенский, Ксения Собчак, Константин Богомолов, EMIN, Виктория Исакова, Яна Рудковская и другие гости OK! Awards «Больше чем звёзды»                    </span>
+                </span>
+            </a>
+                    <a
+                href="/stars/interview/522891-yana-rudkovskaya"
+                class="top-main-material"
+                >
+                <span class="image">
+                    <img
+                        src="https://www.ok-magazine.ru/images/cache/2025/11/5/heighten_658_crop_2375_1334_0_191_q90_3389631_3ae551a894fa88605748e8211.jpeg"
+                        width="1280"
+                        height="658"
+                        title="Яна Рудковская: энергия победителя"
+                        alt="Яна Рудковская: энергия победителя" />
+                    </span>
+                <span class="block-text">
+                    <span class="name-material">
+                        Яна Рудковская: энергия победителя                    </span>
+                </span>
+            </a>
+            </div>
+    </div>
+
+        <div class="panel-hot">
+        <div class="title">
+            <svg class="ui-icon icon--icon-hot">
+    <use xlink:href="/img/sprite/sprite.svg?v6#svg--icon-hot"></use>
+</svg>
+            <h4>Острая тема:</h4>
+        </div>
+        <div class="panel-hot__list">
+                                <a href="/stars/news_0/534441-novyj-smelyj-shag-princa-uilyama">Принц Уильям сделал смелый шаг в борьбе со скандалами в королевской семье</a>
+                                <a href="/stars/news_0/534431-rianna-poshutila-o-vozmozhnoj-novoj-beremennosti">Рианна планирует четвертую беременность в этом году?</a>
+                    </div>
+        <div class="side">
+            <div class="social-panel">
+            <a href="https://vk.com/public21560979" class="social-icon color-vk  icon-vk color-hover" rel="nofollow noopener noreferrer">
+                            <svg class="ui-icon icon--icon-vk">
+    <use xlink:href="/img/sprite/sprite.svg?v6#svg--icon-vk"></use>
+</svg>
+                    </a>
+            <a href="https://t.me/okmagazine" class="social-icon color-tg  icon-tg color-hover" rel="nofollow noopener noreferrer">
+                            <svg class="ui-icon icon--icon-tg">
+    <use xlink:href="/img/sprite/sprite.svg?v6#svg--icon-tg"></use>
+</svg>
+                    </a>
+            <a href="https://ok.ru/okrussia" class="social-icon color-ok  icon-ok color-hover" rel="nofollow noopener noreferrer">
+                            <svg class="ui-icon icon--icon-ok">
+    <use xlink:href="/img/sprite/sprite.svg?v6#svg--icon-ok"></use>
+</svg>
+                    </a>
+            <a href="https://zen.yandex.ru/ok" class="social-icon color-dzen icon-dzen color-hover" rel="nofollow noopener noreferrer">
+                            <svg class="ui-icon icon--icon-dzen">
+    <use xlink:href="/img/sprite/sprite.svg?v6#svg--icon-dzen"></use>
+</svg>
+                    </a>
+    </div>
+        </div>
+    </div>
+
+    <div class="grid-type grid-type-4">
+            <div class="row flex-nowrap">
+        <div class="col grid-rows">
+                            <div class="grid-item ">
+                    <div class="announce announce-item">
+                                                    <div class="announce-image">
+                                <span class="announce-thumbs">
+                                    <a href="/stars/interview/540321-yuliya-peresild">
+                                        <img src="https://www.ok-magazine.ru/images/cache/2026/2/18/fit_665_798_false_crop_1413_1793_276_317_q90_3541891_3226a5c2be921047f6145d40b.jpeg" alt="Юлия Пересильд о роли в фильме «Красавица», Евдокии Дашиной и тихом подвиге, который до сих пор отзывается в сердце" class="regressive_image">
+                                    </a>
+                                </span>
+                            </div>
+                                                <div class="details_item">
+                                                            <div class="category-panel">
+                                    <a href="/stars/interview" class="category-label">
+                                        <span class="ui-text">
+                                            Интервью                                        </span>
+                                    </a>
+                                                                    </div>
+                            
+                                                            <div class="title">
+                                    <a href="/stars/interview/540321-yuliya-peresild">
+                                        Юлия Пересильд о роли в фильме «Красавица», Евдокии Дашиной и тихом подвиге, который до сих пор отзывается в сердце                                    </a>
+                                </div>
+                            
+                                                            <div class="intro test">
+                                    <a href="/stars/interview/540321-yuliya-peresild">
+                                        «Конечно, я сказала не просто "да", а "очень, очень хочу"».                                    </a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                            <div class="grid-item ">
+                    <div class="announce announce-item">
+                                                    <div class="announce-image">
+                                <span class="announce-thumbs">
+                                    <a href="/style/afisha/538231-anons-nomera">
+                                        <img src="https://www.ok-magazine.ru/images/cache/2026/2/12/fit_496_280_false_crop_2164_1217_0_112_q90_3530931_2445bdc23c97eff9c8ceb6991.jpeg" alt="Новый номер ОК! в продаже с 12 февраля" class="regressive_image">
+                                    </a>
+                                </span>
+                            </div>
+                                                <div class="details_item">
+                                                            <div class="category-panel">
+                                    <a href="/style/afisha" class="category-label">
+                                        <span class="ui-text">
+                                            Афиша                                        </span>
+                                    </a>
+                                                                    </div>
+                            
+                                                            <div class="title">
+                                    <a href="/style/afisha/538231-anons-nomera">
+                                        Новый номер ОК! в продаже с 12 февраля                                    </a>
+                                </div>
+                            
+                                                            <div class="intro test">
+                                    <a href="/style/afisha/538231-anons-nomera">
+                                        На обложке Аня Чиповская.                                    </a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                            <div class="grid-item ">
+                    <div class="announce announce-item">
+                                                    <div class="announce-image">
+                                <span class="announce-thumbs">
+                                    <a href="/stars/interview/538751-polina-guhman">
+                                        <img src="https://www.ok-magazine.ru/images/cache/2026/2/13/fit_496_280_false_crop_2133_1198_0_547_q90_3533861_6e7436802b2365ed49bbf948e.jpeg" alt="Полина Гухман: предчувствие весны" class="regressive_image">
+                                    </a>
+                                </span>
+                            </div>
+                                                <div class="details_item">
+                                                            <div class="category-panel">
+                                    <a href="/stars/interview" class="category-label">
+                                        <span class="ui-text">
+                                            Интервью                                        </span>
+                                    </a>
+                                                                    </div>
+                            
+                                                            <div class="title">
+                                    <a href="/stars/interview/538751-polina-guhman">
+                                        Полина Гухман: предчувствие весны                                     </a>
+                                </div>
+                            
+                                                            <div class="intro test">
+                                    <a href="/stars/interview/538751-polina-guhman">
+                                        Она ворвалась в наше кино как вихрь — дерзкая, настоящая, без фальши. Ей 19. Большие главные роли. Тандем с Козловским. Учеба. РАМТ. Она — выбирает. И ее берут, без проб. Как такое возможно? И как она успевает? Всё дело — в уникальном энергетическом коде под названием Полина Гухман: одна из самых обсуждаемых актрис, чья органика ломает привычные шаблоны. Она не боится быть «неудобной», играет юность так, словно прожила ее на десяток лет дольше, а серьезность — так, будто уже знает все ответы, заставляя нас верить в силу искренних эмоций.                                    </a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                            <div class="grid-item ">
+                    <div class="announce announce-item">
+                                                    <div class="announce-image">
+                                <span class="announce-thumbs">
+                                    <a href="/stars/report/537071-gosti-kinopremii-zolotoj-orel">
+                                        <img src="https://www.ok-magazine.ru/images/cache/2026/1/31/fit_496_280_false_crop_3000_1686_0_105_q90_3514441_e07930503965b7bab011a7d18.jpeg" alt="Сергей Безруков, Никита Кологривый, Аня Чиповская, Даниил Воробьёв, Милош Бикович и другие гости кинопремии «Золотой орёл»" class="regressive_image">
+                                    </a>
+                                </span>
+                            </div>
+                                                <div class="details_item">
+                                                            <div class="category-panel">
+                                    <a href="/stars/report" class="category-label">
+                                        <span class="ui-text">
+                                            Репортаж                                        </span>
+                                    </a>
+                                                                    </div>
+                            
+                                                            <div class="title">
+                                    <a href="/stars/report/537071-gosti-kinopremii-zolotoj-orel">
+                                        Сергей Безруков, Никита Кологривый, Аня Чиповская, Даниил Воробьёв, Милош Бикович и другие гости кинопремии «Золотой орёл»                                    </a>
+                                </div>
+                            
+                                                            <div class="intro test">
+                                    <a href="/stars/report/537071-gosti-kinopremii-zolotoj-orel">
+                                        30 января в легендарном первом павильоне киностудии «Мосфильм» состоялась XXIV церемония вручения кинопремии «Золотой орёл», учрежденной Национальной Академией кинематографических искусств и наук России.                                     </a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                            <div class="grid-item ">
+                    <div class="announce announce-item">
+                                                    <div class="announce-image">
+                                <span class="announce-thumbs">
+                                    <a href="/stars/interview/536981-fyodor-fedotov">
+                                        <img src="https://www.ok-magazine.ru/images/cache/2026/1/30/fit_496_280_false_crop_1707_959_0_1000_q90_3513551_1f1120b494e75481de9735b3f.jpeg" alt="Фёдор Федотов: в роли себя" class="regressive_image">
+                                    </a>
+                                </span>
+                            </div>
+                                                <div class="details_item">
+                                                            <div class="category-panel">
+                                    <a href="/stars/interview" class="category-label">
+                                        <span class="ui-text">
+                                            Интервью                                        </span>
+                                    </a>
+                                                                    </div>
+                            
+                                                            <div class="title">
+                                    <a href="/stars/interview/536981-fyodor-fedotov">
+                                        Фёдор Федотов: в роли себя                                    </a>
+                                </div>
+                            
+                                                            <div class="intro test">
+                                    <a href="/stars/interview/536981-fyodor-fedotov">
+                                        Погони, драки и нанотехнологии в начале прошлого века — в фантастическом детективе «Левша» добро эффектно борется со злом. Одного из супергероев экшена, который вышел в конце января на экраны, сыграл Фёдор Федотов: история для артиста, который с 3-х лет занимается спортом, — вроде и не самая необыкновенная, но при этом риск и азарт на съемках подобного кино никто не отменял. О безопасности и авантюризме, экологичном родительстве и собственном театре, ну и о коньках (куда без них) — в интервью ОK!                                    </a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                            <div class="grid-item ">
+                    <div class="announce announce-item">
+                                                    <div class="announce-image">
+                                <span class="announce-thumbs">
+                                    <a href="/stars/interview/536341-pavel-artemev">
+                                        <img src="https://www.ok-magazine.ru/images/cache/2026/1/29/fit_496_280_false_crop_2013_1132_0_706_q90_3511311_9b5b9a3da1d96bf408439d937.jpeg" alt="Павел Артемьев: «Могу себя назвать и свободным, и счастливым, и одиноким, и неодиноким»" class="regressive_image">
+                                    </a>
+                                </span>
+                            </div>
+                                                <div class="details_item">
+                                                            <div class="category-panel">
+                                    <a href="/stars/interview" class="category-label">
+                                        <span class="ui-text">
+                                            Интервью                                        </span>
+                                    </a>
+                                                                    </div>
+                            
+                                                            <div class="title">
+                                    <a href="/stars/interview/536341-pavel-artemev">
+                                        Павел Артемьев: «Могу себя назвать и свободным, и счастливым, и одиноким, и неодиноким»                                    </a>
+                                </div>
+                            
+                                                            <div class="intro test">
+                                    <a href="/stars/interview/536341-pavel-artemev">
+                                        Пару дней назад на Малой сцене Театра Наций состоялась премьера музыкальнодраматического спектакля «Вознесенский. Цветет миндаль» из цикла «Наше всё…». В основе — несколько эпизодов биографии одного из самых известных советских поэтов XX века — Андрея Вознесенского. В главной роли — Паша Артемьев.                                    </a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                    </div>
+            </div>
+</div>
+
+    <div class="grid-type grid-type-2">
+                <div class="row">
+            <div class="col-12">
+                <h2 class="announce-headline"><span>Новости</span></h2>
+            </div>
+        </div>
+        <div class="row flex-nowrap">
+        <div class="col grid-rows">
+                            <div class="grid-item ">
+                    <div class="announce announce-item">
+                                                    <div class="announce-image">
+                                <span class="announce-thumbs">
+                                    <a href="/stars/news_0/540481-hanna-russkaya-krasavica">
+                                        <img src="https://www.ok-magazine.ru/images/cache/2026/2/19/fit_665_798_false_crop_2363_3000_318_0_q90_3542841_ade708c29cf73c95ff0264023.jpeg" alt="Певица ХАННА представила новый сингл «Русская красавица»" class="regressive_image">
+                                    </a>
+                                </span>
+                            </div>
+                                                <div class="details_item">
+                                                            <div class="category-panel">
+                                    <a href="/stars/news_0" class="category-label">
+                                        <span class="ui-text">
+                                            Новости                                        </span>
+                                    </a>
+                                                                    </div>
+                            
+                                                            <div class="title">
+                                    <a href="/stars/news_0/540481-hanna-russkaya-krasavica">
+                                        Певица ХАННА представила новый сингл «Русская красавица»                                    </a>
+                                </div>
+                            
+                                                            <div class="intro test">
+                                    <a href="/stars/news_0/540481-hanna-russkaya-krasavica">
+                                        Заметная и во многом личная работа в ее репертуаре, отражающая новый этап творческого звучания.                                    </a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                            <div class="grid-item ">
+                    <div class="announce announce-item">
+                                                    <div class="announce-image">
+                                <span class="announce-thumbs">
+                                    <a href="/stars/news_0/540571-princ-garri-obratilsya-k-uilyamu">
+                                        <img src="https://www.ok-magazine.ru/images/cache/2026/2/19/fit_496_280_false_crop_3000_1686_0_121_q90_3544431_6b4cdf804e9f58fbb8aaf771e.jpeg" alt="Принц Гарри обратился к принцу Уильяму через посредника в надежде на примирение" class="regressive_image">
+                                    </a>
+                                </span>
+                            </div>
+                                                <div class="details_item">
+                                                            <div class="category-panel">
+                                    <a href="/stars/news_0" class="category-label">
+                                        <span class="ui-text">
+                                            Новости                                        </span>
+                                    </a>
+                                                                    </div>
+                            
+                                                            <div class="title">
+                                    <a href="/stars/news_0/540571-princ-garri-obratilsya-k-uilyamu">
+                                        Принц Гарри обратился к принцу Уильяму через посредника в надежде на примирение                                    </a>
+                                </div>
+                            
+                                                            <div class="intro test">
+                                    <a href="/stars/news_0/540571-princ-garri-obratilsya-k-uilyamu">
+                                        «Каменная стена по-прежнему на месте».                                    </a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                            <div class="grid-item ">
+                    <div class="announce announce-item">
+                                                    <div class="announce-image">
+                                <span class="announce-thumbs">
+                                    <a href="/stars/news_0/540551-dzhennifer-eniston-s-bojfrendom">
+                                        <img src="https://www.ok-magazine.ru/images/cache/2026/2/19/fit_496_280_false_crop_4185_2354_364_424_q90_3544391_157463e0b189b8509633a1265.jpeg" alt="Дженнифер Энистон отметила 57-летие с бойфрендом" class="regressive_image">
+                                    </a>
+                                </span>
+                            </div>
+                                                <div class="details_item">
+                                                            <div class="category-panel">
+                                    <a href="/stars/news_0" class="category-label">
+                                        <span class="ui-text">
+                                            Новости                                        </span>
+                                    </a>
+                                                                    </div>
+                            
+                                                            <div class="title">
+                                    <a href="/stars/news_0/540551-dzhennifer-eniston-s-bojfrendom">
+                                        Дженнифер Энистон отметила 57-летие с бойфрендом                                    </a>
+                                </div>
+                            
+                                                            <div class="intro test">
+                                    <a href="/stars/news_0/540551-dzhennifer-eniston-s-bojfrendom">
+                                        «Она давно не чувствовала себя так комфортно, и всё идет хорошо».                                    </a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                            <div class="grid-item ">
+                    <div class="announce announce-item">
+                                                    <div class="announce-image">
+                                <span class="announce-thumbs">
+                                    <a href="/stars/interview/540621-elvira-t">
+                                        <img src="https://www.ok-magazine.ru/images/cache/2026/2/19/fit_496_280_false_crop_2000_1124_0_1088_q90_3544151_117da9d1ab74aef012441e4fc.jpeg" alt="Elvira T о своей новой эре, альбоме «Ядовитая. Неразбитая» и предстоящем туре" class="regressive_image">
+                                    </a>
+                                </span>
+                            </div>
+                                                <div class="details_item">
+                                                            <div class="category-panel">
+                                    <a href="/stars/interview" class="category-label">
+                                        <span class="ui-text">
+                                            Интервью                                        </span>
+                                    </a>
+                                                                    </div>
+                            
+                                                            <div class="title">
+                                    <a href="/stars/interview/540621-elvira-t">
+                                        Elvira T о своей новой эре, альбоме «Ядовитая. Неразбитая» и предстоящем туре                                    </a>
+                                </div>
+                            
+                                                            <div class="intro test">
+                                    <a href="/stars/interview/540621-elvira-t">
+                                        «Я умею любить, но у меня есть принципы».                                    </a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                            <div class="grid-item ">
+                    <div class="announce announce-item">
+                                                    <div class="announce-image">
+                                <span class="announce-thumbs">
+                                    <a href="/stars/news_0/540591-kejt-middlton-vyrazila-opaseniya">
+                                        <img src="https://www.ok-magazine.ru/images/cache/2026/2/19/fit_496_280_false_crop_3000_1687_0_283_q90_3544511_151b77a2be07a079e83d0805e.jpeg" alt="Кейт Миддлтон выразила опасения по поводу принятия титула принцессы Уэльской" class="regressive_image">
+                                    </a>
+                                </span>
+                            </div>
+                                                <div class="details_item">
+                                                            <div class="category-panel">
+                                    <a href="/stars/news_0" class="category-label">
+                                        <span class="ui-text">
+                                            Новости                                        </span>
+                                    </a>
+                                                                    </div>
+                            
+                                                            <div class="title">
+                                    <a href="/stars/news_0/540591-kejt-middlton-vyrazila-opaseniya">
+                                        Кейт Миддлтон выразила опасения по поводу принятия титула принцессы Уэльской                                    </a>
+                                </div>
+                            
+                                                            <div class="intro test">
+                                    <a href="/stars/news_0/540591-kejt-middlton-vyrazila-opaseniya">
+                                         «Это говорит о том, насколько она рассудительна».                                    </a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                            <div class="grid-item ">
+                    <div class="announce announce-item">
+                                                    <div class="announce-image">
+                                <span class="announce-thumbs">
+                                    <a href="/stars/chronicle/540501-sergej-gorodnichij-i-nika-zdorik-vstretilis-s-poklonnikami">
+                                        <img src="https://www.ok-magazine.ru/images/cache/2026/2/19/fit_665_798_false_crop_1481_1880_806_118_q90_3543271_5cbb8464d970de1152ded2a3c.jpeg" alt="Сергей Городничий и Ника Здорик встретились с поклонниками сериала «Ландыши. Вторая весна» на льду" class="regressive_image">
+                                    </a>
+                                </span>
+                            </div>
+                                                <div class="details_item">
+                                                            <div class="category-panel">
+                                    <a href="/stars/chronicle" class="category-label">
+                                        <span class="ui-text">
+                                            Хроника                                        </span>
+                                    </a>
+                                                                    </div>
+                            
+                                                            <div class="title">
+                                    <a href="/stars/chronicle/540501-sergej-gorodnichij-i-nika-zdorik-vstretilis-s-poklonnikami">
+                                        Сергей Городничий и Ника Здорик встретились с поклонниками сериала «Ландыши. Вторая весна» на льду                                    </a>
+                                </div>
+                            
+                                                            <div class="intro test">
+                                    <a href="/stars/chronicle/540501-sergej-gorodnichij-i-nika-zdorik-vstretilis-s-poklonnikami">
+                                        18 февраля в самом центре Москвы, на Болотной площади, состоялся праздник, посвященный финалу второго сезона сериала «Ландыши. Вторая весна» от онлайн-кинотеатра Wink.                                     </a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                    </div>
+                    <aside class="sidebar right-side">
+    <div class="bns bns-300x600 mb-4">
+<!--        <a href="#"><img src="/img/system/banner-1.png" alt=""></a>-->
+        <div class="bn">
+
+    <!--AdFox START-->
+    <!--axelspringer-->
+    <!--Площадка: Ok-magazine.ru / / -->
+    <!--Тип баннера: 300х600-->
+    <!--Расположение: 3-й для блока-->
+    
+    <div id="adfox_15601732077119382_2745887" class="banner-padding"></div>
+    <script>
+        window.yaContextCb.push(()=>{
+            Ya.adfoxCode.create({
+                ownerId: 323627,
+                containerId: 'adfox_15601732077119382_2745887',
+                params: {
+                    pp: 'i',
+                    ps: 'dobx',
+                    p2: 'gntt',
+                    puid1: '',
+                    puid2: '',
+                },
+            });
+        });
+    </script>
+</div>
+    </div>
+    <div class="side-part sticky" data-sticky-parent="right-side">
+        <div class="bns bns-300x600">
+<!--            <a href="#"><img src="/img/system/banner-2.png" alt=""></a>-->
+            <div class="bn">
+
+    <!--AdFox START-->
+    <!--axelspringer-->
+    <!--Площадка: Ok-magazine.ru / / -->
+    <!--Тип баннера: 300х600-->
+    <!--Расположение: 3-й для блока-->
+        <div id="adfox_155385712566734228_46446331" class="banner-padding"></div>
+    <script>
+        window.yaContextCb.push(()=>{
+            Ya.adfoxCode.create({
+                ownerId: 323627,
+                containerId: 'adfox_155385712566734228_46446331',
+                params: {
+                    pp: 'vhu',
+                    ps: 'dobx',
+                    p2: 'gntt',
+                    puid1: '',
+                    puid2: '',
+                },
+            });
+        })
+
+    </script>
+</div>
+                    </div>
+    </div>
+</aside>
+            </div>
+</div>
+
+        </div>
+</div>
+    </div>
+<div class="btn-wrapper wide d-flex justify-content-center stroke-lines">
+    <div class="btn-overlay">
+        
+<div class="js-preloader-animation" style="display: none;">
+    <div class="spinner">
+        <div class="bounce1"></div>
+        <div class="bounce2"></div>
+        <div class="bounce3"></div>
+    </div>
+</div>
+        <button
+                type="button"
+                class="large btn btn-colored solid js-scroll-button short_btn"
+                style="">
+                Показать ещё
+        </button>
+    </div>
+</div>
+                    </div>
+                </div>
+            </div>
+            <footer class="main-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-4 d-flex d-lg-block">
+                <div class="logo">
+                    <svg class="ui-icon icon--logo">
+    <use xlink:href="/img/sprite/sprite.svg?v6#svg--logo"></use>
+</svg>
+                </div>
+                <div class="href">
+                    <ul>
+                        <li><a href="/files4editor/MK_OK!magazine_2026_RUS.pdf" target="_blank">СКАЧАТЬ
+                                МЕДИАКИТ</a></li>
+                        <li><a href="/marketing">реклама на сайте</a></li>
+                        <li><a href="/advert">РЕКЛАМА В ЖУРНАЛЕ</a></li>
+                        <li><a href="/contacts" target="_blank">Редакция</a></li>
+                    </ul>
+                    <div class="copyright d-none d-lg-block">
+                        <p>© 2026 ООО «ХИТ ТВ» Все права защищены. 16+</p>
+                        <p><a href="/privacy_policy">Политика конфиденциальности</a></p>
+                        <p><a href="/agreements">Согласие пользователя сайта на обработку персональных данных</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-lg-8 position-relative">
+                <div class="footer-new-magazine">
+                                    
+        <div class="magazine">
+            <a href="/zhurnal" class="box-block">
+                <img src="https://www.ok-magazine.ru/images/cache/2026/2/12/fit_200_300_false_crop_2000_3000_82_0_q90_3530961_f89832ce0bff5df525e8fa3af.jpeg" width="200" height="300" alt="№ 07-08 (998-999) В ПРОДАЖЕ С 12 ФЕВРАЛЯ 2026 ГОДА" title="№ 07-08 (998-999) В ПРОДАЖЕ С 12 ФЕВРАЛЯ 2026 ГОДА">
+            </a>
+        </div>
+        <div class="magazine-new">
+            <h4 class="title">Новый номер<br>уже&nbsp;в&nbsp;продаже</h4>
+            <div class="n-in-sell">№ 07-08 (998-999) В ПРОДАЖЕ С 12 ФЕВРАЛЯ 2026 ГОДА</div>
+            <a href="/zhurnal" class="archive">архив номеров</a>
+            <div class="app-panel">
+                <div class="text">Журнал OK! на&nbsp;планшете и смартфоне</div>
+                <div class="iphone-and-ipad">
+                    <a href="https://play.google.com/store/apps/details?id=ru.kiozk.android" target="_blank">
+                        <img class="apps-google-apple" src="/img/googlePlay-modal.png" width="128"
+                             height="40" alt="" title="">
+                    </a>
+                    <a href="https://itunes.apple.com/ru/app/id1125901207" target="_blank">
+                        <img class="apps-google-apple" src="/img/appStore-modal.png" width="128"
+                             height="40" alt="" title="">
+                    </a>
+                </div>
+            </div>
+            <div class="social-panel">
+            <a href="https://vk.com/public21560979" class="social-icon color-vk  icon-vk color-hover" rel="nofollow noopener noreferrer">
+                            <svg class="ui-icon icon--icon-vk">
+    <use xlink:href="/img/sprite/sprite.svg?v6#svg--icon-vk"></use>
+</svg>
+                    </a>
+            <a href="https://t.me/okmagazine" class="social-icon color-tg  icon-tg color-hover" rel="nofollow noopener noreferrer">
+                            <svg class="ui-icon icon--icon-tg">
+    <use xlink:href="/img/sprite/sprite.svg?v6#svg--icon-tg"></use>
+</svg>
+                    </a>
+            <a href="https://ok.ru/okrussia" class="social-icon color-ok  icon-ok color-hover" rel="nofollow noopener noreferrer">
+                            <svg class="ui-icon icon--icon-ok">
+    <use xlink:href="/img/sprite/sprite.svg?v6#svg--icon-ok"></use>
+</svg>
+                    </a>
+            <a href="https://zen.yandex.ru/ok" class="social-icon color-dzen icon-dzen color-hover" rel="nofollow noopener noreferrer">
+                            <svg class="ui-icon icon--icon-dzen">
+    <use xlink:href="/img/sprite/sprite.svg?v6#svg--icon-dzen"></use>
+</svg>
+                    </a>
+    </div>
+        </div>
+                    </div>
+
+            </div>
+
+            <div class="copyright d-block d-lg-none">
+                <p>© 2026 ООО «ХИТ ТВ» Все права защищены. 16+</p>
+                <p><a href="/privacy_policy">Политика конфиденциальности</a></p>
+                <p><a href="/agreements">Согласие пользователя сайта на обработку персональных данных</a></p>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- End Footer -->
+
+
+        
+
+
+        
+<!-- tns-counter.ru -->
+<script type="text/javascript">
+(function(win, doc, cb) {
+    (win[cb] = win[cb] || []).push(function() {
+        try {
+            tnsCounterForbes_ru = new TNS.TnsCounter({
+                'account': 'forbes_ru',
+                'tmsec': 'okmagazine_total',
+            });
+        } catch (e) {
+        }
+    });
+
+    var tnsscript = doc.createElement('script');
+    tnsscript.type = 'text/javascript';
+    tnsscript.async = true;
+    tnsscript.src = ('https:' == doc.location.protocol ? 'https:' : 'http:') +
+        '//www.tns-counter.ru/tcounter.js';
+    var s = doc.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(tnsscript, s);
+})(window, this.document, 'tnscounter_callback');
+</script>
+<noscript>
+    <img src="//www.tns-counter.ru/V13a****forbes_ru/ru/UTF-8/tmsec=okmagazine_total/" width="0" height="0" alt=""/>
+</noscript>
+<!--/ tns-counter.ru -->
+
+<!-- Rambler Top100 code -->
+<script type="text/javascript">
+var _top100q = _top100q || [];
+
+_top100q.push(['setAccount', '3066099']);
+_top100q.push(['trackPageviewByLogo', document.getElementById('top100counter')]);
+
+(function() {
+    var top100 = document.createElement('script');
+    top100.type = 'text/javascript';
+
+    top100.async = true;
+    top100.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//st.top100.ru/top100/top100.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(top100, s);
+})();
+</script>
+<!--/ Rambler Top100 code -->
+
+
+
+
+
+        <script src="/js/vendor.min.js?t=1770856212"></script>
+<script src="/js/app.min.js?t=1770856212"></script>
+<script>jQuery(function ($) {
+FrontPage.init([])
+GlobalInit.init([])
+});</script>    </div>
+    </body>
+    </html>
+

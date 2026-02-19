@@ -1,0 +1,1757 @@
+<!DOCTYPE html>
+<!-- material/list -->
+<html lang="ru"
+	prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article# twitter: http://twitter.com/ns#"
+	class="no-js">
+<head>
+	<meta charset="UTF-8">
+		<title lang="ru">Статьи</title>
+	<meta name="language" content="ru">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="generator" content="https://webprogrammist.com/">
+<link rel="home" href="https://scientificrussia.ru">
+<link rel="search" href="/opensearchdescription.xml" type="application/opensearchdescription+xml" title="«Научная Россия» — поиск">
+<link rel="alternate" type="application/rss+xml" title="Новости портала «Научная Россия» - электронное периодическое издание" href="/rss">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://use.fontawesome.com">
+<link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-icon-180x180.png">
+<link rel="icon" type="image/svg+xml" sizes="any" href="/favicons/favicon.svg">
+<link rel="icon" type="image/png" sizes="192x192" href="/favicons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+<link rel="manifest" href="/manifest.webmanifest">
+<meta name="yandex-tableau-widget" content="logo=https://scientificrussia.ru/favicons/apple-icon-120x120.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/favicons/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="auth" content="0">
+	<meta name="description" content="Список материалов рубрики - Статьи" lang="ru">
+<meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="EMZq6-nXQCLfQnPh40bshU-vClfHu5DdHtC-uLt-9lxd9l2RnqEndLksFdjUA7rzC95PM4npqOl9tcf93DuTDA==">
+
+<link href="https://scientificrussia.ru/articles" rel="canonical">
+<link href="/articles" rel="self">
+<link href="/articles/1" rel="last">
+<link href="/articles/108" rel="prev">
+<link href="/assets/e1bb3a19/master.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap&amp;subset=cyrillic" rel="stylesheet">
+<link href="/assets/ffa2abe/slick-theme.css" rel="stylesheet">
+<link href="/assets/b447dec2/css/lightgallery.min.css" rel="stylesheet">
+<script src="/assets/6539379c/dist/lozad.min.js"></script>
+<script src="/assets/e1bb3a19/policy.js"></script>
+<script>const observer = lozad();
+observer.observe();</script></head>
+<body vocab="http://schema.org/" itemscope itemtype="https://schema.org/WebPage"
+	data-route="material/list">
+<script>
+	var _yamapsurl = 'https://api-maps.yandex.ru/2.0-stable/?lang=ru-RU&coordorder=longlat&load=package.full&wizard=constructor&onload=fid_1350999810982264110913&apikey=8a7e1e31-8526-4705-b586-e413b54e88fa';
+	var _yamaps = _yamaps || [];
+	
+	function fid_1350999810982264110913(ymaps) {
+		(_yamaps || []).forEach(function(element) {
+			drawYandexMap(element, ymaps);
+		});
+	}
+
+	_yamaps.push('w2');</script><!-- Главное меню -->
+<header class="layout-header">
+	<div class="no-javascipt-alert">
+		В вашем браузере отключен JavaScript. Будет показана упрощенная версия сайта, в которой могут отсутствовать многие функции.
+	</div>
+	<div class="container">
+		<div class="container">
+			<div class="logotypes-wrapper">
+	<div class="logotypes">
+		<a class="logo logo-square" href="/" rel="home"> <img class="" src="/assets/e1bb3a19/logo.svg"
+				alt="«Научная Россия» - электронное периодическое издание"> </a>
+		<a class="logo logo-textual" href="/" rel="home"> <img class=""
+				 src="/assets/e1bb3a19/title.svg" alt="«Научная Россия» - электронное периодическое издание"> </a>
+	</div>
+</div>
+<ul class="nav main-menu hidden-md-down">
+	<li class="nav-item" itemscope itemtype="http://schema.org/SiteNavigationElement">
+		<a class="nav-link" itemprop="url" href="/news"><span itemprop="name">Новости</span></a>
+	</li>
+	<li class="nav-item" itemscope itemtype="http://schema.org/SiteNavigationElement">
+		<a class="nav-link" itemprop="url" href="/articles"><span itemprop="name">Статьи</span></a>
+	</li>
+	<li class="nav-item hidden-md-down" itemscope itemtype="http://schema.org/SiteNavigationElement">
+		<a class="nav-link" itemprop="url" href="/lectures"><span itemprop="name">Лекции</span></a>
+	</li>
+	<li class="nav-item" itemscope itemtype="http://schema.org/SiteNavigationElement">
+		<a class="nav-link" itemprop="url" href="/interviews"><span itemprop="name">Интервью</span></a>
+	</li>
+	<li class="nav-item" itemscope itemtype="http://schema.org/SiteNavigationElement">
+		<a class="nav-link" itemprop="url" href="/podcasts"><span itemprop="name">Подкасты</span></a>
+	</li>
+</ul>
+<ul class="nav aux-menu">
+			<li class="nav-item hidden-sm-down">
+		<div class="dropdown">
+			<button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenuButton1" data-toggle="dropdown"
+				aria-haspopup="true" aria-expanded="false">
+				<strong>RU</strong>
+			</button>
+			<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+				<a class="dropdown-item same-window" href="https://scientificrussia.ru/">RU</a>
+				<a class="dropdown-item same-window" href="https://en.scientificrussia.ru/">EN</a>
+			</div>
+		</div>
+	</li>
+		<li class="nav-item hidden-sm-down">
+				<!--<a class="nav-link" href="" title=""><i class="icon-user"></i></a>-->
+			</li>
+<!--	<li class="nav-item">
+		<a class="nav-link" href="#"> <i class="icon-email"></i> </a>
+	</li>-->
+	<li class="nav-item">
+		<a class="nav-link" href="/search" id="search-toggle" title="Поиск"> <i class="icon-search small"></i> </a>
+	</li>
+	<li class="nav-item">
+		<a class="nav-link" href="#" id="main-menu-toggle" title="Главное меню"> <i class="icon-menu"></i> </a>
+	</li>
+</ul>
+<div class="age-mark-small">
+	<img class="img-fluid no-bg lozad" loading="lazy" src="/assets/e1bb3a19/age-category-16-dark.svg" title="Возрастная категория 16+" alt="Возрастная категория 16+">
+</div>
+		</div>
+	</div>
+</header>
+<!-- /Главное меню -->
+<!-- Основное содержимое -->
+<main class="layout-main">
+	<div class="container">
+		<section class="row">
+			<div class="col-12 col-lg-8">
+				<!-- Содержимое страницы -->
+				<section class="card card-panel">
+	<div class="card-header">
+		<h1>Статьи</h1>
+	</div>
+	<div class="card-body">
+					<div id="w0" class="announce-list with-image super-wide single-column"><div class="list-item">
+	<div class="wrapper">
+					<div class="image">
+				<div class="badges">
+														</div>
+				<a href="/articles/zemla-spasaa-i-bodrstvuusaa-kak-izucaut-i-prognoziruut-izverzenia-vulkanov-i-zemletrasenia">
+					<img class="lozad" loading="lazy" src="/images/b/3v2b-preview.jpg" alt="Фото: Юрий Демянчук / ИВиС ДВО РАН">
+									</a>
+			</div>
+				<div class="announce">
+			<div class="title">
+								<a href="/articles/zemla-spasaa-i-bodrstvuusaa-kak-izucaut-i-prognoziruut-izverzenia-vulkanov-i-zemletrasenia">
+					Земля спящая и бодрствующая. Как изучают и прогнозируют извержения вулканов и землетрясения				</a>
+			</div>
+			<div class="props">
+				<div class="prop time"><i class="icon-calendar"></i> <time datetime="2026-02-17 10:30">17.02.2026 10:30</time></div>
+				<div class="prop views pull-right"><i class="icon-eye"></i> 640</div>
+			</div>
+			<div class="lead"><p>Что такое спящий или бодрствующий вулкан? Как именно предсказывают извержения?</p>
+</div>
+		</div>
+	</div>
+	<div class="props-wrapper">
+		<div class="props props-wide">
+			<div class="prop authors">
+					<div class="author"><i class="icon-user"></i> Автор Никита Ланской</div>
+	<div class="author"><i class="icon-user"></i> Фотограф Ольга Мерзлякова</div>
+			</div>
+			<div class="prop tags">
+													<span class="badge badge-tag"><a
+							href="/articles/tags/vulkany">вулканы</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/zemletrasenia">землетрясения</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/institut-vulkanologii-i-sejsmologii-dvo-ran">институт вулканологии и сейсмологии дво ран</a></span>
+							</div>
+		</div>
+	</div>
+</div>
+
+<div class="list-item">
+	<div class="wrapper">
+					<div class="image">
+				<div class="badges">
+														</div>
+				<a href="/articles/myslit-kak-ucenyj-sozdan-iskusstvennyj-intellekt-s-intuiciej-professionalnogo-himika">
+					<img class="lozad" loading="lazy" src="/images/p/3uhp-preview.jpg" alt="Мыслить как ученый: создан искусственный интеллект с интуицией профессионального химика. Фото: pressfoto / фотобанк Freepik">
+									</a>
+			</div>
+				<div class="announce">
+			<div class="title">
+								<a href="/articles/myslit-kak-ucenyj-sozdan-iskusstvennyj-intellekt-s-intuiciej-professionalnogo-himika">
+					Мыслить как ученый: создан искусственный интеллект с интуицией профессионального химика				</a>
+			</div>
+			<div class="props">
+				<div class="prop time"><i class="icon-calendar"></i> <time datetime="2026-02-12 12:00">12.02.2026 12:00</time></div>
+				<div class="prop views pull-right"><i class="icon-eye"></i> 1053</div>
+			</div>
+			<div class="lead"><p>Исследователи из Института органической химии им. Н.Д. Зелинского РАН представили уникальную разработку &mdash; модель машинного обучения с интуитивным мышлением, сравнимым с человеческим. Читайте о технологии в статье с комментариями авторов изобретения</p>
+</div>
+		</div>
+	</div>
+	<div class="props-wrapper">
+		<div class="props props-wide">
+			<div class="prop authors">
+					<div class="author"><i class="icon-user"></i> Автор Анастасия Жукова</div>
+			</div>
+			<div class="prop tags">
+													<span class="badge badge-tag"><a
+							href="/articles/tags/himia">химия</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/ioh-ran">ИОХ РАН</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/iskusstvennyj-intellekt">Искусственный интеллект</a></span>
+							</div>
+		</div>
+	</div>
+</div>
+
+<div class="list-item">
+	<div class="wrapper">
+					<div class="image">
+				<div class="badges">
+														</div>
+				<a href="/articles/na-poroge-modernizacii-cto-proishodit-s-naucnym-flotom-rossii">
+					<img class="lozad" loading="lazy" src="/images/z/3tpz-preview.jpg" alt="Фото: Видеостудия ИО РАН">
+									</a>
+			</div>
+				<div class="announce">
+			<div class="title">
+								<a href="/articles/na-poroge-modernizacii-cto-proishodit-s-naucnym-flotom-rossii">
+					На пороге модернизации. Что происходит с научным флотом России				</a>
+			</div>
+			<div class="props">
+				<div class="prop time"><i class="icon-calendar"></i> <time datetime="2026-02-08 12:55">08.02.2026 12:55</time></div>
+				<div class="prop views pull-right"><i class="icon-eye"></i> 2609</div>
+			</div>
+			<div class="lead"><p>У России богатая история научных плаваний &mdash; от первооткрывателей северных морей до исследователей океанических вод. Как сейчас организован научный флот и какие вызовы перед ним стоят?</p>
+</div>
+		</div>
+	</div>
+	<div class="props-wrapper">
+		<div class="props props-wide">
+			<div class="prop authors">
+					<div class="author"><i class="icon-user"></i> Автор Кирилл Тодоров</div>
+			</div>
+			<div class="prop tags">
+													<span class="badge badge-tag"><a
+							href="/articles/tags/institut-okeanologii-ran">институт океанологии ран</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/istoria-nauki">история науки</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/morskie-issledovania">морские исследования</a></span>
+							</div>
+		</div>
+	</div>
+</div>
+
+<div class="list-item">
+	<div class="wrapper">
+					<div class="image">
+				<div class="badges">
+														</div>
+				<a href="/articles/nauka-sohranat-kak-v-biblioteke-ran-spasaut-fondy-ot-vremeni-i-pleseni">
+					<img class="lozad" loading="lazy" src="/images/v/3utv-preview.jpg" alt="Фото: Елена Либрик / Научная Россия">
+									</a>
+			</div>
+				<div class="announce">
+			<div class="title">
+								<a href="/articles/nauka-sohranat-kak-v-biblioteke-ran-spasaut-fondy-ot-vremeni-i-pleseni">
+					Наука сохранять. Как в Библиотеке РАН спасают фонды от времени и плесени				</a>
+			</div>
+			<div class="props">
+				<div class="prop time"><i class="icon-calendar"></i> <time datetime="2026-02-07 12:00">07.02.2026 12:00</time></div>
+				<div class="prop views pull-right"><i class="icon-eye"></i> 1025</div>
+			</div>
+			<div class="lead"><p>Библиотека РАН старейшая государственная и одна из крупнейших в России. В ее фондах хранятся более 20 млн единиц.&nbsp;Наследие, сохранять которое необходимо, но непросто</p>
+</div>
+		</div>
+	</div>
+	<div class="props-wrapper">
+		<div class="props props-wide">
+			<div class="prop authors">
+					<div class="author"><i class="icon-user"></i> Автор Александр Бурмистров</div>
+	<div class="author"><i class="icon-user"></i> Фотограф Елена Либрик</div>
+			</div>
+			<div class="prop tags">
+													<span class="badge badge-tag"><a
+							href="/articles/tags/biocidy">биоциды</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/biblioteka-ran">библиотека ран</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/beskislotnyj-karton">бескислотный картон</a></span>
+							</div>
+		</div>
+	</div>
+</div>
+
+<div class="list-item">
+	<div class="wrapper">
+					<div class="image">
+				<div class="badges">
+														</div>
+				<a href="/articles/roboty-dla-vseh-stihij-razrabotka-ipu-ran-pomogaet-sledit-za-ekologiej-i-bezopasnostu">
+					<img class="lozad" loading="lazy" src="/images/9/3un9-preview.jpg" alt="Фото: Елена Либрик / Научная Россия архив">
+									</a>
+			</div>
+				<div class="announce">
+			<div class="title">
+								<a href="/articles/roboty-dla-vseh-stihij-razrabotka-ipu-ran-pomogaet-sledit-za-ekologiej-i-bezopasnostu">
+					Роботы для всех стихий: разработка ИПУ РАН помогает следить за экологией и безопасностью				</a>
+			</div>
+			<div class="props">
+				<div class="prop time"><i class="icon-calendar"></i> <time datetime="2026-02-03 14:00">03.02.2026 14:00</time></div>
+				<div class="prop views pull-right"><i class="icon-eye"></i> 1121</div>
+			</div>
+			<div class="lead"><p>В России разработали мультисредный роботизированный комплекс ― безэкипажный катер, подводный дрон, наземный электровездеход и аэростат, ― который возможно запускать даже в условиях ограничения полетов&nbsp;</p>
+</div>
+		</div>
+	</div>
+	<div class="props-wrapper">
+		<div class="props props-wide">
+			<div class="prop authors">
+					<div class="author"><i class="icon-user"></i> Автор Александр Бурмистров</div>
+	<div class="author"><i class="icon-user"></i> Фотограф Елена Либрик</div>
+			</div>
+			<div class="prop tags">
+													<span class="badge badge-tag"><a
+							href="/articles/tags/aerostaty">аэростаты</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/institut-problem-upravlenia-ran">институт проблем управления ран</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/programmnoe-obespecenie">программное обеспечение</a></span>
+							</div>
+		</div>
+	</div>
+</div>
+
+<div class="list-item">
+	<div class="wrapper">
+					<div class="image">
+				<div class="badges">
+														</div>
+				<a href="/articles/okamenelosti-otpecatki-drevnih-organizmov-poleznye-nam-i-segodna">
+					<img class="lozad" loading="lazy" src="/images/o/3uio-preview.jpg" alt="Источник: freepik / Freepik">
+									</a>
+			</div>
+				<div class="announce">
+			<div class="title">
+								<a href="/articles/okamenelosti-otpecatki-drevnih-organizmov-poleznye-nam-i-segodna">
+					Окаменелости. Отпечатки древних организмов, полезные нам и сегодня				</a>
+			</div>
+			<div class="props">
+				<div class="prop time"><i class="icon-calendar"></i> <time datetime="2026-02-02 10:30">02.02.2026 10:30</time></div>
+				<div class="prop views pull-right"><i class="icon-eye"></i> 1294</div>
+			</div>
+			<div class="lead"><p>Как образуются окаменелости и чем они могут быть полезны не только историкам-палеонтологам, но и практикам-промышленникам</p>
+</div>
+		</div>
+	</div>
+	<div class="props-wrapper">
+		<div class="props props-wide">
+			<div class="prop authors">
+					<div class="author"><i class="icon-user"></i> Автор Никита Ланской</div>
+			</div>
+			<div class="prop tags">
+													<span class="badge badge-tag"><a
+							href="/articles/tags/ingg-so-ran">ИНГГ СО РАН</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/belemnity">белемниты</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/okamenelosti">окаменелости</a></span>
+							</div>
+		</div>
+	</div>
+</div>
+
+<div class="list-item">
+	<div class="wrapper">
+					<div class="image">
+				<div class="badges">
+														</div>
+				<a href="/articles/snizit-riski-pri-eko-sibirskie-ucenye-naucilis-otbirat-naibolee-perspektivnye-embriony-dla-perenosa">
+					<img class="lozad" loading="lazy" src="/images/1/3un1-preview.jpg" alt="Источник: yilmazsavaskandag/Фотобанк RU.123RF">
+									</a>
+			</div>
+				<div class="announce">
+			<div class="title">
+								<a href="/articles/snizit-riski-pri-eko-sibirskie-ucenye-naucilis-otbirat-naibolee-perspektivnye-embriony-dla-perenosa">
+					Снизить риски при ЭКО: сибирские ученые научились отбирать наиболее перспективные эмбрионы для переноса				</a>
+			</div>
+			<div class="props">
+				<div class="prop time"><i class="icon-calendar"></i> <time datetime="2026-02-01 12:00">01.02.2026 12:00</time></div>
+				<div class="prop views pull-right"><i class="icon-eye"></i> 969</div>
+			</div>
+			<div class="lead"><p>Ученые разработали метод, позволяющий обнаружить мутации, ответственные за формирование половых клеток с нарушениями. Это позволит отбирать наиболее перспективные эмбрионы для ЭКО&nbsp;</p>
+</div>
+		</div>
+	</div>
+	<div class="props-wrapper">
+		<div class="props props-wide">
+			<div class="prop authors">
+					<div class="author"><i class="icon-user"></i> Автор Александр Бурмистров</div>
+			</div>
+			<div class="prop tags">
+													<span class="badge badge-tag"><a
+							href="/articles/tags/institut-citologii-i-genetiki-so-ran-3">институт цитологии и генетики со ран</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/ekstrakorporalnoe-oplodotvorenie">экстракорпоральное оплодотворение</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/sbalansirovannye-translokacii">сбалансированные транслокации</a></span>
+							</div>
+		</div>
+	</div>
+</div>
+
+<div class="list-item">
+	<div class="wrapper">
+					<div class="image">
+				<div class="badges">
+														</div>
+				<a href="/articles/teper-rossia-v-elitnom-klube-krabovodov-pamati-biologa-sergea-maslennikova">
+					<img class="lozad" loading="lazy" src="/images/s/3ums-preview.jpg" alt="Фото: Николай Мохначев / Научная Россия архив">
+									</a>
+			</div>
+				<div class="announce">
+			<div class="title">
+								<a href="/articles/teper-rossia-v-elitnom-klube-krabovodov-pamati-biologa-sergea-maslennikova">
+					Теперь Россия ― в элитном клубе «крабоводов». Памяти биолога Сергея Масленникова				</a>
+			</div>
+			<div class="props">
+				<div class="prop time"><i class="icon-calendar"></i> <time datetime="2026-01-31 12:00">31.01.2026 12:00</time></div>
+				<div class="prop views pull-right"><i class="icon-eye"></i> 6178</div>
+			</div>
+			<div class="lead"><p>Российские ученые первыми в Европе культивировали японского мохнаторукого краба. Статья посвящена памяти дальневосточного биолога Сергея Ивановича Масленникова, который ушел из жизни 17 ноября 2025 г.</p>
+</div>
+		</div>
+	</div>
+	<div class="props-wrapper">
+		<div class="props props-wide">
+			<div class="prop authors">
+					<div class="author"><i class="icon-user"></i> Автор Александр Бурмистров</div>
+	<div class="author"><i class="icon-user"></i> Фотограф Николай Мохначёв</div>
+			</div>
+			<div class="prop tags">
+													<span class="badge badge-tag"><a
+							href="/articles/tags/dalnevostocnoe-otdelenie-ran">дальневосточное отделение ран</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/omega-3-2">омега-3</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/aponskij-mohnatorukij-krab">японский мохнаторукий краб</a></span>
+							</div>
+		</div>
+	</div>
+</div>
+
+<div class="list-item">
+	<div class="wrapper">
+					<div class="image">
+				<div class="badges">
+														</div>
+				<a href="/articles/atomnaa-energetika-novogo-urovna-kak-sozdaetsa-proryvnaa-tehnologia-pererabotki-adernogo-topliva">
+					<img class="lozad" loading="lazy" src="/images/f/3t1f-preview.jpg" alt="Исследование модельных продуктов пирохимической технологии на электронном микроскопе. Фото: Надежда Высоцкая / ИВТЭ УрО РАН">
+									</a>
+			</div>
+				<div class="announce">
+			<div class="title">
+								<a href="/articles/atomnaa-energetika-novogo-urovna-kak-sozdaetsa-proryvnaa-tehnologia-pererabotki-adernogo-topliva">
+					Атомная энергетика нового уровня: как создается прорывная технология переработки ядерного топлива				</a>
+			</div>
+			<div class="props">
+				<div class="prop time"><i class="icon-calendar"></i> <time datetime="2026-01-30 16:00">30.01.2026 16:00</time></div>
+				<div class="prop views pull-right"><i class="icon-eye"></i> 2895</div>
+			</div>
+			<div class="lead"><p>Как российские ученые и инженеры замыкают ядерный топливный цикл и почему атомные реакторы на быстрых нейтронах представляют собой перспективное решение для энергетики будущего? Читайте в новой статье &laquo;Научной России&raquo;</p>
+</div>
+		</div>
+	</div>
+	<div class="props-wrapper">
+		<div class="props props-wide">
+			<div class="prop authors">
+					<div class="author"><i class="icon-user"></i> Автор Анастасия Жукова</div>
+			</div>
+			<div class="prop tags">
+													<span class="badge badge-tag"><a
+							href="/articles/tags/pererabotka-adernogo-topliva">переработка ядерного топлива</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/reaktory-na-bystryh-nejtronah">реакторы на быстрых нейтронах</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/rosatom-4">росатом</a></span>
+							</div>
+		</div>
+	</div>
+</div>
+
+<div class="list-item">
+	<div class="wrapper">
+					<div class="image">
+				<div class="badges">
+														</div>
+				<a href="/articles/sentimentalnye-masiny-kak-i-dla-cego-peterburgskie-ucenye-sozdaut-emocionalnyj-ii">
+					<img class="lozad" loading="lazy" src="/images/6/3t26-preview.jpg" alt="Сентиментальные машины: как и для чего петербургские ученые создают эмоциональный ИИ. Источник изображения: freepik / фотобанк Freepik ">
+									</a>
+			</div>
+				<div class="announce">
+			<div class="title">
+								<a href="/articles/sentimentalnye-masiny-kak-i-dla-cego-peterburgskie-ucenye-sozdaut-emocionalnyj-ii">
+					Сентиментальные машины: как и для чего петербургские ученые создают эмоциональный ИИ				</a>
+			</div>
+			<div class="props">
+				<div class="prop time"><i class="icon-calendar"></i> <time datetime="2026-01-30 10:30">30.01.2026 10:30</time></div>
+				<div class="prop views pull-right"><i class="icon-eye"></i> 1091</div>
+			</div>
+			<div class="lead"><p>Система <em>MASAI</em> для оценки эмоций и психологических состояний, созданная в СПб ФИЦ РАН, &mdash; новое слово в области эмоционального искусственного интеллекта. О яркой инновации и ее возможностях &mdash; статья с комментариями руководителя проекта А.А. Карпова</p>
+</div>
+		</div>
+	</div>
+	<div class="props-wrapper">
+		<div class="props props-wide">
+			<div class="prop authors">
+					<div class="author"><i class="icon-user"></i> Автор Анастасия Жукова</div>
+			</div>
+			<div class="prop tags">
+													<span class="badge badge-tag"><a
+							href="/articles/tags/iskusstvennyj-intellekt">Искусственный интеллект</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/spb-fic-ran">СПб ФИЦ РАН</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/raspoznavanie-emocij">распознавание эмоций</a></span>
+							</div>
+		</div>
+	</div>
+</div>
+
+<div class="list-item">
+	<div class="wrapper">
+					<div class="image">
+				<div class="badges">
+														</div>
+				<a href="/articles/mikroskopiceskie-uborsiki-kak-bakterii-pomogaut-borotsa-s-zagrazneniem-tazelymi-metallami">
+					<img class="lozad" loading="lazy" src="/images/g/3swg-preview.jpg" alt="Аспирант Анастасия Голышева за работой в бактериологическом боксе с культурами-биоинактиваторами и биоаккумуляторами тяжелых металлов. Фото: М.С. Филиппова / предоставлено пресс-службой ПФИЦ УрО РАН">
+									</a>
+			</div>
+				<div class="announce">
+			<div class="title">
+								<a href="/articles/mikroskopiceskie-uborsiki-kak-bakterii-pomogaut-borotsa-s-zagrazneniem-tazelymi-metallami">
+					Микроскопические уборщики: как бактерии помогают бороться с загрязнением тяжелыми металлами				</a>
+			</div>
+			<div class="props">
+				<div class="prop time"><i class="icon-calendar"></i> <time datetime="2026-01-27 14:00">27.01.2026 14:00</time></div>
+				<div class="prop views pull-right"><i class="icon-eye"></i> 2041</div>
+			</div>
+			<div class="lead"><p>Как бактерии помогают очищать заводские сточные воды от тяжелых металлов? Как еще можно использовать микроорганизмы для борьбы с загрязнением окружающей среды? Читайте в статье &laquo;Научной России&raquo; с комментариями авторов новой технологии из <a name="_Hlk212114935">ПФИЦ УрО РАН&nbsp;</a></p>
+</div>
+		</div>
+	</div>
+	<div class="props-wrapper">
+		<div class="props props-wide">
+			<div class="prop authors">
+					<div class="author"><i class="icon-user"></i> Автор Анастасия Жукова</div>
+			</div>
+			<div class="prop tags">
+													<span class="badge badge-tag"><a
+							href="/articles/tags/aktinobakterii">актинобактерии</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/ocistka-stocnyh-vod">очистка сточных вод</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/tazelye-metally">тяжелые металлы</a></span>
+							</div>
+		</div>
+	</div>
+</div>
+
+<div class="list-item">
+	<div class="wrapper">
+					<div class="image">
+				<div class="badges">
+														</div>
+				<a href="/articles/prirodnaa-laboratoria-essentukov-kak-v-nedrah-kavkaza-otkryli-modeli-drevnejsih-ekosistem">
+					<img class="lozad" loading="lazy" src="/images/f/3txf-preview.jpg" alt="Новый род бактерий Parvivirga в новом порядке Anaerosomatales ранее некультивируемой группы OPB41. Эта бактерия составляет до 7% в микробном сообществе водоносного горизонта, откуда добываются воды типа «Ессентуки № 4». Фото: ФИЦ Биотехнологии РАН">
+									</a>
+			</div>
+				<div class="announce">
+			<div class="title">
+								<a href="/articles/prirodnaa-laboratoria-essentukov-kak-v-nedrah-kavkaza-otkryli-modeli-drevnejsih-ekosistem">
+					Природная лаборатория Ессентуков: как в недрах Кавказа открыли модели древнейших экосистем				</a>
+			</div>
+			<div class="props">
+				<div class="prop time"><i class="icon-calendar"></i> <time datetime="2026-01-23 10:30">23.01.2026 10:30</time></div>
+				<div class="prop views pull-right"><i class="icon-eye"></i> 3590</div>
+			</div>
+			<div class="lead"><p>Неожиданное открытие в области микробиологии: исследование минеральных вод выявило уникальное микробное сообщество. Его особенность &mdash; преобладание бактерии, чьи черты схожи с <i>LUCA</i>, гипотетическим предком всех клеточных организмов</p>
+</div>
+		</div>
+	</div>
+	<div class="props-wrapper">
+		<div class="props props-wide">
+			<div class="prop authors">
+					<div class="author"><i class="icon-user"></i> Автор Анастасия Жукова</div>
+			</div>
+			<div class="prop tags">
+													<span class="badge badge-tag"><a
+							href="/articles/tags/kavkaz-2">кавказ</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/obsij-predok">общий предок</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/fic-fundamentalnye-osnovy-biotehnologii-ran">фиц фундаментальные основы биотехнологии ран</a></span>
+							</div>
+		</div>
+	</div>
+</div>
+
+<div class="list-item">
+	<div class="wrapper">
+					<div class="image">
+				<div class="badges">
+														</div>
+				<a href="/articles/spasenie-dla-detej-i-onkobolnyh-cto-takoe-transplantacia-kostnogo-mozga">
+					<img class="lozad" loading="lazy" src="/images/i/3spi-preview.jpg" alt="Фото: Kasto / 123RF">
+									</a>
+			</div>
+				<div class="announce">
+			<div class="title">
+								<a href="/articles/spasenie-dla-detej-i-onkobolnyh-cto-takoe-transplantacia-kostnogo-mozga">
+					Спасение для детей и онкобольных. Что такое трансплантация костного мозга				</a>
+			</div>
+			<div class="props">
+				<div class="prop time"><i class="icon-calendar"></i> <time datetime="2026-01-16 10:30">16.01.2026 10:30</time></div>
+				<div class="prop views pull-right"><i class="icon-eye"></i> 1716</div>
+			</div>
+			<div class="lead"><p>Трансплантация костного мозга может спасти от многих тяжелых болезней, но доноров по-прежнему не хватает. Рассказываем, что собой представляет эта процедура и о чем говорят исследования</p>
+</div>
+		</div>
+	</div>
+	<div class="props-wrapper">
+		<div class="props props-wide">
+			<div class="prop authors">
+					<div class="author"><i class="icon-user"></i> Автор Кирилл Тодоров</div>
+			</div>
+			<div class="prop tags">
+													<span class="badge badge-tag"><a
+							href="/articles/tags/minzdrav-rossii">Минздрав России</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/peresadka-kostnogo-mozga">пересадка костного мозга</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/nmic-gematologii">НМИЦ гематологии</a></span>
+							</div>
+		</div>
+	</div>
+</div>
+
+<div class="list-item">
+	<div class="wrapper">
+					<div class="image">
+				<div class="badges">
+														</div>
+				<a href="/articles/mass-spektrometr-kak-ustroen-odin-iz-samyh-vostrebovannyh-issledovatelskih-priborov">
+					<img class="lozad" loading="lazy" src="/images/l/3sll-preview.jpg" alt="Первый российский масс-спектрометр самого востребованного типа презентовали в НИЯУ МИФИ. Фото: Никита Ланской / Научная Россия">
+									</a>
+			</div>
+				<div class="announce">
+			<div class="title">
+								<a href="/articles/mass-spektrometr-kak-ustroen-odin-iz-samyh-vostrebovannyh-issledovatelskih-priborov">
+					Масс-спектрометр: как устроен один из самых востребованных исследовательских приборов				</a>
+			</div>
+			<div class="props">
+				<div class="prop time"><i class="icon-calendar"></i> <time datetime="2025-12-12 16:00">12.12.2025 16:00</time></div>
+				<div class="prop views pull-right"><i class="icon-eye"></i> 4077</div>
+			</div>
+			<div class="lead"><p>О прошлом, настоящем и будущем масс-спектрометрии в нашей стране &laquo;Научная Россия&raquo; узнала у разработчика первого отечественного масс-спектрометра самого востребованного типа А.А. Сысоева</p>
+</div>
+		</div>
+	</div>
+	<div class="props-wrapper">
+		<div class="props props-wide">
+			<div class="prop authors">
+					<div class="author"><i class="icon-user"></i> Корреспондент Никита Ланской</div>
+			</div>
+			<div class="prop tags">
+													<span class="badge badge-tag"><a
+							href="/articles/tags/mass-spektrometria">масс-спектрометрия</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/mifi">мифи</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/molekularnyj-analiz">молекулярный анализ</a></span>
+							</div>
+		</div>
+	</div>
+</div>
+
+<div class="list-item">
+	<div class="wrapper">
+					<div class="image">
+				<div class="badges">
+														</div>
+				<a href="/articles/sportsmeny-cifrovoj-epohi-psihofiziologia-kiberigrokov">
+					<img class="lozad" loading="lazy" src="/images/8/3te8-preview.jpg" alt="Источник: vska / ru.123rf.com">
+									</a>
+			</div>
+				<div class="announce">
+			<div class="title">
+								<a href="/articles/sportsmeny-cifrovoj-epohi-psihofiziologia-kiberigrokov">
+					Спортсмены цифровой эпохи: психофизиология киберигроков				</a>
+			</div>
+			<div class="props">
+				<div class="prop time"><i class="icon-calendar"></i> <time datetime="2025-12-11 16:00">11.12.2025 16:00</time></div>
+				<div class="prop views pull-right"><i class="icon-eye"></i> 2896</div>
+			</div>
+			<div class="lead"><p>В 2027 г. в Саудовской Аравии пройдут первые в истории Олимпийские игры по киберспорту. Это и новый статус, и крупные ставки, и серьезные требования к подготовке, в том числе к научному сопровождению тренировок</p>
+</div>
+		</div>
+	</div>
+	<div class="props-wrapper">
+		<div class="props props-wide">
+			<div class="prop authors">
+					<div class="author"><i class="icon-user"></i> Автор Александр Бурмистров</div>
+			</div>
+			<div class="prop tags">
+													<span class="badge badge-tag"><a
+							href="/articles/tags/kibersport">киберспорт</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/tilt-effekt">тильт-эффект</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/tepping-test">теппинг-тест</a></span>
+							</div>
+		</div>
+	</div>
+</div>
+
+<div class="list-item">
+	<div class="wrapper">
+					<div class="image">
+				<div class="badges">
+														</div>
+				<a href="/articles/v-ogne-ne-gorat-novye-tehnologii-zasity-ot-plameni">
+					<img class="lozad" loading="lazy" src="/images/5/3t15-preview.jpg" alt="Работа в лаборатории органического синтеза Томского государственного университета, где ведется разработка отечественных антипиренов. Фото: химический факультет ТГУ / предоставлено пресс-службой ТГУ">
+									</a>
+			</div>
+				<div class="announce">
+			<div class="title">
+								<a href="/articles/v-ogne-ne-gorat-novye-tehnologii-zasity-ot-plameni">
+					В огне не горят: новые технологии защиты от пламени				</a>
+			</div>
+			<div class="props">
+				<div class="prop time"><i class="icon-calendar"></i> <time datetime="2025-12-10 16:00">10.12.2025 16:00</time></div>
+				<div class="prop views pull-right"><i class="icon-eye"></i> 3074</div>
+			</div>
+			<div class="lead"><p>От огнестойкого покрытия для зданий до костюмов для арктических пожарных: знакомимся с отечественными научными разработками в области огнезащиты, призванными сделать наш мир удобнее и безопаснее</p>
+</div>
+		</div>
+	</div>
+	<div class="props-wrapper">
+		<div class="props props-wide">
+			<div class="prop authors">
+					<div class="author"><i class="icon-user"></i> Автор Анастасия Жукова</div>
+			</div>
+			<div class="prop tags">
+													<span class="badge badge-tag"><a
+							href="/articles/tags/importozamesenie">импортозамещение</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/novye-materialy">новые материалы</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/novye-tehnologii">новые технологии</a></span>
+							</div>
+		</div>
+	</div>
+</div>
+
+<div class="list-item">
+	<div class="wrapper">
+					<div class="image">
+				<div class="badges">
+														</div>
+				<a href="/articles/zaderzat-i-obezvredit-kak-novyj-material-zasisaet-ot-bakterij-na-95">
+					<img class="lozad" loading="lazy" src="/images/c/3svc-preview.jpg" alt="Задержать и обезвредить: как новый материал защищает от бактерий на 95%. Фото: freepik / фотобанк Freepik">
+									</a>
+			</div>
+				<div class="announce">
+			<div class="title">
+								<a href="/articles/zaderzat-i-obezvredit-kak-novyj-material-zasisaet-ot-bakterij-na-95">
+					Задержать и обезвредить: как новый материал защищает от бактерий на 95%				</a>
+			</div>
+			<div class="props">
+				<div class="prop time"><i class="icon-calendar"></i> <time datetime="2025-12-09 16:00">09.12.2025 16:00</time></div>
+				<div class="prop views pull-right"><i class="icon-eye"></i> 1700</div>
+			</div>
+			<div class="lead"><p>Фильтрующий материал для больниц, лабораторий и &laquo;чистых&raquo; производств представили ученые из ПНИПУ в 2025 г. Об инновации, защищающей человека от опасных бактерий с более чем 95-процентной эффективностью, читайте в новой статье &laquo;Научной России&raquo;</p>
+</div>
+		</div>
+	</div>
+	<div class="props-wrapper">
+		<div class="props props-wide">
+			<div class="prop authors">
+					<div class="author"><i class="icon-user"></i> Автор Анастасия Жукова</div>
+			</div>
+			<div class="prop tags">
+													<span class="badge badge-tag"><a
+							href="/articles/tags/antibakterialnaa-zasita">антибактериальная защита</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/medicinskie-maski-2">медицинские маски</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/novyj-material">новый материал</a></span>
+							</div>
+		</div>
+	</div>
+</div>
+
+<div class="list-item">
+	<div class="wrapper">
+					<div class="image">
+				<div class="badges">
+														</div>
+				<a href="/articles/svetlaa-storona-uglekislogo-gaza-kak-nauka-izvlekaet-polzu-iz-promyslennyh-vybrosov">
+					<img class="lozad" loading="lazy" src="/images/4/3t24-preview.jpg" alt="«Светлая сторона» углекислого газа: как наука извлекает пользу из промышленных выбросов. Источник изображения: vectorjuice / фотобанк Freepik">
+									</a>
+			</div>
+				<div class="announce">
+			<div class="title">
+								<a href="/articles/svetlaa-storona-uglekislogo-gaza-kak-nauka-izvlekaet-polzu-iz-promyslennyh-vybrosov">
+					«Светлая сторона» углекислого газа: как наука извлекает пользу из промышленных выбросов				</a>
+			</div>
+			<div class="props">
+				<div class="prop time"><i class="icon-calendar"></i> <time datetime="2025-12-08 16:00">08.12.2025 16:00</time></div>
+				<div class="prop views pull-right"><i class="icon-eye"></i> 2026</div>
+			</div>
+			<div class="lead"><p>О разнообразных отечественных технологиях, позволяющих использовать углекислый газ для получения полезных веществ и ценных материалов, читайте в новой статье &laquo;Научной России&raquo;</p>
+</div>
+		</div>
+	</div>
+	<div class="props-wrapper">
+		<div class="props props-wide">
+			<div class="prop authors">
+					<div class="author"><i class="icon-user"></i> Автор Анастасия Жукова</div>
+			</div>
+			<div class="prop tags">
+													<span class="badge badge-tag"><a
+							href="/articles/tags/novye-tehnologii">новые технологии</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/pererabotka">переработка</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/uglekislyj-gaz">углекислый газ</a></span>
+							</div>
+		</div>
+	</div>
+</div>
+
+<div class="list-item">
+	<div class="wrapper">
+					<div class="image">
+				<div class="badges">
+														</div>
+				<a href="/articles/inoe-zrenie-kak-vygladit-mir-glazami-zivotnyh">
+					<img class="lozad" loading="lazy" src="/images/k/3szk-preview.jpg" alt="Кошка в саду. Источник: Freepik">
+									</a>
+			</div>
+				<div class="announce">
+			<div class="title">
+								<a href="/articles/inoe-zrenie-kak-vygladit-mir-glazami-zivotnyh">
+					Иное зрение. Как выглядит мир глазами животных				</a>
+			</div>
+			<div class="props">
+				<div class="prop time"><i class="icon-calendar"></i> <time datetime="2025-11-17 10:30">17.11.2025 10:30</time></div>
+				<div class="prop views pull-right"><i class="icon-eye"></i> 3725</div>
+			</div>
+			<div class="lead"><p>Разбираемся в том, чем зрение животных отличается от человеческого</p>
+</div>
+		</div>
+	</div>
+	<div class="props-wrapper">
+		<div class="props props-wide">
+			<div class="prop authors">
+					<div class="author"><i class="icon-user"></i> Автор Никита Ланской</div>
+			</div>
+			<div class="prop tags">
+													<span class="badge badge-tag"><a
+							href="/articles/tags/zivotnye">Животные</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/zveri">звери</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/zrenie">зрение</a></span>
+							</div>
+		</div>
+	</div>
+</div>
+
+<div class="list-item">
+	<div class="wrapper">
+					<div class="image">
+				<div class="badges">
+														</div>
+				<a href="/articles/energia-dla-kosmosa-cem-interesny-perovskitnye-solnecnye-paneli-i-kak-ih-sozdaut-v-rossii">
+					<img class="lozad" loading="lazy" src="/images/o/3spo-preview.jpg" alt="Образцы солнечных ячеек после испытаний на устойчивость к радиации. Фото: Родион Нарудинов / пресс-служба УрФУ">
+									</a>
+			</div>
+				<div class="announce">
+			<div class="title">
+								<a href="/articles/energia-dla-kosmosa-cem-interesny-perovskitnye-solnecnye-paneli-i-kak-ih-sozdaut-v-rossii">
+					Энергия для космоса: чем интересны перовскитные солнечные панели и как их создают в России				</a>
+			</div>
+			<div class="props">
+				<div class="prop time"><i class="icon-calendar"></i> <time datetime="2025-11-06 10:30">06.11.2025 10:30</time></div>
+				<div class="prop views pull-right"><i class="icon-eye"></i> 4062</div>
+			</div>
+			<div class="lead"><p>Перовскитные солнечные панели &mdash; перспективная альтернатива элементам на основе кремния, особенно актуальная для освоения космоса. О том, как эта инновация разрабатывается в нашей стране и каково ее значение, рассказываем в новой статье</p>
+</div>
+		</div>
+	</div>
+	<div class="props-wrapper">
+		<div class="props props-wide">
+			<div class="prop authors">
+					<div class="author"><i class="icon-user"></i> Автор Анастасия Жукова</div>
+			</div>
+			<div class="prop tags">
+													<span class="badge badge-tag"><a
+							href="/articles/tags/osvoenie-kosmosa-2">освоение космоса</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/perovskitnye-solnecnye-batarei">перовскитные солнечные батареи</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/energetika">энергетика</a></span>
+							</div>
+		</div>
+	</div>
+</div>
+
+<div class="list-item">
+	<div class="wrapper">
+					<div class="image">
+				<div class="badges">
+														</div>
+				<a href="/articles/takoj-raznyj-biohaking-kto-im-zanimaetsa-i-naskolko-eta-praktika-naucna">
+					<img class="lozad" loading="lazy" src="/images/9/3sq9-preview.jpg" alt="Биохакинг. Источник: kjpargeter / Freepik">
+									</a>
+			</div>
+				<div class="announce">
+			<div class="title">
+								<a href="/articles/takoj-raznyj-biohaking-kto-im-zanimaetsa-i-naskolko-eta-praktika-naucna">
+					Такой разный биохакинг. Кто им занимается и насколько эта практика научна				</a>
+			</div>
+			<div class="props">
+				<div class="prop time"><i class="icon-calendar"></i> <time datetime="2025-10-30 11:00">30.10.2025 11:00</time></div>
+				<div class="prop views pull-right"><i class="icon-eye"></i> 5676</div>
+			</div>
+			<div class="lead"><p>&laquo;Научная Россия&raquo; разбирается в том, кто такие биохакеры и в каких отношениях находится их движение с биомедициной</p>
+</div>
+		</div>
+	</div>
+	<div class="props-wrapper">
+		<div class="props props-wide">
+			<div class="prop authors">
+					<div class="author"><i class="icon-user"></i> Автор Никита Ланской</div>
+			</div>
+			<div class="prop tags">
+													<span class="badge badge-tag"><a
+							href="/articles/tags/biohaking">биохакинг</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/gerontologia">геронтология</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/starenie">старение</a></span>
+							</div>
+		</div>
+	</div>
+</div>
+
+<div class="list-item">
+	<div class="wrapper">
+					<div class="image">
+				<div class="badges">
+														</div>
+				<a href="/articles/panorama-proslogo-kak-raskopki-na-oke-prolivaut-svet-na-istoriu-drevnego-plemeni-muroma">
+					<img class="lozad" loading="lazy" src="/images/t/3sht-preview.jpg" alt="Расчистка женского погребения 2-го Звягинского могильника. Фото: © Институт археологии РАН">
+									</a>
+			</div>
+				<div class="announce">
+			<div class="title">
+								<a href="/articles/panorama-proslogo-kak-raskopki-na-oke-prolivaut-svet-na-istoriu-drevnego-plemeni-muroma">
+					Панорама прошлого: как раскопки на Оке проливают свет на историю древнего племени мурома				</a>
+			</div>
+			<div class="props">
+				<div class="prop time"><i class="icon-calendar"></i> <time datetime="2025-10-20 10:30">20.10.2025 10:30</time></div>
+				<div class="prop views pull-right"><i class="icon-eye"></i> 3655</div>
+			</div>
+			<div class="lead"><p>Третий сезон раскопок на втором Звягинском могильнике в правобережье Оки стал самым масштабным и подарил археологам новые знания о муроме &mdash; древнем поволжско-финском племени, упоминаемом в знаменитой &laquo;Повести временных лет&raquo;</p>
+</div>
+		</div>
+	</div>
+	<div class="props-wrapper">
+		<div class="props props-wide">
+			<div class="prop authors">
+					<div class="author"><i class="icon-user"></i> Автор Анастасия Жукова</div>
+			</div>
+			<div class="prop tags">
+													<span class="badge badge-tag"><a
+							href="/articles/tags/drevnie-plemena">древние племена</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/institut-arheologii-ran-2">институт археологии ран</a></span>
+									<span class="badge badge-tag"><a
+							href="/articles/tags/mogilnik">могильник</a></span>
+							</div>
+		</div>
+	</div>
+</div>
+</div>	</div>
+	<div class="card-footer">
+		<ul class="pagination justify-content-center flex-wrap"><li class="page-item first disabled"><a class="page-link disabled" href="#">Новое</a></li>
+<li class="page-item next disabled"><a class="page-link disabled" href="#">&lt;</a></li>
+<li class="page-item active"><a class="page-link" href="/articles" data-page="-1">109</a></li>
+<li class="page-item"><a class="page-link" href="/articles/108" data-page="107">108</a></li>
+<li class="page-item"><a class="page-link" href="/articles/107" data-page="106">107</a></li>
+<li class="page-item"><a class="page-link" href="/articles/106" data-page="105">106</a></li>
+<li class="page-item"><a class="page-link" href="/articles/105" data-page="104">105</a></li>
+<li class="page-item prev"><a class="page-link" href="/articles/108" data-page="107">&gt;</a></li>
+<li class="page-item last"><a class="page-link" href="/articles/1" data-page="0">Старое</a></li></ul>	</div>
+</section>
+				<!-- /Содержимое страницы -->
+					<section class="card card-panel card-logotypes mt-5">
+		<div class="card-header">
+			<h2>Партнеры</h2>
+			<a class="show-all" href="/partners">Показать всех</a>
+		</div>
+		<div class="card-body">
+			<div id="logotypes-carousel" class="logotypes-carousel">
+									<div class="partner">
+						<a href="/partners/rossijskaya-akademiya-nauk"><img class="lozad" loading="lazy" src="/images/p/2lqp-logotype.jpg" alt="Российская академия наук"></a>
+					</div>
+									<div class="partner">
+						<a href="/partners/moskovskij-gosudarstvennyj-universitet"><img class="lozad" loading="lazy" src="/images/b/1b-logotype.jpg" alt="Московский государственный университет"></a>
+					</div>
+									<div class="partner">
+						<a href="/partners/fgup-rnts-kurchatovskij-institut"><img class="lozad" loading="lazy" src="/images/z/2ocz-logotype.jpg" alt="НИЦ «Курчатовский институт»"></a>
+					</div>
+									<div class="partner">
+						<a href="/partners/kar-nc-ran"><img class="lozad" loading="lazy" src="/images/z/3qxz-logotype.jpg" alt="Карельский научный центр Российской академии наук"></a>
+					</div>
+									<div class="partner">
+						<a href="/partners/rosatom"><img class="lozad" loading="lazy" src="/images/0/20-logotype.jpg" alt="Государственная корпорация по атомной энергии &quot;Росатом&quot;"></a>
+					</div>
+									<div class="partner">
+						<a href="/partners/fian"><img class="lozad" loading="lazy" src="/images/5/25-logotype.jpg" alt="Физический Институт им. П.Н. Лебедева РАН (ФИАН)"></a>
+					</div>
+									<div class="partner">
+						<a href="/partners/obedinennyj-institut-yadernyh-issledovanij"><img class="lozad" loading="lazy" src="/images/j/1j-logotype.jpg" alt="Объединенный институт ядерных исследований"></a>
+					</div>
+									<div class="partner">
+						<a href="/partners/fgup-vserossijskaya-gosudarstvennaya-televizionnaya-i-radioveshchatelnaya-kompaniya"><img class="lozad" loading="lazy" src="/images/g/1g-logotype.jpg" alt="ФГУП Всероссийская государственная телевизионная и радиовещательная компания"></a>
+					</div>
+									<div class="partner">
+						<a href="/partners/sovet-pri-prezidente-po-nauke-i-obrazovaniyu"><img class="lozad" loading="lazy" src="/images/h/1h-logotype.jpg" alt="Совет при Президенте по науке и образованию"></a>
+					</div>
+									<div class="partner">
+						<a href="/partners/obedinennyj-institut-vysokih-temperatur-ran"><img class="lozad" loading="lazy" src="/images/u/1u-logotype.jpg" alt="Объединенный институт высоких температур РАН"></a>
+					</div>
+									<div class="partner">
+						<a href="/partners/sibirskoe-otdelenie-ran"><img class="lozad" loading="lazy" src="/images/r/1r-logotype.jpg" alt="Сибирское отделение РАН"></a>
+					</div>
+									<div class="partner">
+						<a href="/partners/tomskij-politehnicheskij-universitet"><img class="lozad" loading="lazy" src="/images/4/24-logotype.jpg" alt="Томский политехнический университет"></a>
+					</div>
+									<div class="partner">
+						<a href="/partners/npk-kriptonit"><img class="lozad" loading="lazy" src="/images/o/288o-logotype.jpg" alt="НПК «Криптонит»"></a>
+					</div>
+									<div class="partner">
+						<a href="/partners/permskaya-nauchno-proizvodstvennaya-priborostroitelnaya-kompaniya"><img class="lozad" loading="lazy" src="/images/v/1v-logotype.jpg" alt="Пермская научно-производственная приборостроительная компания"></a>
+					</div>
+									<div class="partner">
+						<a href="/partners/natsionalnyj-issledovatelskij-tomskij-gosudarstvennyj-universitet"><img class="lozad" loading="lazy" src="/images/e/1e-logotype.jpg" alt="Национальный исследовательский Томский государственный университет"></a>
+					</div>
+									<div class="partner">
+						<a href="/partners/institut-prikladnoj-fiziki-ran"><img class="lozad" loading="lazy" src="/images/d/1d-logotype.jpg" alt="Федеральный исследовательский центр Институт прикладной физики Российской академии наук (ИПФ РАН)"></a>
+					</div>
+									<div class="partner">
+						<a href="/partners/institut-vseobshchej-istorii-ran"><img class="lozad" loading="lazy" src="/images/w/1w-logotype.jpg" alt="Институт всеобщей истории РАН"></a>
+					</div>
+									<div class="partner">
+						<a href="/partners/geological-museum"><img class="lozad" loading="lazy" src="/images/1/21-logotype.jpg" alt="Государственный геологический музей им. В.И. Вернадского Российской академии наук"></a>
+					</div>
+									<div class="partner">
+						<a href="/partners/paleontological-museum"><img class="lozad" loading="lazy" src="/images/2/22-logotype.jpg" alt="Палеонтологический музей им. Ю.А. Орлова РАН"></a>
+					</div>
+									<div class="partner">
+						<a href="/partners/gosudarstvennyj-darvinovskij-muzej"><img class="lozad" loading="lazy" src="/images/3/23-logotype.jpg" alt="Государственный Дарвиновский музей"></a>
+					</div>
+							</div>
+		</div>
+	</section>
+			</div>
+			<div class="col-12 col-lg-4 layout-aside">
+				<!-- боковая колонка -->
+				<div class="card card-panel bordered">
+    <div class="card-header d-flex">
+        <h3 class="align-center">Наше мобильное приложение</h3>
+    </div>
+    <div class="card-body">
+        <a class="btn btn-standart btn-caps w-100" href="https://www.rustore.ru/catalog/app/ru.scientificrussia.app"><i class="fab fa-android fa-lg"></i>
+			<strong>Установить с RuStore</strong></a>
+    </div>
+</div>
+<div class="card card-panel bordered">
+	<div class="card-body p-0">
+		<div class="partner-logotypes">
+			<a href="https://v-mire-nauki.ru/"><img class="partner-logotype img-fluid" style="width: 80px" src="/assets/e1bb3a19/logo-sc.svg"
+					alt=""></a> <a href="https://ochevidnoe-neveroyatnoe.ru/"><img class="partner-logotype img-fluid" style="width: 150px"
+					src="/assets/e1bb3a19/logo-on.svg" alt=""></a>
+		</div>
+	</div>
+</div>
+<div class="card card-panel bordered">
+	<div class="card-header d-flex">
+		<h3 class="align-center">Мы в соцсетях</h3>
+	</div>
+	<div class="card-body">
+		<div class="socials" style="text-align: center">
+			<!--<a class="fb-color" href="https://www.facebook.com/nauchnayarossiya" target="_blank"><i class="icon-facebook"></i></a>-->
+			<!--<a class="tw-color" href="https://twitter.com/Scientific_Rus" target="_blank"><i class="icon-twitter"></i></a>--> <a
+				class="vk-color" href="https://vk.com/scientificrussia" target="_blank"><i class="icon-vk"></i></a> <a class="ok-color"
+				href="https://ok.ru/group/56012788990030" target="_blank"><i class="icon-odnoklassniki"></i></a> <a class="tg-color"
+				href="https://t.me/scientificrussia" target="_blank"><i class="icon-telegram"></i></a> <a class="yt-color"
+				href="https://www.youtube.com/channel/UCJKZzUdO9eGEOZz_QJd1ogA" target="_blank"><i class="icon-youtube"></i></a>
+			<!--<a class="zen-color" href="https://zen.yandex.ru/id/6241b452b3489752e8ac0445" target="_blank"><i class="icon-ya-zen"></i></a>-->
+			<a class="rutube-color" href="https://rutube.ru/channel/25268394/" target="_blank"><i class="icon-rutube"></i></a>
+		</div>
+	</div>
+</div>
+<div class="card card-panel aside scream for-children">
+	<div class="card-body">
+		<a href="/for-children"><strong>НАУКА</strong> ДЕТЯМ</a>
+	</div>
+</div>
+<div class="card card-panel bordered">
+	<div class="card-header d-flex">
+		<h2>Недавнее</h2>
+	</div>
+	<div class="card-body">
+		<div class="announce-list tiny mb-0">
+							<div class="list-item">
+					<div class="announce">
+						<div class="title"><a href="/articles/sovremennye-issledovania-mikrobioty-kak-pravilno-izucat-i-podderzivat-zdorovuu-mikrofloru-celoveka">Скрытый «орган» здоровья: как изучают микробиоту? Главное из заседания Совета РАН «Науки о жизни»</a></div>
+						<div class="props">
+							<div class="prop">
+								18:10																 / <a href="/articles/rubric/biology">Биология</a>, <a href="/articles/rubric/zdravoohranenie">Здравоохранение</a>, <a href="/articles/rubric/medicine">Медицина</a>							</div>
+						</div>
+					</div>
+				</div>
+							<div class="list-item">
+					<div class="announce">
+						<div class="title"><a href="/articles/ucenye-sozdali-effektivnye-katalizatory-dla-ocistki-vody-s-pomosu-solnecnogo-sveta">Ученые создали эффективные катализаторы для очистки воды с помощью солнечного света</a></div>
+						<div class="props">
+							<div class="prop">
+								17:30																 / <a href="/articles/rubric/phisics">Физика</a>							</div>
+						</div>
+					</div>
+				</div>
+							<div class="list-item">
+					<div class="announce">
+						<div class="title"><a href="/articles/v-mgu-naucilis-bolee-tocno-ocenivat-rabotu-algoritmov-s-bazami-dannyh">В МГУ научились более точно оценивать работу алгоритмов с базами данных</a></div>
+						<div class="props">
+							<div class="prop">
+								13:30																 / <a href="/articles/rubric/mathematics">Математика</a>							</div>
+						</div>
+					</div>
+				</div>
+							<div class="list-item">
+					<div class="announce">
+						<div class="title"><a href="/articles/himiki-spbgu-razrabotali-sposob-izvlecenia-biologiceski-aktivnyh-vesestv-iz-listev-mandarina">Химики СПбГУ разработали способ извлечения биологически активных веществ из листьев мандарина</a></div>
+						<div class="props">
+							<div class="prop">
+								12:30																 / <a href="/articles/rubric/himiya">Химия</a>							</div>
+						</div>
+					</div>
+				</div>
+							<div class="list-item">
+					<div class="announce">
+						<div class="title"><a href="/articles/bajkalskaa-nerpa-umeet-adaptirovatsa-k-izmeneniam-okruzausej-sredy">Байкальская нерпа умеет адаптироваться к изменениям окружающей среды</a></div>
+						<div class="props">
+							<div class="prop">
+								11:30																 / <a href="/articles/rubric/biology">Биология</a>							</div>
+						</div>
+					</div>
+				</div>
+							<div class="list-item">
+					<div class="announce">
+						<div class="title"><a href="/articles/zerkalnye-feromony-pomogaut-zukam-razmnozatsa">Зеркальные феромоны помогают жукам размножаться</a></div>
+						<div class="props">
+							<div class="prop">
+								20:00																 / <a href="/articles/rubric/biology">Биология</a>, <a href="/articles/rubric/himiya">Химия</a>							</div>
+						</div>
+					</div>
+				</div>
+							<div class="list-item">
+					<div class="announce">
+						<div class="title"><a href="/articles/razrabotany-gibridnye-materialy-dla-bystrogo-obnaruzenia-radiacii">Разработаны гибридные материалы для быстрого обнаружения радиации</a></div>
+						<div class="props">
+							<div class="prop">
+								19:30																 / <a href="/articles/rubric/new-technologies">Новые технологии</a>, <a href="/articles/rubric/himiya">Химия</a>							</div>
+						</div>
+					</div>
+				</div>
+							<div class="list-item">
+					<div class="announce">
+						<div class="title"><a href="/articles/v-mgu-projdet-mezdunarodnaa-konferencia-monetec-2026-po-sovremennym-setevym-tehnologiam">Международная конференция MoNeTec-2026 по современным сетевым технологиям пройдет в МГУ</a></div>
+						<div class="props">
+							<div class="prop">
+								18:30																 / <a href="/articles/rubric/it">Информационные технологии</a>							</div>
+						</div>
+					</div>
+				</div>
+							<div class="list-item">
+					<div class="announce">
+						<div class="title"><a href="/articles/lica-fundamentalnoj-nauki-arhiv-ran-predstavlaet-vystavku-fotografij-i-dokumentov">Лица фундаментальной науки. Архив РАН представляет выставку фотографий и документов</a></div>
+						<div class="props">
+							<div class="prop">
+								18:05																 / <a href="/articles/rubric/nauka-i-obshchestvo">Наука и общество</a>							</div>
+						</div>
+					</div>
+				</div>
+							<div class="list-item">
+					<div class="announce">
+						<div class="title"><a href="/articles/novyj-atlas-posvasennyj-arktike-izdan-v-mgu">Новый атлас, посвященный Арктике, издан в МГУ</a></div>
+						<div class="props">
+							<div class="prop">
+								15:30																 / <a href="/articles/rubric/geography">География</a>							</div>
+						</div>
+					</div>
+				</div>
+					</div>
+	</div>
+</div>
+<div class="card card-panel aside bordered card-pagination">
+	<div class="card-header d-flex">
+		<h2>Популярное</h2>
+	</div>
+	<div class="card-body">
+		<div class="announce-list normal">
+							<div class="list-item">
+			<div class="image">
+			<div class="badges">
+											</div>
+			<a href="/articles/ucenye-dvfu-i-iapu-dvo-ran-sozdali-gibridnyj-nanomaterial-dla-proizvodstva-kvantovyh-komputerov"> <img class="lozad" loading="lazy" src="/images/s/3v1s-medium.jpg" alt="Источник ru.123rf.com">
+			</a>
+		</div>
+		<div class="announce">
+		<div class="props">
+			<div class="prop time"><i class="icon-calendar"></i> <time datetime="2026-02-16 12:30">16.02.2026 12:30</time></div>
+			<div class="prop views"><i class="icon-eye"></i> 1572</div>
+		</div>
+		<div class="title">
+			<a href="/articles/ucenye-dvfu-i-iapu-dvo-ran-sozdali-gibridnyj-nanomaterial-dla-proizvodstva-kvantovyh-komputerov">Гибридный наноматериал для производства квантовых компьютеров создали на Дальнем Востоке</a>
+		</div>
+	</div>
+</div>
+							<div class="list-item">
+			<div class="image">
+			<div class="badges">
+											</div>
+			<a href="/articles/v-mfti-pokazali-kak-vygladeli-razano-okcy-v-vi-vekov"> <img class="lozad" loading="lazy" src="/images/v/3v2v-medium.jpg" alt="Скульптурная реконструкция по черепу воина из могильника Ундрих 2015, яма 90. Пластилин. Авторы Е. В. Веселовская, О. И. Алехина.">
+			</a>
+		</div>
+		<div class="announce">
+		<div class="props">
+			<div class="prop time"><i class="icon-calendar"></i> <time datetime="2026-02-18 12:30">18.02.2026 12:30</time></div>
+			<div class="prop views"><i class="icon-eye"></i> 1675</div>
+		</div>
+		<div class="title">
+			<a href="/articles/v-mfti-pokazali-kak-vygladeli-razano-okcy-v-vi-vekov">Как выглядели рязано-окцы V–VI веков, показали в МФТИ</a>
+		</div>
+	</div>
+</div>
+					</div>
+	</div>
+</div>
+	<div class="card card-panel aside bordered card-pagination">
+		<div class="card-header d-flex">
+			<h2>Лекции</h2>
+		</div>
+		<div class="card-body">
+			<div class="announce-list">
+									<div class="list-item">
+	<div class="image">
+		<div class="video-responsive video-placeholder" title="Кликните, чтобы начать просмотр видео">
+			<img class="border-0 video-placeholder lozad" loading="lazy" data-src="//vk.com/video_ext.php?oid=-55685158&id=456241568&hash=db75cf5b0518cf75" width="360" height="204" src="/images/y/2z0y-medium-ws.jpg" alt="Кликните, чтобы начать просмотр видео" title="Кликните, чтобы начать просмотр видео">
+			<div class="badge-video centered"><i class="icon-video"></i></div>
+			<!--<iframe width="360" height="204" class="border-0 lozad" loading="lazy" src="<?/*= $entity->getVideo() */?>" allowfullscreen></iframe>-->
+		</div>
+	</div>
+	<div class="announce">
+		<div class="props">
+			<div class="prop time"><i class="icon-calendar"></i> <time datetime="2023-05-29 13:00">29.05.2023 13:00</time></div>
+			<div class="prop views"><i class="icon-eye"></i> 35971</div>
+		</div>
+		<div class="title">
+			<a href="/articles/pogoda-v-bolsom-gorode-superkomputery-i-iskusstvennyj-intellekt-lekcia-mihaila-varencova">«Погода и климат в большом городе». Лекция Михаила Варенцова</a>
+		</div>
+		<div class="lead">
+			<p>Что влияет на погоду и климат в Москве и других крупных городах? В чем сложность прогноза погоды для городов? Как методы искусственного интеллекта помогают уточнять прогнозы?</p>
+		</div>
+	</div>
+</div>
+			</div>
+			<a href="/lectures"
+				class="btn btn-standart btn-caps w-100">Смотреть все</a>
+		</div>
+	</div>
+<div class="card card-panel">
+	<div class="card-body">
+		<!--<a style="max-width: 250px; display: block; margin: 0 auto" href="https://bigasia.ru/" target="_blank" title="Телеканал «Большая Азия»">
+			<img src="/data/shared/banners/b-bigasia-ru.png" loading="lazy" class="img-fluid" alt="логотип «Большая Азия»">
+		</a>-->
+		<a style=""
+		   href="https://bigasia.ru/specprojects_type/chines_panoram/" target="_blank"
+		   title="Китайская панорама - Телеканал «Большая Азия»">
+			<img src="/data/shared/banners/big-asia-ru.jpg" loading="lazy" class="img-fluid"
+				 alt="логотип «Большая Азия»">
+		</a>
+	</div>
+</div>
+	<div class="card card-panel bordered">
+		<div class="card-header d-flex">
+			<h2>Архив</h2>
+		</div>
+		<div class="card-body">
+			<div class="announce-list tiny mb-4">
+									<div class="list-item">
+						<div class="announce">
+							<div class="title"><a
+									href="/articles/leopold-lobkovskij-sergej-kapica-celovek-samogo-vysokogo-urovna-s-kotorym-bylo-prosto-obsatsa">Леопольд Лобковский: «Сергей Капица — человек самого высокого уровня, с которым было просто общаться»</a>
+							</div>
+							<div class="props">
+								<div class="prop">
+									24.02.2023								</div>
+							</div>
+						</div>
+					</div>
+									<div class="list-item">
+						<div class="announce">
+							<div class="title"><a
+									href="/articles/sergej-petrovic-kapica-byl-golosom-nauki-dla-millionov-ludej-akademik-kv-anohin-o-programme-ocevidnoe-neveroatnoe">«Сергей Петрович Капица был голосом науки для миллионов людей». Академик К.В. Анохин о программе «Очевидное — невероятное»</a>
+							</div>
+							<div class="props">
+								<div class="prop">
+									24.02.2023								</div>
+							</div>
+						</div>
+					</div>
+									<div class="list-item">
+						<div class="announce">
+							<div class="title"><a
+									href="/articles/podobno-komete-na-usypannom-zvezdami-nebe-akademik-al-aseev-o-programme-ocevidnoe-neveroatnoe">«Подобно комете на усыпанном звездами небе». Академик А.Л. Асеев о программе «Очевидное — невероятное»</a>
+							</div>
+							<div class="props">
+								<div class="prop">
+									24.02.2023								</div>
+							</div>
+						</div>
+					</div>
+									<div class="list-item">
+						<div class="announce">
+							<div class="title"><a
+									href="/articles/kommentarij-clena-korrespondenta-ran-ds-gorbunova-o-programme-ocevidnoe-neveroatnoe">«Это был замечательный опыт». Член-корреспондент РАН Дмитрий Горбунов об участии в программе «Очевидное — невероятное»</a>
+							</div>
+							<div class="props">
+								<div class="prop">
+									24.02.2023								</div>
+							</div>
+						</div>
+					</div>
+									<div class="list-item">
+						<div class="announce">
+							<div class="title"><a
+									href="/articles/ego-peredaca-do-sih-por-ostaetsa-neprevzojdennym-standartom-akademik-valerij-tiskov-k-ubileu-ocevidnogo-neveroatnogo">«Его передача до сих пор остается непревзойденным стандартом». Академик Валерий Тишков к юбилею «Очевидного — невероятного»</a>
+							</div>
+							<div class="props">
+								<div class="prop">
+									24.02.2023								</div>
+							</div>
+						</div>
+					</div>
+									<div class="list-item">
+						<div class="announce">
+							<div class="title"><a
+									href="/articles/tatana-cernigovskaa-nam-vsem-povezlo-cto-my-znali-sergea-petrovica-kapicu-kak-prosvetitela">Татьяна Черниговская: «Нам всем повезло, что мы знали Сергея Петровича Капицу как просветителя»</a>
+							</div>
+							<div class="props">
+								<div class="prop">
+									24.02.2023								</div>
+							</div>
+						</div>
+					</div>
+							</div>
+			<a href="/archive" class="btn btn-standart btn-caps w-100">Смотреть все</a>
+		</div>
+	</div>
+				<!-- боковая колонка -->
+			</div>
+		</section>
+	</div>
+</main>
+<!-- /Основное содержимое -->
+<footer class="layout-footer">
+		<div class="container">
+	<div class="row">
+		<div class="col-xs-12 col-sm-6 info">
+						<h4>Электронное периодическое издание «Научная Россия».</h4>
+			<p>Информация предоставлена Информационным агентством «Научная Россия». Свидетельство о регистрации СМИ: ИА № ФС77-62580, выдано
+				Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций 31 июля 2015 года.
+			</p>
+			<p>Электронное периодическое издание «Научная Россия». Свидетельство о регистрации СМИ ЭЛ № ФС77-46778 от 30.09.2011</p>
+			<p> </p>
+			<p><a href="/agreement"><b>Политика конфиденциальности</b></a></p>
+					</div>
+		<div class="col-xs-12 col-sm-6">
+			<div class="vcard" itemscope itemtype="http://schema.org/LocalBusiness">
+				<div class="hidden" itemprop="logo image" itemscope itemtype="http://schema.org/ImageObject">
+					<a class="photo" rel="photo" itemprop="url contentUrl" href="/assets/e1bb3a19/logo-hq-sharp.png"></a>
+				</div>
+									<p><b>Учредитель:</b> <a href="https://scientificrussia.ru/" itemprop="url"><span class="fn org" itemprop="name">Некоммерческое партнерство «Международное партнерство распространения научных знаний»</span></a>.
+					</p>
+					<p class="adr" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+						<b>Адрес:</b> <span class="postal-code" itemprop="postalCode">119234</span>, г. <span class="locality"
+							itemprop="addressLocality">Москва</span>, <span class="street-address" itemprop="streetAddress">ГСП-1, Ленинские горы, МГУ, д. 1, стр. 46</span>,
+						<span class="extended-address">офис 138</span> <a href="#" data-toggle="modal" data-target="#modal-map"><i class="icon-link"></i> Смотреть на
+							карте</a>
+					</p>
+					<p><b>Тел./Факс:</b>
+						<a href="tel:+74959394266" title="+74959394266" class="tel"><span itemprop="telephone">+7 (495) 939-42-66</span></a>,
+						<a href="tel:+74959394563" title="+74959394563" class="tel"><span itemprop="telephone">+7 (495) 939-45-63</span></a>
+					</p>
+				<p itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+					<b>Почтовый адрес</b>:
+					<span class="postal-code" itemprop="postalCode">119234</span>, г.
+					<span class="locality" itemprop="addressLocality">Москва</span>,
+					<span class="street-address" itemprop="streetAddress">пл. Университетская, д.1</span>, а/я №71
+				</p>
+					<p><b>Время работы:</b>
+						<meta itemprop="openingHours" content="Mo-Fr 10:00−18:00">
+						<span class="workhours">с 10-00 до 18-00</span>
+					</p>
+				
+				<div class="age-mark">
+					<img class="img-fluid no-bg lozad" loading="lazy" src="/assets/e1bb3a19/age-category-16.svg" alt="16+">
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-xs-12 col-sm-3 copyright">
+			&copy; 2012-2026 «Научная Россия»		</div>
+		<div class="col-xs-12 col-sm-4">
+			<!-- Yandex.Metrika informer -->
+			<div style="float: right; display: block; width: 88px; margin: 10px 6px 0 auto">
+				<a href="https://metrika.yandex.ru/stat/?id=25920236&amp;from=informer" target="_blank" rel="nofollow"><img
+						loading="lazy"
+						src="https://informer.yandex.ru/informer/25920236/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+						style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика"
+						title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="lozad ym-advanced-informer"
+						data-cid="25920236" data-lang="ru"></a>
+			</div>
+			<!-- /Yandex.Metrika informer -->
+			<div id="Rambler-counter" style="float: right; display: block; width: 88px; margin: 10px 6px 0 auto">
+				<noscript>
+					<img loading="lazy" class="lozad" src="//counter.rambler.ru/top100.cnt?pid=3128204" alt="Топ-100">
+				</noscript>
+			</div>
+			<!--<div id="liveinternet-counter">
+			</div>-->
+			<div style="float: right; display: block; width: 88px; margin: 10px 6px 0 auto">
+				<a href="https://webmaster.yandex.ru/sqi?host=scientificrussia.ru"><img loading="lazy" class="lozad" width="88" height="31" alt="" style="border: 0"
+						src="https://yandex.ru/cycounter?scientificrussia.ru&theme=light&lang=ru"></a>
+			</div>
+		</div>
+		<div class="col-xs-12 col-sm-5 text-xs-center text-sm-right socials">
+			<span>Мы в соцсетях:</span>
+			<!--<a class="fb-color" href="https://www.facebook.com/nauchnayarossiya" target="_blank"><i class="icon-facebook"></i></a>-->
+			<!--<a class="tw-color" href="https://twitter.com/Scientific_Rus" target="_blank"><i class="icon-twitter"></i></a>-->
+			<a class="vk-color" href="https://vk.com/scientificrussia" target="_blank"><i class="icon-vk"></i></a>
+			<a class="ok-color" href="https://ok.ru/group/56012788990030" target="_blank"><i class="icon-odnoklassniki"></i></a>
+			<a class="tg-color" href="https://t.me/scientificrussia" target="_blank"><i class="icon-telegram"></i></a>
+			<a class="yt-color" href="https://www.youtube.com/channel/UCJKZzUdO9eGEOZz_QJd1ogA" target="_blank"><i class="icon-youtube"></i></a>
+			<!--<a class="zen-color" href="https://zen.yandex.ru/id/6241b452b3489752e8ac0445" target="_blank"><i class="icon-ya-zen" style="color: white"></i></a>-->
+			<a class="rutube-color" href="https://rutube.ru/channel/25268394/" target="_blank"><i class="icon-rutube" style="color: white"></i></a>
+		</div>
+	</div>
+</div>
+</footer>
+<!-- Главное меню (боковая панель) -->
+<div class="m-menu-panel closed" id="main-menu-panel">
+	<div class="backdrop"></div>
+	<div class="m-menu-panel-content" itemscope itemtype="http://schema.org/SiteNavigationElement">
+		<div class="inner-header">
+			<a href="#" class="closer" title="Закрыть"><i class="icon-close"></i></a>
+			<div class="">
+				<a class="logo logo-square" href="/"> <img class="" width="33" src="/assets/e1bb3a19/logo.svg"
+						alt="«Научная Россия» - электронное периодическое издание"> </a> <a class="logo logo-textual" href="/"> <img
+						class="hidden-sm" width="150" src="/assets/e1bb3a19/title.svg" alt="«Научная Россия» - электронное периодическое издание"> </a>
+			</div>
+			<ul class="nav buttons">
+								<li class="nav-item">
+					<div class="dropdown">
+						<button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown"
+							aria-haspopup="true" aria-expanded="false">
+							<strong>RU</strong>
+						</button>
+						<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+							<a class="dropdown-item same-window" href="https://scientificrussia.ru/">RU</a> <a
+								class="dropdown-item same-window" href="https://en.scientificrussia.ru/">EN</a>
+						</div>
+					</div>
+				</li>
+								<li class="nav-item">
+											<!--<a class="nav-link" href="" title=""><i
+								class="icon-user"></i></a>-->
+									</li>
+				<!--<li class="nav-item">
+					<a class="nav-link" href="#"> <i class="icon-email"></i> </a>
+				</li>-->
+				<li class="nav-item">
+					<a itemprop="url" class="nav-link" href="/search" title="Поиск"> <i class="icon-search"></i> </a>
+				</li>
+			</ul>
+		</div>
+		<nav class="inner">
+			<div class="card card-panel bordered">
+				<div class="card-body p-0">
+					<div class="partner-logotypes">
+						<a href="https://v-mire-nauki.ru/"><img class="partner-logotype img-fluid" style="width: 80px"
+								src="/assets/e1bb3a19/logo-sc.svg" alt=""></a> <a href="https://ochevidnoe-neveroyatnoe.ru/"><img
+								class="partner-logotype img-fluid" style="width: 150px" src="/assets/e1bb3a19/logo-on.svg" alt=""></a>
+					</div>
+				</div>
+			</div>
+			<div class="accordion" id="accordionExample">
+				<a itemprop="url" class="btn btn-link" href="/contacts"> <span itemprop="name">О нас</span></a>
+
+				<a itemprop="url" href="/articles" class="btn btn-link"> <span
+						itemprop="name">Статьи</span></a>
+				<a itemprop="url" href="/news" class="btn btn-link"> Новости</a>
+				<a itemprop="url" href="/interviews" class="btn btn-link"> Интервью</a>
+
+				<a itemprop="url" href="/lectures" class="btn btn-link">
+					Лекции				</a>
+
+				<a itemprop="url" href="/podcasts" class="btn btn-link">
+					Подкасты				</a>
+
+				<a itemprop="url" href="/partners" class="btn btn-link">
+					Партнеры				</a>
+
+				<div class="accordion" id="other-collapser">
+					<div class="card">
+						<div class="card-header" id="headingOne">
+							<a href="#" class="btn btn-link" data-toggle="collapse" role="button" data-target="#collapseOne" aria-expanded="false"
+								aria-controls="collapseOne"> Тематические рубрики&nbsp; <i class="fas fa-chevron-down"></i> </a>
+						</div>
+						<div class="collapse card-body" role="menubar" id="collapseOne" data-parent="#other-collapser" aria-expanded="false">
+							<ul class="nav flex-column">
+								<li class="nav-item">
+									<a itemprop="url"
+									   href="/victory-80"
+									   class="btn btn-link">
+										80 лет Победы: страницы истории</a>
+								</li>
+								<li class="nav-item">
+									<a itemprop="url" href="/aviation-science"
+										class="btn btn-link">
+										Авиационная наука</a>
+								</li>
+								<li class="nav-item">
+									<a itemprop="url" href="/electronic-technologies"
+										class="btn btn-link">
+										Электронные технологии</a>
+								</li>
+								<li class="nav-item">
+									<a itemprop="url" href="/300-let-ran"
+										class="btn btn-link">
+										300 лет Академии наук</a>
+								</li>
+								<li class="nav-item">
+									<a itemprop="url" href="/ran-meeting-2023"
+										class="btn btn-link">
+										Общее собрание РАН 2023</a>
+								</li>
+								<li class="nav-item">
+									<a itemprop="url" href="/women-in-science"
+										class="btn btn-link">
+										Женщины в науке</a>
+								</li>
+								<li class="nav-item">
+									<a itemprop="url" href="/year-of-science"
+										class="btn btn-link collapsed">
+										Десятилетие науки и технологий</a>
+								</li>
+								<li class="nav-item">
+									<a itemprop="url" href="/broadcasts"
+										class="btn btn-link">
+										Трансляции</a>
+								</li>
+								<li class="nav-item">
+									<a itemprop="url" href="/reviews"
+										class="btn btn-link">
+										Рецензии</a>
+								</li>
+								<li class="nav-item">
+									<a itemprop="url" href="/interesting"
+										class="btn btn-link collapsed">
+										Это интересно</a>
+								</li>
+								<li class="nav-item">
+									<a itemprop="url" href="/films"
+										class="btn btn-link collapsed">
+										Фильмы</a>
+								</li>
+								<li class="nav-item">
+									<a itemprop="url" href="/ideas"
+										class="btn btn-link collapsed">
+										Идеи, меняющие мир</a>
+								</li>
+								<li class="nav-item">
+									<a itemprop="url" href="/archive"
+										class="btn btn-link collapsed">
+										Архив «Очевидное—невероятное»</a>
+								</li>
+								<li class="nav-item">
+									<a itemprop="url" href="/theory"
+										class="btn btn-link collapsed">
+										«Теория всего»</a>
+								</li>
+								<li class="nav-item">
+									<a itemprop="url" href="/life"
+										class="btn btn-link collapsed">
+										Жизнь замечательных ученых</a>
+								</li>
+								<li class="nav-item">
+									<a itemprop="url" href="/professors"
+										class="btn btn-link collapsed">
+										Профессора РАН</a>
+								</li>
+
+								<li class="nav-item">
+									<a itemprop="url" href="/covid"
+										class="btn btn-link collapsed">
+										РАН о COVID-19</a>
+								</li>
+								<li class="nav-item">
+									<a itemprop="url" href="/experts-talk"
+										class="btn btn-link collapsed">
+										Экспертный разговор</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+						<div class="card card-panel aside compact scream for-children">
+				<div class="card-body">
+					<a itemprop="url" href="/for-children"><strong>НАУКА</strong> ДЕТЯМ</a>
+				</div>
+			</div>
+			            <div class="card card-panel aside compact bordered mt-5 mb-5">
+                <div class="card-header d-flex">
+                    <h4 class="align-center">Наше мобильное приложение</h4>
+                </div>
+                <div class="card-body">
+                    <a class="btn btn-standart btn-caps w-100" href="https://www.rustore.ru/catalog/app/ru.scientificrussia.app"><i
+								class="fab fa-android fa-lg"></i> <strong>Установить с RuStore</strong></a>
+                </div>
+            </div>
+			<div class="card card-panel aside compact">
+				<div class="card-body">
+					<div class="socials" style="text-align: center">
+						<!--<a class="fb-color" href="https://www.facebook.com/nauchnayarossiya" target="_blank"><i class="icon-facebook"></i></a>-->
+						<!--<a class="tw-color" href="https://twitter.com/Scientific_Rus" target="_blank"><i class="icon-twitter"></i></a>-->
+						<a class="vk-color" href="https://vk.com/scientificrussia" target="_blank"><i class="icon-vk"></i></a> <a
+							class="ok-color" href="https://ok.ru/group/56012788990030" target="_blank"><i
+								class="icon-odnoklassniki"></i></a> <a class="tg-color" href="https://t.me/scientificrussia"
+							target="_blank"><i class="icon-telegram"></i></a> <a class="yt-color"
+							href="https://www.youtube.com/channel/UCJKZzUdO9eGEOZz_QJd1ogA" target="_blank"><i class="icon-youtube"></i></a>
+						<!--<a class="zen-color" href="https://zen.yandex.ru/id/6241b452b3489752e8ac0445" target="_blank"><i
+								class="icon-ya-zen"></i></a>--> <a class="rutube-color" href="https://rutube.ru/channel/25268394/"
+							target="_blank"><i class="icon-rutube"></i></a>
+					</div>
+				</div>
+			</div>
+		</nav>
+	</div>
+</div>
+<!-- /Главное меню (боковая панель) -->
+<!-- модальное окно для сообщений -->
+	<div class="modal modal-lg fade" id="modal-multipurpose">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<div class="modal-title"></div>
+					<span class="close" data-dismiss="modal"></span>
+				</div>
+				<div class="modal-body">
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn" data-dismiss="modal">Закрыть</button>
+				</div>
+			</div>
+		</div>
+	</div>
+<!-- /модальное окно для сообщений -->
+<!-- модальное окно карты -->
+<div class="modal fade" tabindex="-1" id="modal-map">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title">Мы на карте</h5>
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+				</button>
+			</div>
+			<div class="modal-body">
+				<!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (начало) -->
+<div id="w2" style="width: 100%; height: 700px;"></div>
+<div style="width: 100%; text-align: right;"><a href="//api.yandex.ru/maps/tools/constructor/index.xml" target="_blank"
+		style="color: #1A3DC1; font: 13px Arial, Helvetica, sans-serif;">Создано с помощью инструментов Яндекс.Карт</a>
+</div>
+<!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (конец) -->
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-secondary" data-dismiss="modal">Закрыть</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- /модальное окно для сообщений -->
+	<div id="spinner-modal" class="hidden"></div>
+<div id="spinner-backdrop" class="hidden"></div>
+<!--[if lte IE 11]>
+<div class="browser-update-alert" role="alert">Вы используете <strong>устаревший</strong> браузер. Пожалуйста <a
+	href="https://browsehappy.com/" target="_blank">обновите свой браузер</a> чтобы получить возможность пользоваться новыми
+	Веб-технологиями и обеспечить безопасную навигацию по Интернет.
+</div>
+<![endif]-->
+<div id="consent-popup">
+	<div class="sub-block text-block">
+		<p>Мы обрабатываем cookies, чтобы сделать наш сайт удобнее и персонализированее для вас. Подробнее: <a
+					href="/agreement" target="_blank">политика
+				использования cookies и защита данных</a>.</p>
+	</div>
+	<div class="sub-block button-block">
+		<button type="button" class="btn btn-agree">Принять</button>
+	</div>
+</div>
+<script src="/assets/e1bb3a19/vendors.min.js"></script>
+<script src="https://use.fontawesome.com/releases/v5.7.1/js/all.js" defer async></script>
+<script src="/assets/e1bb3a19/app.min.js"></script>
+<script>jQuery(function ($) {
+$.extend(toastr.options, {
+    "timeOut": 120000,
+    "extendedTimeOut": 10000,
+    "newestOnTop": true
+});
+});</script></body>
+</html>

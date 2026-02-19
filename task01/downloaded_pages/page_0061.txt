@@ -1,0 +1,1860 @@
+<!doctype html>
+<html lang="ru" class="no-js" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-token" content="DbU1NxKOkPeICd9nYXJ15S4RkMB1MTY1eoH5vpJL">
+
+    <title>КОЛЕСА.ру – автоновости, тест-драйвы, каталог авто, отзывы, дилеры, общение</title>
+
+    <link rel="canonical" href="https://www.kolesa.ru">
+
+    <meta name="robots" content="index, follow">
+<meta property="og:url" content="https://www.kolesa.ru">
+<meta property="og:site_name" content="Автомобильный журнал «КОЛЕСА.РУ»">
+<meta property="og:type" content="website">
+<meta property="og:title" content="КОЛЕСА.ру – автоновости, тест-драйвы, каталог авто, отзывы, дилеры, общение">
+<meta property="og:locale" content="ru_RU">
+<meta property="og:image" content="https://www.kolesa.ru/vendor/themes/kolesa/images/share-image.png">
+<meta property="og:image:secure_url" content="https://www.kolesa.ru/vendor/themes/kolesa/images/share-image.png">
+<meta property="og:image:type" content="image/png">
+<meta name="verify-admitad" content="6d65dd519d">
+<meta name="google-site-verification" content="7X0JyiynyIH4VyjGFKdo_OykLTIhAVBN8gzjkA8LcII">
+<meta name="yandex-verification" content="28f70e5bed4122f1">
+<meta name="pmail-verification" content="2fa1b7acd4057aec4022e52eb2b63e93">
+<meta name="facebook-domain-verification" content="xlez4ww2y4k4ijzw83ohwa9m4bpu99">
+<link rel="preconnect" href="https://nativerent.ru/js/codes/nativerent.v2.js" as="script" crossorigin>
+<link rel="preconnect" href="https://ads.betweendigital.com" crossorigin>
+<link rel="alternate" href="https://www.kolesa.ru/export/rss.xml" title="КОЛЕСА.ру – автоновости, тест-драйвы, каталог авто, отзывы, дилеры, общение" type="application/rss+xml">
+<script src="https://nativerent.ru/js/codes/nativerent.v2.js" async crossorigin></script>
+<script type="text/javascript">
+    (function () {
+        (window.NRentCounter = window.NRentCounter || []).push({
+            id: "5e78ccb60aa9a"
+        });
+    }());
+</script>
+<script type="text/javascript" src="//www.kolesa.ru/adfox.asyn.code.ver3.js" async></script>
+<script type="text/javascript" src="//www.kolesa.ru/adfox.asyn.code.scroll.js" async></script>
+<script src="//cdn.onthe.io/io.js/9iGAnEovDZeo" async></script>
+<script>document.addEventListener("DOMContentLoaded", function() { (function(){setTimeout(function(){$.ajax({url:"/js/showads.js",dataType:"script"}).fail(function(){yaCounter7276219 && yaCounter7276219.reachGoal("viewblock");});},5000);})(); });</script>
+<script async type="text/javascript" src="//s.luxcdn.com/t/196497/360_light.js"></script>
+
+    
+    <script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous"></script>
+<script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous" async></script>
+
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(7276219, "init", {
+        clickmap:true,
+        trackLinks:true,
+        webvisor:true,
+        accurateTrackBounce:true
+   });
+</script>
+<!-- /Yandex.Metrika counter -->
+<style>@import url("https://fonts.googleapis.com/css?family=PT+Sans:400,700|PT+Serif:400,700&subset=cyrillic");</style>
+
+    <style>
+    [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+      display: none !important;
+    }
+    </style>
+    <script>
+    (function(doc){doc.classList.remove('no-js');doc.classList.add('js');})(document.documentElement);
+    </script>
+
+    
+    
+    <link rel="stylesheet" href="https://www.kolesa.ru/lm-assets/vendor-86b0ff5073.css">
+    <link rel="stylesheet" href="https://www.kolesa.ru/lm-assets/app-85c93ea342.css">
+
+    
+    </head>
+<body  data-ng-app="websiteApp" data-flow-prevent-drop>
+    <div class="website-root-container" data-ng-controller="MainController">
+
+            <!-- Banner  -->
+<!--AdFox START-->
+<!--rukolesa-->
+<!--Площадка: KOLESA.RU / Главная страница / Брендирование (2)-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: Брендирование (2)-->
+<div id="adfox_168422942816996814"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 229408,
+            containerId: 'adfox_168422942816996814',
+            params: {
+                p1: 'cyerk',
+                p2: 'ijhd'
+            },
+    onRender: function() {
+        document.getElementsByTagName('body')[0].classList.add('branded');
+    }
+        })
+    })
+</script>
+<!-- / Banner  -->
+
+
+<!-- Banner  -->
+<!--AdFox START-->
+<!--rukolesa-->
+<!--Площадка: KOLESA.RU / Все страницы / (NEW) Шапка - desktop-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: (NEW) Шапка-->
+<div id="adfox_153691201438856091"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 229408,
+            containerId: 'adfox_153691201438856091',
+            params: {
+                p1: 'cbxwm',
+                p2: 'gcnc'
+            }
+        }, ['desktop'], {
+            tabletWidth: 830,
+            phoneWidth: 480,
+            isAutoReloads: false
+        })
+    })
+</script>
+
+<!--AdFox START-->
+<!--rukolesa-->
+<!--Площадка: KOLESA.RU / Все страницы / (NEW) Шапка - mobile-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: (NEW) Шапка-->
+<div id="adfox_153691207266869637"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 229408,
+            containerId: 'adfox_153691207266869637',
+            params: {
+                p1: 'cbxwn',
+                p2: 'gcnc'
+            }
+        }, ['phone'], {
+            tabletWidth: 830,
+            phoneWidth: 480,
+            isAutoReloads: false
+        })
+    })
+</script>
+
+<!--AdFox START-->
+<!--rukolesa-->
+<!--Площадка: KOLESA.RU / Все страницы / (NEW) Шапка - tablet-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: (NEW) Шапка-->
+<div id="adfox_153691211828347387"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 229408,
+            containerId: 'adfox_153691211828347387',
+            params: {
+                p1: 'cbxwo',
+                p2: 'gcnc'
+            }
+        }, ['tablet'], {
+            tabletWidth: 830,
+            phoneWidth: 480,
+            isAutoReloads: false
+        })
+    })
+</script>
+<!-- / Banner  -->
+
+<!-- Banner  -->
+<!-- tns-counter.ru -->
+<script type="text/javascript">
+  (function(win, doc, cb){
+    (win[cb] = win[cb] || []).push(function() {
+      try {
+        tnsCounterKolesa_ru = new TNS.TnsCounter({
+        'account':'kolesa_ru',
+        'tmsec': 'kolesa_site'
+        });
+      } catch(e){}
+    });
+
+    var tnsscript = doc.createElement('script');
+    tnsscript.type = 'text/javascript';
+    tnsscript.async = true;
+    tnsscript.src = ('https:' == doc.location.protocol ? 'https:' : 'http:') + 
+      '//www.tns-counter.ru/tcounter.js';
+    var s = doc.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(tnsscript, s);
+  })(window, this.document,'tnscounter_callback');
+</script>
+<noscript>
+  <img src="//www.tns-counter.ru/V13a****kolesa_ru/ru/UTF-8/tmsec=kolesa_site/" width="0" height="0" alt="" />
+</noscript>
+<!--/ tns-counter.ru -->
+<!-- / Banner  -->
+
+<!-- Banner  -->
+<script>
+var r = (Math.random()*10000000000).toFixed(0);
+var s = document.createElement('script'); s.src = "//pix.ssp.otm-r.com/sspmatch-js?randsalt="+r;
+s.async = true;
+document.body.appendChild(s);
+</script>
+<!-- / Banner  -->
+
+
+
+<style type="text/css">
+header .header-container .navbar-nav>li>a {
+    padding: 15px 11px;
+}
+@media (min-width: 1300px) {
+    header .header-container .logo-block {
+        margin-right: 15px
+    }
+}
++</style>
+
+
+<header ng-controller="HeaderController">
+    <div class="header-block">
+        <div class="container header-container">
+            
+
+            <div class="menu-handle">
+                <button type="button" class="menu-handle-button" ng-click="toggleMenu()">
+                    <i class="icon-ham"></i>
+                </button>
+            </div>
+
+            <div class="logo-block">
+                <a href="https://www.kolesa.ru" aria-label="Статьи и новости об автомобилях на портале kolesa.ru">
+                    <svg class="svg-icon-logo" style="fill: currentColor"><use xlink:href="#svg-shape-logo" /></svg>
+                    
+                </a>
+            </div>
+
+            <div class="header-menu visible-lg">
+                <ul class="nav navbar-nav">
+                        <li ><a  class="menu-item-catalog"   target="_blank" rel="noopener"  href="https://auto.kolesa.ru/?utm_source=journal&amp;utm_medium=header">Подобрать авто</a></li>
+                                <li ><a   href="https://www.kolesa.ru/news">Новости</a></li>
+                                <li ><a   href="https://www.kolesa.ru/article">Статьи</a></li>
+                                <li ><a   href="https://www.kolesa.ru/test-drive">Тест-драйвы</a></li>
+                                <li ><a   href="https://www.kolesa.ru/avto-s-probegom">Авто с пробегом</a></li>
+                                <li ><a   href="https://www.kolesa.ru/practice">Практика</a></li>
+                                <li class="dropdown">
+                <a data-toggle="dropdown" href="https://www.kolesa.ru">
+                    Еще
+                    <svg class="svg-icon-arrow-more" style="fill: currentColor"><use xlink:href="#svg-shape-arrow-more" /></svg>
+                </a>
+                <ul class="dropdown-menu">
+                                        <li><a href="https://www.kolesa.ru/azbuka-avtohimii">Азбука автохимии</a></li>
+                                        <li><a href="https://www.kolesa.ru/tuning-auto">Тюнинг</a></li>
+                                        <li><a href="https://www.kolesa.ru/history">История</a></li>
+                                        <li><a href="https://www.kolesa.ru/gadgets">Гаджеты</a></li>
+                                        <li><a href="https://www.kolesa.ru/populjarnye-voprosy">Популярные вопросы</a></li>
+                                        <li><a href="https://www.kolesa.ru/redkie-avtomobili">Редкие авто</a></li>
+                                        <li><a href="https://www.kolesa.ru/tyres">Шины и диски</a></li>
+                                        <li><a href="https://www.kolesa.ru/ekspert-vybiraet-avto">Эксперт выбирает авто</a></li>
+                                        <li><a href="https://www.kolesa.ru/avto-nedeli">Авто Недели</a></li>
+                                        <li><a href="https://www.kolesa.ru/gruzoviki-i-avtobusy">Грузовики и автобусы</a></li>
+                                        <li><a href="https://www.kolesa.ru/rendery-kolyosa-ru">Рендеры Kolesa.ru</a></li>
+                                        <li><a href="https://www.kolesa.ru/intervju">Интервью</a></li>
+                                        <li><a href="https://www.kolesa.ru/gid-po-pokupke-avto">Гид по покупке авто с пробегом</a></li>
+                                        <li><a href="https://www.kolesa.ru/remont-i-obsluzhivanie">Ремонт и обслуживание</a></li>
+                                        <li><a href="https://www.kolesa.ru/bezfiltrov">Мнение без фильтров</a></li>
+                                        <li><a href="https://www.kolesa.ru/kbaza">Колёсная база</a></li>
+                                    </ul>
+            </li>
+            </ul>
+
+            </div>
+
+            <div class="header-menu visible-md">
+                <ul class="nav navbar-nav">
+                        <li ><a  class="menu-item-catalog"   target="_blank" rel="noopener"  href="https://auto.kolesa.ru/?utm_source=journal&amp;utm_medium=header">Подобрать авто</a></li>
+                                <li ><a   href="https://www.kolesa.ru/news">Новости</a></li>
+                                <li ><a   href="https://www.kolesa.ru/article">Статьи</a></li>
+                                <li ><a   href="https://www.kolesa.ru/test-drive">Тест-драйвы</a></li>
+                                <li ><a   href="https://www.kolesa.ru/avto-s-probegom">Авто с пробегом</a></li>
+                                <li class="dropdown">
+                <a data-toggle="dropdown" href="https://www.kolesa.ru">
+                    Еще
+                    <svg class="svg-icon-arrow-more" style="fill: currentColor"><use xlink:href="#svg-shape-arrow-more" /></svg>
+                </a>
+                <ul class="dropdown-menu">
+                                        <li><a href="https://www.kolesa.ru/practice">Практика</a></li>
+                                        <li><a href="https://www.kolesa.ru/azbuka-avtohimii">Азбука автохимии</a></li>
+                                        <li><a href="https://www.kolesa.ru/tuning-auto">Тюнинг</a></li>
+                                        <li><a href="https://www.kolesa.ru/history">История</a></li>
+                                        <li><a href="https://www.kolesa.ru/gadgets">Гаджеты</a></li>
+                                        <li><a href="https://www.kolesa.ru/populjarnye-voprosy">Популярные вопросы</a></li>
+                                        <li><a href="https://www.kolesa.ru/redkie-avtomobili">Редкие авто</a></li>
+                                        <li><a href="https://www.kolesa.ru/tyres">Шины и диски</a></li>
+                                        <li><a href="https://www.kolesa.ru/ekspert-vybiraet-avto">Эксперт выбирает авто</a></li>
+                                        <li><a href="https://www.kolesa.ru/avto-nedeli">Авто Недели</a></li>
+                                        <li><a href="https://www.kolesa.ru/gruzoviki-i-avtobusy">Грузовики и автобусы</a></li>
+                                        <li><a href="https://www.kolesa.ru/rendery-kolyosa-ru">Рендеры Kolesa.ru</a></li>
+                                        <li><a href="https://www.kolesa.ru/intervju">Интервью</a></li>
+                                        <li><a href="https://www.kolesa.ru/gid-po-pokupke-avto">Гид по покупке авто с пробегом</a></li>
+                                        <li><a href="https://www.kolesa.ru/remont-i-obsluzhivanie">Ремонт и обслуживание</a></li>
+                                        <li><a href="https://www.kolesa.ru/bezfiltrov">Мнение без фильтров</a></li>
+                                        <li><a href="https://www.kolesa.ru/kbaza">Колёсная база</a></li>
+                                    </ul>
+            </li>
+            </ul>
+
+            </div>
+
+            <ul class="nav navbar-nav navbar-right" ng-cloak>
+                
+                                    <li>
+                        <button class="theme-toggle-btn" ng-init="initTheme()" ng-click="toggleTheme()">
+                            <span class="theme-icon dark-theme-icon"></span>
+                            <span class="theme-icon light-theme-icon"></span>
+                        </button>
+                    </li>
+                                <li class="nav-user-item" ng-if="$rep.auth.user">
+                    <a href="" ng-click="showProfileDropdown()"><img ng-src="{{ $rep.auth.user.avatar_url }}" alt="" class="avatar"></a>
+                    <ul class="profile-dropdown" ng-if="profileDropdownShown">
+                        <li><a href="https://www.kolesa.ru/profile">Мой профайл</a></li>
+                        <li class="comments-item"><a href="https://www.kolesa.ru/profile/comments">
+                            Мои комментарии
+                            <div class="notifications" ng-if="$notifications.commentsCount" ng-cloak>
+                                {{ $notifications.commentsCount }}
+                            </div>
+                        </a></li>
+                        <li><a href="" ng-click="$auth.logout()">Выйти</a></li>
+                    </ul>
+                    <div class="notifications" ng-if="$notifications.count" ng-cloak>
+                        {{ $notifications.count }}
+                    </div>
+                </li>
+                <li class="nav-search-item">
+                    <a href="" ng-click="openSearchBox()">
+                        <svg class="svg-icon-search" style="fill: currentColor"><use xlink:href="#svg-shape-search" /></svg>
+                    </a>
+                </li>
+                <li class="nav-login-item" ng-if="!$rep.auth.user">
+                    <a href="" ng-click="$auth.showLogin()">
+                        <span class="hidden-md hidden-lg"><svg class="svg-icon-sign-in" style="fill: currentColor"><use xlink:href="#svg-shape-sign-in" /></svg></span>
+                        <span class="hidden-xs hidden-sm">Вход</span>
+                    </a>
+                </li>
+                
+            </ul>
+        </div>
+    </div>
+
+    <div class="mobile-menu-block" ng-class="{ open: menuShown }">
+        <div class="shadow-close-handle" ng-click="toggleMenu()"></div>
+        <div class="container header-container">
+            <div class="header-panel">
+                <div class="logo-block">
+                    <a href="https://www.kolesa.ru" aria-label="Статьи и новости об автомобилях на портале kolesa.ru">
+                        <img src="https://www.kolesa.ru/vendor/themes/kolesa/logo.svg">
+                    </a>
+                </div>
+                <div class="menu-handle">
+                    <button type="button" class="menu-handle-button" ng-click="toggleMenu()">
+                        <i class="icon-close"></i>
+                    </button>
+                </div>
+            </div>
+
+            <div class="header-menu">
+                <ul class="nav navbar-nav">
+                        <li ><a  class="menu-item-catalog"   target="_blank" rel="noopener"  href="https://auto.kolesa.ru/?utm_source=journal&amp;utm_medium=header">Подобрать авто</a></li>
+                                <li ><a   href="https://www.kolesa.ru/news">Новости</a></li>
+                                <li ><a   href="https://www.kolesa.ru/article">Статьи</a></li>
+                                <li ><a   href="https://www.kolesa.ru/test-drive">Тест-драйвы</a></li>
+                                <li ><a   href="https://www.kolesa.ru/avto-s-probegom">Авто с пробегом</a></li>
+                                <li ><a   href="https://www.kolesa.ru/practice">Практика</a></li>
+                                <li ><a   href="https://www.kolesa.ru/azbuka-avtohimii">Азбука автохимии</a></li>
+                                <li ><a   href="https://www.kolesa.ru/tuning-auto">Тюнинг</a></li>
+                                <li ><a   href="https://www.kolesa.ru/history">История</a></li>
+                                <li ><a   href="https://www.kolesa.ru/gadgets">Гаджеты</a></li>
+                                <li ><a   href="https://www.kolesa.ru/populjarnye-voprosy">Популярные вопросы</a></li>
+                                <li ><a   href="https://www.kolesa.ru/redkie-avtomobili">Редкие авто</a></li>
+                                <li ><a   href="https://www.kolesa.ru/tyres">Шины и диски</a></li>
+                                <li ><a   href="https://www.kolesa.ru/ekspert-vybiraet-avto">Эксперт выбирает авто</a></li>
+                                <li ><a   href="https://www.kolesa.ru/avto-nedeli">Авто Недели</a></li>
+                                <li ><a   href="https://www.kolesa.ru/gruzoviki-i-avtobusy">Грузовики и автобусы</a></li>
+                                <li ><a   href="https://www.kolesa.ru/rendery-kolyosa-ru">Рендеры Kolesa.ru</a></li>
+                                <li ><a   href="https://www.kolesa.ru/intervju">Интервью</a></li>
+                                <li ><a   href="https://www.kolesa.ru/gid-po-pokupke-avto">Гид по покупке авто с пробегом</a></li>
+                                <li ><a   href="https://www.kolesa.ru/remont-i-obsluzhivanie">Ремонт и обслуживание</a></li>
+                                <li ><a   href="https://www.kolesa.ru/bezfiltrov">Мнение без фильтров</a></li>
+                                <li ><a   href="https://www.kolesa.ru/kbaza">Колёсная база</a></li>
+            </ul>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="search-box" ng-class="{open:searchBoxShown}" ng-controller="SearchController" ng-init="restrict({ type: '', tag: '' })">
+        <div class="container">
+            <form class="search-form" ng-submit="search()">
+                <div class="search-field">
+                                        <input type="text" ng-model="query" placeholder="Поиск" focus-me="searchBoxShown">
+                </div>
+                <button type="button" class="close-search-form" ng-click="closeSearchBox()">&times;</button>
+            </form>
+            <div class="search-results">
+                <div ng-if="query">
+                    <div class="row post-list">
+                        <div class="col-md-4 col-sm-6" ng-repeat="post in posts">
+                            <a class="post-list-item" ng-href="{{ post.url }}"  target="_blank" >
+    <span class="post-image" style="background-image: url({{ post.preview_url }})"></span>
+    <span class="post-content">
+        <span class="post-category" ng-bind="post.category"></span>
+        <span class="post-name" ng-bind="post.name"></span>
+        <span class="post-lead" ng-bind="post.lead_clean"></span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            <span ng-bind="post.views_count"></span>
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            <span ng-bind="post.comments_count"></span>
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            <span ng-bind="post.likes_count"></span>
+        </span>
+        <span class="post-meta-item pull-right" ng-bind="post.date | asDate | date: 'dd.MM.yyyy'">
+        </span>
+    </span>
+</a>
+                        </div>
+                    </div>
+                    <div ng-if="meta.hasMore" class="search-load-more">
+                        <button class="btn btn-default" ng-click="loadMore()">Показать еще</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+    
+            <div class="content-wrap ">
+    <div class="container main-container" style="position: relative;">
+
+      
+<div class="promo-block">
+    <div class="promo-block-tiles">
+        <a href="https://www.kolesa.ru/article/pistolet-dlia-zigulenka-kak-razrabatyvali-sovetskii-tester-svecei-zaziganiia" class="promo-block-item large tile" style="background-image: url(https://kolesa-uploads.ru/r@1x/x600/4aa44189-a43f-4c04-9923-c11ddef9e111/001.jpg);">
+            <span class="tile-subtitle">
+                <u class="line-top"></u>
+                Гаджеты
+                <u class="line-bottom"></u>
+            </span>
+            <span class="tile-title">
+                <time datetime="2026-02-19">19.02.2026</time>
+                Пистолет для «жигуленка»: как разрабатывали советский тестер свечей зажигания
+            </span>
+        </a>
+        <a href="https://www.kolesa.ru/article/nissan-murano-ii-z51-s-probegom-dorogoi-remont-v6-i-variator-kotoryi-lucse-cem-kazetsia" class="promo-block-item tile" style="background-image: url(https://kolesa-uploads.ru/p/0d0bdf6d-6cce-476c-9719-797fca2b3d41/02-02.jpg);">
+            <span class="tile-subtitle">Авто с пробегом</span>
+            <span class="tile-title">Nissan Murano II (Z51) с пробегом: дорогой ремонт V6 и вариатор, который лучше, чем кажется</span>
+        </a>
+        <a href="https://www.kolesa.ru/article/krasivo-prakticno-dlia-cego-nuzny-kovriki-v-avtomobil-i-kak-ix-vybrat" class="promo-block-item tile" style="background-image: url(https://kolesa-uploads.ru/p/2700fce6-ca85-4334-a0c5-411f454fa05c/eva-kover-v-masine-1.jpg);">
+            
+            <span class="tile-subtitle">Практика</span>
+            <span class="tile-title">Красиво? Практично! Для чего нужны коврики в автомобиль и как их выбрать</span>
+        </a>
+    </div>
+    <div class="promo-block-sidebar">
+        <!-- Banner  -->
+<!--AdFox START-->
+<!--rukolesa-->
+<!--Площадка: KOLESA.RU / Все страницы / 240x400 (и 300х500 или 600) - верх, яндекс-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: 240х400 яндекс-->
+<div id="adfox_15893783989521230"></div>
+<script>
+    window.Ya.adfoxCode.create({
+        ownerId: 229408,
+        containerId: 'adfox_15893783989521230',
+        params: {
+            p1: 'bvefj',
+            p2: 'fjvf'
+        }
+    });
+</script>
+<!-- / Banner  -->
+
+
+    </div>
+</div>
+
+<a class="today-widget" href="https://www.kolesa.ru/article/kuvalda-ili-press-kak-pravilno-i-nepravilno-remontiruyut-stalnye-i-kovanye-diski">
+	<div class="today-widget__header">
+		<div class="today-widget__text">
+			Лучшее в&nbsp;этот день на&nbsp;kolesa.ru
+		</div>
+	</div>
+	<div class="today-widget__image" style="background-image: url(https://kolesa-uploads.ru/p/246b5892-b847-4bc0-8e29-6f7d8e87aad6/depositphotos-29353381-original.jpg);">
+	</div>
+	<div class="today-widget__info">
+		<div>
+			<div class="today-widget__date">19.02.2018</div>
+			<div class="today-widget__title">Кувалдой и прессом: как отремонтировать или испортить колёсный диск</div>
+		</div>
+	</div>
+</a>
+
+<!-- Banner  -->
+<div class="link-to-catalog">
+    Думаете о покупке новой машины? Можете выбирать прямо на Колеса.ру
+    <br>
+    <a href="https://auto.kolesa.ru/?utm_source=journal&amp;utm_medium=main_page" style="" target="_blank">Попробовать</a>
+</div>
+
+<style type="text/css">
+    .link-to-catalog {
+        font-family: PT Sans, sans-serif; 
+        font-size: 22px; 
+        line-height: 36px; 
+        color: #444345; 
+        text-align: center; 
+        padding: 15px 0px 50px 0px;
+    }
+    .link-to-catalog a {
+        display: inline-block;
+        border-radius: 26px; 
+        background-color: #C42026; 
+        padding: 8px 50px; 
+        font-family: PT Sans, sans-serif; 
+        color: #FFFFFF; 
+        text-decoration: none; 
+        margin-left: 30px;
+    }
+    .link-to-catalog a:hover {
+        background-color: #E94046;
+    }
+    .link-to-catalog br {
+        display: none;
+    }
+    @media (max-width: 1145px) {
+        .link-to-catalog br {
+            display: block;
+        }
+        .link-to-catalog a {
+            margin-left: 0px;
+            margin-top: 15px;
+        }
+    }
+</style>
+<!-- / Banner  -->
+
+<!-- Banner  -->
+<script>  
+  var i=document.createElement("img");
+  i.setAttribute('src', '//dmp.dentsu.1dmp.io?dmpkit_cid=96036f8c-6972-4cf3-a535-36aac9573c7a&dmpkit_evid=lan141b3-e2b1-4937-8214-5cd90f3416c2&p=landrover&ru=https%3A%2F%2Fsync.1dmp.io%2Fpixel.gif%3Fcid%3D58a70299-bbb4-4ab2-abb9-a24c74ebdcd6%26brid%3D1421b405-5997-45c7-8bca-ab3295203165%26pid%3Dw%26uid%3D%5BUID%5D');
+  i.setAttribute('width', '1');
+  i.setAttribute('height', '1');
+  i.setAttribute('frameborder', '0');
+  i.setAttribute('style', 'display:none');
+  document.body.appendChild(i);
+</script>
+<!-- / Banner  -->
+
+
+
+<div>
+    <div class="view-all-link">
+        <a href="https://www.kolesa.ru/news">Смотреть все <i class="deco-icon icon-chev-right"></i></a>
+    </div>
+    <h2>Новости</h2>
+</div>
+
+<div class="row post-list">
+        <div class="col-md-3 col-sm-6">
+        <a class="post-list-item post-list-item--no-cat" href="https://www.kolesa.ru/news/net-puti-nazad-tesla-sobrala-pervyi-bespilotnyi-cybercab-na-zavode-v-texase">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/6241d462-7a61-4544-bf5d-5822b52a51fc/5-1.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Новости / Новинки
+        </span>
+        <span class="post-name">Нет пути назад: Tesla собрала первый беспилотный Cybercab на заводе в Техасе
+        </span>
+        <span class="post-lead">Компания Tesla продолжает реализовывать свою новую стратегию развития, центральное место в которой занимают человекоподобные роботы и беспилотные электромобили. На этой неделе на Гигафибрике...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            77
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right" style="margin-right: 0;">
+            19.02.2026
+        </span>
+    </span>
+</a>
+    </div>
+        <div class="col-md-3 col-sm-6">
+        <a class="post-list-item post-list-item--no-cat" href="https://www.kolesa.ru/news/miniveny-sollers-sf1-nacali-vypuskat-po-texnologii-polnogo-cikla">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/c1e5326f-5611-4938-a068-8aefc28de545/535fzg9wfaut8u7k1hqo4v2aalbfx3me.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Новости / Производство
+        </span>
+        <span class="post-name">Минивэны Sollers SF1 начали выпускать по технологии полного цикла
+        </span>
+        <span class="post-lead">Производство семиместной пассажирской версии вэна налажено на мощностях завода «Соллерс Алабуга», который расположен в Татарстане.</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            209
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right" style="margin-right: 0;">
+            19.02.2026
+        </span>
+    </span>
+</a>
+    </div>
+        <div class="col-md-3 col-sm-6">
+        <a class="post-list-item post-list-item--no-cat" href="https://www.kolesa.ru/news/avtomobili-volga-poiaviatsia-v-prodaze-uze-v-etom-godu">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/785cda80-010d-4090-89a7-d8f9ec7c1e11/volga-1.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Новости / Новинки
+        </span>
+        <span class="post-name">Автомобили Volga появятся в продаже уже в этом году
+        </span>
+        <span class="post-lead">На первом этапе линейка возрожденного отечественного бренда будет включать два кроссовера и седан. Старт производства запланирован на второй квартал текущего года.</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            395
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right" style="margin-right: 0;">
+            19.02.2026
+        </span>
+    </span>
+</a>
+    </div>
+        <div class="col-md-3 col-sm-6">
+        <a class="post-list-item post-list-item--no-cat" href="https://www.kolesa.ru/news/reiting-nadeznosti-jd-power-2026-elektronika-vsex-dostala-mini-vosla-v-troiku-liderov">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/3540dd8a-b603-4549-bace-56c5965df8bd/0-0.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Новости / Рейтинг
+        </span>
+        <span class="post-name">Рейтинг надёжности JD Power 2026: электроника всех достала, Mini вошла в тройку лидеров
+        </span>
+        <span class="post-lead">Американская аналитическая компания JD Power опубликовала рейтинг надёжности марок и моделей автомобилей на 2026 год. Самым надёжным автомобилем признан премиальный седан Lexus IS.</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            352
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            2
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right" style="margin-right: 0;">
+            19.02.2026
+        </span>
+    </span>
+</a>
+    </div>
+        <div class="col-md-3 col-sm-6">
+        <a class="post-list-item post-list-item--no-cat" href="https://www.kolesa.ru/news/novyi-krossover-gac-s7-dlia-rossii-raskryty-komplektacii">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/56da0ab9-8ccd-4db1-882e-84373112b319/pre-gac-2.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Новости / Новинки
+        </span>
+        <span class="post-name">Новый кроссовер GAC S7 для России: раскрыты комплектации
+        </span>
+        <span class="post-lead">На нашем рынке полноприводный гибридный паркетник предложат в двух богатых вариантах исполнения. В продажу новинка поступит в ближайшее время.</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            532
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            2
+        </span>
+        <span class="post-meta-item pull-right" style="margin-right: 0;">
+            19.02.2026
+        </span>
+    </span>
+</a>
+    </div>
+        <div class="col-md-3 col-sm-6">
+        <a class="post-list-item post-list-item--no-cat" href="https://www.kolesa.ru/news/jeep-grand-cherokee-mozet-polucit-dvigatel-v8-hemi">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/3d738939-b833-40a7-92c3-c716a97e218b/jp026-019gc.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Новости / Авторынок
+        </span>
+        <span class="post-name">Jeep Grand Cherokee может получить двигатель V8 Hemi
+        </span>
+        <span class="post-lead">Предполагается, что под капот внедорожника американской марки может вернуться мотор V8 объёмом 5,7 литра.</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            381
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right" style="margin-right: 0;">
+            19.02.2026
+        </span>
+    </span>
+</a>
+    </div>
+        <div class="col-md-3 col-sm-6">
+        <a class="post-list-item post-list-item--no-cat" href="https://www.kolesa.ru/news/drift-games-proam-otkryl-sezon-v-ust-labinske">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/68f8538d-3626-4b1e-b799-ee9cf6fde448/main-1.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Новости / Автоспорт
+        </span>
+        <span class="post-name">Drift Games PRO/AM открыл сезон в Усть-Лабинске
+        </span>
+        <span class="post-lead">14-15 февраля на трассе СТК «Пилот» (г. Усть-Лабинск) состоялся первый этап Drift Games PRO AM – соревнования нового формата, где пилоты встречаются друг с другом в системе «каждый с каждым»...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            47
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right" style="margin-right: 0;">
+            19.02.2026
+        </span>
+    </span>
+</a>
+    </div>
+        <div class="col-md-3 col-sm-6">
+        <a class="post-list-item post-list-item--no-cat" href="https://www.kolesa.ru/news/sedan-shangjie-z7-ot-saic-i-huawei-pokazali-zivem">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/1c84d567-2f20-49f7-8e94-ee74a84951b2/pre-shangjie-3.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Новости / Новинки
+        </span>
+        <span class="post-name">Седан Shangjie Z7 от SAIC и Huawei показали живьём
+        </span>
+        <span class="post-lead">Не исключено, что довольно эффектная четырехдверка Shangjie будет доступна с гибридной и полностью электрической установками. Премьеру могут провести весной.</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            160
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right" style="margin-right: 0;">
+            19.02.2026
+        </span>
+    </span>
+</a>
+    </div>
+    </div>
+
+<div>
+    <div class="view-all-link">
+        <a href="https://www.kolesa.ru/test-drive">Смотреть все <i class="deco-icon icon-chev-right"></i></a>
+    </div>
+    <h2>Тест-драйвы</h2>
+</div>
+
+<div class="row post-list">
+        <div class="col-md-3 col-sm-6">
+        <a class="post-list-item post-list-item--no-cat" href="https://www.kolesa.ru/test-drive/staromodnyi-samurai-v-mire-kitaiskix-vyskocek-test-draiv-honda-ur-v">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/5b29a324-e5db-4437-b8c3-98cfcf736630/main-1.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Тест-драйвы / Тест-драйв
+        </span>
+        <span class="post-name">Старомодный самурай в мире китайских выскочек: тест-драйв Honda UR-V
+        </span>
+        <span class="post-lead">Кросс-купе Honda UR-V – преемник модели Crosstour. Помните этот приподнятый хэтчбек из 2010-х? Но если Кросстур был сделан на базе Accord, то наследник построен на той же платформе, что и ср...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            1464
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            2
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            1
+        </span>
+        <span class="post-meta-item pull-right" style="margin-right: 0;">
+            17.02.2026
+        </span>
+    </span>
+</a>
+    </div>
+        <div class="col-md-3 col-sm-6">
+        <a class="post-list-item post-list-item--no-cat" href="https://www.kolesa.ru/test-drive/kurs-na-komfort-ekspress-test-foton-tunland-g9">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/86dd0fc1-46f0-4995-b0bc-6419048a329b/foton-tunland-g9-10.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Тест-драйвы / Тест-драйв
+        </span>
+        <span class="post-name">Курс на комфорт: экспресс-тест Foton Tunland G9
+        </span>
+        <span class="post-lead">11 февраля линейка пикапов марки Foton пополнилась еще одной, уже четвертой моделью. Ну а поскольку нам удалось не только посмотреть на новинку, получившую индекс G9, но и прокатиться на ней...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            2057
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            1
+        </span>
+        <span class="post-meta-item pull-right" style="margin-right: 0;">
+            13.02.2026
+        </span>
+    </span>
+</a>
+    </div>
+        <div class="col-md-3 col-sm-6">
+        <a class="post-list-item post-list-item--no-cat" href="https://www.kolesa.ru/test-drive/ryzii-ryzii-konopatyi-opyt-vladeniia-bmw-z4-ii-e89">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/fe34f792-570d-44c2-98fc-f12676d35839/1-7z1a7431.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Тест-драйвы / Тест-драйв
+        </span>
+        <span class="post-name">Рыжий, рыжий, конопатый: опыт владения BMW Z4 II (E89)
+        </span>
+        <span class="post-lead">Такие машины в 99,99 случаев из 100 покупают исключительно на лето как вторую, третью или даже пятую, чтобы «пожиганить» и «похасанить». Но владелец этого автомобиля уже год ездит на культов...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            1374
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            4
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            2
+        </span>
+        <span class="post-meta-item pull-right" style="margin-right: 0;">
+            12.02.2026
+        </span>
+    </span>
+</a>
+    </div>
+        <div class="col-md-3 col-sm-6">
+        <a class="post-list-item post-list-item--no-cat" href="https://www.kolesa.ru/test-drive/vesma-skromno-ocen-dorogo-neozidanno-xoroso-test-draiv-honda-crider">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/a9eafe4c-449b-4ced-9c10-90333ce6622c/1-img-6215.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Тест-драйвы / Тест-драйв
+        </span>
+        <span class="post-name">Весьма скромно, очень дорого, неожиданно хорошо: тест-драйв Honda Crider
+        </span>
+        <span class="post-lead">В прошлом году мы тестировали пару кроссоверов Honda, которые можно купить в России у официальных дилеров с гарантией и всеми прочими благами цивилизованного рынка. Теперь нам досталась сама...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            4110
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            7
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            4
+        </span>
+        <span class="post-meta-item pull-right" style="margin-right: 0;">
+            10.02.2026
+        </span>
+    </span>
+</a>
+    </div>
+        <div class="col-md-3 col-sm-6">
+        <a class="post-list-item post-list-item--no-cat" href="https://www.kolesa.ru/test-drive/sliskom-bolsoi-ctoby-byt-skucnym-test-draiv-huanghai-n7">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/32b57190-1c9d-44dc-86b1-a4f8e21206df/img-5949.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Тест-драйвы / Тест-драйв
+        </span>
+        <span class="post-name">Слишком большой, чтобы быть скучным: тест-драйв Huanghai N7
+        </span>
+        <span class="post-lead">Пикапов на российском рынке становится всё больше, что не может не радовать: хотя бы какое-то разнообразие среди бесконечных паркетников. Кажется, что если бы автомобильный мир был зоопарком...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            2235
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            14
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            2
+        </span>
+        <span class="post-meta-item pull-right" style="margin-right: 0;">
+            03.02.2026
+        </span>
+    </span>
+</a>
+    </div>
+        <div class="col-md-3 col-sm-6">
+        <a class="post-list-item post-list-item--no-cat" href="https://www.kolesa.ru/test-drive/tainy-trex-kapitanov-test-draiv-mikroavtobusa-kapitan-c">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/1de59417-66ec-4055-b67f-3797bd57b7a4/ain-anzhemuph-196.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Тест-драйвы / Тест-драйв
+        </span>
+        <span class="post-name">Тайны трех капитанов: тест-драйв микроавтобуса Kapitan-C
+        </span>
+        <span class="post-lead">Помните такую песенку: «Капитан, капитан, улыбнитесь, ведь улыбка – это флаг корабля»? Так вот, автомобили, носящие имя Kapitan-C, действительно выглядят улыбающимися. Но не до ушей, а сдерж...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            3943
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            4
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            5
+        </span>
+        <span class="post-meta-item pull-right" style="margin-right: 0;">
+            30.01.2026
+        </span>
+    </span>
+</a>
+    </div>
+        <div class="col-md-3 col-sm-6">
+        <a class="post-list-item post-list-item--no-cat" href="https://www.kolesa.ru/test-drive/kogda-staryi-premium-klass-ne-finansovaia-osibka-opyt-vladeniia-lexus-ls430-xf30">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/94f45642-9ec8-4712-a1a0-7b17e3ab3248/0-0-7z1a1379.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Тест-драйвы / Тест-драйв
+        </span>
+        <span class="post-name">Когда старый премиум-класс – не финансовая ошибка: опыт владения Lexus LS430 (XF30)
+        </span>
+        <span class="post-lead">Машин уровня BMW X5, но по цене Lada Granta в продаже полно. Их приобретение – типичная финансовая ошибка молодежи. Хуже, наверное, только взять кредит на свадьбу. Впрочем, иногда бывают нев...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            3705
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            8
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            1
+        </span>
+        <span class="post-meta-item pull-right" style="margin-right: 0;">
+            29.01.2026
+        </span>
+    </span>
+</a>
+    </div>
+        <div class="col-md-3 col-sm-6">
+        <a class="post-list-item post-list-item--no-cat" href="https://www.kolesa.ru/test-drive/tank-na-batareikax-test-draiv-tank-500-hi-charge">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/7e74e8df-addb-48f4-83fc-733c3e12f1b2/0-1-img-5713.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Тест-драйвы / Тест-драйв
+        </span>
+        <span class="post-name">Танк на батарейках: тест-драйв Tank 500 Hi-Charge
+        </span>
+        <span class="post-lead">Tank продолжает расширять линейку модификаций внедорожника 500: теперь вдобавок к мягкому гибриду Urban добавился подзаряжаемый от розетки – Hi-Charge. Что принесла рамному вездеходу такая э...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            1702
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            1
+        </span>
+        <span class="post-meta-item pull-right" style="margin-right: 0;">
+            27.01.2026
+        </span>
+    </span>
+</a>
+    </div>
+    </div>
+
+
+<div>
+    <div class="view-all-link">
+        <a href="https://www.kolesa.ru/article">Смотреть все <i class="deco-icon icon-chev-right"></i></a>
+    </div>
+    <h2>Новые статьи</h2>
+</div>
+
+<div class="row post-list">
+        <div class="col-md-3 col-sm-6">
+        <a class="post-list-item post-list-item--no-cat" href="https://www.kolesa.ru/article/kak-progrevat-dvigatel-zimoi-i-nuzno-li-eto-delat">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/d3c87e1d-05fa-4988-a064-fedd6cc0abf8/1.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Статьи / Колёсная база
+        </span>
+        <span class="post-name">Как прогревать двигатель зимой и нужно ли это делать
+        </span>
+        <span class="post-lead">Споры о том, нужен ли прогрев двигателя в мороз, возникают каждую зиму. Одни держат мотор на холостых по 15 минут, другие трогаются сразу после запуска. Современные технологии изменили требо...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            248
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right" style="margin-right: 0;">
+            19.02.2026
+        </span>
+    </span>
+</a>
+    </div>
+        <div class="col-md-3 col-sm-6">
+        <a class="post-list-item post-list-item--no-cat" href="https://www.kolesa.ru/article/reiting-videoregistratorov-zerkal-v-2026-godu-cem-oni-otlicaiutsia-i-kak-vybrat">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/da4efe5b-02c8-4348-8e85-ecf210a76602/chatgpt-image-16-fevr-2026-g-16-56-00.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Статьи / Гаджеты
+        </span>
+        <span class="post-name">Рейтинг видеорегистраторов-зеркал в 2026 году: чем они отличаются и как выбрать
+        </span>
+        <span class="post-lead">Видеорегистратор-зеркало – специфический форм-фактор. Что называется, не для каждого. Однако у них есть устойчивая категория поклонников, которые ценят в первую очередь отсутствие лишнего ин...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            3430
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right" style="margin-right: 0;">
+            18.02.2026
+        </span>
+    </span>
+</a>
+    </div>
+        <div class="col-md-3 col-sm-6">
+        <a class="post-list-item post-list-item--no-cat" href="https://www.kolesa.ru/article/pocemu-zimoi-rastet-rasxod-topliva-i-kak-ego-snizit">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/ff8223b2-24b4-4b7b-a123-cfb0bc134036/4.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Статьи / Колёсная база
+        </span>
+        <span class="post-name">Почему зимой растёт расход топлива и как его снизить
+        </span>
+        <span class="post-lead">Зимой автомобиль начинает потреблять больше топлива, чем обычно. Маршрут прежний, стиль езды тот же, а цифры на бортовом компьютере – совсем другие. Это не заговор и не ошибка – просто физик...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            2141
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            2
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right" style="margin-right: 0;">
+            16.02.2026
+        </span>
+    </span>
+</a>
+    </div>
+        <div class="col-md-3 col-sm-6">
+        <a class="post-list-item post-list-item--no-cat" href="https://www.kolesa.ru/article/kak-skazetsia-na-avtovladelcax-markirovka-cestnyi-znak-dlia-motornyx-masel">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/19870a4b-a965-46ed-9718-3574252527b6/whatsapp-image-2025-12-11-at-230131.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Статьи / Авто и технологии
+        </span>
+        <span class="post-name">Как скажется на автовладельцах маркировка «Честный знак» для моторных масел
+        </span>
+        <span class="post-lead">Поддельные моторные масла уже давно представляют собой серьезную угрозу для российских автовладельцев. Чтобы поставить барьер на пути контрафакта, в стране внедрили обязательную цифровую мар...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            18219
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            3
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right" style="margin-right: 0;">
+            16.02.2026
+        </span>
+    </span>
+</a>
+    </div>
+        <div class="col-md-3 col-sm-6">
+        <a class="post-list-item post-list-item--no-cat" href="https://www.kolesa.ru/article/pomoshh-ne-trebuetsia-kuda-delos-bratstvo-voditelei">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/5261444d-e715-403d-bd54-ccf5d1eb4f05/opinion.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Статьи / Мнение без фильтров
+        </span>
+        <span class="post-name">Помощь не требуется: куда делось братство водителей
+        </span>
+        <span class="post-lead">Всегда осуждал тех, кто не старается на дорогах помогать ближнему. А сейчас уже почти не осуждаю: из категории благородного занятия помощь на дороге стала опасным или неприятным делом. Но по...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            1254
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            21
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            2
+        </span>
+        <span class="post-meta-item pull-right" style="margin-right: 0;">
+            16.02.2026
+        </span>
+    </span>
+</a>
+    </div>
+        <div class="col-md-3 col-sm-6">
+        <a class="post-list-item post-list-item--no-cat" href="https://www.kolesa.ru/article/5-pricin-pokupat-i-ne-pokupat-geely-tugella">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/fdfaea1f-3cf8-4e99-aee6-474ad0ebeea3/09-02.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Статьи / Кроссовер
+        </span>
+        <span class="post-name">5 причин покупать и не покупать Geely Tugella
+        </span>
+        <span class="post-lead">«Лучший автомобиль на рынке»; «От машины до сих пор в полном восторге, и продавать не собираюсь»; «Купил в феврале 2021 года, продал в ноябре 2022 года и выдохнул с облегчением»; «Классная м...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            1666
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right" style="margin-right: 0;">
+            15.02.2026
+        </span>
+    </span>
+</a>
+    </div>
+        <div class="col-md-3 col-sm-6">
+        <a class="post-list-item post-list-item--no-cat" href="https://www.kolesa.ru/article/bolsoi-indeec-kak-poiavilsia-jeep-grand-cherokee-i-pocemu-ego-poliubili">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/1103c552-516d-435d-b406-f86120012c4e/main.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Статьи / История
+        </span>
+        <span class="post-name">Большой индеец: как появился Jeep Grand Cherokee и почему его полюбили
+        </span>
+        <span class="post-lead">Когда-то мы вспоминали историю создания и успеха знаменитого «кирпича» –  Jeep Cherokee XJ. По сути, именно этот автомобиль в девяностые годы открыл глаза обеспеченным россиянам на то, каким...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            2179
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            3
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            1
+        </span>
+        <span class="post-meta-item pull-right" style="margin-right: 0;">
+            14.02.2026
+        </span>
+    </span>
+</a>
+    </div>
+        <div class="col-md-3 col-sm-6">
+        <a class="post-list-item post-list-item--no-cat" href="https://www.kolesa.ru/article/kak-podgotovit-akkumuliator-k-silnym-morozam">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/88b58b91-8f8e-4372-acce-ad6aef74add9/2.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Статьи / Колёсная база
+        </span>
+        <span class="post-name">Как подготовить аккумулятор к сильным морозам
+        </span>
+        <span class="post-lead">Зимой от АКБ зависит многое. Именно она чаще всего превращает обычное утро в квест с вопросом «почему именно сегодня». Чтобы не проверять, сколько стоит поездка на такси в -20, разберёмся, к...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            430
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right" style="margin-right: 0;">
+            13.02.2026
+        </span>
+    </span>
+</a>
+    </div>
+    </div>
+
+
+
+
+    </div>
+</div>    
+            <footer class="footer">
+
+    <div class="footer__band">
+        <div class="container">
+            <ul class="footer__grid">
+        <li><a href="https://www.kolesa.ru/dream-team">Команда</a></li>
+        <li><a href="https://www.kolesa.ru/adv">Реклама на сайте</a></li>
+        <li><a href="https://www.kolesa.ru/contacts">Контакты</a></li>
+        <li><a href="https://www.kolesa.ru/vacancy">Вакансии</a></li>
+    </ul>
+
+
+        </div>
+    </div>
+
+    <div class="container">
+
+        <div class="visible-sm">
+            <a href="https://www.kolesa.ru" class="logo">
+                <svg class="svg-icon-logo-grey" style="fill: currentColor"><use xlink:href="#svg-shape-logo-grey" /></svg>
+            </a>
+        </div>
+
+        <div class="footer__grid footer__grid--map">
+            <div class="fg fg--phone">
+                <div class="hidden-xs hidden-sm">
+                    <a href="https://www.kolesa.ru" class="logo">
+                        <svg class="svg-icon-logo-grey" style="fill: currentColor"><use xlink:href="#svg-shape-logo-grey" /></svg>
+                    </a>
+                </div>
+                <div>
+                    <ul class="footnav">
+                        <li class="footnav__heading">Телефон редакции</li>
+                        <li>+7 (981) 952-1000</li>
+                    </ul>
+                </div>
+
+
+            </div>
+
+            <div class="fg fg--menu">
+                <ul class="footnav">
+    <li class="footnav__heading">Рубрики</li>
+        <li><a href="https://www.kolesa.ru/news">Новости</a></li>
+        <li><a href="https://www.kolesa.ru/article">Статьи</a></li>
+        <li><a href="https://www.kolesa.ru/test-drive">Тест-драйвы</a></li>
+        <li><a href="https://www.kolesa.ru/practice">Практика</a></li>
+        <li><a href="https://www.kolesa.ru/gruzoviki-i-avtobusy">Грузовики и автобусы</a></li>
+        <li><a href="https://www.kolesa.ru/populjarnye-voprosy">Популярные вопросы</a></li>
+        <li><a href="https://www.kolesa.ru/bezfiltrov">Мнение без фильтров</a></li>
+    </ul>
+
+
+            </div>
+
+            <div class="fg fg--menu">
+                <ul class="footnav">
+    <li class="footnav__heading">Темы</li>
+        <li><a href="https://www.kolesa.ru/avto-s-probegom">Авто с пробегом</a></li>
+        <li><a href="https://www.kolesa.ru/tuning-auto">Тюнинг</a></li>
+        <li><a href="https://www.kolesa.ru/history">История</a></li>
+        <li><a href="https://www.kolesa.ru/remont-i-obsluzhivanie">Ремонт и обслуживание</a></li>
+        <li><a href="https://www.kolesa.ru/gadgets">Гаджеты</a></li>
+        <li><a href="https://www.kolesa.ru/redkie-avtomobili">Редкие авто</a></li>
+        <li><a href="https://www.kolesa.ru/rendery-kolyosa-ru">Рендеры Kolesa.ru</a></li>
+    </ul>
+
+
+            </div>
+
+            <div class="fg fg--geo">
+                <ul class="footnav">
+    <li class="footnav__heading">География производителей</li>
+        <li><a href="https://www.kolesa.ru/russia">Россия</a></li>
+        <li><a href="https://www.kolesa.ru/china">Китай</a></li>
+        <li><a href="https://www.kolesa.ru/usa">США</a></li>
+        <li><a href="https://www.kolesa.ru/germany">Германия</a></li>
+        <li><a href="https://www.kolesa.ru/japan">Япония</a></li>
+        <li><a href="https://www.kolesa.ru/korea">Корея</a></li>
+    </ul>
+
+
+            </div>
+        </div>
+
+        <div class="footer__grid footer__grid--social">
+            <div class="visible-xs">
+                <a href="https://www.kolesa.ru" class="logo">
+                    <svg class="svg-icon-logo-grey" style="fill: currentColor"><use xlink:href="#svg-shape-logo-grey" /></svg>
+                </a>
+            </div>
+            <div>
+
+                <div class="footer-social-links">
+                    <a href="https://zen.yandex.ru/kolesa.ru" target="_blank" class="social-link social-link-small">
+                        <svg class="svg-icon-zen-new" style="fill: currentColor"><use xlink:href="#svg-shape-zen-new" /></svg>
+                    </a>
+                    <a href="https://www.youtube.com/channel/UCrKqKq3Y6kqx2B-tzTPs_ag" target="_blank" class="social-link  social-link-small">
+                        <svg class="svg-icon-youtube" style="fill: currentColor"><use xlink:href="#svg-shape-youtube" /></svg>
+                    </a>
+                    <a href="https://vk.com/kolesa_ru" target="_blank" class="social-link social-link-small">
+                        <svg class="svg-icon-vkont" style="fill: currentColor"><use xlink:href="#svg-shape-vkont" /></svg>
+                    </a>
+                    <a class="social-link social-link-small" href="https://ttttt.me/realkolesaru" target="_blank">
+                        <svg class="svg-icon-telegr" style="fill: currentColor"><use xlink:href="#svg-shape-telegr" /></svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+        <hr>
+
+        <p class="footer-copyright">
+            Все права защищены © 2003 – 2026.
+            <br>
+            Сетевое издание «Kolesa.ru», зарегистрировано Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций, номер свидетельства ЭЛ №ФС 77-75770.
+            Любое использование материалов, размещенных на сайте www.kolesa.ru, допускается только с письменного разрешения правообладателя. Учредитель ООО «Президент-Медиа». Главный редактор Баландин М.А. 0+
+        </p>
+        <p class="footer-copyright">
+            <a href="https://www.kolesa.ru/policy">Политика конфиденциальности</a>
+        </p>
+
+
+        <hr>
+
+        <p class="liveinternet-counter">
+            <a href="//www.liveinternet.ru/click" target="_blank">
+                <img src="//counter.yadro.ru/logo?44.1" border="0" alt="" title="LiveInternet">
+            </a>
+        </p>
+
+
+
+    </div>
+</footer>
+
+<!-- Banner  -->
+<a href="#" onclick="if(window.__lxG__consent__!==undefined&&window.__lxG__consent__.getState()!==null){window.__lxG__consent__.showConsent()} else {alert('This function only for users from European Economic Area (EEA)')}; return false">Change privacy settings</a>
+<!-- / Banner  -->
+
+<!-- Banner  -->
+<script>
+(function(d) {
+    d.addEventListener('DOMContentLoaded', function() {
+		overlayPopup(7);
+    });
+})(document);
+</script>
+<!-- / Banner  -->
+
+<!-- Banner  -->
+<!--LiveInternet counter--><script>
+new Image().src = "https://counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script><!--/LiveInternet-->
+<!-- / Banner  -->
+
+
+
+<!-- noindex -->
+<div class="post-popup" style="display: none;" id="postPopup">
+            <div class="post-popup__wrapper">
+                <div class="post-popup__container post-popup__container_three">
+                    <a href="https://www.kolesa.ru/azbuka-avtohimii/?utm_source=kolesa&amp;utm_medium=cpm&amp;utm_campaign=popup" class="post-popup__tile post-popup__tile_top-left" style="background-image: url(https://kolesa-uploads.ru/-/ff5f1d98-7c6b-4917-9b8b-c65123950ff4/frame-97-2.png)">Раздел с полезными и интересными фактами и знаниями об автохимии</a>
+                    <a href="https://www.kolesa.ru/article/reiting-videoregistratorov-zerkal-v-2026-godu-cem-oni-otlicaiutsia-i-kak-vybrat" class="post-popup__tile post-popup__tile_top-right" style="background-image: url(https://kolesa-uploads.ru/p/da4efe5b-02c8-4348-8e85-ecf210a76602/chatgpt-image-16-fevr-2026-g-16-56-00.jpg)">Рейтинг видеорегистраторов-зеркал в 2026 году: чем они отличаются и как выбрать</a>
+                    <div class="post-popup__tile post-popup__tile_bottom-left post-popup__tile_pane">
+                        <div class="popup-title__content">
+                            <div class="popup-title-line">Не пропусти</div>
+                            <div class="popup-title-subline">самое интересное</div>
+                            <div class="popup-title-read">Читать</div>
+                        </div>
+                    </div>
+                    <a href="https://www.kolesa.ru/article/krasivo-prakticno-dlia-cego-nuzny-kovriki-v-avtomobil-i-kak-ix-vybrat" class="post-popup__tile post-popup__tile_bottom-right" style="background-image: url(https://kolesa-uploads.ru/p/2700fce6-ca85-4334-a0c5-411f454fa05c/eva-kover-v-masine-1.jpg)">Красиво? Практично! Для чего нужны коврики в автомобиль и как их выбрать</a>
+                </div>
+            </div>
+        </div>
+        <svg width="0" height="0">
+        <clipPath id="postPopupPolygon"><polygon points="0 440,80 520,650 520,650 80,650 80,570 0,0 0"></polygon></clipPath>
+        <clipPath id="postPopupPolygonSingle"><polygon points="0 290,80 370,650 370,650 80,650 80,570 0,0 0"></polygon></clipPath>
+    </svg>
+<!-- /noindex -->
+
+<!-- noindex -->
+<div class="modal kolesa-auth-modal fade" id="modal_form_auth_modal" tabindex="-1" role="dialog" ng-controller="AuthFormController" ng-init="closeModal('modal_form_auth_modal')">
+  <div class="modal-dialog" role="document" ng-class="{ rotatelogin: showForm=='login', rotatereg: showForm=='register', rotateforget: showForm=='forget'}">
+    <form class="modal-form-login form-auth-modal" name="form" ng-submit="login(form, 'https://www.kolesa.ru/website-vendor/forms/auth-modal', false)" ng-class="{active: showForm=='login'}">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <svg class="svg-icon-logo" style="fill: currentColor"><use xlink:href="#svg-shape-logo" /></svg>
+            
+          </div>
+          <div class="modal-body" ng-show="!isSuccess">
+            <div class="form-heading">
+              <strong>Войти</strong>
+              или
+              <a href="" ng-click="switchForm('register')">Регистрация</a>
+            </div>
+                        <div class="alert alert-danger" ng-show="errorCode == 422">Неудачная попытка входа</div>
+            <div class="alert alert-danger" ng-show="errorCode != 422 && errorMessage">{{ errorMessage }}</div>
+            
+            
+                                                                    <div class="form-group from-group-email"   data-ng-class="{ 'has-error': errors.email }">
+            <label>Email</label>
+            <div>
+        
+                <input type="text"
+       class="form-control"
+       name="email"
+       data-ng-model="element.email"
+              
+       
+                             placeholder="Введите e-mail"                             autocomplete="off">
+
+                <span class="help-block" data-ng-if="errors.email" data-ng-bind="errors.email[0]"></span>
+
+        
+    </div>
+</div>
+
+                                                        <div class="form-group from-group-password"   data-ng-class="{ 'has-error': errors.password }">
+            <label>Password</label>
+            <div>
+        
+                <input type="password"
+       class="form-control"
+       name="password"
+       data-ng-model="element.password"
+              
+       
+                             placeholder="Пароль"                             autocomplete="off">
+
+                <span class="help-block" data-ng-if="errors.password" data-ng-bind="errors.password[0]"></span>
+
+        
+    </div>
+</div>
+
+                                                                                  <div class="form-group from-group-remember"   data-ng-class="{ 'has-error': errors.remember }">
+            <div>
+        
+                <div class="checkbox">
+  <label>
+     <input type="checkbox"
+            
+            
+            data-ng-model="element.remember"
+                        name="remember">
+      Запомнить меня
+  </label>
+</div>
+
+                <span class="help-block" data-ng-if="errors.remember" data-ng-bind="errors.remember[0]"></span>
+
+        
+    </div>
+</div>
+
+                                    </div>
+          <div class="modal-body" ng-show="isSuccess">Вы успешно вошли на сайт</div>
+          <div class="modal-footer hidden-xs" ng-show="!isSuccess">
+            <a href="" class="pull-left" ng-click="switchForm('forget')">Забыли пароль?</a>
+            <button class="btn btn-primary pull-right" type="submit" ng-disabled="isLoading">Вход</button>
+          </div>
+          <div class="modal-footer visible-xs" ng-show="!isSuccess">
+            <button class="btn btn-primary" type="submit" ng-disabled="isLoading">Вход</button>
+            <p style="margin-top: 30px;"><a href="" ng-click="switchForm('forget')">Забыли пароль?</a></p>
+          </div>
+          <div class="modal-footer modal-footer-sociallogin">
+            или войдите через
+            <div class="sociallogin-btn-group">
+                            <button class="btn btn-default" type="button" ng-click="socialAuth('https://www.kolesa.ru/vendor/socialite/vkontakte')">
+                <img src="https://www.kolesa.ru/vendor/themes/kolesa/icons/vk-color.svg" alt="" style="width: 30px; height: 30px;">
+              </button>
+                            
+                            <button class="btn btn-default" type="button" ng-click="socialAuth('https://www.kolesa.ru/vendor/socialite/google')">
+                <img src="https://www.kolesa.ru/vendor/themes/kolesa/icons/google-color.svg" alt="" style="width: 27px; height: 27px;">
+              </button>
+                                          <button class="btn btn-default" type="button" ng-click="socialAuth('https://www.kolesa.ru/vendor/socialite/odnoklassniki')">
+                <img src="https://www.kolesa.ru/vendor/themes/kolesa/icons/ok-color.svg" alt="" style="width: 30px; height: 30px;">
+              </button>
+                                          <button class="btn btn-default" type="button" ng-click="socialAuth('https://www.kolesa.ru/vendor/socialite/mailru')">
+                <img src="https://www.kolesa.ru/vendor/themes/kolesa/icons/mailru-color.svg" alt="" style="width: 25px; height: 25px;">
+              </button>
+                                          <button class="btn btn-default" type="button" ng-click="socialAuth('https://www.kolesa.ru/vendor/socialite/yandex')">
+                <img src="https://www.kolesa.ru/vendor/themes/kolesa/icons/yandex-color.svg" alt="" style="width: 22px; height: 22px;">
+              </button>
+                          </div>
+          </div>
+        </div>
+    </form>
+
+
+    <form class="modal-form-register form-auth-modal" name="form" ng-submit="register(form, 'https://www.kolesa.ru/website-vendor/forms/auth-modal', false)" ng-class="{active: showForm=='register'}">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <svg class="svg-icon-logo" style="fill: currentColor"><use xlink:href="#svg-shape-logo" /></svg>
+            
+          </div>
+          <div class="modal-body" ng-show="!isSuccess">
+            <div class="form-heading">
+              <a href="" ng-click="switchForm('login')">Войти</a>
+              или
+              <strong>Регистрация</strong>
+            </div>
+                        <div class="alert alert-danger" ng-show="errorCode == 422">Обратите внимание на ошибки</div>
+            <div class="alert alert-danger" ng-show="errorCode != 422 && errorMessage">{{ errorMessage }}</div>
+            
+            
+                                        <div class="form-group from-group-name"   data-ng-class="{ 'has-error': errors.name }">
+            <label>Name</label>
+            <div>
+        
+              <input type="text"
+       class="form-control"
+       name="name"
+       data-ng-model="element.name"
+              
+       
+                             placeholder="Введите имя"                             autocomplete="off">
+
+              <span class="help-block" data-ng-if="errors.name" data-ng-bind="errors.name[0]"></span>
+
+        
+    </div>
+</div>
+
+                                        <div class="form-group from-group-email"   data-ng-class="{ 'has-error': errors.email }">
+            <label>Email</label>
+            <div>
+        
+              <input type="text"
+       class="form-control"
+       name="email"
+       data-ng-model="element.email"
+              
+       
+                             placeholder="Введите e-mail"                             autocomplete="off">
+
+              <span class="help-block" data-ng-if="errors.email" data-ng-bind="errors.email[0]"></span>
+
+        
+    </div>
+</div>
+
+                                        <div class="form-group from-group-password"   data-ng-class="{ 'has-error': errors.password }">
+            <label>Password</label>
+            <div>
+        
+              <input type="password"
+       class="form-control"
+       name="password"
+       data-ng-model="element.password"
+              
+       
+                             placeholder="Пароль"                             autocomplete="off">
+
+              <span class="help-block" data-ng-if="errors.password" data-ng-bind="errors.password[0]"></span>
+
+        
+    </div>
+</div>
+
+                                        <div class="form-group from-group-password_confirmation"   data-ng-class="{ 'has-error': errors.password_confirmation }">
+            <label>Password Confirmation</label>
+            <div>
+        
+              <input type="password"
+       class="form-control"
+       name="password_confirmation"
+       data-ng-model="element.password_confirmation"
+              
+       
+                             placeholder="Подтвердите пароль"                             autocomplete="off">
+
+              <span class="help-block" data-ng-if="errors.password_confirmation" data-ng-bind="errors.password_confirmation[0]"></span>
+
+        
+    </div>
+</div>
+
+                          
+            <div class="form-group">
+              <div class="checkbox">
+                <label>
+                  <input type="checkbox" checked ng-model="element.subscribe">
+                  Хочу получать самые интересные статьи на почту</a>
+                </label>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <div class="checkbox">
+                <label>
+                  <input type="checkbox" checked disabled>
+                  Нажимая кнопку "Регистрация", я подтверждаю свою дееспособность, даю <a href="https://www.kolesa.ru/agreement" target="_blank">согласие на обработку своих персональных данных</a> в соответствии с условиями <a href="https://www.kolesa.ru/policy" target="_blank">Политики конфиденциальности персональных данных Автомобильного журнала «КОЛЕСА»</a>
+                </label>
+              </div>
+            </div>
+          </div>
+          <div class="modal-body" ng-show="isSuccess">Вы успешно вошли на сайт</div>
+          <div class="modal-footer text-center" ng-show="!isSuccess">
+            <button class="btn btn-primary" type="submit" ng-disabled="isLoading">Регистрация</button>
+          </div>
+        </div>
+    </form>
+
+    <form class="modal-form-forget form-auth-modal" name="form" ng-submit="retrieve(form, 'https://www.kolesa.ru/website-vendor/forms/auth-modal', false)" ng-class="{active: showForm=='forget'}">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <svg class="svg-icon-logo" style="fill: currentColor"><use xlink:href="#svg-shape-logo" /></svg>
+            
+          </div>
+          <div class="modal-body" ng-show="!isSuccess">
+                        <div class="alert alert-danger" ng-show="errorCode == 422">Обратите внимание на ошибки</div>
+            <div class="alert alert-danger" ng-show="errorCode != 422 && errorMessage">{{ errorMessage }}</div>
+            
+            
+                                                                    <div class="form-group from-group-email"   data-ng-class="{ 'has-error': errors.email }">
+            <label>Email</label>
+            <div>
+        
+                <input type="text"
+       class="form-control"
+       name="email"
+       data-ng-model="element.email"
+              
+       
+                             placeholder="Введите e-mail"                             autocomplete="off">
+
+                <span class="help-block" data-ng-if="errors.email" data-ng-bind="errors.email[0]"></span>
+
+        
+    </div>
+</div>
+
+                                                                                                                  </div>
+          <div class="modal-body" ng-show="isSuccess">
+            <div ng-if="emailSent">Ссылка для восстановления пароля отправлена вам на E-mail.</div>
+            <div ng-if="emailFailed">Не удалось отправить вам E-mail. Пожалуйста, повторите попытку позднее.</div>
+          </div>
+          <div class="modal-footer hidden-xs" ng-show="!isSuccess">
+            <a href="" class="pull-left" ng-click="switchForm('login')">← Назад</a>
+            <button class="btn btn-primary pull-right" type="submit" ng-disabled="isLoading">Восстановить пароль</button>
+          </div>
+          <div class="modal-footer visible-xs" ng-show="!isSuccess">
+            <button class="btn btn-primary" type="submit" ng-disabled="isLoading">Восстановить пароль</button>
+            <p style="margin-top: 30px"><a href="" ng-click="switchForm('login')">← Назад</a></p>
+          </div>
+          <div class="modal-footer" ng-show="isSuccess">
+            <button class="btn btn-primary" type="button" ng-click="$modal.hide(modalId)">Закрыть</button>
+          </div>
+        </div>
+    </form>
+  </div>
+
+</div>
+
+<!-- /noindex -->
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;"><symbol id="svg-shape-logo" viewBox="0 0 238 47.23"><defs><style>.logo-cls-1,.logo-cls-2{fill:currentColor;}.logo-cls-1,.logo-cls-3{fill-rule:evenodd;}.logo-cls-3{fill:#bf2b29;}</style></defs><path class="logo-cls-1" d="M41.61,26.22c0-2.15,0-3.55,1-4.92,1.11-1.71,2.54-1.89,4.68-1.89s3.54.18,4.69,1.89c1,1.44,1,2.66,1,4.92,0,2.08,0,3.52-1,4.93C50.79,32.85,49.43,33,47.25,33s-3.57-.19-4.68-1.89c-.85-1.3-1-2.89-1-4.93Zm5.64-13.36c-3.91,0-8.52.11-11.28,2.66s-2.92,7.12-2.92,10.6.11,8,2.92,10.59,7.45,2.67,11.28,2.67,8.56-.11,11.29-2.67,2.91-7.18,2.91-10.59-.11-8-2.91-10.6S51.16,12.86,47.25,12.86Z"/><polygon class="logo-cls-1" points="35.74 39.38 23.73 26.08 34.38 13.45 24.49 13.45 14.57 26.12 25.71 39.38 35.74 39.38"/><rect class="logo-cls-2" x="7.23" y="13.45" width="8.34" height="25.93"/><path class="logo-cls-1" d="M59.87,39.38h8.86l6.63-17.67L82,39.38h8.85L80.93,15.82c-1.07-2.52-3.16-2.67-5.57-2.67s-4.5.15-5.56,2.67Z"/><path class="logo-cls-1" d="M138,39.38V32.93h-7.15c-2.77,0-5.17,0-6.27-2-.22-.45-.63-1.41-.63-4.3a10.55,10.55,0,0,1,.85-4.67c1.14-2.07,3.17-2,5.9-2h6.9V13.45H126.67c-2.91,0-6.68.33-9,3.37-1.84,2.33-2.25,5.59-2.25,9.93,0,5,.81,7.52,2.36,9.45,2.11,2.63,4.8,3.18,8.82,3.18Z"/><path class="logo-cls-1" d="M154.47,20.64l2.66,7.48h-5.31l2.65-7.48ZM139,39.38h8.78l2-5.33h9.3l2,5.33h8.77L160.37,16.3c-1.22-2.89-2.55-3.15-5.9-3.15-3.67,0-4.59.58-5.9,3.15Z"/><path class="logo-cls-3" d="M108.78,5.48l-2,5.59a1.38,1.38,0,0,1-1.17.84H98.25c-.46,0-.69-.38-.51-.84l2.05-5.61Z"/><path class="logo-cls-3" d="M114,39.38v-6.3H99.45V29h14.09V23.34H99.45v-3.6h14.46v-6.3H95.36a4.52,4.52,0,0,0-3.14,1,3.71,3.71,0,0,0-1.1,3V35.23a3.6,3.6,0,0,0,1.18,3.26,4.5,4.5,0,0,0,3.13.89Z"/><rect class="logo-cls-2" x="171.18" y="33.62" width="6.33" height="5.76"/><path class="logo-cls-1" d="M179.12,18.51a5.43,5.43,0,0,1,1-3.69,4.66,4.66,0,0,1,3.47-1.25h14c1.62,0,3.7,0,5.39,2.51a10.83,10.83,0,0,1,1.33,5.9,18.33,18.33,0,0,1-1,6.34,4.92,4.92,0,0,1-4.79,3.21h-.35l6.62,7.85h-9.27l-5.47-7.75-2.67.08v-6h6.45a2.94,2.94,0,0,0,2.32-.77,3.93,3.93,0,0,0,.55-2.14,3,3,0,0,0-.63-2.18,3,3,0,0,0-2.32-.62h-4.6a1.65,1.65,0,0,0-1.29.4,1.87,1.87,0,0,0-.48,1.62V39.38h-8.33Z"/><path class="logo-cls-1" d="M216.18,13.28V28.1a4.39,4.39,0,0,0,1.29,3.65,5.92,5.92,0,0,0,6.34,0,4.43,4.43,0,0,0,1.29-3.65V13.28h8.33V28.76c0,2.62-.41,5.46-2.69,7.71-2.66,2.62-6.42,2.91-10.1,2.91s-7.45-.29-10.1-2.91c-2.29-2.25-2.69-5.09-2.69-7.71V13.28Z"/></symbol><symbol id="svg-shape-arrow-more" viewBox="0 0 14.5 14.5">
+  <path id="arrow-more" d="M1.258,10.253a1.258,1.258,0,1,1,0-2.515H7.737V1.258a1.258,1.258,0,1,1,2.515,0V8.995a1.258,1.258,0,0,1-1.258,1.258Z" transform="translate(7.25 0) rotate(45)" fill="currentColor"/>
+</symbol><symbol id="svg-shape-search" viewBox="0 0 30 30">
+  <g id="search" transform="translate(-413.7 202.071) rotate(-45)">
+    <g id="Ellipse_569" data-name="Ellipse 569" transform="translate(426.828 158.232)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="2">
+      <ellipse cx="8.587" cy="8.587" rx="8.587" ry="8.587" stroke="none"/>
+      <ellipse cx="8.587" cy="8.587" rx="7.587" ry="7.587" fill="none"/>
+    </g>
+    <line id="Line_1" data-name="Line 1" y1="9.165" transform="translate(434.587 174.521)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</symbol><symbol id="svg-shape-sign-in" viewBox="0 0 32 32"><path d="M16 4C10.422 4 5.742 7.832 4.406 13H6.47C7.746 8.945 11.53 6 16 6c5.516 0 10 4.484 10 10s-4.484 10-10 10c-4.469 0-8.254-2.945-9.531-7H4.406c1.336 5.168 6.016 9 11.594 9c6.617 0 12-5.383 12-12S22.617 4 16 4zm-.656 7.281l-1.438 1.438L16.187 15H4v2h12.188l-2.282 2.281l1.438 1.438l4-4L20.03 16l-.687-.719z"/></symbol><symbol id="svg-shape-logo-grey" viewBox="0 0 148.02 22.17">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: currentColor;
+      }
+
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="logo-grey" transform="translate(-1.33 -1.09)">
+    <path id="Path_616" data-name="Path 616" class="cls-1" d="M34.57,7.81c-1.79-1.66-4.78-1.73-7.31-1.73S21.74,6.15,20,7.81s-1.89,4.6-1.89,6.86.07,5.16,1.89,6.86,4.82,1.73,7.31,1.73,5.54-.08,7.31-1.73,1.89-4.65,1.89-6.86S36.38,9.49,34.57,7.81ZM30.29,17.93c-.74,1.1-1.62,1.22-3,1.22s-2.32-.12-3-1.22a5.67,5.67,0,0,1-.62-3.19,5.27,5.27,0,0,1,.62-3.19c.72-1.11,1.65-1.23,3-1.23s2.29.12,3,1.23c.65.93.62,1.72.62,3.19A5.22,5.22,0,0,1,30.29,17.93Z"/>
+    <path id="Path_617" data-name="Path 617" class="cls-1" d="M18.92,6.34H12.51L6.73,13.72V6.34H1.33V23.13h5.4V15.31l6.57,7.82h6.5l-7.78-8.61Z"/>
+    <path id="Path_618" data-name="Path 618" class="cls-1" d="M45.47,6.15c-1.56,0-2.92.1-3.61,1.73L35.43,23.13h5.74l4.3-11.44,4.3,11.44H55.5L49.08,7.88C48.38,6.25,47,6.15,45.47,6.15Z"/>
+    <path id="Path_619" data-name="Path 619" class="cls-1" d="M77.34,17.64a6.1,6.1,0,0,1-.4-2.78,7,7,0,0,1,.54-3c.74-1.34,2.06-1.32,3.83-1.32h4.47V6.34H78.7c-1.88,0-4.32.22-5.85,2.18C71.66,10,71.39,12.15,71.39,15c0,3.22.53,4.87,1.53,6.12,1.36,1.7,3.11,2.06,5.71,2.06H86V19H81.4C79.61,19,78.06,19,77.34,17.64Z"/>
+    <path id="Path_620" data-name="Path 620" class="cls-1" d="M96.22,6.15c-2.38,0-3,.37-3.82,2L86.21,23.13H91.9l1.31-3.45h6l1.31,3.45h5.69L100,8.19C99.25,6.32,98.39,6.15,96.22,6.15ZM94.5,15.84,96.22,11l1.72,4.85Z"/>
+    <path id="Path_621" data-name="Path 621" class="cls-1" d="M60.32,5.25h4.73a.91.91,0,0,0,.76-.55l1.32-3.61H61.31L60,4.7C59.87,5,60,5.25,60.32,5.25Z"/>
+    <path id="Path_622" data-name="Path 622" class="cls-1" d="M61.07,16.39H70.2V12.75H61.07V10.42h9.37V6.34h-12a2.93,2.93,0,0,0-2,.67,2.42,2.42,0,0,0-.72,1.92V20.44a2.33,2.33,0,0,0,.77,2.12,3,3,0,0,0,2,.57h12V19.05H61.07Z"/>
+    <rect id="Rectangle_2687" data-name="Rectangle 2687" class="cls-2" width="4.73" height="4.3" transform="translate(107.53 18.64)"/>
+    <path id="Path_623" data-name="Path 623" class="cls-1" d="M127,17.86h.71a3.21,3.21,0,0,0,3.11-2.08,12,12,0,0,0,.62-4.11,7.12,7.12,0,0,0-.86-3.82c-1.1-1.62-2.94-1.62-4-1.62h-9.1a3,3,0,0,0-2.24.81,3.48,3.48,0,0,0-.64,2.39V22.94H120V11.7a1.22,1.22,0,0,1,.31-1,1.09,1.09,0,0,1,.84-.27h3a1.94,1.94,0,0,1,1.51.41,1.94,1.94,0,0,1,.4,1.41,2.42,2.42,0,0,1-.36,1.38,1.87,1.87,0,0,1-1.5.5h-.86c-1.38,0-2.41.77-2.41,1.89v.36a4.22,4.22,0,0,0,1.15,2.27l3.22,4.34h6.49L127,18Z"/>
+    <path id="Path_624" data-name="Path 624" class="cls-1" d="M143.94,6.23v9.6a2.88,2.88,0,0,1-.84,2.36,3.8,3.8,0,0,1-4.1,0,2.84,2.84,0,0,1-.84-2.36V6.23h-5.39v10a6.59,6.59,0,0,0,1.74,5c1.72,1.69,4.15,1.88,6.54,1.88s4.82-.19,6.54-1.88a6.59,6.59,0,0,0,1.74-5v-10Z"/>
+  </g>
+</symbol><symbol id="svg-shape-zen-new" viewBox="0 0 120 120"><path id="Subtraction_2" data-name="Subtraction 2" d="M-2154.2-1114.027h0c.128-10.261.488-20.905,2.237-29.239a42.476,42.476,0,0,1,3.312-10.063,28.678,28.678,0,0,1,5.537-7.787,28.655,28.655,0,0,1,7.787-5.537,42.456,42.456,0,0,1,10.063-3.312c8.335-1.749,18.98-2.108,29.241-2.236a59.734,59.734,0,0,1-17.546,40.629,59.734,59.734,0,0,1-40.629,17.546h0Zm-3.6,0h0a59.734,59.734,0,0,1-40.629-17.546,59.734,59.734,0,0,1-17.546-40.629c10.264.128,20.909.488,29.24,2.236a42.456,42.456,0,0,1,10.063,3.312,28.665,28.665,0,0,1,7.787,5.537,28.675,28.675,0,0,1,5.537,7.787,42.459,42.459,0,0,1,3.312,10.063c1.749,8.333,2.108,18.977,2.236,29.239Zm61.771-61.771h0c-10.26-.128-20.9-.488-29.239-2.236a42.462,42.462,0,0,1-10.063-3.312,28.667,28.667,0,0,1-7.787-5.537,28.674,28.674,0,0,1-5.537-7.787,42.457,42.457,0,0,1-3.312-10.063c-1.749-8.336-2.108-18.979-2.236-29.24a59.733,59.733,0,0,1,40.629,17.546,59.735,59.735,0,0,1,17.546,40.629Zm-119.947,0h0a59.735,59.735,0,0,1,17.546-40.629,59.734,59.734,0,0,1,40.629-17.546c-.128,10.263-.488,20.908-2.236,29.24a42.459,42.459,0,0,1-3.312,10.063,28.674,28.674,0,0,1-5.537,7.787,28.667,28.667,0,0,1-7.787,5.537,42.462,42.462,0,0,1-10.063,3.312c-8.335,1.749-18.979,2.108-29.239,2.236Z" transform="translate(2216 1234)"/></symbol><symbol id="svg-shape-youtube" viewBox="0 0 30 30">
+    <path d="M-1655.384,24.8a95.5,95.5,0,0,1-9.927-.517c-1.842-.282-3.3-1.123-3.792-2.2-.887-1.909-.9-9.612-.9-9.689s.01-7.777.9-9.693c.5-1.07,1.949-1.91,3.787-2.193A95.5,95.5,0,0,1-1655.384,0h.786a94.8,94.8,0,0,1,9.914.519c1.838.284,3.289,1.124,3.787,2.193.887,1.909.9,9.613.9,9.69s-.01,7.78-.9,9.692c-.5,1.07-1.949,1.91-3.786,2.193a95.945,95.945,0,0,1-9.948.517h-.746Zm-1.9-16.5V16.07l6.225-3.885-6.225-3.886Z" transform="translate(1670 2.6)"/>
+</symbol><symbol id="svg-shape-vkont" viewBox="0 0 25 25">
+  <path id="Subtraction_3" data-name="Subtraction 3" d="M-2196.52-1207.016h-.959c-5.423,0-8.146,0-9.833-1.687s-1.687-4.41-1.687-9.833v-.959c0-5.424,0-8.146,1.687-9.833s4.41-1.687,9.833-1.687h.959c5.424,0,8.146,0,9.833,1.688s1.687,4.411,1.687,9.833v.959c0,5.424,0,8.146-1.687,9.833S-2191.1-1207.016-2196.52-1207.016Zm.6-10.28h0a4.929,4.929,0,0,1,4.139,3.57h2.841a7.94,7.94,0,0,0-4.11-5.01,7.652,7.652,0,0,0,3.51-4.98h-2.58c-.579,2.048-2.249,3.783-3.8,3.949v-3.949h-2.58v6.919a4.137,4.137,0,0,1-2.421-1.892,9.536,9.536,0,0,1-1.289-5.027h-2.74c.132,6.348,3.31,9.99,8.72,9.99h.31v-3.569Z" transform="translate(2209 1232)"/>
+</symbol><symbol id="svg-shape-telegr" viewBox="0 0 36 36"><path id="Subtraction_4" data-name="Subtraction 4" d="M-2228-1202a17.882,17.882,0,0,1-12.728-5.272A17.883,17.883,0,0,1-2246-1220a17.883,17.883,0,0,1,5.272-12.728A17.882,17.882,0,0,1-2228-1238a17.883,17.883,0,0,1,12.728,5.272A17.882,17.882,0,0,1-2210-1220a17.882,17.882,0,0,1-5.272,12.728A17.883,17.883,0,0,1-2228-1202Zm-1.361-13.186a.706.706,0,0,1,.467.176l4.6,3.351a.542.542,0,0,0,.33.112.541.541,0,0,0,.184-.032.54.54,0,0,0,.344-.391l3.425-16.37a.544.544,0,0,0-.171-.512.542.542,0,0,0-.362-.138.541.541,0,0,0-.167.026l-18.94,7.325a.544.544,0,0,0-.351.507.544.544,0,0,0,.351.507l4.6,1.715,1.792,5.767a.518.518,0,0,0,.364.357.52.52,0,0,0,.137.018.52.52,0,0,0,.357-.142l2.572-2.1A.706.706,0,0,1-2229.36-1215.186Zm-3.273.066a.237.237,0,0,1-.234-.205l-.932-3.429a.686.686,0,0,1-.085-.58.686.686,0,0,1,.392-.435l9.042-5.531a.143.143,0,0,1,.064-.016.164.164,0,0,1,.153.124.105.105,0,0,1-.062.125l-7.4,6.934a1.369,1.369,0,0,0-.468.935l-.231,1.871A.237.237,0,0,1-2232.634-1215.121Z" transform="translate(2246 1238)"/></symbol></svg>
+
+    
+    </div>
+    <script>
+window["websiteRepository"] = {"auth":{"user":null,"stop_reloader":true},"comments":[],"search":[],"test":[],"notifications":[]};
+window["websiteRepositoryConfig"] = {"auth":{"interval":0,"actions":["logout","inc","dec"]},"comments":{"interval":0,"actions":["list","voteup","votedown","userList"]},"search":{"interval":0,"actions":["find"]},"test":{"interval":0,"actions":["get"]},"notifications":{"interval":0,"actions":["get","read"]}};
+window["yandexCounterId"] = "7276219";
+</script>
+
+    
+    
+    <script src="https://www.kolesa.ru/lm-assets/vendor-ef5dab5842.js"></script>
+    <script src="https://www.kolesa.ru/lm-assets/app-e65473d26f.js"></script>
+
+    
+        <!-- Yandex.Metrika counter -->
+<noscript><div><img src="https://mc.yandex.ru/watch/7276219" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

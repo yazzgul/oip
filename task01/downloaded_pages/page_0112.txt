@@ -1,0 +1,1761 @@
+<!DOCTYPE html>
+<html lang="ru" class="no-js page">
+<head>
+    <meta charset="UTF-8">
+    <title>Хайтек - Медиа про высокие технологии в России и лучшие мировые практики. Хроника наступления технологий, роботов, неуглеродной энергии, цифровой медицины, тотального блокчейна и искусственного интеллекта в режиме онлайн.</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="format-detection" content="date=no">
+    <meta name="format-detection" content="address=no">
+    <meta name="format-detection" content="email=no">
+    <meta content="notranslate" name="google">
+    <link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+
+<link rel="dns-prefetch" href="//cdn.onthe.io">
+<link rel="preconnect" href="https://cdn.onthe.io" crossorigin>
+
+<link rel="dns-prefetch" href="//vk.com">
+<link rel="preconnect" href="https://vk.com" crossorigin>
+
+<link rel="dns-prefetch" href="//code.jquery.com">
+<link rel="preconnect" href="https://code.jquery.com" crossorigin><!--    FAVICON START    -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://hightech.fm/wp-content/themes/hightech/frontend/dist/images/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://hightech.fm/wp-content/themes/hightech/frontend/dist/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://hightech.fm/wp-content/themes/hightech/frontend/dist/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="https://hightech.fm/wp-content/themes/hightech/frontend/dist/images/favicon/site.webmanifest">
+<link rel="mask-icon" href="https://hightech.fm/wp-content/themes/hightech/frontend/dist/images/favicon/safari-pinned-tab.svg" color="#ee4028">
+<link rel="shortcut icon" href="https://hightech.fm/wp-content/themes/hightech/frontend/dist/images/favicon/favicon.ico">
+<meta name="apple-mobile-web-app-title" content="Хайтек">
+<meta name="application-name" content="Хайтек">
+<meta name="msapplication-TileColor" content="#ee4028">
+<meta name="msapplication-TileImage" content="https://hightech.fm/wp-content/themes/hightech/frontend/dist/images/favicon/mstile-144x144.png" />
+<meta name="msapplication-config" content="https://hightech.fm/wp-content/themes/hightech/frontend/dist/images/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<!--    FAVICON END   -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N28WDXH');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Web -->
+<meta name="google-site-verification" content="stoc25JMTo0xpUjr4_wliJoJUD3pyeFDmwmWmOZPs48" />
+<!-- /Google Web -->
+<meta name="google-site-verification" content="eXXacSOwLy5SsoGBjAEjK17roiYdDmU594l7PqOXrPU" />
+<meta name="google-site-verification" content="q_ygZnFVx2ntmckC9rwU35TcpN62_gujLvSsGQkU33I" />
+<meta name="yandex-verification" content="e136170d14b47704" />
+<!-- Savin012 -->
+<!-- VK retargeting pixel -->
+<script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=W9fnk*sIRax7AVpVSbvqSN5m9BUuaoqBKjgimZ*2mB2yDidOYfPCDW8SQMoV6JaL3rMJd8zqaXmflgVdlnSQTSMICdKBK7cgAQU3QWvdqN5tLn3NBvexgBbWo/2KBCTj0V9UjWs1VyPOrWmokD4HnwscI7m*73c935TaSeQ/UBE-&pixel_id=1000023233';</script>
+<!-- /VK retargeting pixel -->
+<!--onthe.io-->
+<script async src="https://cdn.onthe.io/io.js/IvRjpLKqZ2Y5"></script>
+<script>
+    window._io_config = window._io_config || {};
+    window._io_config["0.2.0"] = window._io_config["0.2.0"] || [];
+    window._io_config["0.2.0"].push(
+        {
+    "page_url": "https:\/\/hightech.fm\/",
+    "page_url_canonical": "https:\/\/hightech.fm\/2025\/11\/13\/ecco-biomechanics",
+    "page_title": "Биомеханический &#171;эффект домино&#187;: как проблемы стоп вредят всему организму, и какие технологии помогают этого избежать",
+    "page_type": "main",
+    "page_language": "ru"
+}    );
+</script>
+<!--/onthe.io-->
+ <meta property="og:title" content="Хайтек - Медиа про высокие технологии в России и лучшие мировые практики.">
+<meta property="og:description" content="Хроника наступления технологий, роботов, неуглеродной энергии, цифровой медицины, тотального блокчейна и искусственного интеллекта в режиме онлайн.">
+<meta name="twitter:title" content="Хайтек - Медиа про высокие технологии в России и лучшие мировые практики.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Хроника наступления технологий, роботов, неуглеродной энергии, цифровой медицины, тотального блокчейна и искусственного интеллекта в режиме онлайн.">
+
+   
+        <meta property="og:image" content="https://hightech.fm/wp-content/themes/hightech/meta/Logo.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+      <!-- update v.2 -->
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Медиа про высокие технологии в России и лучшие мировые практики. Хроника наступления технологий, роботов, неуглеродной энергии, цифровой медицины, тотального блокчейна и искусственного интеллекта в режиме онлайн." />
+	<link rel="canonical" href="https://hightech.fm/" />
+	<link rel="next" href="https://hightech.fm/page/2" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://hightech.fm/","url":"https://hightech.fm/","name":"Хайтек - Медиа про высокие технологии в России и лучшие мировые практики. Хроника наступления технологий, роботов, неуглеродной энергии, цифровой медицины, тотального блокчейна и искусственного интеллекта в режиме онлайн.","isPartOf":{"@id":"https://hightech.fm/#website"},"description":"Медиа про высокие технологии в России и лучшие мировые практики. Хроника наступления технологий, роботов, неуглеродной энергии, цифровой медицины, тотального блокчейна и искусственного интеллекта в режиме онлайн.","breadcrumb":{"@id":"https://hightech.fm/#breadcrumb"},"inLanguage":"ru-RU"},{"@type":"BreadcrumbList","@id":"https://hightech.fm/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://hightech.fm/#website","url":"https://hightech.fm/","name":"Хайтек","description":"Медиа про высокие технологии в России и лучшие мировые практики. Хроника наступления технологий, роботов, неуглеродной энергии, цифровой медицины, тотального блокчейна и искусственного интеллекта в режиме онлайн.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://hightech.fm/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ru-RU"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='stylesheet' id='wp-block-library-css'  href='https://hightech.fm/wp-includes/css/dist/block-library/style.min.css?ver=6.0.3' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='ppress-frontend-css'  href='https://hightech.fm/wp-content/plugins/wp-user-avatar/assets/css/frontend.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ppress-flatpickr-css'  href='https://hightech.fm/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ppress-select2-css'  href='https://hightech.fm/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.css?ver=6.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='main-stylesheet-css'  href='https://hightech.fm/wp-content/themes/hightech/frontend/dist/css/main.css?ver=11.11444820' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-kladr-styles-css'  href='https://hightech.fm/node_modules/jquery.kladr/jquery.kladr.min.css?ver=1.8' type='text/css' media='all' />
+<script type='text/javascript' src='https://code.jquery.com/jquery-3.3.1.min.js' id='jquery-js'></script>
+<script type='text/javascript' src='https://hightech.fm/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.js?ver=4.3.1' id='ppress-flatpickr-js'></script>
+<script type='text/javascript' src='https://hightech.fm/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.js?ver=4.3.1' id='ppress-select2-js'></script>
+      <meta name="onesignal" content="wordpress-plugin"/>
+            <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PARAM = { scope: "/" };
+        OneSignal.setDefaultNotificationUrl("https://hightech.fm");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '32f0f894-929c-4ef4-b494-fbca7ee92bf0';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['disable'] = true;
+oneSignal_options['path'] = "https://hightech.fm/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.2465995d-af39-44d0-9727-0f4afeb298e1";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['actionMessage'] = "Получайте уведомления о главных новостях и текстах. Мы не будем присылать их много.";
+oneSignal_options['promptOptions']['acceptButtonText'] = "Согласен";
+oneSignal_options['promptOptions']['cancelButtonText'] = "Нет, спасибо";
+                OneSignal.init(window._oneSignalInitOptions);
+                OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+		<style type="text/css" id="wp-custom-css">
+			
+@media (min-width: 1200px) {
+	#setka-editor .stk-post.stk-theme_21918 .stk-embed-figure, .stk-post.stk-theme_21918 .stk-embed-figure {
+margin-left: 0;
+margin-right: 0;
+max-width: 100%;
+}
+}		</style>
+		    <!--
+    <script>
+        window.themeDirUrl = 'https://hightech.fm/wp-content/themes/hightech';
+        window.swUrl = '/sw.js';
+    </script>
+    <script charset="UTF-8" src="//cdn.sendpulse.com/js/push/7de2956a41a284ef3e61803c1587d6f9_1.js" async></script>
+    -->
+    <script>window.yaContextCb = window.yaContextCb || []</script>
+    <script src="https://yandex.ru/ads/system/context.js" async></script>
+    <link rel="stylesheet" href="https://hightech.fm/wp-content/themes/hightech/frontend/modal/modal.css?v5" media="all">
+    <script src="https://hightech.fm/wp-content/themes/hightech/frontend/modal/modal.js?v2" defer></script>
+    <style>
+        .ajax-post__container a.external {
+            text-decoration: underline !important;
+            text-decoration-thickness: 1.5px;
+            text-underline-offset: 3px;
+            text-decoration-color: #ff3e24;
+        }
+
+        .ajax-post__container a.external:hover {
+            text-decoration: underline;
+            text-decoration-thickness: 2px;
+        }
+    </style>
+    <script async src="https://jsn.24smi.net/smi.js"></script>
+</head>
+<body class="home blog">
+
+<div class="hm-spinner-section">
+    <div class="hm-spinner"></div>
+</div>
+
+<script>
+var isPost = 0;
+</script>
+
+<script async src="https://statika.mpsuadv.ru/scripts/10209.js"></script>
+<div id="mp_custom_13515"></div>
+<script>
+    window.mpsuStart = window.mpsuStart || [], window.mpsuStart.push(13515);
+</script>
+
+<!--AdFox START-->
+<!--yandex_maria.salnis-->
+<!--Площадка: hightech / Весь сайт / Шапка-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: Перетяжка 100%-->
+<style>
+    #adfox_170499592291255162 a {
+        display:block;
+        text-align:center;
+    }
+</style>
+<div id="adfox_170499592291255162"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 1482689,
+            containerId: 'adfox_170499592291255162',
+            params: {
+                p1: 'daszw',
+                p2: 'y'
+            }
+        })
+    })
+</script>
+
+
+
+
+<div class="mobile_popup small">
+    <svg xmlns="http://www.w3.org/2000/svg" version="1" viewBox="0 0 24 24"><path d="M13 12l5-5-1-1-5 5-5-5-1 1 5 5-5 5 1 1 5-5 5 5 1-1z"></path></svg>
+    <div class="mobile_banner"><div id="adfox_165269058425957009"></div></div>
+</div>
+<!--AdFox START-->
+<!--hitechfm-->
+<!--Площадка: hightech.fm / * / *-->
+<!--Тип баннера: Перетяжка 100% Mobile-->
+<!--Расположение: низ страницы-->
+<div id="adfox_165269058425957009"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 245010,
+            containerId: 'adfox_165269058425957009',
+            params: {
+                pp: 'i',
+                ps: 'ceqo',
+                p2: 'fqjt'
+            }
+        })
+    })
+</script>
+
+
+<style>
+    @media (min-width: 576px) {
+        .mobile_banner__container {
+            display: none; 
+        }
+    }
+    #mobile_banner {
+        display: flex;
+        justify-content: center;
+    }
+    .mobile_popup {
+        display:none;
+        position: fixed;
+        top: 50%;
+        width: 300px;
+        height: 400px;
+        background-color: transparent;
+        z-index: 300;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .mobile_popup.show {
+        /* display:block; */
+    }
+    .mobile_popup svg {
+        position: absolute;
+        right: 10px;
+        top: 10px;
+        width: 50px;
+        height: 50px;
+        cursor: pointer;
+        z-index: 10;
+        background: #fff;
+        opacity: 0.7;
+    }
+    .mobile_popup.small {
+        height: 120px;
+        width: 100%;
+        left: 0;
+        transform: none;
+        right: 0;
+        bottom: 0;
+        top: auto;
+    }
+    .mobile_popup.small svg {
+        top: -40px;
+        width: 30x;
+        height: 30px;
+    }
+</style>
+<script>
+    var showBannerPopUp = function(){
+        var now = Date.now();
+        var lastShowedBanner;
+        var toShow = true;
+        // if (localStorage && localStorage.moobileBannerShowed) {
+        //     lastShowedBanner = localStorage.moobileBannerShowed;
+        //     if ((now - lastShowedBanner) < 3600000) toShow = false;
+        // }
+        if (toShow) {
+            document.querySelector(".mobile_popup").classList.add("show");
+            localStorage.moobileBannerShowed = Date.now();
+        }
+    }
+    var hideBannerPopUp = function(){
+        document.querySelector(".mobile_popup").classList.remove("show");
+    }
+    document.querySelector(".mobile_popup svg").addEventListener("click", function(){
+        hideBannerPopUp();  
+    })
+    if (window.innerWidth < 450 && isPost) {
+        showBannerPopUp()
+    }
+</script>
+<div class="page__inner">
+    <div class="super-menu super-menu--fixed js-super-menu">
+    <div class="super-menu__inner page-wrap">
+        <div class="super-menu__header">
+            <div class="super-menu__head">
+                <button class="hamburger super-menu__hamburger js-hamburger" type="button" aria-label="close"
+                        role="button">
+                    <span class="sr-only">Закрыть меню</span>
+
+                    <svg class="icon icon--close-two super-menu__icon super-menu__icon--close">
+                        <use xlink:href="/wp-content/themes/hightech/frontend/dist/images/sprite.svg#close-two"></use>
+                    </svg>
+
+                </button>
+                <a class="logo" href="/">
+                    <img src="/wp-content/themes/hightech/frontend/dist/images/hightech-logo-color.svg" width="141" height="30"
+                         alt="Хайтек">
+                </a>
+            </div>
+            <div class="super-menu__search">
+                <a href="/?s=" class="ui-search" role="search">
+                    <span class="sr-only">Поиск по сайту</span>
+
+                    <svg class="icon icon--search-icon super-menu__search-icon ui-search__icon">
+                        <use xlink:href="/wp-content/themes/hightech/frontend/dist/images/sprite.svg#search-icon"></use>
+                    </svg>
+
+                </a>
+            </div>
+        </div>
+
+        <div class="super-menu__grid">
+            <div class="super-menu__item">
+                <div class="second-nav second-nav--theme_supermenu">
+                    <h4 class="second-nav__title">Рубрики</h4>
+                    <ul id="menu-%d1%81%d1%83%d0%bf%d0%b5%d1%80%d0%bc%d0%b5%d0%bd%d1%8e" class="second-nav__items"><li class="second-nav__item"><a  href="https://hightech.fm/rubrics/news"  class="menu-item menu-item-type-taxonomy menu-item-object-category second-nav__link">Новости</a></li></li>
+<li class="second-nav__item"><a  href="https://hightech.fm/rubrics/cases"  class="menu-item menu-item-type-taxonomy menu-item-object-category second-nav__link">Кейсы</a></li></li>
+<li class="second-nav__item"><a  href="https://hightech.fm/rubrics/tehnologii"  class="menu-item menu-item-type-taxonomy menu-item-object-category second-nav__link">Технологии</a></li></li>
+<li class="second-nav__item"><a  href="https://hightech.fm/rubrics/opinions"  class="menu-item menu-item-type-taxonomy menu-item-object-category second-nav__link">Мнения</a></li></li>
+<li class="second-nav__item"><a  href="https://hightech.fm/rubrics/science"  class="menu-item menu-item-type-taxonomy menu-item-object-category second-nav__link">Наука</a></li></li>
+<li class="second-nav__item"><a  href="https://hightech.fm/rubrics/innopolis"  class="menu-item menu-item-type-taxonomy menu-item-object-category second-nav__link">Иннополис</a></li></li>
+<li class="second-nav__item"><a  href="https://hightech.fm/archive"  class="menu-item menu-item-type-post_type menu-item-object-page second-nav__link">Архив</a></li></li>
+</ul>                </div>
+            </div>
+            <div class="super-menu__item super-menu__item--xs-hidden">
+                
+<div class="second-nav second-nav--theme_supermenu">
+    <h4 class="second-nav__title">Популярные теги</h4>
+    <ul class="second-nav__list">
+                    <li class="second-nav__item">
+                <a href="https://hightech.fm/tag/kosmos"
+                   class="second-nav__link">космос</a>
+            </li>
+                    <li class="second-nav__item">
+                <a href="https://hightech.fm/tag/medicina"
+                   class="second-nav__link">медицина</a>
+            </li>
+                    <li class="second-nav__item">
+                <a href="https://hightech.fm/tag/rossija"
+                   class="second-nav__link">Россия</a>
+            </li>
+                    <li class="second-nav__item">
+                <a href="https://hightech.fm/tag/tehnologii"
+                   class="second-nav__link">технологии</a>
+            </li>
+            </ul>
+    <a href="/tag" title="Ещё">
+
+        <svg class="icon icon--more-item second-nav__icon-more">
+            <use xlink:href="/wp-content/themes/hightech/frontend/dist/images/sprite.svg#more-item"></use>
+        </svg>
+
+        <span class="sr-only">Показать ещё</span>
+    </a>
+</div>
+            </div>
+            <div class="super-menu__item super-menu__item--wide super-menu__item--xs-hidden">
+                    <div class="second-nav latest-entry second-nav--theme_supermenu">
+        <h4 class="second-nav__title">Последние материалы</h4>
+        <ul class="latest-entry__items">
+                            <li class="latest-entry__item">
+                    <a class="latest-entry__link" href="https://hightech.fm/2026/02/19/wallie-spb">Циклона «Валли» идет на Петербург: каким он будет</a>
+                </li>
+                            <li class="latest-entry__item">
+                    <a class="latest-entry__link" href="https://hightech.fm/2026/02/19/tesla-cybercab-x">Tesla собрала первое роботакси Cybercab без руля и педалей</a>
+                </li>
+                    </ul>
+    </div>
+    
+            </div>
+        </div>
+        <hr class="super-menu__divider divider">
+        <div class="super-menu__grid super-menu__settings">
+
+            <div class="super-menu__item super-menu__item--xs-6"><div class="second-nav"><ul id="menu-o-zhurnale" class="second-nav__items"><li class="second-nav__item"><a  href="https://hightech.fm/o-proekte"  class="menu-item menu-item-type-post_type menu-item-object-page second-nav__link">О проекте</a></li></li>
+<li class="second-nav__item"><a  href="https://hightech.fm/reklama"  class="menu-item menu-item-type-post_type menu-item-object-page second-nav__link">Реклама</a></li></li>
+<li class="second-nav__item"><a  href="https://hightech.fm/contacts"  class="menu-item menu-item-type-post_type menu-item-object-page second-nav__link">Контакты</a></li></li>
+</ul></div>
+</div><div class="super-menu__item super-menu__item--xs-6"><div class="second-nav"><ul id="menu-soc-seti" class="second-nav__items"><li class="second-nav__item"><a  target="_blank" rel="noreferrer noopener" href="https://telegram.me/hightech_fm"  class="menu-item menu-item-type-custom menu-item-object-custom second-nav__link">Telegram</a></li></li>
+<li class="second-nav__item"><a  href="https://t.me/hightech_fm_daily"  class="menu-item menu-item-type-custom menu-item-object-custom second-nav__link">Telegram Дайджест</a></li></li>
+<li class="second-nav__item"><a  target="_blank" rel="noreferrer noopener" href="https://vk.com/hightech_fm"  class="menu-item menu-item-type-custom menu-item-object-custom second-nav__link">VK</a></li></li>
+<li class="second-nav__item"><a  target="_blank" rel="noreferrer noopener" href="https://dzen.ru/hightech.fm"  class="menu-item menu-item-type-custom menu-item-object-custom second-nav__link">Дзен</a></li></li>
+</ul></div>
+</div>
+            <div class="super-menu__item super-menu__item--wide super-menu__item--xs-hidden">
+    <div class="subscribe subscribe--white">
+        <div class="subscribe__content-wrap">
+            <h2 class="subscribe__title">Подписка на дайджест</h2>
+            <form class="subscribe__form js-form-subscribe" action="https://hightech.fm/" method="post" autocomplete="off">
+    <fieldset class="subscribe__fieldset">
+        <legend class="sr-only">Ввод e-mail для подписки</legend>
+        <div class="subscribe__form-wrap">
+            <span class="field-text subscribe__field-text">
+
+                <span class="field-text__input-wrap subscribe__input-wrap">
+
+                  <label class="field-text__label subscribe__label" for="sub_email_5394">Email</label>
+
+                  <input class="field-text__input subscribe__input js-float-label" type="email" name="subscribe_email" id="sub_email_5394" required>
+
+                </span>
+            </span>
+            <div class="field-actions">
+                <button type="submit" class="btn subscribe__btn">
+
+                    <svg class="icon icon--right-arrow subscribe__icon">
+                        <use xlink:href="/wp-content/themes/hightech/frontend/dist/images/sprite.svg#right-arrow"></use>
+                    </svg>
+
+                    <span class="sr-only">Подписаться</span>
+                </button>
+            </div>
+        </div>
+    </fieldset>
+    <div class="field-checkbox subscribe__field-checkbox">
+        <div class="field-checkbox__input-wrap">
+            <label class="field-checkbox__name subscribe__checkbox-name">
+                <input class="field-checkbox__input subscribe__checkbox-input" type="checkbox" name="privacy_check" checked required>
+                <span class="field-checkbox__name-text field-checkbox__name-text--size_md field-checkbox__name-text--theme_black subscribe__name-text">
+                    Даю согласие на обработку моих персональных данных в соответствие с
+                    <a href="/politika-obrabotki-personalnyh-dannyh" class="subscribe__name-link" title="Политика конфиденциальности">Политикой Конфиденциальности</a> и
+                    <a href="/polzovatelskoe-soglashenie" class="subscribe__name-link" title="Пользовательское соглашение">Пользовательским соглашением</a>.
+                </span>
+            </label>
+        </div>
+    </div>
+</form>
+        </div>
+    </div>
+
+</div>
+
+        </div>
+        <hr class="super-menu__divider divider">
+
+        <div class="super-menu__grid">
+            <div class="super-menu__item super-menu__item--wide">
+                <div class="super-menu__pushing pushing">
+                    <div class="field-toggle">
+                        <div class="field-toggle__input-wrap pushing__wrap">
+                            <input class="field-toggle__input js-input-switch" type="checkbox" name="" id="switch-push-menu">
+                            <label class="field-toggle__name js-push-enable" for="switch-push-menu"></label>
+                            <label class="field-toggle__name-text push-text" for="switch-push-menu">Выключить push-уведомления</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="super-menu__item super-menu__item--wide super-menu__item--xs-hidden">
+
+                <ul id="menu-personalnye-dannye" class="super-menu__nav"><li class="super-menu__nav-item"><a  href="https://hightech.fm/politika-obrabotki-personalnyh-dannyh"  class="menu-item menu-item-type-post_type menu-item-object-page super-menu__nav-link">Политика обработки персональных данных</a></li></li>
+</ul>
+            </div>
+
+            <svg class="icon icon--privacy16 super-menu__access-age access-age">
+                <use xlink:href="/wp-content/themes/hightech/frontend/dist/images/sprite.svg#privacy16"></use>
+            </svg>
+        </div>
+    </div>
+</div>
+<header class="page-header sticky" role="banner">
+    <div class="page-header__inner page-wrap">
+<!--        <div class="page-header__item page-header__item--left">-->
+            <button class="page-header__hamburger hamburger js-hamburger" type="button" aria-label="Menu" role="button">
+                <span class="hamburger__box">
+                    <span class="hamburger__inner">
+                        <span class="sr-only">Меню сайта</span>
+                    </span>
+                </span>
+            </button>
+            <a class="page-header__logo logo" href="/">
+                <img src="/wp-content/themes/hightech/frontend/dist/images/hightech-logo-color.svg" width="141" height="30"
+                    alt="Хайтек">
+            </a>
+<!--        </div>-->
+
+        <nav class="main-nav page-header__nav" aria-label="Основное меню" itemscope="" itemtype="http://schema.org/SiteNavigationElement"><ul id="menu-verhnee-menju" class="main-nav__list"><li class="main-nav__item"><a  href="https://hightech.fm/rubrics/news"  class="menu-item menu-item-type-taxonomy menu-item-object-category main-nav__link">Новости</a></li></li>
+<li class="main-nav__item"><a  href="https://hightech.fm/rubrics/opinions"  class="menu-item menu-item-type-taxonomy menu-item-object-category main-nav__link">Мнения</a></li></li>
+<li class="main-nav__item"><a  href="https://hightech.fm/rubrics/cases"  class="menu-item menu-item-type-taxonomy menu-item-object-category main-nav__link">Кейсы</a></li></li>
+<li class="main-nav__item"><a  href="https://hightech.fm/rubrics/tehnologii"  class="menu-item menu-item-type-taxonomy menu-item-object-category main-nav__link">Технологии</a></li></li>
+<li class="main-nav__item"><a  href="https://hightech.fm/rubrics/science"  class="menu-item menu-item-type-taxonomy menu-item-object-category main-nav__link">Наука</a></li></li>
+<li class="main-nav__item"><a  href="https://hightech.fm/rubrics/cosmos"  class="menu-item menu-item-type-taxonomy menu-item-object-category main-nav__link">Космос</a></li></li>
+</ul></nav>
+        <a href="/?s=" class="ui-search" role="search">
+            <span class="sr-only">Поиск по сайту</span>
+
+            <svg class="icon icon--search-icon ui-search__icon">
+                <use xlink:href="/wp-content/themes/hightech/frontend/dist/images/sprite.svg#search-icon"></use>
+            </svg>
+
+        </a>
+    </div>
+</header>
+    <main class="page__content" role="main">
+
+
+
+<section class="hero-main page__hero-main">
+    <div class="hero-main__inner">
+
+                                    <!-- <div class="hero-main__item">
+                    <a href="/special/sever/">
+                        <div class="hero-main__picture overlay dot-pattern img-cover">
+                            <img src="https://hightech.fm/special/sever/head-fon.7457f5e5.png" alt="">
+                        </div>
+                        <div class="hero-main__content">
+                            <div class="hero-main__category">
+                                    <span class="theme-category theme-category--color_red theme-category--size_lg">Кейсы</span>
+                            </div>
+                            <div class="hero-main__info">
+                                <h2 class="hero-main__title title title--size_xl title--color_white truncate truncate--xl">Ученые из&nbsp;криолитозоны.<br/>Спецпроект о&nbsp;науке в&nbsp;условиях Крайнего Севера</h2>
+                            </div>
+                        </div>
+                    </a>
+                </div> -->
+                <div class="hero-main__item">
+                    <a href="https://hightech.fm/2025/11/13/ecco-biomechanics">
+                        <div class="hero-main__picture overlay dot-pattern img-cover">
+                            <img src="https://hightech.fm/wp-content/uploads/2025/11/28-09-ecco4711a-scaled.jpg" alt="">
+                        </div>
+                        <div class="hero-main__content">
+                            <div class="hero-main__category">
+                                                                    <span class="theme-category theme-category--color_red theme-category--size_lg"
+                                              onclick="event.preventDefault();location.href='https://hightech.fm/rubrics/tehnologii'"
+                                              title="Технологии">Технологии</span>
+
+                                                            </div>
+                            <div class="hero-main__info">
+                                <h2 class="hero-main__title title title--size_xl title--color_white truncate truncate--xl">Биомеханический &#171;эффект домино&#187;: как проблемы стоп вредят всему организму, и какие технологии помогают этого избежать</h2>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                                
+                    <div class="hero-main__carousel-stack">
+                <div class="carousel-stack">
+                    <div class="carousel-stack__carousel owl-carousel owl-theme">
+                                                    <article>
+                                <a href="https://hightech.fm/2025/11/10/tecno-spark-slim" title="TECNO SPARK Slim: легкий и умный гаджет для жизни и творчества"
+                                   class="carousel-stack__item">
+                                    <div class="carousel-stack__picture img-cover">
+                                        <img src="https://hightech.fm/wp-content/uploads/2025/11/img_1265-scaled.jpeg" alt="">
+                                    </div>
+                                    <div class="carousel-stack__info">
+                                        <h2 class="carousel-stack__title title--size_md title--color_white
+                                        truncate truncate--175">TECNO SPARK Slim: легкий и умный гаджет для жизни и творчества</h2>
+                                                                                    <div class="carousel-stack__category">
+                                                <span class="theme-category"
+                                                      onclick="event.preventDefault();location.href='https://hightech.fm/rubrics/cases'"
+                                                      title="Кейсы">Кейсы</span>
+                                            </div>
+                                                                            </div>
+                                </a>
+                            </article>
+                                                    <article>
+                                <a href="https://hightech.fm/2025/10/23/sok-smart-office" title="ИИ-изоляция или роботы взаперти: как смарт-офисы применяют современные технологии"
+                                   class="carousel-stack__item">
+                                    <div class="carousel-stack__picture img-cover">
+                                        <img src="https://hightech.fm/wp-content/uploads/2025/10/max00738-hdr_2.jpg" alt="">
+                                    </div>
+                                    <div class="carousel-stack__info">
+                                        <h2 class="carousel-stack__title title--size_md title--color_white
+                                        truncate truncate--175">ИИ-изоляция или роботы взаперти: как смарт-офисы применяют современные технологии</h2>
+                                                                                    <div class="carousel-stack__category">
+                                                <span class="theme-category"
+                                                      onclick="event.preventDefault();location.href='https://hightech.fm/rubrics/opinions'"
+                                                      title="Мнения">Мнения</span>
+                                            </div>
+                                                                            </div>
+                                </a>
+                            </article>
+                                                    <article>
+                                <a href="https://hightech.fm/2025/10/15/electroconnect" title="Нейросистема техники: как в России производят качественные печатные платы"
+                                   class="carousel-stack__item">
+                                    <div class="carousel-stack__picture img-cover">
+                                        <img src="https://hightech.fm/wp-content/uploads/2025/09/i2507140587-scaled.jpg" alt="">
+                                    </div>
+                                    <div class="carousel-stack__info">
+                                        <h2 class="carousel-stack__title title--size_md title--color_white
+                                        truncate truncate--175">Нейросистема техники: как в России производят качественные печатные платы</h2>
+                                                                                    <div class="carousel-stack__category">
+                                                <span class="theme-category"
+                                                      onclick="event.preventDefault();location.href='https://hightech.fm/rubrics/tehnologii'"
+                                                      title="Технологии">Технологии</span>
+                                            </div>
+                                                                            </div>
+                                </a>
+                            </article>
+                                            </div>
+                    <button class="carousel-stack__btn carousel-stack__btn--next" type="button"></button>
+                    <div class="stack-progress"></div>
+                </div>
+            </div>
+                    
+    </div>
+</section>
+
+    <section class="news-items page__news-items">
+        <div class="news-items__inner page-wrap">
+            <ul class="news-items__list news-items__list--row news-items__list--border">
+                <li class="news-items__item">
+    <article class="news news--popular">
+        <a class="news__link" href="https://hightech.fm/2026/02/19/wallie-spb">
+            <div class="news__inner">
+                <div class="news__picture news__picture--skew img-cover">
+                    <img class="news__image" src="https://hightech.fm/wp-content/uploads/2026/02/img_6734.jpeg" alt="">
+                </div>
+                <div class="news__info">
+                    <h2 class="news__title truncate truncate--md hyphenate">Циклона «Валли» идет на Петербург: каким он будет</h2>
+                </div>
+            </div>
+        </a>
+        <div class="news__category">
+            <a href="https://hightech.fm/rubrics/science"
+               class="news__category-link theme-category theme-category--color_black">Наука</a>
+        </div>
+    </article>
+</li>
+<li class="news-items__item">
+    <article class="news news--popular">
+        <a class="news__link" href="https://hightech.fm/2026/02/19/tesla-cybercab-x">
+            <div class="news__inner">
+                <div class="news__picture news__picture--skew img-cover">
+                    <img class="news__image" src="https://hightech.fm/wp-content/uploads/2026/02/img_6730.jpeg" alt="">
+                </div>
+                <div class="news__info">
+                    <h2 class="news__title truncate truncate--md hyphenate">Tesla собрала первое роботакси Cybercab без руля и педалей</h2>
+                </div>
+            </div>
+        </a>
+        <div class="news__category">
+            <a href="https://hightech.fm/rubrics/news"
+               class="news__category-link theme-category theme-category--color_black">Новости</a>
+        </div>
+    </article>
+</li>
+<li class="news-items__item">
+    <article class="news news--popular">
+        <a class="news__link" href="https://hightech.fm/2026/02/19/ai-code-2">
+            <div class="news__inner">
+                <div class="news__picture news__picture--skew img-cover">
+                    <img class="news__image" src="https://hightech.fm/wp-content/uploads/2026/02/img_6717.jpeg" alt="">
+                </div>
+                <div class="news__info">
+                    <h2 class="news__title truncate truncate--md hyphenate">ИИ-пароли оказались не такими надежными: ChatGPT, Claude и Gemini повторяют комбинации</h2>
+                </div>
+            </div>
+        </a>
+        <div class="news__category">
+            <a href="https://hightech.fm/rubrics/news"
+               class="news__category-link theme-category theme-category--color_black">Новости</a>
+        </div>
+    </article>
+</li>
+<li class="news-items__item">
+    <article class="news news--popular">
+        <a class="news__link" href="https://hightech.fm/2026/02/19/ai-google-new">
+            <div class="news__inner">
+                <div class="news__picture news__picture--skew img-cover">
+                    <img class="news__image" src="https://hightech.fm/wp-content/uploads/2026/02/img_5197-1.jpeg" alt="">
+                </div>
+                <div class="news__info">
+                    <h2 class="news__title truncate truncate--md hyphenate">ИИ необратимо стал частью жизни, его нельзя убрать — Google</h2>
+                </div>
+            </div>
+        </a>
+        <div class="news__category">
+            <a href="https://hightech.fm/rubrics/news"
+               class="news__category-link theme-category theme-category--color_black">Новости</a>
+        </div>
+    </article>
+</li>
+            </ul>
+        </div>
+    </section>
+    
+
+
+<section class="news-category page__news-category">
+    <div class="news-category__inner page-wrap">
+        <div class="news-category__head">
+            <h2 class="heading">Главное</h2>
+        </div>
+        <div class="news-category__grid">
+
+            <div class="news-category__item news-category__item--narrow xs-square-medium">
+    <article class="entry entry--narrow entry--skew">
+        <a href="https://hightech.fm/2025/06/24/altai-chip" title="Нейроморфный процессор «Алтай»: будущее ИИ по-русски">
+            <figure class="entry__picture dot-pattern img-cover">
+                <img src="https://hightech.fm/wp-content/uploads/2025/06/prototip-altai-1-scaled-e1750666511736.jpg" alt="">
+            </figure>
+            <h2 class="entry__title title title--size_sm truncate truncate--md">Нейроморфный процессор «Алтай»: будущее ИИ по-русски</h2>
+        </a>
+        <div class="entry__category news-feed__category">
+                            <span class="theme-category theme-category--color_black"
+                      onclick="event.preventDefault();location.href='https://hightech.fm/rubrics/tehnologii'">Технологии</span>
+                    </div>
+    </article>
+</div>
+
+            <div class="news-category__item news-category__item--wide xs-square-large">
+    <article class="entry entry--wide entry--skew">
+        <a href="https://hightech.fm/2025/06/25/transparent-exopolymer-particles" title="Посмотрите, как притягиваются одноименно заряженные частицы">
+            <figure class="entry__picture dot-pattern img-cover overlay">
+                <img src="https://hightech.fm/wp-content/uploads/2025/06/glassware-arrangement-with-solutions-scaled.jpg"" alt="">
+            </figure>
+            <div class="entry__content">
+                <div class="entry__category">
+                    <div class="entry__category news-feed__category">
+                                                    <span class="theme-category"
+                                  onclick="event.preventDefault();location.href='https://hightech.fm/rubrics/science'"
+                                  title="Наука">Наука</span>
+                                            </div>
+
+                </div>
+                <h2 class="entry__title title title--size_lg title--color_white truncate truncate--lg">Посмотрите, как притягиваются одноименно заряженные частицы</h2>
+            </div>
+        </a>
+    </article>
+</div>
+
+            <div class="news-category__item news-category__item--narrow xs-square-medium">
+    <article class="entry entry--narrow entry--skew">
+        <a href="https://hightech.fm/2025/01/30/polycyclic-aromatic-hydrocarbon-theory" title="Жизнь из космоса: первая РНК могла состоять из внеземных молекул">
+            <figure class="entry__picture dot-pattern img-cover">
+                <img src="https://hightech.fm/wp-content/uploads/2025/01/molekuly-na-fone-kosmosa_kandinsky-3.1.jpg" alt="">
+            </figure>
+            <h2 class="entry__title title title--size_sm truncate truncate--md">Жизнь из космоса: первая РНК могла состоять из внеземных молекул</h2>
+        </a>
+        <div class="entry__category news-feed__category">
+                            <span class="theme-category theme-category--color_black"
+                    onclick="event.preventDefault();location.href='https://hightech.fm/rubrics/science'">Наука</span>
+                    </div>
+    </article>
+</div>
+        </div>
+    </div>
+</section>
+
+    <section class="hero-slider hero-slider--entry page__hero-slider">
+        <div class="slide-progress"></div>
+        <div class="page-wrap">
+            <div class="hero-slider__carousel js-carousel-thumbs-images owl-carousel owl-theme">
+                                    <div class="hero-slider__item overlay dot-pattern img-cover">
+                        <a class="hero-slider__link" href="https://hightech.fm/2025/01/07/microplastic-snowing">
+                            <img class="js-img-preview" src="https://hightech.fm/wp-content/uploads/2024/12/plastikovye-snezhinki_kandinsky-3.1.jpg" alt="">
+                            <div class="hero-slider__content">
+                                <div class="hero-slider__info">
+                                    <div class="hero-slider__category">
+                                                                                    <span
+                                                class="theme-category theme-category--color_red theme-category--size_lg"
+                                                onclick="event.preventDefault();location.href='https://hightech.fm/rubrics/science'"
+                                                title="Наука">Наука</span>
+                                                                            </div>
+                                    <h2 class="hero-slider__title title title--size_xl title--color_white truncate truncate--xl">В Сибири идет снег с микропластиком: где еще он содержится и вреден ли для здоровья</h2>
+                                    <div class="hero-slider__panel">
+                                        <span class="hero-slider__author">Анна&nbsp;Наумцева</span>
+                                        <time class="hero-slider__date" datetime="2025-01-07">7 января</time>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                                    <div class="hero-slider__item overlay dot-pattern img-cover">
+                        <a class="hero-slider__link" href="https://hightech.fm/2024/12/24/memristor-neuromorphic">
+                            <img class="js-img-preview" src="https://hightech.fm/wp-content/uploads/2024/12/mozg-kak-kompjuter_kandinsky-3.1.jpg" alt="">
+                            <div class="hero-slider__content">
+                                <div class="hero-slider__info">
+                                    <div class="hero-slider__category">
+                                                                                    <span
+                                                class="theme-category theme-category--color_red theme-category--size_lg"
+                                                onclick="event.preventDefault();location.href='https://hightech.fm/rubrics/tehnologii'"
+                                                title="Технологии">Технологии</span>
+                                                                            </div>
+                                    <h2 class="hero-slider__title title title--size_xl title--color_white truncate truncate--xl">Нейроморфные вычисления: подробное объяснение</h2>
+                                    <div class="hero-slider__panel">
+                                        <span class="hero-slider__author">Марк&nbsp;Волков</span>
+                                        <time class="hero-slider__date" datetime="2024-12-24">24 декабря</time>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                                    <div class="hero-slider__item overlay dot-pattern img-cover">
+                        <a class="hero-slider__link" href="https://hightech.fm/2024/11/19/superconducting-quantum-computing">
+                            <img class="js-img-preview" src="https://hightech.fm/wp-content/uploads/2024/11/sverhprovodnikovye-kvantovye-vychislenija_kandinsky-3.1.jpg" alt="">
+                            <div class="hero-slider__content">
+                                <div class="hero-slider__info">
+                                    <div class="hero-slider__category">
+                                                                                    <span
+                                                class="theme-category theme-category--color_red theme-category--size_lg"
+                                                onclick="event.preventDefault();location.href='https://hightech.fm/rubrics/opinions'"
+                                                title="Мнения">Мнения</span>
+                                                                            </div>
+                                    <h2 class="hero-slider__title title title--size_xl title--color_white truncate truncate--xl">Сверхпроводниковые квантовые вычисления: объяснение из первых уст</h2>
+                                    <div class="hero-slider__panel">
+                                        <span class="hero-slider__author">Илья&nbsp;Симаков</span>
+                                        <time class="hero-slider__date" datetime="2024-11-19">19 ноября</time>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                            </div>
+        </div>
+    </section>
+    
+<section class="news-items page__news-items">
+    <div class="news-items__inner page-wrap">
+        <div class="news-items__grid">
+
+            
+<section class="news-items__column news-items__column--narrow">
+            <h2 class="news-items__heading heading heading--size_sm">Интересное</h2>
+        <ul class="news-items__list news-items__list--small news-items__list--gutter_sm">
+                            <li class="news-items__item">
+                    <article class="news news--border">
+                        <a class="news__link" href="https://hightech.fm/2026/02/19/vallie-msc">
+                            <div class="news__inner">
+                                <div class="news__picture img-cover news__picture--skew">
+                                    <img class="news__image" src="https://hightech.fm/wp-content/uploads/2026/02/img_6709.jpeg" alt="">
+                                </div>
+                                <div class="news__info">
+                                    <h2 class="news__title truncate truncate--md hyphenate">Посмотрите на циклон «Валли» из космоса: сегодня он накрыл Москву</h2>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="news__category">
+                            <a href="https://hightech.fm/rubrics/news"
+                                class="news__category-link theme-category theme-category--color_black"
+                                title="Новости">Новости</a>
+                        </div>
+                    </article>
+                </li>
+                            <li class="news-items__item">
+                    <article class="news news--border">
+                        <a class="news__link" href="https://hightech.fm/2026/02/19/telegram-beta-stop">
+                            <div class="news__inner">
+                                <div class="news__picture img-cover news__picture--skew">
+                                    <img class="news__image" src="https://hightech.fm/wp-content/uploads/2026/02/img_6705.jpeg" alt="">
+                                </div>
+                                <div class="news__info">
+                                    <h2 class="news__title truncate truncate--md hyphenate">Telegram тестирует запрет на пересылку личных сообщений</h2>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="news__category">
+                            <a href="https://hightech.fm/rubrics/news"
+                                class="news__category-link theme-category theme-category--color_black"
+                                title="Новости">Новости</a>
+                        </div>
+                    </article>
+                </li>
+                            <li class="news-items__item">
+                    <article class="news news--border">
+                        <a class="news__link" href="https://hightech.fm/2026/02/19/blick-rus-sim">
+                            <div class="news__inner">
+                                <div class="news__picture img-cover news__picture--skew">
+                                    <img class="news__image" src="https://hightech.fm/wp-content/uploads/2026/02/img_6702.jpeg" alt="">
+                                </div>
+                                <div class="news__info">
+                                    <h2 class="news__title truncate truncate--md hyphenate">Россиянам блокируют связь на сутки из-за «охлаждения» SIM-карт</h2>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="news__category">
+                            <a href="https://hightech.fm/rubrics/news"
+                                class="news__category-link theme-category theme-category--color_black"
+                                title="Новости">Новости</a>
+                        </div>
+                    </article>
+                </li>
+                            <li class="news-items__item">
+                    <article class="news news--border">
+                        <a class="news__link" href="https://hightech.fm/2026/02/18/nasa-says">
+                            <div class="news__inner">
+                                <div class="news__picture img-cover news__picture--skew">
+                                    <img class="news__image" src="https://hightech.fm/wp-content/uploads/2026/02/img_6633.jpeg" alt="">
+                                </div>
+                                <div class="news__info">
+                                    <h2 class="news__title truncate truncate--md hyphenate">Тысячи «астероидов-убийц» могут ударить по Земле, и остановить их нечем — НАСА</h2>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="news__category">
+                            <a href="https://hightech.fm/rubrics/cosmos"
+                                class="news__category-link theme-category theme-category--color_black"
+                                title="Космос">Космос</a>
+                        </div>
+                    </article>
+                </li>
+                            <li class="news-items__item">
+                    <article class="news news--border">
+                        <a class="news__link" href="https://hightech.fm/2026/02/18/rus-block-negative">
+                            <div class="news__inner">
+                                <div class="news__picture img-cover news__picture--skew">
+                                    <img class="news__image" src="https://hightech.fm/wp-content/uploads/2026/02/img_6625.jpeg" alt="">
+                                </div>
+                                <div class="news__info">
+                                    <h2 class="news__title truncate truncate--md hyphenate">Больше трети россиян негативно оценивают ограничения в интернете</h2>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="news__category">
+                            <a href="https://hightech.fm/rubrics/news"
+                                class="news__category-link theme-category theme-category--color_black"
+                                title="Новости">Новости</a>
+                        </div>
+                    </article>
+                </li>
+                            <li class="news-items__item">
+                    <article class="news news--border">
+                        <a class="news__link" href="https://hightech.fm/2026/02/18/flu-rus">
+                            <div class="news__inner">
+                                <div class="news__picture img-cover news__picture--skew">
+                                    <img class="news__image" src="https://hightech.fm/wp-content/uploads/2026/02/img_3814.jpeg" alt="">
+                                </div>
+                                <div class="news__info">
+                                    <h2 class="news__title truncate truncate--md hyphenate">По всей России из-за роста гриппа и ОРВИ закрывают школы и детские сады</h2>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="news__category">
+                            <a href="https://hightech.fm/rubrics/science"
+                                class="news__category-link theme-category theme-category--color_black"
+                                title="Наука">Наука</a>
+                        </div>
+                    </article>
+                </li>
+                            <li class="news-items__item">
+                    <article class="news news--border">
+                        <a class="news__link" href="https://hightech.fm/2026/02/18/samara-engine">
+                            <div class="news__inner">
+                                <div class="news__picture img-cover news__picture--skew">
+                                    <img class="news__image" src="https://hightech.fm/wp-content/uploads/2026/02/img_6598.jpeg" alt="">
+                                </div>
+                                <div class="news__info">
+                                    <h2 class="news__title truncate truncate--md hyphenate">Легкий двигатель для беспилотников разработали в Самаре</h2>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="news__category">
+                            <a href="https://hightech.fm/rubrics/news"
+                                class="news__category-link theme-category theme-category--color_black"
+                                title="Новости">Новости</a>
+                        </div>
+                    </article>
+                </li>
+                            <li class="news-items__item">
+                    <article class="news news--border">
+                        <a class="news__link" href="https://hightech.fm/2026/02/18/captcha-malware">
+                            <div class="news__inner">
+                                <div class="news__picture img-cover news__picture--skew">
+                                    <img class="news__image" src="https://hightech.fm/wp-content/uploads/2026/02/img_6595.jpeg" alt="">
+                                </div>
+                                <div class="news__info">
+                                    <h2 class="news__title truncate truncate--md hyphenate">Хакеры придумали, как использовать CAPTCHA‑страницы для распространения вируса</h2>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="news__category">
+                            <a href="https://hightech.fm/rubrics/news"
+                                class="news__category-link theme-category theme-category--color_black"
+                                title="Новости">Новости</a>
+                        </div>
+                    </article>
+                </li>
+                            <li class="news-items__item">
+                    <article class="news news--border">
+                        <a class="news__link" href="https://hightech.fm/2026/02/18/y-fasten">
+                            <div class="news__inner">
+                                <div class="news__picture img-cover news__picture--skew">
+                                    <img class="news__image" src="https://hightech.fm/wp-content/uploads/2026/02/img_4256.jpeg" alt="">
+                                </div>
+                                <div class="news__info">
+                                    <h2 class="news__title truncate truncate--md hyphenate">«Яндекс» готовит отдельное приложение такси для молодежи</h2>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="news__category">
+                            <a href="https://hightech.fm/rubrics/news"
+                                class="news__category-link theme-category theme-category--color_black"
+                                title="Новости">Новости</a>
+                        </div>
+                    </article>
+                </li>
+                            <li class="news-items__item">
+                    <article class="news news--border">
+                        <a class="news__link" href="https://hightech.fm/2026/02/18/chatgpt-new-safe">
+                            <div class="news__inner">
+                                <div class="news__picture img-cover news__picture--skew">
+                                    <img class="news__image" src="https://hightech.fm/wp-content/uploads/2026/02/img_6586.jpeg" alt="">
+                                </div>
+                                <div class="news__info">
+                                    <h2 class="news__title truncate truncate--md hyphenate">В ChatGPT ввели новый режим защиты данных: как он работает</h2>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="news__category">
+                            <a href="https://hightech.fm/rubrics/news"
+                                class="news__category-link theme-category theme-category--color_black"
+                                title="Новости">Новости</a>
+                        </div>
+                    </article>
+                </li>
+                            <li class="news-items__item">
+                    <article class="news news--border">
+                        <a class="news__link" href="https://hightech.fm/2026/02/18/fsb-three">
+                            <div class="news__inner">
+                                <div class="news__picture img-cover news__picture--skew">
+                                    <img class="news__image" src="https://hightech.fm/wp-content/uploads/2026/02/img_6583.jpeg" alt="">
+                                </div>
+                                <div class="news__info">
+                                    <h2 class="news__title truncate truncate--md hyphenate">ФСБ будет отключать интернет и связь по ее запросу</h2>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="news__category">
+                            <a href="https://hightech.fm/rubrics/news"
+                                class="news__category-link theme-category theme-category--color_black"
+                                title="Новости">Новости</a>
+                        </div>
+                    </article>
+                </li>
+                            <li class="news-items__item">
+                    <article class="news news--border">
+                        <a class="news__link" href="https://hightech.fm/2026/02/17/mo-starlink">
+                            <div class="news__inner">
+                                <div class="news__picture img-cover news__picture--skew">
+                                    <img class="news__image" src="https://hightech.fm/wp-content/uploads/2026/02/img_6591.jpeg" alt="">
+                                </div>
+                                <div class="news__info">
+                                    <h2 class="news__title truncate truncate--md hyphenate">Минобороны сообщило о последствиях блокировки Starlink в зоне СВО на две недели</h2>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="news__category">
+                            <a href="https://hightech.fm/rubrics/news"
+                                class="news__category-link theme-category theme-category--color_black"
+                                title="Новости">Новости</a>
+                        </div>
+                    </article>
+                </li>
+                            <li class="news-items__item">
+                    <article class="news news--border">
+                        <a class="news__link" href="https://hightech.fm/2026/02/17/home-e-rus">
+                            <div class="news__inner">
+                                <div class="news__picture img-cover news__picture--skew">
+                                    <img class="news__image" src="https://hightech.fm/wp-content/uploads/2026/02/img_6572.jpeg" alt="">
+                                </div>
+                                <div class="news__info">
+                                    <h2 class="news__title truncate truncate--md hyphenate">Россиянам отключат домашний интернет из-за отказа на замену кабеля</h2>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="news__category">
+                            <a href="https://hightech.fm/rubrics/news"
+                                class="news__category-link theme-category theme-category--color_black"
+                                title="Новости">Новости</a>
+                        </div>
+                    </article>
+                </li>
+                    </ul>
+        <div class="news-items__wrap-btn">
+            <a class="btn btn--full btn--icon_arrow news-items__link-more" href="/rubrics/news" title="Все новости">Все новости</a>
+        </div>
+            </section>
+            <div class="news-items__column news-items__column--wide">
+            <div class="news-items__list">
+            
+<div class="news-items__item news-items__item--full">
+    <article class="entry entry--wide_md entry--skew xs-square-large">
+        <a href="https://hightech.fm/2026/01/06/engeneering-2025" title="ИИ-сыр и другие инженерные открытия: как технологии меняли мир в 2025 году">
+            <figure class="entry__picture dot-pattern img-cover overlay">
+                <img src="https://hightech.fm/wp-content/uploads/2026/01/img_4593.jpeg" alt="">
+            </figure>
+            <div class="entry__content">
+                <div class="entry__category">
+                                            <span class="theme-category"
+                            onclick="event.preventDefault();location.href='https://hightech.fm/rubrics/cases'">Кейсы</span>
+                                    </div>
+                <h2 class="entry__title title title--size_lg title--color_white truncate truncate--lg">ИИ-сыр и другие инженерные открытия: как технологии меняли мир в 2025 году</h2>
+            </div>
+        </a>
+    </article>
+</div>
+            <div class="news-items__item">
+                <div class="news-items__inner-row">
+                    <div class="news-items__inner-column-narrow xs-square-medium">
+    <article class="entry entry--narrow entry--skew">
+        <a href="https://hightech.fm/2026/01/03/space-2025" title="Итоги 2025 года в космосе: что на самом деле изменилось">
+            <figure class="entry__picture dot-pattern img-cover">
+                <img src="https://hightech.fm/wp-content/uploads/2026/01/img_4581-372x500.jpeg" alt="">
+            </figure>
+            <h2 class="entry__title title title--size_sm truncate truncate--md">Итоги 2025 года в космосе: что на самом деле изменилось</h2>
+        </a>
+                    <a href="https://hightech.fm/rubrics/cosmos"
+                class="theme-category theme-category--color_black">Космос</a>
+            </article>
+</div>
+                    <div class="news-items__inner-column-wide xs-square-medium">
+    <article class="entry entry--wide entry--skew">
+        <a href="https://hightech.fm/2026/01/05/medical-2025" title="Главные прорывы в медицине 2025 года, которые дали надежду пациентам с тяжелыми диагнозами">
+            <figure class="entry__picture dot-pattern img-cover overlay">
+                <img src="https://hightech.fm/wp-content/uploads/2026/01/img_4586-780x520.jpeg" alt="">
+            </figure>
+            <div class="entry__content">
+                <div class="entry__category">
+                                            <span class="theme-category"
+                            onclick="event.preventDefault();location.href='https://hightech.fm/rubrics/science'"
+                            title="Наука">Наука</span>
+                    
+                </div>
+                <h2 class="entry__title title title--size_lg title--color_white truncate truncate--lg">Главные прорывы в медицине 2025 года, которые дали надежду пациентам с тяжелыми диагнозами</h2>
+            </div>
+        </a>
+    </article>
+</div>                </div>
+            </div>
+
+            <div class="news-items__item">
+                <div class="news-items__inner-row">
+
+                    <div class="news-items__inner-column-wide xs-square-large">
+    <article class="entry entry--wide entry--skew">
+        <a href="https://hightech.fm/2025/12/31/honor-pad-10-5g" title="Обзор планшета Honor Pad 10 5G: работник месяца">
+            <figure class="entry__picture dot-pattern img-cover overlay">
+                <img src="https://hightech.fm/wp-content/uploads/2025/12/img_4804-780x544.jpg" alt="">
+            </figure>
+            <div class="entry__content">
+                <div class="entry__category">
+                                            <span class="theme-category"
+                            onclick="event.preventDefault();location.href='https://hightech.fm/rubrics/tehnologii'"
+                            title="Технологии">Технологии</span>
+                                    </div>
+                <h2 class="entry__title title title--size_lg title--color_white truncate truncate--lg">Обзор планшета Honor Pad 10 5G: работник месяца</h2>
+            </div>
+        </a>
+    </article>
+</div>
+                    <div class="news-items__inner-column-narrow">
+                        <ul class="news-items__list news-items__list--medium">
+                            <li class="news-items__item">
+    <article class="news news--medium xs-square-medium">
+        <a class="news__link" href="https://hightech.fm/2025/11/20/union-man-and-machine">
+            <div class="news__inner">
+                <div class="news__picture news__picture--skew img-cover">
+                    <img class="news__image" src="https://hightech.fm/wp-content/uploads/2025/11/img_2244-505x355.jpeg"
+                        alt="">
+                </div>
+                <div class="news__info">
+                    <h2 class="news__title truncate truncate--sm">Союз человека и машины: как научная династия из Курска разрабатывает современные экзоскелеты и интерфейсы к ним</h2>
+                </div>
+            </div>
+        </a>
+        <div class="news__category">
+                            <a href="https://hightech.fm/rubrics/science"
+                    class="theme-category theme-category--color_black">Наука</a>
+                    </div>
+    </article>
+</li><li class="news-items__item">
+    <article class="news news--medium xs-square-medium">
+        <a class="news__link" href="https://hightech.fm/2025/12/31/infinix-gt30-pro">
+            <div class="news__inner">
+                <div class="news__picture news__picture--skew img-cover">
+                    <img class="news__image" src="https://hightech.fm/wp-content/uploads/2025/12/img_4782-505x355.jpg"
+                        alt="">
+                </div>
+                <div class="news__info">
+                    <h2 class="news__title truncate truncate--sm">Обзор игрового смартфона Infinix GT30 Pro: найти триггерные точки</h2>
+                </div>
+            </div>
+        </a>
+        <div class="news__category">
+                            <a href="https://hightech.fm/rubrics/tehnologii"
+                    class="theme-category theme-category--color_black">Технологии</a>
+                    </div>
+    </article>
+</li>                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+        </div>
+    </div>
+</section>
+
+<!-- Yandex.RTB R-A-2512247-2 -->
+<!-- <div id="yandex_rtb_R-A-2512247-2"></div>
+<script>window.yaContextCb.push(()=>{
+	Ya.Context.AdvManager.render({
+		"blockId": "R-A-2512247-2",
+		"renderTo": "yandex_rtb_R-A-2512247-2"
+	})
+})
+</script> -->
+
+    <section class="carousel-item page__carousel-item">
+        <div class="carousel-item__head page-wrap">
+            <h2 class="heading">Мнения</h2>
+        </div>
+        <div class="carousel-item__carousel owl-carousel owl-theme">
+            <div class="carousel-item__item carousel-item__item--opinion">
+    <article class="opinion">
+        <a class="opinion__link" href="https://hightech.fm/2025/12/23/neuro-farm">
+            <div class="opinion__inner">
+                <div class="opinion__picture img-cover overlay">
+                    <img class="opinion__img owl-lazy" data-src="https://hightech.fm/wp-content/uploads/2025/12/horizontal-closeup-shot-black-white-cow-pasture-350x500.jpg" alt="">
+                </div>
+                <h2 class="opinion__title title title--size_sm truncate truncate--sm">Как нейротехнологии из медицины нашли применение в сельском хозяйстве</h2>
+            </div>
+        </a>
+    </article>
+</div>
+<div class="carousel-item__item carousel-item__item--opinion">
+    <article class="opinion">
+        <a class="opinion__link" href="https://hightech.fm/2025/11/09/ai-fail">
+            <div class="opinion__inner">
+                <div class="opinion__picture img-cover overlay">
+                    <img class="opinion__img owl-lazy" data-src="https://hightech.fm/wp-content/uploads/2025/11/ai-chipset-technology-350x500.jpg" alt="">
+                </div>
+                <h2 class="opinion__title title title--size_sm truncate truncate--sm">Долина смерти: почему 95% ИИ-пилотов терпят крах</h2>
+            </div>
+        </a>
+    </article>
+</div>
+<div class="carousel-item__item carousel-item__item--opinion">
+    <article class="opinion">
+        <a class="opinion__link" href="https://hightech.fm/2025/10/23/sok-smart-office">
+            <div class="opinion__inner">
+                <div class="opinion__picture img-cover overlay">
+                    <img class="opinion__img owl-lazy" data-src="https://hightech.fm/wp-content/uploads/2025/10/max00738-hdr_2-350x500.jpg" alt="">
+                </div>
+                <h2 class="opinion__title title title--size_sm truncate truncate--sm">ИИ-изоляция или роботы взаперти: как смарт-офисы применяют современные технологии</h2>
+            </div>
+        </a>
+    </article>
+</div>
+<div class="carousel-item__item carousel-item__item--opinion">
+    <article class="opinion">
+        <a class="opinion__link" href="https://hightech.fm/2025/08/28/life-coding">
+            <div class="opinion__inner">
+                <div class="opinion__picture img-cover overlay">
+                    <img class="opinion__img owl-lazy" data-src="https://hightech.fm/wp-content/uploads/2025/08/img_6240-350x500.jpeg" alt="">
+                </div>
+                <h2 class="opinion__title title title--size_sm truncate truncate--sm">Лайфкодинг, реальные кейсы и геймификация: как бигтех меняет обучение в ИТ</h2>
+            </div>
+        </a>
+    </article>
+</div>
+<div class="carousel-item__item carousel-item__item--opinion">
+    <article class="opinion">
+        <a class="opinion__link" href="https://hightech.fm/2025/06/20/bi-strategy">
+            <div class="opinion__inner">
+                <div class="opinion__picture img-cover overlay">
+                    <img class="opinion__img owl-lazy" data-src="https://hightech.fm/wp-content/uploads/2025/06/futuristic-technology-concept-350x500.jpg" alt="">
+                </div>
+                <h2 class="opinion__title title title--size_sm truncate truncate--sm">BI-стратегия компании: что она дает и как ее создать</h2>
+            </div>
+        </a>
+    </article>
+</div>
+<div class="carousel-item__item carousel-item__item--opinion">
+    <article class="opinion">
+        <a class="opinion__link" href="https://hightech.fm/2025/06/06/vibe-coding">
+            <div class="opinion__inner">
+                <div class="opinion__picture img-cover overlay">
+                    <img class="opinion__img owl-lazy" data-src="https://hightech.fm/wp-content/uploads/2025/06/img_8441-350x500.jpeg" alt="">
+                </div>
+                <h2 class="opinion__title title title--size_sm truncate truncate--sm">ИИ против айтишников: как новые инструменты меняют ИТ-бизнес</h2>
+            </div>
+        </a>
+    </article>
+</div>
+<div class="carousel-item__item carousel-item__item--opinion">
+    <article class="opinion">
+        <a class="opinion__link" href="https://hightech.fm/2025/05/21/organic-solar-cell">
+            <div class="opinion__inner">
+                <div class="opinion__picture img-cover overlay">
+                    <img class="opinion__img owl-lazy" data-src="https://hightech.fm/wp-content/uploads/2025/05/eco-friendly-solar-pannels-sunny-day-350x500.jpg" alt="">
+                </div>
+                <h2 class="opinion__title title title--size_sm truncate truncate--sm">Органические солнечные панели: принцип работы и сферы применения</h2>
+            </div>
+        </a>
+    </article>
+</div>
+<div class="carousel-item__item carousel-item__item--opinion">
+    <article class="opinion">
+        <a class="opinion__link" href="https://hightech.fm/2025/04/28/white-hat-profession">
+            <div class="opinion__inner">
+                <div class="opinion__picture img-cover overlay">
+                    <img class="opinion__img owl-lazy" data-src="https://hightech.fm/wp-content/uploads/2025/04/retro-style-man-holding-hands-his-hat-jacket-t-shirt-looking-mystic-350x500.jpg" alt="">
+                </div>
+                <h2 class="opinion__title title title--size_sm truncate truncate--sm">Белый хакер: что это за профессия и сколько платят?</h2>
+            </div>
+        </a>
+    </article>
+</div>
+<div class="carousel-item__item carousel-item__item--opinion">
+    <article class="opinion">
+        <a class="opinion__link" href="https://hightech.fm/2025/04/27/programming-ai-risks">
+            <div class="opinion__inner">
+                <div class="opinion__picture img-cover overlay">
+                    <img class="opinion__img owl-lazy" data-src="https://hightech.fm/wp-content/uploads/2025/04/close-up-anthropomorphic-robot-working-computer-350x500.jpg" alt="">
+                </div>
+                <h2 class="opinion__title title title--size_sm truncate truncate--sm">Управление рисками ИИ в программной инженерии</h2>
+            </div>
+        </a>
+    </article>
+</div>
+<div class="carousel-item__item carousel-item__item--opinion">
+    <article class="opinion">
+        <a class="opinion__link" href="https://hightech.fm/2025/04/26/dark-factories-future">
+            <div class="opinion__inner">
+                <div class="opinion__picture img-cover overlay">
+                    <img class="opinion__img owl-lazy" data-src="https://hightech.fm/wp-content/uploads/2025/04/skyline-dystopian-future-350x500.jpg" alt="">
+                </div>
+                <h2 class="opinion__title title title--size_sm truncate truncate--sm">Темные фабрики: будущее промышленности без человека</h2>
+            </div>
+        </a>
+    </article>
+</div>
+        </div>
+    </section>
+    
+
+
+    <section class="news-more page__mews-more">
+        <div class="news-more__content page-wrap">
+            <div class="news-category__head">
+                <h2 class="heading">Читайте также</h2>
+            </div>
+                                <div class="news-more__grid">
+                    <div id="post-639080" class="news-more__item news-more__item--wide xs-square-medium grid-other-materials-item-1 post-639080 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-tehnologii tag-telegram">
+    <article class="entry entry--wide_md entry--skew">
+        <a href="https://hightech.fm/2026/02/17/telegram-block-news" title="За сутки Telegram заблокировал 187 000 каналов и чатов">
+            <figure class="entry__picture dot-pattern img-cover overlay">
+                <img src="https://hightech.fm/wp-content/uploads/2026/02/img_6570.jpeg" alt="">
+            </figure>
+            <div class="entry__content">
+                <div class="entry__category">
+                                            <span class="theme-category"
+                              onclick="event.preventDefault();location.href='https://hightech.fm/rubrics/news'">Новости</span>
+                                    </div>
+                <h2 class="entry__title title title--size_lg title--color_white truncate truncate--lg">За сутки Telegram заблокировал 187 000 каналов и чатов</h2>
+            </div>
+        </a>
+    </article>
+</div>
+<div id="post-639074" class="news-more__item news-more__item--medium xs-square-medium grid-other-materials-item-2 post-639074 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-tehnologii tag-apple tag-iphone tag-skvoznoe-shifrovanie tag-4765">
+    <article class="news news--large">
+        <a class="news__link" href="https://hightech.fm/2026/02/17/apple-rcs-iphone">
+            <div class="news__inner">
+                <div class="news__picture news__picture--skew img-cover">
+                    <img class="news__image" src="https://hightech.fm/wp-content/uploads/2026/02/img_6568-505x355.jpeg" alt="">
+                </div>
+                <div class="news__info">
+                    <h2 class="news__title truncate truncate--sm">Apple тестирует сквозное шифрование для RCS-сообщений на iPhone</h2>
+                </div>
+            </div>
+        </a>
+        <div class="news__category">
+                            <a href="https://hightech.fm/rubrics/news"
+                   class="theme-category theme-category--color_black">Новости</a>
+                    </div>
+    </article>
+</div>
+                    </div>
+                                <div class="news-more__grid">
+                    <div id="post-639059" class="news-more__item news-more__item--medium xs-square-small grid-other-materials-item-3 post-639059 post type-post status-publish format-standard has-post-thumbnail hentry category-science category-news category-tehnologii tag-sistema-hranenija-jenergii tag-solnce">
+    <article class="news news--large">
+        <a class="news__link" href="https://hightech.fm/2026/02/17/molecula-sun">
+            <div class="news__inner">
+                <div class="news__picture news__picture--skew img-cover">
+                    <img class="news__image" src="https://hightech.fm/wp-content/uploads/2026/02/img_6563-505x355.jpeg" alt="">
+                </div>
+                <div class="news__info">
+                    <h2 class="news__title truncate truncate--sm">Появилась молекула, которая хранит солнечное тепло месяцами и отдавать зимой</h2>
+                </div>
+            </div>
+        </a>
+        <div class="news__category">
+                            <a href="https://hightech.fm/rubrics/science"
+                   class="theme-category theme-category--color_black">Наука</a>
+                    </div>
+    </article>
+</div>
+<div id="post-635941" class="news-more__item news-more__item--wide xs-square-small grid-other-materials-item-4 post-635941 post type-post status-publish format-standard has-post-thumbnail hentry category-cases category-tehnologii tag-kompjuter tag-monoblok tag-5602 tag-3229 tag-test">
+    <article class="entry entry--wide_md entry--skew">
+        <a class="entry__link" href="https://hightech.fm/2025/11/20/iru-strato-31" title="Обзор компьютера iRU Strato 31.5: много места для работы">
+            <figure class="entry__picture dot-pattern img-cover overlay">
+                <img src="https://hightech.fm/wp-content/uploads/2025/11/img_6479-scaled-e1763111044725.jpg" alt="">
+            </figure>
+            <div class="entry__content">
+                <div class="entry__category">
+                                            <span class="theme-category"
+                              onclick="event.preventDefault();location.href='https://hightech.fm/rubrics/cases'">Кейсы</span>
+                                    </div>
+                <h2 class="entry__title title title--size_lg title--color_white truncate truncate--lg">Обзор компьютера iRU Strato 31.5: много места для работы</h2>
+            </div>
+        </a>
+    </article>
+</div>
+                    </div>
+                                <div class="news-more__grid">
+                    <div id="post-639001" class="news-more__item news-more__item--narrow xs-square-small grid-other-materials-item-5 post-639001 post type-post status-publish format-standard has-post-thumbnail hentry category-cosmos category-science category-news tag-chernye-dyry tag-jejnshtejn">
+    <article class="entry entry--narrow entry--skew">
+        <a class="entry__link" href="https://hightech.fm/2026/02/13/ein-bh" title="Физики услышали «звон» черных дыр: Эйнштейн оказался прав, но есть нюансы">
+            <figure class="entry__picture dot-pattern img-cover">
+                <img src="https://hightech.fm/wp-content/uploads/2026/02/img_6337-372x500.webp" alt="">
+            </figure>
+            <h2 class="entry__title title title--size_sm truncate truncate--md">Физики услышали «звон» черных дыр: Эйнштейн оказался прав, но есть нюансы</h2>
+        </a>
+        <div class="entry__category news-more__category">
+                            <span class="theme-category theme-category--color_black"
+                      onclick="event.preventDefault();location.href='https://hightech.fm/rubrics/cosmos'">Космос</span>
+                    </div>
+    </article>
+</div>
+<div id="post-632980" class="news-more__item news-more__item--large xs-square-medium grid-other-materials-item-6 post-632980 post type-post status-publish format-standard has-post-thumbnail hentry category-opinions tag-android tag-linux tag-2270 tag-4113 tag-1398 tag-5602 tag-3302">
+    <article class="entry entry--wide entry--skew">
+        <a class="entry__link" href="https://hightech.fm/2025/09/01/russian-mobile-os" title="Российские мобильные ОС: какими они бывают и зачем они нужны">
+            <figure class="entry__picture dot-pattern img-cover overlay">
+                <img src="https://hightech.fm/wp-content/uploads/2025/09/girl-winter-park-scaled.jpg" alt="">
+            </figure>
+            <div class="entry__content">
+                <div class="entry__category">
+                                            <span class="theme-category"
+                              onclick="event.preventDefault();location.href='https://hightech.fm/rubrics/opinions'">Мнения</span>
+                                    </div>
+                <h2 class="entry__title title title--size_lg title--color_white truncate truncate--lg">Российские мобильные ОС: какими они бывают и зачем они нужны</h2>
+            </div>
+        </a>
+    </article>
+</div>
+<div id="post-639046" class="news-more__item news-more__item--narrow xs-square-medium grid-other-materials-item-7 post-639046 post type-post status-publish format-standard has-post-thumbnail hentry category-innopolis category-news category-tehnologii category-1568 tag-ii tag-875">
+    <article class="entry entry--narrow entry--skew">
+        <a href="https://hightech.fm/2026/02/16/ai-mode" title="Образовательные модули по ИИ появятся в 8 вузах России">
+            <figure class="entry__picture dot-pattern img-cover">
+                <img src="https://hightech.fm/wp-content/uploads/2026/02/img_6528-372x500.jpeg" alt="">
+            </figure>
+            <h2 class="entry__title title title--size_sm truncate truncate--md">Образовательные модули по ИИ появятся в 8 вузах России</h2>
+        </a>
+        <div class="entry__category news-more__category">
+                            <span class="theme-category theme-category--color_black"
+                      onclick="event.preventDefault();location.href='https://hightech.fm/rubrics/innopolis'">Иннополис</span>
+                    </div>
+    </article>
+</div>
+                    </div>
+                    </div>
+
+        <div class="page-wrap">
+            <div class="btn-more">
+                <button class="btn btn--full btn--more js-load-more" 1 type="button">
+                    <span class="spinner"></span>
+                    Загрузить ещё
+                </button>
+            </div>
+        </div>
+
+    </section>
+
+        <script>
+        var true_posts = 'YTo3OntzOjE0OiJwb3N0c19wZXJfcGFnZSI7aTo3O3M6MTE6InBvc3Rfc3RhdHVzIjtzOjc6InB1Ymxpc2giO3M6MzoiY2F0IjthOjEyOntpOjA7aToyMDtpOjE7aToyNTtpOjI7aTo1NjU7aTozO2k6MTE7aTo0O2k6NzA5OTtpOjU7aTo5O2k6NjtpOjEyO2k6NztpOjg4Mzk7aTo4O2k6MjM2MDtpOjk7aToxNTY3O2k6MTA7aToxNTY2O2k6MTE7aToxNTY4O31zOjEyOiJwb3N0X19ub3RfaW4iO2E6NTU6e2k6MDtzOjY6IjYxMzM0MyI7aToxO3M6NjoiMjU2OTc0IjtpOjI7czo2OiI2MTMyODciO2k6MztzOjY6IjU3NzE1MiI7aTo0O3M6NjoiNTk0OTc2IjtpOjU7czo2OiI1NzU0MzEiO2k6NjtzOjY6IjU3NjgxMiI7aTo3O3M6NjoiNDI5OTA1IjtpOjg7aTo2MzU2NTI7aTo5O2k6NjM1NTQ2O2k6MTA7aTo2MzUxNjU7aToxMTtpOjYzMzA1OTtpOjEyO2k6NjM5MjI0O2k6MTM7aTo2MzkyMTY7aToxNDtpOjYzOTIxMDtpOjE1O2k6NjM5MTk4O2k6MTY7aTo2MjcwODE7aToxNztpOjYyNzcyMjtpOjE4O2k6NjE1MzE1O2k6MTk7aTo2MzkxOTE7aToyMDtpOjYzOTE4NTtpOjIxO2k6NjM5MTc4O2k6MjI7aTo2MzkxNTc7aToyMztpOjYzOTE1MDtpOjI0O2k6NjM5MTQzO2k6MjU7aTo2MzkxMzY7aToyNjtpOjYzOTEyNjtpOjI3O2k6NjM5MTE1O2k6Mjg7aTo2MzkxMDI7aToyOTtpOjYzOTA5NTtpOjMwO2k6NjM5MTA5O2k6MzE7aTo2MzkwODg7aTozMjtpOjYzNzc0OTtpOjMzO2k6NjM3NTY3O2k6MzQ7aTo2Mzc3NDE7aTozNTtpOjYzNzY4NjtpOjM2O2k6NjM2MjcyO2k6Mzc7aTo2Mzc2OTI7aTozODtpOjYzNzM5NDtpOjM5O2k6NjM1NzE5O2k6NDA7aTo2MzUxNjU7aTo0MTtpOjYzMjcxNjtpOjQyO2k6NjI2NzU4O2k6NDM7aTo2MjY0NTk7aTo0NDtpOjYyNDY3NDtpOjQ1O2k6NjIyNzIyO2k6NDY7aTo2MjI3MDM7aTo0NztpOjYyMjY5MDtpOjQ4O2k6NjM5MDgwO2k6NDk7aTo2MzkwNzQ7aTo1MDtpOjYzOTA1OTtpOjUxO2k6NjM1OTQxO2k6NTI7aTo2MzkwMDE7aTo1MztpOjYzMjk4MDtpOjU0O2k6NjM5MDQ2O31zOjE5OiJpZ25vcmVfc3RpY2t5X3Bvc3RzIjtiOjE7czo3OiJvcmRlcmJ5IjtzOjQ6ImRhdGUiO3M6NToib3JkZXIiO3M6NDoiREVTQyI7fQ==';
+        var max_pages = '6358';
+        var current_page = 1;
+        var posts_per_page = 7;
+    </script>
+
+    
+
+    <div class="smi24__informer smi24__auto" data-smi-blockid="34685"></div>
+    <script>(window.smiq = window.smiq || []).push({});</script>
+  </main>
+  <div id="modal-vote" class="modal__wrapper">
+    <div class="modal__content">
+        <span class="modal__close"></span>
+        <div class="modal__body">
+            <p>Пройдите, пожалуйста, мини-опрос, который поможет нам стать еще интереснее и&nbsp;полезнее для вас!</p>
+        </div>
+        <div class="modal__footer">
+            <a href="#vote" class="modal__button">Перейти</a>
+        </div>
+    </div>
+</div><div class="google-form" id="vote" style="max-width: 100%; overflow: hidden;">
+    <iframe
+        src="https://docs.google.com/forms/d/e/1FAIpQLSdcEBsC0Jg7W_x_5_-FWX4W1emMKrJ3viZv89UmBLWP4j1CBw/viewform?embedded=true"
+        frameborder="0"
+        marginheight="0"
+        marginwidth="0"
+        style="border: none;"
+    >Загрузка…</iframe>
+</div><div class="page__footer-wrapper">
+
+    
+    <footer class="page-footer" role="contentinfo">
+        <div class="page-footer__inner page-wrap">
+            <div class="page-footer__content">
+
+                <div class="page-footer__logotype">
+                    <div class="page-footer__logo">
+                        <a class="page-footer__logo-link" href="/" title="Хайтек">
+                            <img src="/wp-content/themes/hightech/frontend/dist/images/hightech-logo-white.svg" width="137"
+                                height="30" alt="Хайтек">
+                        </a>
+                    </div>
+                    <div class="page-footer__contact">
+
+                        <a href="tel:+79851394950" class="page-footer__contact-item" title="Позвонить">+7 (985) 139 49 50</a>
+<a href="mailto:adv@hightech.fm" class="page-footer__contact-item" title="Написать email">adv@hightech.fm</a>
+
+                    </div>
+                </div>
+
+                <div class="page-footer__group">
+
+                    <div class="page-footer__item page-footer__item--xs-hidden"><div class="second-nav"><h4 class="second-nav__title">Рубрики</h4>
+<ul id="menu-rubriki-v-futere" class="second-nav__items"><li class="second-nav__item"><a  href="/vacancy"  class="menu-item menu-item-type-custom menu-item-object-custom second-nav__link">Вакансии</a></li></li>
+<li class="second-nav__item"><a  href="/rubrics/news"  class="menu-item menu-item-type-custom menu-item-object-custom second-nav__link">Новости</a></li></li>
+<li class="second-nav__item"><a  href="/rubrics/opinions"  class="menu-item menu-item-type-custom menu-item-object-custom second-nav__link">Мнения</a></li></li>
+<li class="second-nav__item"><a  href="/rubrics/tehnologii"  class="menu-item menu-item-type-custom menu-item-object-custom second-nav__link">Технологии</a></li></li>
+<li class="second-nav__item"><a  href="/rubrics/cases"  class="menu-item menu-item-type-custom menu-item-object-custom second-nav__link">Кейсы</a></li></li>
+<li class="second-nav__item"><a  href="/rubrics/innopolis"  class="menu-item menu-item-type-custom menu-item-object-custom second-nav__link">Иннополис</a></li></li>
+<li class="second-nav__item"><a  href="https://hightech.fm/archive"  class="menu-item menu-item-type-post_type menu-item-object-page second-nav__link">Архив</a></li></li>
+</ul></div>
+</div><div class="page-footer__item"><div class="second-nav"><h4 class="second-nav__title">О хайтеке</h4>
+<ul id="menu-o-zhurnale-1" class="second-nav__items"><li class="second-nav__item"><a  href="https://hightech.fm/o-proekte"  class="menu-item menu-item-type-post_type menu-item-object-page second-nav__link">О проекте</a></li></li>
+<li class="second-nav__item"><a  href="https://hightech.fm/reklama"  class="menu-item menu-item-type-post_type menu-item-object-page second-nav__link">Реклама</a></li></li>
+<li class="second-nav__item"><a  href="https://hightech.fm/contacts"  class="menu-item menu-item-type-post_type menu-item-object-page second-nav__link">Контакты</a></li></li>
+</ul></div>
+</div><div class="page-footer__item"><div class="second-nav"><h4 class="second-nav__title">МЫ В СОЦСЕТЯХ</h4>
+<ul id="menu-soc-seti-1" class="second-nav__items"><li class="second-nav__item"><a  target="_blank" rel="noreferrer noopener" href="https://telegram.me/hightech_fm"  class="menu-item menu-item-type-custom menu-item-object-custom second-nav__link">Telegram</a></li></li>
+<li class="second-nav__item"><a  href="https://t.me/hightech_fm_daily"  class="menu-item menu-item-type-custom menu-item-object-custom second-nav__link">Telegram Дайджест</a></li></li>
+<li class="second-nav__item"><a  target="_blank" rel="noreferrer noopener" href="https://vk.com/hightech_fm"  class="menu-item menu-item-type-custom menu-item-object-custom second-nav__link">VK</a></li></li>
+<li class="second-nav__item"><a  target="_blank" rel="noreferrer noopener" href="https://dzen.ru/hightech.fm"  class="menu-item menu-item-type-custom menu-item-object-custom second-nav__link">Дзен</a></li></li>
+</ul></div>
+</div>
+                </div>
+
+                <div class="page-footer__settings">
+                    <div class="settings">
+                        <ul class="settings__items">
+
+                            <li class="settings__item"><a  href="https://hightech.fm/politika-obrabotki-personalnyh-dannyh"  class="menu-item menu-item-type-post_type menu-item-object-page settings__link">Политика обработки персональных данных</a></li></li>
+
+                            <li class="settings__item"><span class="settings__link">Заметили ошибку? Выделите её и нажмите на Ctrl+Enter</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="page-footer__pushing pushing">
+                        <div class="field-toggle">
+                            <div class="field-toggle__input-wrap pushing__wrap">
+                                <input class="field-toggle__input js-input-switch" type="checkbox" name="" id="switch-push">
+                                <label class="field-toggle__name js-push-enable" for="switch-push"></label>
+                                <label class="field-toggle__name-text push-text" for="switch-push">Выключить push-уведомления</label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="page-footer__access">
+                    <span class="sr-only">Возрастное ограничение 16+</span>
+
+                    <svg class="icon icon--privacy16 page-footer__access-img access-age">
+                        <use xlink:href="/wp-content/themes/hightech/frontend/dist/images/sprite.svg#privacy16"></use>
+                    </svg>
+                </div>
+            </div>
+
+            <div class="page-footer__panel">
+                <div class="page-footer__panel-items">
+                    <div class="page-footer__panel-item">
+                        <span class="page-footer__copy">&copy; АНО ВО «Университет Иннополис», 2026</span>
+                    </div>
+                    <div class="page-footer__panel-item page-footer__panel-item--center">
+                                            </div>
+                    <div class="page-footer__panel-item page-footer__panel-item--right">
+                        <a class="page-footer__developer" href="https://codezavod.ru/" title="Codezavod" target="_blank" rel="noopener noreferrer">Разработка &mdash; Codezavod</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>  </div><!-- page__inner -->
+  <div class="modal modal--error" id="modal-error">
+    <div class="modal__name">Сообщить об&nbsp;ошибке на&nbsp;сайте</div>
+    <form class="form js-form-error" action="https://hightech.fm/" method="post">
+    <input type="hidden" value="" name="typo">
+    <input type="hidden" value="" name="context">
+    <input type="hidden" value="" name="comment">
+    <input type="hidden" value="" name="yandex_metrika_id">
+    <input type="hidden" value="" name="start">
+    <input type="hidden" value="" name="offset">
+    <label class="form__label">URL</label>
+    <input disabled type="text" value="https://hightech.fm" class="form__input" name="url" >
+    <label class="form__label">Ошибка</label>
+        <div disabled class="form__input js-textarea" style="height: 160px;"></div>
+    <div class="form__submit">
+        <!-- <div class="form__submit_recaptha">
+            <div id="errorFormReCaptcha"></div>
+            <div class="field-text--error recaptcha-error"></div>
+        </div> -->
+        <div class="form__submit_inp">
+            <button type="submit" class="sbm">Отправить</button>
+        </div>
+    </div>
+</form>
+</div>
+
+<div class="modal modal--success" id="modal-ok-subscribe">
+    <div class="ico-ok"></div>
+    <div class="modal__name modal__name--center">
+        Поздравляем, вы оформили подписку на дайджест Хайтека! Проверьте вашу почту <span class="js-user-email"></span>
+    </div>
+</div>
+
+<div class="modal modal--success" id="modal-ok">
+    <div class="ico-ok"></div>
+    <div class="modal__name modal__name--center">
+        Спасибо, Ваше сообщение успешно отправлено.
+    </div>
+</div>
+
+<div class="modal modal--multiple" id="modal-multiple"></div><script type='text/javascript' id='ppress-frontend-script-js-extra'>
+/* <![CDATA[ */
+var pp_ajax_form = {"ajaxurl":"https:\/\/hightech.fm\/wp-admin\/admin-ajax.php","confirm_delete":"\u0412\u044b \u0443\u0432\u0435\u0440\u0435\u043d\u044b?","deleting_text":"\u0423\u0434\u0430\u043b\u0435\u043d\u0438\u0435...","deleting_error":"\u041f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u0430 \u043e\u0448\u0438\u0431\u043a\u0430. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0435\u0449\u0435 \u0440\u0430\u0437.","nonce":"006ef8f5ad","disable_ajax_form":"false","is_checkout":"0","is_checkout_tax_enabled":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://hightech.fm/wp-content/plugins/wp-user-avatar/assets/js/frontend.min.js?ver=4.3.1' id='ppress-frontend-script-js'></script>
+<script type='text/javascript' id='hightech-scripts-js-extra'>
+/* <![CDATA[ */
+var hightech_ajax = {"url":"https:\/\/hightech.fm\/wp-admin\/admin-ajax.php","nonce":"e7db91aa5a","ajax_param":"is_ajax"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://hightech.fm/wp-content/themes/hightech/frontend/dist/js/runtime.140d3951eee4721a58a4.js?ver=12.4' id='hightech-scripts-js'></script>
+<script type='text/javascript' src='https://hightech.fm/wp-content/themes/hightech/frontend/dist/js/vendors.140d3951eee4721a58a4.js?ver=2.1' id='hightech-scripts2-js'></script>
+<script type='text/javascript' id='hightech-scripts2-js-after'>
+window.Hyphenopoly = {
+    require: {
+        "ru": "FORCEHYPHENOPOLY"
+    },
+    paths: {maindir: "/node_modules/hyphenopoly/", patterndir: "/node_modules/hyphenopoly/patterns/"}
+};
+</script>
+<script type='text/javascript' src='https://hightech.fm/node_modules/hyphenopoly/Hyphenopoly_Loader.js?ver=2.11' id='hightech-scripts2-1-js'></script>
+<script type='text/javascript' src='https://hightech.fm/wp-content/themes/hightech/frontend/dist/js/main.140d3951eee4721a58a4.js?ver=2.871' id='hightech-scripts3-js'></script>
+<script type='text/javascript' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=6.0.3' async='async' id='remote_sdk-js'></script>
+<!-- <script>
+    var reCaptchaCallback = function() {
+            };
+</script> -->
+<!-- <script src="https://www.google.com/recaptcha/api.js?onload=reCaptchaCallback&render=explicit" async defer></script> -->
+
+  <style>
+    .label--color_red {
+      background-color: transparent;
+      padding-left: 0;
+    }
+
+    .news-feed__category .label--color_red {
+      background-color: #ff3e24;
+      padding-left: 25px;
+    }
+
+    .btn-more {
+      margin-bottom: 40px;
+    }
+  </style>
+  <link rel='stylesheet' id='main-stylesheet-css' href='/wp-content/themes/hightech/correction.css?v2' type='text/css' media='all' />
+
+    <script>
+        var adlk_split = 'test-ad-container';
+        var adlk_tags = [{
+            't': 'PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgogICgKICAgICgpID0+IHsKICAgICAgY29uc3Qgc2NyaXB0ID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7CiAgICAgIHNjcmlwdC5zcmMgPSAiaHR0cHM6Ly9jZG4xLm1vZS52aWRlby9wL2NyLmpzIjsKICAgICAgc2NyaXB0Lm9ubG9hZCA9ICgpID0+IHsKICAgICAgICBhZGRDb250ZW50Um9sbCh7CiAgd2lkdGg6ICcxMDAlJywKICBwbGFjZW1lbnQ6IDEwNTU5LAogIHByb21vOiB0cnVlLAogIGFkdmVydENvdW50OiAwLAogIHNsb3Q6ICdwYWdlJywKICBzb3VuZDogJ29uY2xpY2snLAogIGZseTp7CiAgICBtb2RlOiAnc3RpY2snLAogICAgd2lkdGg6IDQ0NSwKICAgIGNsb3NlU2VjT2Zmc2V0OiA1LAogICAgcG9zaXRpb246ICdib3R0b20tcmlnaHQnLAogICAgaW5kZW50OnsKICAgICAgbGVmdDogMCwKICAgICAgcmlnaHQ6IDAsCiAgICAgIHRvcDogMCwKICAgICAgYm90dG9tOiAwLAogICAgICAgICAgICAgICAgfSwKICAgIHBvc2l0aW9uTW9iaWxlOiAnYm90dG9tJywKICAgICAgICAgICAgfSwKICAgICAgICB9KTsKICAgICAgfTsKICAgICAgZG9jdW1lbnQuYm9keS5hcHBlbmQoc2NyaXB0KTsKICAgIH0KICApKCkKPC9zY3JpcHQ+',
+            'wt': 5
+        }, {
+            't': 'PCEtLSBQYXN0ZSBuZXh0IGNvZGUgdG8gdGhlIHBsYWNlIHdoZXJlIGluLXJlYWQgYWQgc2hvdWxkIGFwcGVhciAtLT4KPGRpdiBjbGFzcz0idGd4LXJsZiIgZGF0YS1ybGYtaWQ9IjM5IiBkYXRhLXJsZi1hdXRvPSIxIiBkYXRhLXJsZi1kb2NrPSIwIiBkYXRhLXJsZi1ub2hpZGU9IjAiPjwvZGl2Pgo8IS0tIFBhc3RlIG5leHQgbGluZSBiZWZvcmUgY2xvc2luZyBCT0RZIHRhZyAtLT4KPHNjcmlwdCBkZWZlciBzcmM9Imh0dHBzOi8vY2RuLmFkdGVjLnJ1L2pzL3JsZi5qcyI+PC9zY3JpcHQ+',
+            'wt': 95
+        }];
+    </script>
+    <script src='https://cdn.adtec.ru/js/split.js'></script>
+    </div>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js", "ym");
+
+    ym(34014855, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true,
+        trackHash:true
+    });
+    // ym(34014855, "reachGoal", "readmore_right");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/34014855" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Yandex Webmaster -->
+<meta name="yandex-verification" content="de7b10b2445b4838" />
+<!-- /Yandex Webmaster -->
+  </body>
+
+
+
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Кэширование объекта 855/3275 объектов с помощью redis
+Кэширование страницы с использованием redis 
+Кэширование запросов БД 17/218 за 6.833 секунд с использованием redis
+
+Served from: hightech.co-dd.dev @ 2026-02-19 21:10:11 by W3 Total Cache
+-->

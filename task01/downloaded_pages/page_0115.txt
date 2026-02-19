@@ -1,0 +1,3311 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+  <head prefix="og: http://ogp.me/ns#">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="robots" content="all,follow">
+  <meta name="googlebot" content="index,follow,snippet,archive">
+
+  <meta property="og:image" content="https://kvantik.com/opengraph-logo-2.png"/>
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://kvantik.com/opengraph-logo-2.png" />
+
+  <meta name="google-site-verification" content="gpnmRBIcASh3f0jqFcHwKTpb3L3N2yC19zi9kxdRF6A" />
+  <meta name='yandex-verification' content='415534175552468d' />
+
+  
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(42527479, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/42527479" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+
+  <title> «Квантик» - журнал для любознательных </title>
+
+  <meta name="author" content="" />
+  <meta name="keywords" content="kvantik, квантик, журнал для школьников, занимательная математика">
+
+  
+
+  <meta name="generator" content="Hugo 0.87.0" />
+
+  <link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
+
+  
+  
+    <link href="/css/style.default.css" rel="stylesheet" id="theme-stylesheet">
+  
+    <link href="/css/gallery.css" rel="stylesheet" id="theme-stylesheet">
+
+  
+
+
+  
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#158a91">
+<meta name="theme-color" content="#ffffff">
+
+  
+   <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+  <link rel="alternate" href="https://kvantik.com/index.xml" type="application/rss+xml" title="«Квантик» - журнал для любознательных">
+
+  
+  <meta property="og:title" content="Архив" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="/archive//" />
+  <meta property="og:image" content="/img/logo.png" />
+
+  
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '400221241810679');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=400221241810679&ev=PageView&noscript=1"
+/></noscript>
+
+
+<script async src="https://cse.google.com/cse.js?cx=015852157525219945674:tumvbg_mmjo"></script>
+</head>
+
+
+  <body id="all">
+    <div class="containr">
+
+
+
+        <header>
+        	<div class="head">
+
+            	<a href="/"><img src="/img/logo_1.png"/></a>
+
+            </div>
+
+
+          	<div class="menu"style="white-space: nowrap;">
+        <a href="/">Главная</a><a href="/konkurs/math/">Конкурсы</a><a class="active">Архив</a><a href="/podpiska/">Подписка</a><a href="/contacts/">Контакты</a><a href="/buy/">Как купить?</a><a href="/search/">🔍</a></div>
+        
+        <a href="/en/archive/"> English version</a>
+        
+
+
+        </header>
+
+
+        
+	
+    
+    <p align="center">
+        <nav id="TableOfContents">
+<ul>
+<li><a href="#articles">Статьи</a></li>
+<li><a href="#issues">Журналы</a></li>
+<li><a href="#almanacs">Альманахи</a></li>
+<li><a href="#biblio">Библиотечка</a></li>
+<li><a href="#posters">Плакаты</a></li>
+<li><a href="#calendars">Календари</a></li>
+<li><a href="#DIY">Своими руками</a></li>
+<li><a href="#video">Видео</a></li>
+</ul>
+</nav>
+    </p>
+    
+
+    
+<div class="container"> <div class="col-md-12">
+<h1 id="articles">Статьи</h1>
+
+<p><a href="http://old.kvantik.com/art/index.html">В рубрикаторе</a> можно найти статьи журнала, вышедшие не позднее, чем полгода назад.</p>
+
+<h1 id="issues">Журналы</h1>
+
+<p>
+
+
+<h2 style="text-align: center; clear:both; padding-top: 15pt;"> 2025 год</h2> 
+<div class="clearfix">
+
+  
+  
+  
+  
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2025-12_sample.pdf" style="display:block;"> 
+    <img src="/issue/cover/2025-12.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Примеры статей.
+    №12 (2025)
+    </b></div>
+    </a>
+</div>
+</div>
+    
+
+  
+  
+  
+  
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2025-11_sample.pdf" style="display:block;"> 
+    <img src="/issue/cover/2025-11.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Примеры статей.
+    №11 (2025)
+    </b></div>
+    </a>
+</div>
+</div>
+    
+
+  
+  
+  
+  
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2025-10_sample.pdf" style="display:block;"> 
+    <img src="/issue/cover/2025-10.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Примеры статей.
+    №10 (2025)
+    </b></div>
+    </a>
+</div>
+</div>
+    
+
+  
+  
+  
+  
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2025-09_sample.pdf" style="display:block;"> 
+    <img src="/issue/cover/2025-09.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Примеры статей.
+    №9 (2025)
+    </b></div>
+    </a>
+</div>
+</div>
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2025-08.pdf" style="display:block;"> 
+    <img src="/issue/cover/2025-08.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №8 (2025)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2025-07.pdf" style="display:block;"> 
+    <img src="/issue/cover/2025-07.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №7 (2025)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2025-06.pdf" style="display:block;"> 
+    <img src="/issue/cover/2025-06.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №6 (2025)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2025-05.pdf" style="display:block;"> 
+    <img src="/issue/cover/2025-05.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №5 (2025)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2025-04.pdf" style="display:block;"> 
+    <img src="/issue/cover/2025-04.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №4 (2025)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2025-03.pdf" style="display:block;"> 
+    <img src="/issue/cover/2025-03.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №3 (2025)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2025-02.pdf" style="display:block;"> 
+    <img src="/issue/cover/2025-02.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №2 (2025)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2025-01.pdf" style="display:block;"> 
+    <img src="/issue/cover/2025-01.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №1 (2025)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+</div>
+
+
+
+
+
+<h2 style="text-align: center; clear:both; padding-top: 15pt;"> 2024 год</h2> 
+<div class="clearfix">
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2024-12.pdf" style="display:block;"> 
+    <img src="/issue/cover/2024-12.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №12 (2024)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2024-11.pdf" style="display:block;"> 
+    <img src="/issue/cover/2024-11.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №11 (2024)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2024-10.pdf" style="display:block;"> 
+    <img src="/issue/cover/2024-10.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №10 (2024)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2024-09.pdf" style="display:block;"> 
+    <img src="/issue/cover/2024-09.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №9 (2024)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2024-08.pdf" style="display:block;"> 
+    <img src="/issue/cover/2024-08.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №8 (2024)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2024-07.pdf" style="display:block;"> 
+    <img src="/issue/cover/2024-07.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №7 (2024)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2024-06.pdf" style="display:block;"> 
+    <img src="/issue/cover/2024-06.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №6 (2024)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2024-05.pdf" style="display:block;"> 
+    <img src="/issue/cover/2024-05.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №5 (2024)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2024-04.pdf" style="display:block;"> 
+    <img src="/issue/cover/2024-04.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №4 (2024)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2024-03.pdf" style="display:block;"> 
+    <img src="/issue/cover/2024-03.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №3 (2024)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2024-02.pdf" style="display:block;"> 
+    <img src="/issue/cover/2024-02.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №2 (2024)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2024-01.pdf" style="display:block;"> 
+    <img src="/issue/cover/2024-01.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №1 (2024)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+</div>
+
+
+
+
+
+<h2 style="text-align: center; clear:both; padding-top: 15pt;"> 2023 год</h2> 
+<div class="clearfix">
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2023-12.pdf" style="display:block;"> 
+    <img src="/issue/cover/2023-12.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №12 (2023)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2023-11.pdf" style="display:block;"> 
+    <img src="/issue/cover/2023-11.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №11 (2023)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2023-10.pdf" style="display:block;"> 
+    <img src="/issue/cover/2023-10.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №10 (2023)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2023-09.pdf" style="display:block;"> 
+    <img src="/issue/cover/2023-09.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №9 (2023)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2023-08.pdf" style="display:block;"> 
+    <img src="/issue/cover/2023-08.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №8 (2023)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2023-07.pdf" style="display:block;"> 
+    <img src="/issue/cover/2023-07.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №7 (2023)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2023-06.pdf" style="display:block;"> 
+    <img src="/issue/cover/2023-06.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №6 (2023)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2023-05.pdf" style="display:block;"> 
+    <img src="/issue/cover/2023-05.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №5 (2023)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2023-04.pdf" style="display:block;"> 
+    <img src="/issue/cover/2023-04.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №4 (2023)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2023-03.pdf" style="display:block;"> 
+    <img src="/issue/cover/2023-03.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №3 (2023)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2023-02.pdf" style="display:block;"> 
+    <img src="/issue/cover/2023-02.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №2 (2023)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2023-01.pdf" style="display:block;"> 
+    <img src="/issue/cover/2023-01.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №1 (2023)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+</div>
+
+
+
+
+
+<h2 style="text-align: center; clear:both; padding-top: 15pt;"> 2022 год</h2> 
+<div class="clearfix">
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2022-12.pdf" style="display:block;"> 
+    <img src="/issue/cover/2022-12.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №12 (2022)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2022-11.pdf" style="display:block;"> 
+    <img src="/issue/cover/2022-11.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №11 (2022)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2022-10.pdf" style="display:block;"> 
+    <img src="/issue/cover/2022-10.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №10 (2022)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2022-09.pdf" style="display:block;"> 
+    <img src="/issue/cover/2022-09.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №9 (2022)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2022-08.pdf" style="display:block;"> 
+    <img src="/issue/cover/2022-08.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №8 (2022)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2022-07.pdf" style="display:block;"> 
+    <img src="/issue/cover/2022-07.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №7 (2022)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2022-06.pdf" style="display:block;"> 
+    <img src="/issue/cover/2022-06.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №6 (2022)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2022-05.pdf" style="display:block;"> 
+    <img src="/issue/cover/2022-05.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №5 (2022)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2022-04.pdf" style="display:block;"> 
+    <img src="/issue/cover/2022-04.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №4 (2022)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2022-03.pdf" style="display:block;"> 
+    <img src="/issue/cover/2022-03.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №3 (2022)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2022-02.pdf" style="display:block;"> 
+    <img src="/issue/cover/2022-02.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №2 (2022)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2022-01.pdf" style="display:block;"> 
+    <img src="/issue/cover/2022-01.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №1 (2022)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+</div>
+
+
+
+
+
+<h2 style="text-align: center; clear:both; padding-top: 15pt;"> 2021 год</h2> 
+<div class="clearfix">
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2021-12.pdf" style="display:block;"> 
+    <img src="/issue/cover/2021-12.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №12 (2021)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2021-11.pdf" style="display:block;"> 
+    <img src="/issue/cover/2021-11.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №11 (2021)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2021-10.pdf" style="display:block;"> 
+    <img src="/issue/cover/2021-10.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №10 (2021)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2021-09.pdf" style="display:block;"> 
+    <img src="/issue/cover/2021-09.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №9 (2021)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2021-08.pdf" style="display:block;"> 
+    <img src="/issue/cover/2021-08.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №8 (2021)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2021-07.pdf" style="display:block;"> 
+    <img src="/issue/cover/2021-07.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №7 (2021)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2021-06.pdf" style="display:block;"> 
+    <img src="/issue/cover/2021-06.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №6 (2021)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2021-05.pdf" style="display:block;"> 
+    <img src="/issue/cover/2021-05.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №5 (2021)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2021-04.pdf" style="display:block;"> 
+    <img src="/issue/cover/2021-04.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №4 (2021)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2021-03.pdf" style="display:block;"> 
+    <img src="/issue/cover/2021-03.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №3 (2021)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2021-02.pdf" style="display:block;"> 
+    <img src="/issue/cover/2021-02.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №2 (2021)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2021-01.pdf" style="display:block;"> 
+    <img src="/issue/cover/2021-01.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №1 (2021)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+</div>
+
+
+
+
+
+<h2 style="text-align: center; clear:both; padding-top: 15pt;"> 2020 год</h2> 
+<div class="clearfix">
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2020-12.pdf" style="display:block;"> 
+    <img src="/issue/cover/2020-12.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №12 (2020)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2020-11.pdf" style="display:block;"> 
+    <img src="/issue/cover/2020-11.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №11 (2020)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2020-10.pdf" style="display:block;"> 
+    <img src="/issue/cover/2020-10.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №10 (2020)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2020-09.pdf" style="display:block;"> 
+    <img src="/issue/cover/2020-09.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №9 (2020)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2020-08.pdf" style="display:block;"> 
+    <img src="/issue/cover/2020-08.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №8 (2020)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2020-07.pdf" style="display:block;"> 
+    <img src="/issue/cover/2020-07.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №7 (2020)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2020-06.pdf" style="display:block;"> 
+    <img src="/issue/cover/2020-06.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №6 (2020)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2020-05.pdf" style="display:block;"> 
+    <img src="/issue/cover/2020-05.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №5 (2020)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2020-04.pdf" style="display:block;"> 
+    <img src="/issue/cover/2020-04.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №4 (2020)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2020-03.pdf" style="display:block;"> 
+    <img src="/issue/cover/2020-03.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №3 (2020)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2020-02.pdf" style="display:block;"> 
+    <img src="/issue/cover/2020-02.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №2 (2020)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2020-01.pdf" style="display:block;"> 
+    <img src="/issue/cover/2020-01.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №1 (2020)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+</div>
+
+
+
+
+
+<h2 style="text-align: center; clear:both; padding-top: 15pt;"> 2019 год</h2> 
+<div class="clearfix">
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2019-12.pdf" style="display:block;"> 
+    <img src="/issue/cover/2019-12.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №12 (2019)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2019-11.pdf" style="display:block;"> 
+    <img src="/issue/cover/2019-11.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №11 (2019)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2019-10.pdf" style="display:block;"> 
+    <img src="/issue/cover/2019-10.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №10 (2019)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2019-09.pdf" style="display:block;"> 
+    <img src="/issue/cover/2019-09.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №9 (2019)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2019-08.pdf" style="display:block;"> 
+    <img src="/issue/cover/2019-08.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №8 (2019)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2019-07.pdf" style="display:block;"> 
+    <img src="/issue/cover/2019-07.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №7 (2019)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2019-06.pdf" style="display:block;"> 
+    <img src="/issue/cover/2019-06.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №6 (2019)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2019-05.pdf" style="display:block;"> 
+    <img src="/issue/cover/2019-05.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №5 (2019)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2019-04.pdf" style="display:block;"> 
+    <img src="/issue/cover/2019-04.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №4 (2019)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2019-03.pdf" style="display:block;"> 
+    <img src="/issue/cover/2019-03.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №3 (2019)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2019-02.pdf" style="display:block;"> 
+    <img src="/issue/cover/2019-02.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №2 (2019)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2019-01.pdf" style="display:block;"> 
+    <img src="/issue/cover/2019-01.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №1 (2019)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+</div>
+
+
+
+
+
+<h2 style="text-align: center; clear:both; padding-top: 15pt;"> 2018 год</h2> 
+<div class="clearfix">
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2018-12.pdf" style="display:block;"> 
+    <img src="/issue/cover/2018-12.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №12 (2018)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2018-11.pdf" style="display:block;"> 
+    <img src="/issue/cover/2018-11.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №11 (2018)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2018-10.pdf" style="display:block;"> 
+    <img src="/issue/cover/2018-10.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №10 (2018)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2018-09.pdf" style="display:block;"> 
+    <img src="/issue/cover/2018-09.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №9 (2018)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2018-08.pdf" style="display:block;"> 
+    <img src="/issue/cover/2018-08.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №8 (2018)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2018-07.pdf" style="display:block;"> 
+    <img src="/issue/cover/2018-07.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №7 (2018)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2018-06.pdf" style="display:block;"> 
+    <img src="/issue/cover/2018-06.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №6 (2018)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2018-05.pdf" style="display:block;"> 
+    <img src="/issue/cover/2018-05.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №5 (2018)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2018-04.pdf" style="display:block;"> 
+    <img src="/issue/cover/2018-04.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №4 (2018)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2018-03.pdf" style="display:block;"> 
+    <img src="/issue/cover/2018-03.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №3 (2018)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2018-02.pdf" style="display:block;"> 
+    <img src="/issue/cover/2018-02.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №2 (2018)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2018-01.pdf" style="display:block;"> 
+    <img src="/issue/cover/2018-01.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №1 (2018)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+</div>
+
+
+
+
+
+<h2 style="text-align: center; clear:both; padding-top: 15pt;"> 2017 год</h2> 
+<div class="clearfix">
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2017-12.pdf" style="display:block;"> 
+    <img src="/issue/cover/2017-12.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №12 (2017)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2017-11.pdf" style="display:block;"> 
+    <img src="/issue/cover/2017-11.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №11 (2017)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2017-10.pdf" style="display:block;"> 
+    <img src="/issue/cover/2017-10.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №10 (2017)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2017-09.pdf" style="display:block;"> 
+    <img src="/issue/cover/2017-09.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №9 (2017)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2017-08.pdf" style="display:block;"> 
+    <img src="/issue/cover/2017-08.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №8 (2017)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2017-07.pdf" style="display:block;"> 
+    <img src="/issue/cover/2017-07.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №7 (2017)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2017-06.pdf" style="display:block;"> 
+    <img src="/issue/cover/2017-06.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №6 (2017)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2017-05.pdf" style="display:block;"> 
+    <img src="/issue/cover/2017-05.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №5 (2017)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2017-04.pdf" style="display:block;"> 
+    <img src="/issue/cover/2017-04.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №4 (2017)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2017-03.pdf" style="display:block;"> 
+    <img src="/issue/cover/2017-03.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №3 (2017)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2017-02.pdf" style="display:block;"> 
+    <img src="/issue/cover/2017-02.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №2 (2017)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2017-01.pdf" style="display:block;"> 
+    <img src="/issue/cover/2017-01.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №1 (2017)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+</div>
+
+
+
+
+
+<h2 style="text-align: center; clear:both; padding-top: 15pt;"> 2016 год</h2> 
+<div class="clearfix">
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2016-12.pdf" style="display:block;"> 
+    <img src="/issue/cover/2016-12.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №12 (2016)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2016-11.pdf" style="display:block;"> 
+    <img src="/issue/cover/2016-11.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №11 (2016)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2016-10.pdf" style="display:block;"> 
+    <img src="/issue/cover/2016-10.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №10 (2016)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2016-09.pdf" style="display:block;"> 
+    <img src="/issue/cover/2016-09.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №9 (2016)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2016-08.pdf" style="display:block;"> 
+    <img src="/issue/cover/2016-08.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №8 (2016)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2016-07.pdf" style="display:block;"> 
+    <img src="/issue/cover/2016-07.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №7 (2016)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2016-06.pdf" style="display:block;"> 
+    <img src="/issue/cover/2016-06.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №6 (2016)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2016-05.pdf" style="display:block;"> 
+    <img src="/issue/cover/2016-05.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №5 (2016)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2016-04.pdf" style="display:block;"> 
+    <img src="/issue/cover/2016-04.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №4 (2016)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2016-03.pdf" style="display:block;"> 
+    <img src="/issue/cover/2016-03.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №3 (2016)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2016-02.pdf" style="display:block;"> 
+    <img src="/issue/cover/2016-02.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №2 (2016)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2016-01.pdf" style="display:block;"> 
+    <img src="/issue/cover/2016-01.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №1 (2016)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+</div>
+
+
+
+
+
+<h2 style="text-align: center; clear:both; padding-top: 15pt;"> 2015 год</h2> 
+<div class="clearfix">
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2015-12.pdf" style="display:block;"> 
+    <img src="/issue/cover/2015-12.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №12 (2015)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2015-11.pdf" style="display:block;"> 
+    <img src="/issue/cover/2015-11.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №11 (2015)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2015-10.pdf" style="display:block;"> 
+    <img src="/issue/cover/2015-10.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №10 (2015)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2015-09.pdf" style="display:block;"> 
+    <img src="/issue/cover/2015-09.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №9 (2015)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2015-08.pdf" style="display:block;"> 
+    <img src="/issue/cover/2015-08.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №8 (2015)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2015-07.pdf" style="display:block;"> 
+    <img src="/issue/cover/2015-07.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №7 (2015)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2015-06.pdf" style="display:block;"> 
+    <img src="/issue/cover/2015-06.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №6 (2015)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2015-05.pdf" style="display:block;"> 
+    <img src="/issue/cover/2015-05.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №5 (2015)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2015-04.pdf" style="display:block;"> 
+    <img src="/issue/cover/2015-04.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №4 (2015)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2015-03.pdf" style="display:block;"> 
+    <img src="/issue/cover/2015-03.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №3 (2015)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2015-02.pdf" style="display:block;"> 
+    <img src="/issue/cover/2015-02.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №2 (2015)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2015-01.pdf" style="display:block;"> 
+    <img src="/issue/cover/2015-01.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №1 (2015)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+</div>
+
+
+
+
+
+<h2 style="text-align: center; clear:both; padding-top: 15pt;"> 2014 год</h2> 
+<div class="clearfix">
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2014-12.pdf" style="display:block;"> 
+    <img src="/issue/cover/2014-12.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №12 (2014)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2014-11.pdf" style="display:block;"> 
+    <img src="/issue/cover/2014-11.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №11 (2014)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2014-10.pdf" style="display:block;"> 
+    <img src="/issue/cover/2014-10.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №10 (2014)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2014-09.pdf" style="display:block;"> 
+    <img src="/issue/cover/2014-09.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №9 (2014)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2014-08.pdf" style="display:block;"> 
+    <img src="/issue/cover/2014-08.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №8 (2014)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2014-07.pdf" style="display:block;"> 
+    <img src="/issue/cover/2014-07.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №7 (2014)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2014-06.pdf" style="display:block;"> 
+    <img src="/issue/cover/2014-06.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №6 (2014)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2014-05.pdf" style="display:block;"> 
+    <img src="/issue/cover/2014-05.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №5 (2014)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2014-04.pdf" style="display:block;"> 
+    <img src="/issue/cover/2014-04.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №4 (2014)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2014-03.pdf" style="display:block;"> 
+    <img src="/issue/cover/2014-03.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №3 (2014)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2014-02.pdf" style="display:block;"> 
+    <img src="/issue/cover/2014-02.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №2 (2014)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2014-01.pdf" style="display:block;"> 
+    <img src="/issue/cover/2014-01.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №1 (2014)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+</div>
+
+
+
+
+
+<h2 style="text-align: center; clear:both; padding-top: 15pt;"> 2013 год</h2> 
+<div class="clearfix">
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2013-12.pdf" style="display:block;"> 
+    <img src="/issue/cover/2013-12.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №12 (2013)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2013-11.pdf" style="display:block;"> 
+    <img src="/issue/cover/2013-11.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №11 (2013)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2013-10.pdf" style="display:block;"> 
+    <img src="/issue/cover/2013-10.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №10 (2013)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2013-09.pdf" style="display:block;"> 
+    <img src="/issue/cover/2013-09.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №9 (2013)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2013-08.pdf" style="display:block;"> 
+    <img src="/issue/cover/2013-08.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №8 (2013)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2013-07.pdf" style="display:block;"> 
+    <img src="/issue/cover/2013-07.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №7 (2013)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2013-06.pdf" style="display:block;"> 
+    <img src="/issue/cover/2013-06.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №6 (2013)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2013-05.pdf" style="display:block;"> 
+    <img src="/issue/cover/2013-05.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №5 (2013)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2013-04.pdf" style="display:block;"> 
+    <img src="/issue/cover/2013-04.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №4 (2013)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2013-03.pdf" style="display:block;"> 
+    <img src="/issue/cover/2013-03.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №3 (2013)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2013-02.pdf" style="display:block;"> 
+    <img src="/issue/cover/2013-02.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №2 (2013)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2013-01.pdf" style="display:block;"> 
+    <img src="/issue/cover/2013-01.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №1 (2013)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+</div>
+
+
+
+
+
+<h2 style="text-align: center; clear:both; padding-top: 15pt;"> 2012 год</h2> 
+<div class="clearfix">
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2012-12.pdf" style="display:block;"> 
+    <img src="/issue/cover/2012-12.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №12 (2012)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2012-11.pdf" style="display:block;"> 
+    <img src="/issue/cover/2012-11.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №11 (2012)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2012-10.pdf" style="display:block;"> 
+    <img src="/issue/cover/2012-10.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №10 (2012)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2012-09.pdf" style="display:block;"> 
+    <img src="/issue/cover/2012-09.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №9 (2012)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2012-08.pdf" style="display:block;"> 
+    <img src="/issue/cover/2012-08.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №8 (2012)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2012-07.pdf" style="display:block;"> 
+    <img src="/issue/cover/2012-07.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №7 (2012)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2012-06.pdf" style="display:block;"> 
+    <img src="/issue/cover/2012-06.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №6 (2012)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2012-05.pdf" style="display:block;"> 
+    <img src="/issue/cover/2012-05.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №5 (2012)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2012-04.pdf" style="display:block;"> 
+    <img src="/issue/cover/2012-04.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №4 (2012)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2012-03.pdf" style="display:block;"> 
+    <img src="/issue/cover/2012-03.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №3 (2012)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2012-02.pdf" style="display:block;"> 
+    <img src="/issue/cover/2012-02.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №2 (2012)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+  
+  
+  
+   
+  <div class="responsive">
+<div class="gallery">
+    <a target="_blank" href="/issue/pdf/2012-01.pdf" style="display:block;"> 
+    <img src="/issue/cover/2012-01.jpg" alt="Обложка" width="150">
+    <div class="desc"><b>Полная версия.
+    №1 (2012)
+    </b></div>
+    </a>
+</div>
+ </div>  
+    
+
+</div>
+
+</p>
+
+<h1 id="almanacs">Альманахи</h1>
+
+<p>Материалы всех журналов собраны в альманахи по полугодиям. Каждый альманах содержит материалы шести журналов.</p>
+
+<div class="clearfix" style=" margin-bottom: 10px;">
+
+
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/6356/shop">
+   <img class="img-fluid" src="/img/related_titles/almanac-1.jpg" alt="img/related_titles/almanac-1.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/5306/shop">
+   <img class="img-fluid" src="/img/related_titles/almanac-2.jpg" alt="img/related_titles/almanac-2.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/5384/shop">
+   <img class="img-fluid" src="/img/related_titles/almanac-3.jpg" alt="img/related_titles/almanac-3.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/5526/shop">
+   <img class="img-fluid" src="/img/related_titles/almanac-4.jpg" alt="img/related_titles/almanac-4.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/5895/shop">
+   <img class="img-fluid" src="/img/related_titles/almanac-5.jpg" alt="img/related_titles/almanac-5.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/5910/shop">
+   <img class="img-fluid" src="/img/related_titles/almanac-6.jpg" alt="img/related_titles/almanac-6.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/5554/shop">
+   <img class="img-fluid" src="/img/related_titles/almanac-7.jpg" alt="img/related_titles/almanac-7.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/5625/shop">
+   <img class="img-fluid" src="/img/related_titles/almanac-8.jpg" alt="img/related_titles/almanac-8.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/5767/shop">
+   <img class="img-fluid" src="/img/related_titles/almanac-9.jpg" alt="img/related_titles/almanac-9.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/5981/shop">
+   <img class="img-fluid" src="/img/related_titles/almanac-10.jpg" alt="img/related_titles/almanac-10.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/6107/shop">
+   <img class="img-fluid" src="/img/related_titles/almanac-11.jpg" alt="img/related_titles/almanac-11.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/6364/shop">
+   <img class="img-fluid" src="/img/related_titles/almanac-12.jpg" alt="img/related_titles/almanac-12.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/12162/shop">
+   <img class="img-fluid" src="/img/related_titles/almanac-13.jpg" alt="img/related_titles/almanac-13.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/20997/shop">
+   <img class="img-fluid" src="/img/related_titles/almanac-14.jpg" alt="img/related_titles/almanac-14.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/41364/shop">
+   <img class="img-fluid" src="/img/related_titles/almanac-15.jpg" alt="img/related_titles/almanac-15.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/57460/shop">
+   <img class="img-fluid" src="/img/related_titles/almanac-16.jpg" alt="img/related_titles/almanac-16.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/82526/shop">
+   <img class="img-fluid" src="/img/related_titles/almanac-17.jpg" alt="img/related_titles/almanac-17.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/110158/shop">
+   <img class="img-fluid" src="/img/related_titles/almanac-18.jpg" alt="img/related_titles/almanac-18.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/139040/shop">
+   <img class="img-fluid" src="/img/related_titles/almanac-19.jpg" alt="img/related_titles/almanac-19.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/155318/shop">
+   <img class="img-fluid" src="/img/related_titles/almanac-20.jpg" alt="img/related_titles/almanac-20.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/200967">
+   <img class="img-fluid" src="/img/related_titles/almanac-21.jpg" alt="img/related_titles/almanac-21.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/225087">
+   <img class="img-fluid" src="/img/related_titles/almanac-22.jpg" alt="img/related_titles/almanac-22.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/243783">
+   <img class="img-fluid" src="/img/related_titles/almanac-23.jpg" alt="img/related_titles/almanac-23.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/289628">
+   <img class="img-fluid" src="/img/related_titles/almanac-24.jpg" alt="img/related_titles/almanac-24.jpg">
+    </a>
+</div>
+
+<p></div></p>
+
+<h1 id="biblio">Библиотечка</h1>
+
+<p>Библиотечка журнала «Квантик» &mdash; это книги, выходящие по материалам и в добавление к журналу.</p>
+
+<div class="clearfix" style=" margin-bottom: 10px;">
+
+
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/25518/shop">
+   <img class="img-fluid" src="/img/related_titles/biblio-100graney.jpg" alt="img/related_titles/biblio-100graney.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/8014/shop">
+   <img class="img-fluid" src="/img/related_titles/biblio-pereputanica.jpg" alt="img/related_titles/biblio-pereputanica.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/58494/shop">
+   <img class="img-fluid" src="/img/related_titles/biblio-busenka.jpg" alt="img/related_titles/biblio-busenka.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/281447">
+   <img class="img-fluid" src="/img/related_titles/biblio-upramougol.jpg" alt="img/related_titles/biblio-upramougol.jpg">
+    </a>
+</div>
+
+<p></div></p>
+
+<h1 id="posters">Плакаты</h1>
+
+<p>В каждом комплекте 10 плакатов с занимательными задачами для школьных кабинетов математики и физики.</p>
+
+<div class="clearfix" style=" margin-bottom: 10px;">
+
+
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/5487/shop">
+   <img class="img-fluid" src="/img/related_titles/posters-1.jpg" alt="img/related_titles/posters-1.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/5506/shop">
+   <img class="img-fluid" src="/img/related_titles/posters-2.jpg" alt="img/related_titles/posters-2.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/5863/shop">
+   <img class="img-fluid" src="/img/related_titles/posters-3.jpg" alt="img/related_titles/posters-3.jpg">
+    </a>
+</div>
+
+<p></div></p>
+
+<h1 id="calendars">Календари</h1>
+
+<p>Настенный перекидной календарь загадок с решениями. На каждой странице &mdash; календарь на месяц и задача-картинка.</p>
+
+<div class="clearfix" style=" margin-bottom: 10px;">
+
+
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/3438/shop">
+   <img class="img-fluid" src="/img/related_titles/calendar_2014.jpg" alt="img/related_titles/calendar_2014.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/5263/shop">
+   <img class="img-fluid" src="/img/related_titles/calendar_2015.jpg" alt="img/related_titles/calendar_2015.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/5486/shop">
+   <img class="img-fluid" src="/img/related_titles/calendar_2016.jpg" alt="img/related_titles/calendar_2016.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/5730/shop">
+   <img class="img-fluid" src="/img/related_titles/calendar_2017.jpg" alt="img/related_titles/calendar_2017.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/6018/shop">
+   <img class="img-fluid" src="/img/related_titles/calendar_2018.jpg" alt="img/related_titles/calendar_2018.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/6333/shop">
+   <img class="img-fluid" src="/img/related_titles/calendar_2019.jpg" alt="img/related_titles/calendar_2019.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/23656/shop">
+   <img class="img-fluid" src="/img/related_titles/calendar_2020.jpg" alt="img/related_titles/calendar_2020.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/65543/shop">
+   <img class="img-fluid" src="/img/related_titles/calendar_2021.jpg" alt="img/related_titles/calendar_2021.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/109648/shop">
+   <img class="img-fluid" src="/img/related_titles/calendar_2022.jpg" alt="img/related_titles/calendar_2022.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/153590/shop">
+   <img class="img-fluid" src="/img/related_titles/calendar_2023.jpg" alt="img/related_titles/calendar_2023.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/211867">
+   <img class="img-fluid" src="/img/related_titles/calendar_2024.jpg" alt="img/related_titles/calendar_2024.jpg">
+    </a>
+</div>
+
+<div style="float:left; margin:20px; height:300px;">
+    <a href="https://biblio.mccme.ru/node/249940">
+   <img class="img-fluid" src="/img/related_titles/calendar_2025.jpg" alt="img/related_titles/calendar_2025.jpg">
+    </a>
+</div>
+
+<p></div></p>
+
+<h1 id="DIY">Своими руками</h1>
+
+<ul>
+<li><a href="/extra/flexor.pdf">Флексор с инструкцией</a></li>
+<li><a href="/extra/flexagon_short.pdf">Заготовка для флексагона-полоски</a></li>
+<li><a href="/extra/flexagon_square.pdf">Квадратный флексагон с инструкцией</a></li>
+<li><a href="https://old.kvantik.com/art/files/pdf/2012-06.16-18.pdf">Кубический флексагон</a></li>
+<li><a href="/extra/tetrahedron-halves.pdf">Развертки половинок тетраэдра</a></li>
+<li><a href="/extra/calendar-dodecahedron-2021.pdf">Развертка календаря-додекаэдра на 2021 год</a></li>
+<li><a href="/extra/tetracon.pdf">Развертка тетракона</a></li>
+<li><a href="/extra/heptadodecahedron-fold.pdf">Развёртка тороидального многогранника из семиугольников</a></li>
+<li><a href="/extra/poloska.pdf">Пилотируемая полоска</a></li>
+<li><a href="/extra/cube-of-tubes/index.html">Куб из трубочек</a></li>
+<li><a href="/extra/antislide.pdf">Головоломка «Антислайд с кирпичами»</a></li>
+<li><a href="/extra/7-7.pdf">Головоломка «Семь семёрок»</a></li>
+<li><a href="/extra/pustota.pdf">Головоломка «Трансформация пустоты»</a></li>
+<li><a href="https://old.kvantik.com/art/files/pdf/2012-02.12-18.pdf">Комната Эймса</a></li>
+<li><a href="https://old.kvantik.com/art/files/pdf/2012-09.16-18.pdf">Оптическая иллюзия — Квантик вертит головой</a></li>
+<li><a href="https://old.kvantik.com/art/files/pdf/2012-07.15-18.pdf">Головоломка «Исчезающий клоун»</a></li>
+<li><a href="https://old.kvantik.com/art/files/pdf/2012-10.14-19.pdf">Развертки невозможных фигур</a></li>
+<li><a href="https://kvantik.com/extra/pentagon.pdf">Развертка календаря-пентагондодекаэдра на 2022 год</a></li>
+<li><a href="https://kvantik.com/extra/elochka2022.pdf">Головоломка «Ёлочка-2022»</a></li>
+<li><a href="https://kvantik.com/extra/sneg.pdf">Головоломка «Снежинка-2022»</a></li>
+<li><a href="https://kvantik.com/extra/rule.pdf">Логарифмическая линейка</a></li>
+<li><a href="https://kvantik.com/extra/2-kuba.pdf">Головоломка «Два куба из пентамино»</a></li>
+</ul>
+
+<h1 id="video">Видео</h1>
+
+<ul>
+<li><a href="/online">Архив онлайн-кружка «Квантика»</a></li>
+<li><a href="http://www.youtube.com/playlist?list=PLrjlKdQ24UtJOU_hY7W1OVtUhEIgy4Miw">Видео</a> к статьям рубрики «Четыре стихии Эмпедокла»</li>
+<li><a href="http://zadachi.mccme.ru/misc/adpk/">Видео</a> о том, как построить электросхему из подручных средств. «Логические кубики» изготовили Михаил Панов и Артемий Шведов. Рассказывает Александр Зайцев.</li>
+<li><a href="https://kvantik.com/short/trimino-video">Решения</a> задачи о флексотримино (Квантик №5, 2022)</li>
+<li><a href="https://kvantik.com/short/copter-video">Изготовление</a> бумажного вертолета (Квантик №8, 2022).</li>
+<li><a href="https://kvantik.com/short/spincap">Инструкция</a> по сборке волчка и колпачка из бумаги (Квантик №10, 2022).</li>
+</ul>
+
+</div></div>
+
+
+    <div class="footer" style="margin-bottom: 0;">
+        <p><a href="http://www.mccme.ru/"><img src="/img/logo_mcnmo.gif" /></a>
+        </p>
+        	<p>&copy; 2012-2026 Квантик</p>
+        <hr/>
+</div>
+
+    
+
+    </div>
+  </body>
+</html>

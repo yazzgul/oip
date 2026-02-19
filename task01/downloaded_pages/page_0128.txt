@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+
+  <title>Один момент...</title>
+</head>
+
+<body>
+  <script>
+    ((syncUrl, backUrl, cookieName) => {
+      var timeout = setTimeout(() => {
+        window.location.href = backUrl;
+      }, 500);
+
+      fetch(syncUrl, { method: 'HEAD' })
+        .then(response => {
+          console.log('head response', response);
+          if (response.status === 200) {
+            clearTimeout(timeout);
+            console.log('redirect to sberid for autologin', syncUrl);
+            window.location.href = syncUrl;
+          }
+          else {
+            clearTimeout(timeout);
+            document.cookie = cookieName + "=1; path=/; domain=.afisha.ru; SameSite=Lax; max-age=3600;";
+            console.log('redirect to afisha because sberid ping failed', backUrl);
+            window.location.href = backUrl;
+          }
+        })
+        .catch(e => {
+          document.cookie = cookieName + "=1; path=/; domain=.afisha.ru; SameSite=Lax; max-age=3600;";
+          console.log('exception', e);
+          clearTimeout(timeout);
+          window.location.href = backUrl;
+        });
+    })('https://id.sber.ru/CSAFront/oidc/authorize.do?response_type=code&client_id=7724ac84-90d7-434b-a5c9-ea131569d8b4&state=ftq-o456N4mFJ_Zp7axCfsPU8imcFq1vFVti334OQavib94I&redirect_uri=https%3A%2F%2Fwww.afisha.ru%2Fauth%2Fcb%2F&scope=openid name email mobile birthdate gender&nonce=ad66b6ca67763009876f3843426a09ea&prompt=light&machineClick=aggressivelogin&logUid=919b6eb9b72247de925488d1d13e2e84', 'https://www.afisha.ru/news/', 'SberIdFailed');
+  </script>
+</body>
+</html>

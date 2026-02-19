@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <noscript><meta http-equiv="refresh" content="0; url=/exhkqyad"></noscript>
+</head>
+<style>
+    .container {
+      display: flex;
+      align-content: center;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+    .load {
+      color: grey;
+      font-size: 3vh;
+    }
+    .spinner {
+      display: block;
+      background:  url('//servicepipe.ru/loaders/default.gif');
+      width: 64px;
+      height: 64px;
+    }
+</style>
+<body>
+  <div id="id_spinner" class="container"><div class="load"></div><div class="spinner"></div></div>
+  <div id="id_captcha_frame_div" style="display: none;height: 100vh;"></div>
+  <script type="text/javascript" src="//servicepipe.ru/static/jsrsasign-all-min.js"></script>
+  <script type="text/javascript">
+
+function get_cookie_spsn() {
+  return "spsn=1771524480194_";
+}
+function get_cookie_spid() {
+  return "spid=1771524480194_1178b95ec7a809eda96e6dbbbc03978a_u8en4u4ji6n19map";
+}
+function get_options() {
+  return JSON.parse('{"kncdipiytd":"1771524480194_b9fb4c219b48e209a0ad10d0","iamehkqlib":"5bf1da6bd3a2d81eae00240e56eb7189","woprmswjtq":10826,"ojqqomaznz":"_ngy2vRyLlXboFQE5J6mZ7jXR8tQyc3Ibab3C0kpbi.YZ","bmdxprfwqa":17,"twdoonmfjr":1,"sauoqhgdwa":false,"is_captcha":false,"0hjsihgukl":false}');
+}
+function get_location() {
+  return "https://tass.ru/";
+}
+
+  </script>
+  <script type="text/javascript" src="//servicepipe.ru/static/checkjs/6352d0/2kct58qDqg.js" integrity="sha256-Y1LQcJ/t1dlztYp91PFlkrTIFbggc8v58VQFgnnm1NM=" crossorigin="anonymous"></script>
+</body>
+</html>

@@ -1,0 +1,732 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Парламентская газета: Государственная Дума, Совет Федерации, законы | Парламентская газета</title>
+                <meta name="description" content="Официальное издание Федерального Собрания РФ: последние новости Госдумы, Совета Федерации и регионов. Главные законы, указы и постановления.">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+                
+
+    <link rel="canonical" href="https://www.pnp.ru/">
+<meta name="mailru-domain" content="keDXuR4FD9DEhxWp">
+<meta name="yandex-verification" content="237c1bd0bb3b7d83" >
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&family=Roboto+Slab:wght@300;400&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://www.pnp.ru//static/2/css/all.css">
+<link rel="shortcut icon" href="https://www.pnp.ru//static/2/i/favicon.png" type="image/png">
+
+<script src="https://www.pnp.ru//static/2/js/jquery-3.6.3.min.js"></script>
+
+	            
+<!-- Yandex.Metrika counter --> <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(18703852, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/18703852" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+new Image().src = "//counter.yadro.ru/hit;pnpru?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+
+";"+Math.random();//--></script><!--/LiveInternet-->
+
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = _tmr || [];
+_tmr.push({id: "2634753", type: "pageView", start: (new Date()).getTime()});
+(function (d, w) {
+var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+</script>
+<!-- //Rating@Mail.ru counter -->
+
+<!--Adfox-->
+<script>window.yaContextCb = window.yaContextCb || []</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+<script>
+function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br /><br /> Подробнее в ПГ: ' + document.location.href,
+            copytext = selection + pagelink,
+            newdiv = document.createElement('div');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', (event) => {
+    const pagelink = `\n\nПодробнее в ПГ: ${document.location.href}`;
+    event.clipboardData.setData('text', document.getSelection() + pagelink);
+    event.preventDefault();
+});
+
+</script>
+<script type='application/ld+json'>
+{
+  "@context": "http://www.schema.org",
+  "@type": "Organization",
+  "name": "АНО «Парламентская газета»",
+  "url": "https://www.pnp.ru",
+  "sameAs": [
+"https://www.vk.com/pnpru",
+"https://t.me/parlament_novosti",
+"https://ok.ru/pnpru",
+"https://rutube.ru/channel/25018140/videos/"
+],
+  "description": "Официальное издание Федерального Собрания РФ: последние новости Госдумы, Совета Федерации и регионов. Главные законы, указы и постановления.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1-я ул. Ямского Поля 28",
+	"addressLocality": "Москва",
+	"addressRegion": "Москва",
+	"postalCode": "125124",
+	"addressCountry": "Россия"
+  }
+}
+</script>
+
+    
+</head>
+<body id="pageTop">
+<header class="page-header">
+    <a href="#pageTop" class="scroll-top"></a>
+    <div class="page-header-i">
+        <a href="https://www.pnp.ru/" class="page-header__logo">
+            <picture>
+                <source media="(max-width: 768px)" srcset="https://www.pnp.ru//static/2/i/logo_m.png">
+                <img src="https://www.pnp.ru//static/2/i/logo_svg.svg" style="" alt="Парламентская Газета" title="Парламентская Газета">
+            </picture>
+                            <h1 class="hide_on_b">Издание<br>Федерального Собрания<br>Российской Федерации</h1>
+                    </a>
+        <time class="page-header__timestamp print" datetime="2026-02-19 21:12">19.02.2026 в 21:12</time>
+        <ul class="page-header__links screen hide_on_m">
+            <li><a href="https://www.pnp.ru/newspaper/">Свежий номер</a></li>
+            <li><a href="https://www.pnp.ru/law/">Законы</a></li>
+            <li><a href="https://www.pnp.ru/subscription/">Подписка</a></li>
+            <li><a href="https://www.pnp.ru/russia-today/">Журнал &laquo;РФ сегодня&raquo;</a></li>
+        </ul>
+        <form class="page-header__search screen" action="/search/" method="get">
+            <input name="query" type="text" placeholder="Поиск по сайту">
+            <button title="Найти">
+                <svg><use xlink:href="https://www.pnp.ru//static/2/i/search-icon.svg#icon"/></svg>
+            </button>
+        </form>
+        <a class="page-header__searchbutton js-togglesearch" href="javascript:void(0);">
+            <svg><use xlink:href="https://www.pnp.ru//static/2/i/search-icon.svg#icon"/></svg>
+            <svg><use xlink:href="https://www.pnp.ru//static/2/i/close-icon.svg#icon"/></svg>
+        </a>
+        <a class="page-header__menubutton js-togglemenu" href="javascript:void(0);">
+            <svg><use xlink:href="https://www.pnp.ru//static/2/i/menu-icon.svg#icon"/></svg>
+            <svg><use xlink:href="https://www.pnp.ru//static/2/i/close-icon.svg#icon"/></svg>
+        </a>
+        <div class="page-header__mobilemenu">
+            <nav>
+    <ul>
+                        <li><a  href="https://www.pnp.ru/politics/">Политика</a></li>
+                                <li><a  href="https://www.pnp.ru/economics/">Экономика</a></li>
+                                <li><a  href="https://www.pnp.ru/social/">Общество</a></li>
+                                <li><a  href="https://www.pnp.ru/in-world/">В мире</a></li>
+                                <li><a  href="https://www.pnp.ru/incident/">Происшествия</a></li>
+                                <li><a  href="https://www.pnp.ru/culture/">Культура</a></li>
+                                <li><a  href="https://www.pnp.ru/law/">Законы</a></li>
+                                <li><a  href="https://www.pnp.ru/state-duma/">Госдума</a></li>
+                                <li><a  href="https://www.pnp.ru/federation-council/">Совет Федерации</a></li>
+                                <li><a  href="https://www.pnp.ru/photo-report/">Фото</a></li>
+                                <li><a  href="https://www.pnp.ru/video/">Видео</a></li>
+                                <li><a  href="https://www.pnp.ru/poll/">Опросы</a></li>
+                                <li><a  href="https://www.pnp.ru/regions/">Регионы</a></li>
+                                <li><a  href="https://www.pnp.ru/auto/">Авто</a></li>
+                                <li><a  href="https://www.pnp.ru/real-estate/">Недвижимость</a></li>
+                                <li><a  href="https://www.pnp.ru/technology/">Технологии</a></li>
+                    </ul>
+</nav>        </div>
+    </div>
+</header>
+
+<div class="menu_top screen hide_on_m">
+    <div class="content">
+        <nav>
+            <ul>
+                                        <li><a  href="https://www.pnp.ru/politics/">Политика</a></li>
+                                                <li><a  href="https://www.pnp.ru/economics/">Экономика</a></li>
+                                                <li><a  href="https://www.pnp.ru/social/">Общество</a></li>
+                                                <li><a  href="https://www.pnp.ru/in-world/">В мире</a></li>
+                                                <li><a  href="https://www.pnp.ru/incident/">Происшествия</a></li>
+                                                <li><a  href="https://www.pnp.ru/culture/">Культура</a></li>
+                                        <li class="more" id="more"><a href="javascript:void(0);">Ещё</a></li>
+                <div class="right">
+                                                <li><a  href="https://www.pnp.ru/state-duma/">Госдума</a></li>
+                                                        <li><a  href="https://www.pnp.ru/federation-council/">Совет Федерации</a></li>
+                                            </div>
+            </ul>
+        </nav>
+    </div>
+
+    <div class="menu_more" id="menu_more">
+        <div class="content">
+            <nav>
+                <ul>
+                                                <li><a  href="https://www.pnp.ru/video/">Видео</a></li>
+                                                        <li><a  href="https://www.pnp.ru/poll/">Опросы</a></li>
+                                                        <li><a  href="https://www.pnp.ru/photo-report/">Фото</a></li>
+                                                        <li><a  href="https://www.pnp.ru/author/">Авторы</a></li>
+                                                        <li><a  href="https://www.pnp.ru/person/">Персоны</a></li>
+                                                        <li><a  href="https://www.pnp.ru/opinions/">Мнения</a></li>
+                                                        <li><a  href="https://www.pnp.ru/regions/">Регионы</a></li>
+                                                        <li><a  href="https://www.pnp.ru/press-center/">Пресс-центр</a></li>
+                                                        <li><a  href="https://www.pnp.ru/interview/">Интервью</a></li>
+                                                        <li><a  href="https://www.pnp.ru/columnists/">Колумнисты</a></li>
+                                                        <li><a  href="https://www.pnp.ru/expert/">Деловая экспертиза</a></li>
+                                                        <li><a  href="https://www.pnp.ru/auto/">Авто</a></li>
+                                                        <li><a  href="https://www.pnp.ru/real-estate/">Недвижимость</a></li>
+                                                        <li><a  href="https://www.pnp.ru/technology/">Технологии</a></li>
+                                            </ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+<nav class="menu-top-mobile">
+    <a href="https://www.pnp.ru/top/">Статьи</a>
+    <a href="https://www.pnp.ru/news/">Новости</a>
+</nav>
+
+<div class="page"><div class="content">
+        <!-- сюжет -->
+
+<div class="story_container screen" style=" ">
+<div class="background" ><img src="https://www.pnp.ru/static/2/i/story_bg_shade.png"></div>
+<div class="story">
+    <p class="header"><a href="https://www.pnp.ru/story/vse-o-pensiyakh-v-rossii/">Все о пенсиях в России</a></p>
+    <div class="story_news">
+                                                            <p class="title"><a href="https://www.pnp.ru/social/srednyaya-pensiya-po-starosti-v-rossii-prevysila-27-tysyach-rubley.html?utm_source=pnpru&utm_medium=story&utm_campaign=main_page"><span class="time">10:24</span>Средняя пенсия по старости в России превысила 27 тысяч рублей</a></p>
+                                                            <p class="title"><a href="https://www.pnp.ru/economics/o-naznachenii-socdoplaty-k-pensii-soobshhat-bystree.html?utm_source=pnpru&utm_medium=story&utm_campaign=main_page"><span class="time">два дня назад</span>О назначении соцдоплаты к пенсии сообщат быстрее</a></p>
+                                                            <p class="title"><a href="https://www.pnp.ru/social/socdoplatu-k-pensii-budut-naznachat-po-novym-pravilam.html?utm_source=pnpru&utm_medium=story&utm_campaign=main_page"><span class="time">два дня назад</span>Соцдоплату к пенсии будут назначать по новым правилам</a></p>
+                </div>   
+</div>
+</div> 
+
+
+<!-- .. сюжет -->
+
+        
+        
+
+<!-- контейнер для выравнивания высоты боков первого экрана -->
+<div class="container_1">
+
+        <div class="articles-top">
+        <h3 class="articles-top__header"><a href="https://www.pnp.ru/top/">Главное</a></h3>
+                    <div class="articles-top-item articles-top-item_main">
+				<a href="https://www.pnp.ru/social/evraziyskiy-zhenskiy-forum-ukreplyaet-mezhdunarodnoe-sotrudnichestvo.html">
+					<img src="https://www.pnp.ru//upload/entities/2026/02/19/18/article/detailPicture/c5/3b/56/d9/7c96ad534e684f5c775961b000c5aef8.jpg" alt="Евразийский женский форум укрепляет международное сотрудничество">					<div class="articles-top-item__info">
+						<p class="articles-top-item__title">Евразийский женский форум укрепляет международное сотрудничество</p>
+						<p class="articles-top-item__subtitle">Мероприятия в рамках проектов ЕЖФ запланированы в 10 странах
+
+</p>
+											</div>
+				</a>
+			</div>
+                    <div class="main_page_articles_list main_page_articles_list_3cols" style="width: 100%;">
+                                                            <div class="item" style=" border-bottom: none; ">
+                    <a href="https://www.pnp.ru/politics/chem-zakonchilis-trekhstoronnie-peregovory-po-ukraine-v-zheneve.html"><img src="https://www.pnp.ru//upload/entities/2026/02/19/19/article/teaserPicture/72/ac/65/0b/558ca2adffa03df1620f514d2d909eeb.jpg" alt="Чем закончились трехсторонние переговоры по Украине в Женеве" loading="lazy"></a>
+                    <p class="title"><a href="https://www.pnp.ru/politics/chem-zakonchilis-trekhstoronnie-peregovory-po-ukraine-v-zheneve.html">Чем закончились трехсторонние переговоры по Украине в Женеве</a></p>
+                    <p class="title2"><a href="https://www.pnp.ru/politics/chem-zakonchilis-trekhstoronnie-peregovory-po-ukraine-v-zheneve.html">Сенатор Владимир Джабаров считает, что Киев создает видимость переговоров, чтобы окончательно не разозлить Трампа</a></p>
+                </div>
+                                            <div class="item" style=" border-bottom: none; ">
+                    <a href="https://www.pnp.ru/economics/deputat-chetyrbok-razyasnil-vozmozhnyy-mekhanizm-zapreta-migrantam-rabotat-v-torgovle.html"><img src="https://www.pnp.ru//upload/entities/2026/02/19/18/article/teaserPicture/d5/d7/b5/ce/fb98712986945f1a0bd187fb5cf6946c.jpg" alt="Депутат Четырбок разъяснил возможный механизм запрета мигрантам работать в торговле" loading="lazy"></a>
+                    <p class="title"><a href="https://www.pnp.ru/economics/deputat-chetyrbok-razyasnil-vozmozhnyy-mekhanizm-zapreta-migrantam-rabotat-v-torgovle.html">Депутат Четырбок разъяснил возможный механизм запрета мигрантам работать в торговле</a></p>
+                    <p class="title2"><a href="https://www.pnp.ru/economics/deputat-chetyrbok-razyasnil-vozmozhnyy-mekhanizm-zapreta-migrantam-rabotat-v-torgovle.html">По его словам, ограничить можно как всю сферу, так и отдельные направления</a></p>
+                </div>
+                                            <div class="item" style=" border-bottom: none; ">
+                    <a href="https://www.pnp.ru/social/delat-konfety-s-alkogolem-khotyat-razreshit-v-chastnykh-konditerskikh.html"><img src="https://www.pnp.ru//upload/entities/2026/02/19/16/article/teaserPicture/fa/d1/8b/91/ebd7d656a049a233d72ff6bc4ff1ba83.jpg" alt="Делать конфеты с алкоголем хотят разрешить в частных кондитерских" loading="lazy"></a>
+                    <p class="title"><a href="https://www.pnp.ru/social/delat-konfety-s-alkogolem-khotyat-razreshit-v-chastnykh-konditerskikh.html">Делать конфеты с алкоголем хотят разрешить в частных кондитерских</a></p>
+                    <p class="title2"><a href="https://www.pnp.ru/social/delat-konfety-s-alkogolem-khotyat-razreshit-v-chastnykh-konditerskikh.html">Сейчас это позволено только крупным производителям</a></p>
+                </div>
+                                            <div class="item" style=" border-bottom: none; ">
+                    <a href="https://www.pnp.ru/social/goryachaya-eda-i-gostinica-na-chto-imeet-pravo-passazhir-pri-zaderzhke-reysa.html"><img src="https://www.pnp.ru//upload/entities/2026/02/19/15/article/teaserPicture/bf/72/4b/14/39044f8572d256f1565c994b3fd4ddd2.jpg" alt="Горячая еда и гостиница: на что имеет право пассажир при задержке рейса" loading="lazy"></a>
+                    <p class="title"><a href="https://www.pnp.ru/social/goryachaya-eda-i-gostinica-na-chto-imeet-pravo-passazhir-pri-zaderzhke-reysa.html">Горячая еда и гостиница: на что имеет право пассажир при задержке рейса</a></p>
+                    <p class="title2"><a href="https://www.pnp.ru/social/goryachaya-eda-i-gostinica-na-chto-imeet-pravo-passazhir-pri-zaderzhke-reysa.html">Из-за аномального снегопада в Москве может измениться расписание полетов</a></p>
+                </div>
+                                            <div class="item" style=" border-bottom: none; ">
+                    <a href="https://www.pnp.ru/economics/bespilotnye-traktora-i-drony-s-ii-kak-v-rossii-razvivaetsya-selskoe-kiberkhozyaystvo.html"><img src="https://www.pnp.ru//upload/entities/2026/02/19/14/article/teaserPicture/7c/3c/fe/8b/376e8d71d80520557987c7da0e2488f4.jpg" alt="Беспилотные тракторы и дроны с ИИ: как в России развивается сельское «киберхозяйство»" loading="lazy"></a>
+                    <p class="title"><a href="https://www.pnp.ru/economics/bespilotnye-traktora-i-drony-s-ii-kak-v-rossii-razvivaetsya-selskoe-kiberkhozyaystvo.html">Беспилотные тракторы и дроны с ИИ: как в России развивается сельское «киберхозяйство»</a></p>
+                    <p class="title2"><a href="https://www.pnp.ru/economics/bespilotnye-traktora-i-drony-s-ii-kak-v-rossii-razvivaetsya-selskoe-kiberkhozyaystvo.html">Уже сейчас в распоряжении аграриев числится более 24 тысяч единиц автономной техники</a></p>
+                </div>
+                                            <div class="item" style=" border-bottom: none; ">
+                    <a href="https://www.pnp.ru/politics/ot-bumazhnykh-byulleteney-v-rossii-ne-otkazhutsya.html"><img src="https://www.pnp.ru//upload/entities/2026/02/19/13/article/teaserPicture/8f/bd/ee/9b/b96ce225473d569ea4a93610b4b61ebb.jpg" alt="От бумажных бюллетеней в России не откажутся" loading="lazy"></a>
+                    <p class="title"><a href="https://www.pnp.ru/politics/ot-bumazhnykh-byulleteney-v-rossii-ne-otkazhutsya.html">От бумажных бюллетеней в России не откажутся</a></p>
+                    <p class="title2"><a href="https://www.pnp.ru/politics/ot-bumazhnykh-byulleteney-v-rossii-ne-otkazhutsya.html">В Таврическом дворце показали проект подготовленной для ООН новой Декларации о принципах международного наблюдения за выборами</a></p>
+                </div>
+                    </div>
+    </div>
+
+    <!-- новости, баннер, опрос -->
+    <div class="art_news_plus">
+	    <h3 class="header"><a href="https://www.pnp.ru/news/">Новости</a></h3>
+		<div class="art_news_plus_wrap">
+        	
+<div class="infoblock_news_container">
+            <div class="infoblock infoblock_news news_scroll" style="overflow: hidden" data-mcs-theme="dark-thin">
+                        <br />
+                        <p class="title"><a href="https://www.pnp.ru/economics/manturov-zakon-o-rossiyskoy-polke-mogut-prinyat-v-vesennyuyu-sessiyu-gosdumy.html"><span class="time">21:05</span>Мантуров: Закон о «российской полке» могут принять в весеннюю сессию Госдумы</a></p>
+                        <p class="title"><a href="https://www.pnp.ru/social/zakony-vstupayushhie-v-silu-s-20-fevralya-3.html"><span class="time">21:00</span>Законы, вступающие в силу с 20 февраля</a></p>
+                        <p class="title"><a href="https://www.pnp.ru/in-world/merc-nazval-prakticheski-nevozmozhnym-vosstanovlenie-normalnykh-otnosheniy-s-putinym.html"><span class="time">20:43</span>Мерц назвал практически невозможным восстановление нормальных отношений с Путиным</a></p>
+                        <p class="title"><a href="https://www.pnp.ru/in-world/tramp-na-god-prodlil-sankcii-ssha-protiv-rossii-iz-za-situacii-na-ukraine.html"><span class="time">20:37</span>Трамп на год продлил санкции США против России из-за ситуации на Украине </a></p>
+                        <p class="title"><a href="https://www.pnp.ru/social/senator-rasshirenie-polnomochiy-glav-gubernatorov-sdelaet-detskiy-otdykh-bezopasnee.html"><span class="time">20:07</span>Сенатор: Расширение полномочий глав губернаторов сделает детский отдых безопаснее</a></p>
+                        <p class="title"><a href="https://www.pnp.ru/economics/fas-ustanovila-nadbavku-1-k-gruzovym-zhd-tarifam-s-1-marta.html"><span class="time">19:58</span>ФАС установила надбавку 1% к грузовым ж/д тарифам с 1 марта</a></p>
+                        <p class="title"><a href="https://www.pnp.ru/politics/polnomochiya-soveta-dumy-predlozhili-konkretizirovat.html"><span class="time">19:39</span>Полномочия Совета Думы предложили конкретизировать</a></p>
+                        <p class="title"><a href="https://www.pnp.ru/social/v-rossii-nachnut-bystree-blokirovat-onlayn-kazino.html"><span class="time">19:25</span>В России начнут быстрее блокировать онлайн-казино</a></p>
+                        <p class="title"><a href="https://www.pnp.ru/economics/kabmin-predlozhil-utochnit-perechen-dokumentov-dlya-opredeleniya-detskikh-tovarov.html"><span class="time">18:58</span>Кабмин предложил уточнить перечень документов для определения детских товаров</a></p>
+                        <p class="title"><a href="https://www.pnp.ru/social/senator-karelova-rasskazala-o-planakh-soveta-evraziyskogo-zhenskogo-foruma-v-2026-godu.html"><span class="time">18:56</span>Сенатор Карелова рассказала о планах Совета Евразийского женского форума в 2026 году</a></p>
+                        <p class="title"><a href="https://www.pnp.ru/economics/otvetstvennost-dlya-sotrudnikov-inostrannykh-bankov-predlozhili-uzhestochit.html"><span class="time">18:47</span>Ответственность для сотрудников иностранных банков предложили ужесточить</a></p>
+                        <p class="title"><a href="https://www.pnp.ru/politics/ekspert-soobshheniya-o-podgotovke-ssha-k-snyatiyu-sankciy-s-rossii-instrument-davleniya.html"><span class="time">18:33</span>Эксперт: Сообщения о подготовке США к снятию санкций с России — инструмент давления</a></p>
+                        <p class="title"><a href="https://www.pnp.ru/social/rossiya-zavoevala-pervuyu-medal-na-olimpiade-v-italii.html"><span class="time">18:21</span>Россия завоевала первую медаль на Олимпиаде в Италии</a></p>
+                        <p class="title"><a href="https://www.pnp.ru/in-world/evrokomissiya-predupredila-o-posledstviyakh-operacii-ssha-protiv-irana.html"><span class="time">18:12</span>Еврокомиссия предупредила о последствиях операции США против Ирана</a></p>
+                        <p class="title"><a href="https://www.pnp.ru/social/v-programmu-foruma-ekologiya-voydut-26-sessiy-po-semi-napravleniyam.html"><span class="time">18:10</span>В программу форума «Экология» войдут 26 сессий по семи направлениям</a></p>
+                        <p class="title"><a href="https://www.pnp.ru/politics/peskov-rossiya-ne-vidit-smysla-v-uchastii-es-v-peregovorakh-po-ukraine.html"><span class="time">17:42</span>Песков: Россия не видит смысла в участии ЕС в переговорах по Украине</a></p>
+                        <p class="title"><a href="https://www.pnp.ru/social/rossiyanam-rasskazali-kak-poluchit-kompensaciyu-za-ushherb-ot-upavshego-snega-ili-lda.html"><span class="time">17:38</span>Россиянам рассказали, как получить компенсацию за ущерб от упавшего снега или льда</a></p>
+                        <p class="title"><a href="https://www.pnp.ru/politics/deputat-chepa-turcii-i-ssha-mozhet-byt-interesno-finansirovanie-zhd-v-armenii.html"><span class="time">17:36</span>Депутат Чепа: Турции и США может быть интересно финансирование железных дорог в Армении</a></p>
+                        <p class="title"><a href="https://www.pnp.ru/top/site/novye-lgoty-predlozhili-ustanovit-dlya-invalidov-i-semey-s-detmi.html"><span class="time">17:30</span>Новые льготы предложили установить для инвалидов и семей с детьми</a></p>
+                        <p class="title"><a href="https://www.pnp.ru/politics/merc-konflikt-na-ukraine-zavershitsya-pri-istoshhenii-odnoy-iz-storon.html"><span class="time">17:19</span>Мерц: Конфликт на Украине завершится при истощении одной из сторон</a></p>
+                    </div>
+        <div class="all_news"><a href="https://www.pnp.ru/news/">ВСЕ НОВОСТИ</a></div>
+</div>
+			<div class="art_news_plus_wrap_second">
+									    <div class="infoblock screen infoblock_main_right_top infoblock_pub" style="">
+        <a target="_blank" href="https://max.ru/parlament_novosti"><img src="https://www.pnp.ru/upload/user/MAX_425х285.png" alt=""></a>    </div>
+				
+									    <div class="infoblock infoblock_pub">
+        <a href="https://www.pnp.ru/laws/coming-into-force/"><img src="https://www.pnp.ru/upload/user/zakon-banner-gl-desk.jpg" style="display: block; width: 100%; aspect-ratio: 40/27" loading="lazy"></a>
+    </div>
+				
+				
+				<div class="infoblock infoblock_week_mainpage">
+    <h3 class="header">Интересное за неделю</h3>
+            <div class="item">
+        <p class="title">
+            <span>1</span>
+            <a href="https://www.pnp.ru/in-world/glava-mid-indii-otvetil-na-vopros-ob-otkaze-ot-rossiyskoy-nefti.html">Глава МИД Индии ответил на вопрос об отказе от российской нефти</a>
+        </p>
+        </div>
+            <div class="item">
+        <p class="title">
+            <span>2</span>
+            <a href="https://www.pnp.ru/state-duma/kak-mogut-izmenitsya-pravila-usynovleniya-detey.html">«Как могут измениться правила усыновления детей»</a>
+        </p>
+        </div>
+            <div class="item">
+        <p class="title">
+            <span>3</span>
+            <a href="https://www.pnp.ru/economics/zakony-vstupayushhie-v-silu-v-fevrale-3.html">Законы, вступающие в силу в феврале</a>
+        </p>
+        </div>
+            <div class="item">
+        <p class="title">
+            <span>4</span>
+            <a href="https://www.pnp.ru/social/minoborony-predlozhilo-zaschityvat-den-sluzhby-na-svo-za-tri-dnya-raboty.html">Минобороны предложило засчитывать день службы на СВО за три дня работы</a>
+        </p>
+        </div>
+            <div class="item">
+        <p class="title">
+            <span>5</span>
+            <a href="https://www.pnp.ru/state-duma/kakuyu-kompensaciyu-mozhet-zaplatit-kiev-za-prichinennyy-ushherb.html">«Какую компенсацию может заплатить Киев за причиненный ущерб»</a>
+        </p>
+        </div>
+            <div class="item">
+        <p class="title">
+            <span>6</span>
+            <a href="https://www.pnp.ru/social/reshenie-intellektualnykh-zadach-pomozhet-zhit-dolshe.html">Решение интеллектуальных задач поможет жить дольше</a>
+        </p>
+        </div>
+    </div>
+
+                    <div class="infoblock screen infoblock_pub" style="">
+        <style>.letters-b::before{content:"";position:absolute;z-index:1;top:0;right:0;bottom:0;left:0;pointer-events:none;outline:1px solid #FFF;outline-offset:-5px}</style>
+<div class="letters-b" style="position: relative; overflow: hidden; min-height: 180px; max-height: 400px; flex-grow: 1; display: flex;align-items: center; justify-content: center"><div style="position: absolute; top: 25%; left: 50%; margin: -100px 0 0 -120px;">
+<a href="https://www.pnp.ru/pisma-iz-leningrada/" target="_blank" style="
+    background-position: center center;
+    background-repeat: no-repeat;
+    display: block;
+    background-image: url(https://www.pnp.ru/upload/user/pisma_special/pisma-b.png);
+    background-size: contain;
+    height: 400px;
+    width: 240px;
+"></a>
+</div></div>    </div>
+			</div>
+		</div>
+    </div>
+    <!-- .. новости, баннер, опрос -->
+
+</div>
+<!-- .. контейнер для выравнивания высоты боков первого экрана -->
+
+
+<!-- интервью -->
+<div class="interview">
+    <p class="header"><a href="https://www.pnp.ru/interview/">Интервью</a></p>
+    <div class="interview_slider">
+        <div class="item">
+        <a href="https://www.pnp.ru/state-duma/kak-studentu-za-leto-stat-millionerom.html">
+            <img src="https://www.pnp.ru//upload/entities/2026/01/21/12/article/teaserPicture/82/63/34/8d/1309cc9ee9c42a14dca72b69d3833629.jpg" loading="lazy">
+            <p class="title">Как студенту за лето стать миллионером</p>
+            <p class="title2">Бойцам стройотрядов гарантировали безопасный труд и бесплатный проезд</p>
+            <p class="lid"></p>
+        </a>
+    </div>
+        <div class="item">
+        <a href="https://www.pnp.ru/social/anna-kuznecova-dvizhenie-studencheskikh-otryadov-formiruet-mirovozzrenie-rossii-budushhego.html">
+            <img src="https://www.pnp.ru//upload/entities/2026/02/13/11/article/teaserPicture/6d/b2/d8/0b/e15ad4c485189e677c1b952f71b83403.jpg" loading="lazy">
+            <p class="title">Анна Кузнецова: Движение студенческих отрядов формирует мировоззрение России будущего</p>
+            <p class="title2">Все больше молодых людей успешно сочетают учебу в вузе и труд</p>
+            <p class="lid"></p>
+        </a>
+    </div>
+        <div class="item">
+        <a href="https://www.pnp.ru/social/studencheskim-semyam-vydelyat-bolshe-komnat-v-obshhezhitiyakh.html">
+            <img src="https://www.pnp.ru//upload/entities/2026/02/16/17/article/teaserPicture/f0/a8/16/77/02334f20536ef81c16176b8e52971f76.jpg" loading="lazy">
+            <p class="title">Студенческим семьям выделят больше комнат в общежитиях</p>
+            <p class="title2">Депутат Артем Метелев рассказал, кому отдадут приоритет при заселении</p>
+            <p class="lid"></p>
+        </a>
+    </div>
+        <div class="item">
+        <a href="https://www.pnp.ru/economics/stazhirovka-na-dalnem-vostoke-gosudarstvo-dast-zhile-kompaniya-dostoynuyu-zarplatu.html">
+            <img src="https://www.pnp.ru//upload/entities/2026/02/16/12/article/teaserPicture/7a/38/33/04/fbebb9f6d2e6b459abbc3c1be3a438ea.jpg" loading="lazy">
+            <p class="title">Стажировка на Дальнем Востоке: государство даст жилье, компания — достойную зарплату</p>
+            <p class="title2">Сенатор Александр Ролик назвал ключевое условие эффективности демографической стратегии в ДФО</p>
+            <p class="lid"></p>
+        </a>
+    </div>
+        <div class="item">
+        <a href="https://www.pnp.ru/economics/chto-delat-esli-v-kvartire-kholodno-prava-zhilcov-i-poryadok-pererascheta.html">
+            <img src="https://www.pnp.ru//upload/entities/2026/02/13/14/article/teaserPicture/1f/a8/cc/2d/426a2d5bb7707f27f4141e2f33c23796.jpg" loading="lazy">
+            <p class="title">Что делать, если в квартире холодно: права жильцов и порядок перерасчета</p>
+            <p class="title2">Управляющие компании обязали отвечать собственникам в мессенджере МАХ</p>
+            <p class="lid"></p>
+        </a>
+    </div>
+        <div class="item">
+        <a href="https://www.pnp.ru/politics/konferenciya-protivorechiy-evropeycy-khotyat-dat-boy-predstavitelyam-trampa-v-myunkhene.html">
+            <img src="https://www.pnp.ru//upload/entities/2026/02/13/19/article/teaserPicture/ec/0d/9b/3e/24a729e091d8de13c785b09c8692779f.jpg" loading="lazy">
+            <p class="title">Конференция противоречий: европейцы хотят дать бой представителям Трампа в Мюнхене</p>
+            <p class="title2">Сенатор Владимир Джабаров рассказал, почему Брюссель рассчитывает на смену власти в Венгрии</p>
+            <p class="lid"></p>
+        </a>
+    </div>
+        <div class="item">
+        <a href="https://www.pnp.ru/social/reshenie-intellektualnykh-zadach-pomozhet-zhit-dolshe.html">
+            <img src="https://www.pnp.ru//upload/entities/2026/02/13/16/article/teaserPicture/1d/61/06/32/573b8151e077b0ed3bcbebde287860d8.jpg" loading="lazy">
+            <p class="title">Решение интеллектуальных задач поможет жить дольше</p>
+            <p class="title2">Депутат рассказал о неочевидных факторах, влияющих на долголетие</p>
+            <p class="lid"></p>
+        </a>
+    </div>
+        <div class="item">
+        <a href="https://www.pnp.ru/politics/korona-v-isterike-london-gotovit-soldat-k-voyne-s-rossiey.html">
+            <img src="https://www.pnp.ru//upload/entities/2026/02/11/17/article/teaserPicture/7a/cc/4a/58/db18d133d715305fe4555c3e0e560dec.jpg" loading="lazy">
+            <p class="title">«Корона» в истерике: Лондон готовит солдат к войне с Россией</p>
+            <p class="title2">Сенатор Владимир Джабаров посоветовал британским деятелям перечитывать на ночь Мюнхенскую речь Владимира Путина</p>
+            <p class="lid"></p>
+        </a>
+    </div>
+        <div class="item">
+        <a href="https://www.pnp.ru/social/platezhi-za-negativnoe-vozdeystvie-na-okruzhayushhuyu-sredu-mogut-skorrektirovat.html">
+            <img src="https://www.pnp.ru//upload/entities/2026/02/04/16/article/teaserPicture/85/d1/7a/0c/ed8e34343feea49fc45591184a39b80e.jpg" loading="lazy">
+            <p class="title">Платежи за негативное воздействие на окружающую среду могут скорректировать</p>
+            <p class="title2">Депутаты, Правительство и бизнес ведут диалог для их возможной оптимизации 
+
+</p>
+            <p class="lid"></p>
+        </a>
+    </div>
+        <div class="item">
+        <a href="https://www.pnp.ru/politics/senator-grigoriy-karasin-nazval-tri-glavnykh-kachestva-rossiyskogo-diplomata.html">
+            <img src="https://www.pnp.ru//upload/entities/2026/02/10/13/article/teaserPicture/97/ce/cd/42/e46436bbaa792e37c9d287790b277722.jpg" loading="lazy">
+            <p class="title">Сенатор Григорий Карасин назвал три главных качества российского дипломата</p>
+            <p class="title2">Экс-замглавы МИД России рассказал, почему сегодня наш стиль переговоров становится все более жестким</p>
+            <p class="lid"></p>
+        </a>
+    </div>
+        </div>
+</div>
+<!-- .. интервью -->
+
+<!-- статьи -->
+<div class="main_page_articles_list main_page_articles_list_3cols">
+        <div class="item">
+        <a href="https://www.pnp.ru/top/site/missiya-vdokhnovlyat.html"><img src="https://www.pnp.ru//upload/entities/2026/02/19/20/article/teaserPicture/9e/88/c5/ea/eac173407ed140aa4dfc410de8bb6926.jpg" loading="lazy"></a>
+        <p class="title"><a href="https://www.pnp.ru/top/site/missiya-vdokhnovlyat.html">Миссия — вдохновлять</a></p>
+        <p class="title2"><a href="https://www.pnp.ru/top/site/missiya-vdokhnovlyat.html"></a></p>
+    </div>
+        <div class="item">
+        <a href="https://www.pnp.ru/economics/zakupku-fermerskoy-produkcii-torgovymi-setyami-khotyat-provodit-po-edinym-pravilam.html"><img src="https://www.pnp.ru//upload/entities/2026/02/18/16/article/teaserPicture/e7/b3/cc/c6/3b0d827ca05ac496a26128f671cd6fd8.jpg" loading="lazy"></a>
+        <p class="title"><a href="https://www.pnp.ru/economics/zakupku-fermerskoy-produkcii-torgovymi-setyami-khotyat-provodit-po-edinym-pravilam.html">Закупку фермерской продукции торговыми сетями хотят проводить по единым правилам</a></p>
+        <p class="title2"><a href="https://www.pnp.ru/economics/zakupku-fermerskoy-produkcii-torgovymi-setyami-khotyat-provodit-po-edinym-pravilam.html">В Госдуме настаивают, чтобы расчеты с аграриями производились в десятидневный срок
+
+</a></p>
+    </div>
+        <div class="item">
+        <a href="https://www.pnp.ru/social/mintrud-predlozhil-platit-veteranam-svo-maksimalnoe-posobie-po-bezrabotice.html"><img src="https://www.pnp.ru//upload/entities/2026/02/18/18/article/teaserPicture/87/94/9f/ff/f948c319912b4dae0fcb12c0ea736847.jpg" loading="lazy"></a>
+        <p class="title"><a href="https://www.pnp.ru/social/mintrud-predlozhil-platit-veteranam-svo-maksimalnoe-posobie-po-bezrabotice.html">Минтруд предложил платить ветеранам СВО максимальное пособие по безработице</a></p>
+        <p class="title2"><a href="https://www.pnp.ru/social/mintrud-predlozhil-platit-veteranam-svo-maksimalnoe-posobie-po-bezrabotice.html">Назначать его хотят без справок о зарплате с последнего места работы
+
+</a></p>
+    </div>
+        <div class="item">
+        <a href="https://www.pnp.ru/economics/v-minstroe-pridumali-kak-luchshe-sokhranit-samobytnost-gorodov.html"><img src="https://www.pnp.ru//upload/entities/2026/02/18/18/article/teaserPicture/6e/51/a6/0b/750e193a1bc442cc8795980553bcc36f.jpg" loading="lazy"></a>
+        <p class="title"><a href="https://www.pnp.ru/economics/v-minstroe-pridumali-kak-luchshe-sokhranit-samobytnost-gorodov.html">В Минстрое придумали, как лучше сохранить самобытность городов</a></p>
+        <p class="title2"><a href="https://www.pnp.ru/economics/v-minstroe-pridumali-kak-luchshe-sokhranit-samobytnost-gorodov.html">Процедуру согласования архитектурно-градостроительного облика населенных пунктов хотят увязать с мастер-планами</a></p>
+    </div>
+        <div class="item">
+        <a href="https://www.pnp.ru/social/deputat-artem-metelev-predlozhil-finansirovat-filmy-pro-volonterov-i-donorov.html"><img src="https://www.pnp.ru//upload/entities/2026/02/18/17/article/teaserPicture/5b/35/d9/06/592fe2b105961370308379b2613c8c40.jpg" loading="lazy"></a>
+        <p class="title"><a href="https://www.pnp.ru/social/deputat-artem-metelev-predlozhil-finansirovat-filmy-pro-volonterov-i-donorov.html">Депутат Артем Метелев предложил финансировать фильмы про волонтеров и доноров</a></p>
+        <p class="title2"><a href="https://www.pnp.ru/social/deputat-artem-metelev-predlozhil-finansirovat-filmy-pro-volonterov-i-donorov.html">Соответствующее письмо парламентарий отправил в Минкультуры
+
+</a></p>
+    </div>
+        <div class="item">
+        <a href="https://www.pnp.ru/politics/chto-skryvalos-v-yashhike-khrushheva.html"><img src="https://www.pnp.ru//upload/entities/2026/02/09/15/article/teaserPicture/0c/45/de/ad/4a587df970c39b93e17ddc693d4334d9.jpg" loading="lazy"></a>
+        <p class="title"><a href="https://www.pnp.ru/politics/chto-skryvalos-v-yashhike-khrushheva.html">Что скрывалось в «ящике Хрущева»</a></p>
+        <p class="title2"><a href="https://www.pnp.ru/politics/chto-skryvalos-v-yashhike-khrushheva.html">Владимир Константинов рассказал «Парламентской газете» о последствиях передачи Крыма Украине в 1954 году</a></p>
+    </div>
+    </div>
+<!-- .. статьи -->
+
+<!-- мнения -->
+<div class="opinions">
+    <div class="header"><a href="https://www.pnp.ru/opinions/">Мнения</a></div>
+                <div class="item">
+                <a href="https://www.pnp.ru/social/ii-bez-sovesti-kak-zakonam-uspet-za-tekhnologiyami.html"><img src="https://www.pnp.ru//upload/entities/2025/12/17/11/person/teaserPicture/21/bb/06/39/bc5d9dfefa99651e19bd28d3234341e7.jpg" loading="lazy"></a>
+                <p class="title"><a href="https://www.pnp.ru/social/ii-bez-sovesti-kak-zakonam-uspet-za-tekhnologiyami.html">ИИ без совести — как законам успеть за технологиями</a></p>
+                <p class="author">Яна  Лантратова </p>
+                <p></p>
+    </div>
+                <div class="item">
+                <a href="https://www.pnp.ru/politics/dnk-obnovlennoy-rossii.html"><img src="https://www.pnp.ru//upload/entities/2016/10/01/person/teaserPicture/cd/c2/5e/b3/a690909dfcbff26e3f50c39c8358198e.jpg" loading="lazy"></a>
+                <p class="title"><a href="https://www.pnp.ru/politics/dnk-obnovlennoy-rossii.html">ДНК обновленной России</a></p>
+                <p class="author">Валентина Матвиенко</p>
+                <p></p>
+    </div>
+    </div>
+<!-- .. мнения -->
+
+    <!-- мнения -->
+    <div class="opinions">
+        <div class="header"><a href="https://www.pnp.ru/columnists/">Колумнисты</a></div>
+                                <div class="item">
+                                    <a href="https://www.pnp.ru/social/telefon-znaet-o-vas-slishkom-mnogo.html"><img src="https://www.pnp.ru//upload/entities/2022/06/16/15/person/teaserPicture/b6/1b/2d/44/94b4d2dc886f23e495992a64bc2e9279.jpg" loading="lazy"></a>
+                                <p class="title"><a href="https://www.pnp.ru/social/telefon-znaet-o-vas-slishkom-mnogo.html">Телефон знает о вас слишком много</a></p>
+                                    <p class="author">Артем  Шейкин </p>
+                                <p></p>
+            </div>
+                                <div class="item">
+                                    <a href="https://www.pnp.ru/politics/pod-novogodniy-akkompanement.html"><img src="https://www.pnp.ru//upload/entities/2024/02/24/13/person/teaserPicture/60/dd/da/4b/1e6cb588bffd9880e825d7d2928f165b.jpg" loading="lazy"></a>
+                                <p class="title"><a href="https://www.pnp.ru/politics/pod-novogodniy-akkompanement.html">Под новогодний аккомпанемент</a></p>
+                                    <p class="author">Борис Подопригора</p>
+                                <p></p>
+            </div>
+            </div>
+    <!-- .. мнения -->
+
+
+
+
+<div class="press-center">
+    <h3 class="press-center__header"><a href="https://www.pnp.ru/press-center/">Пресс-центр</a></h3>
+    <div class="press-center-columns">
+        <div class="press-center__column">
+                    <div class="press-center__item">
+                <a href="https://www.pnp.ru/state-duma/kak-budem-letat-s-1-marta.html"><img src="https://www.pnp.ru//upload/entities/2026/02/18/15/article/teaserPicture/9a/ca/32/e1/5339eef208b8b52bd4c462814e46ad41.jpg" alt=" «Как будем летать с 1 марта»" title=" «Как будем летать с 1 марта»" loading="lazy"></a>
+                <h4 class="press-center__title"><a href="https://www.pnp.ru/state-duma/kak-budem-letat-s-1-marta.html"><span class="press-center__soonlabel">Скоро</span>  «Как будем летать с 1 марта»</a></h4>
+                <p>Видеоинтервью с депутатом Павлом Федяевым</p>
+            </div>
+                    <div class="press-center__item">
+                <a href="https://www.pnp.ru/state-duma/kakuyu-kompensaciyu-mozhet-zaplatit-kiev-za-prichinennyy-ushherb.html"><img src="https://www.pnp.ru//upload/entities/2026/02/13/11/article/teaserPicture/3c/94/4c/9b/d583127b46dfaa972e170b7df1f2e3d8.jpg" alt="«Какую компенсацию может заплатить Киев за причиненный ущерб»" title="«Какую компенсацию может заплатить Киев за причиненный ущерб»" loading="lazy"></a>
+                <h4 class="press-center__title"><a href="https://www.pnp.ru/state-duma/kakuyu-kompensaciyu-mozhet-zaplatit-kiev-za-prichinennyy-ushherb.html"><span class="press-center__soonlabel">Скоро</span> «Какую компенсацию может заплатить Киев за причиненный ущерб»</a></h4>
+                <p>Видеоинтервью с сенатором Натальей Никоноровой </p>
+            </div>
+                    <div class="press-center__item">
+                <a href="https://www.pnp.ru/state-duma/kak-mogut-izmenitsya-pravila-usynovleniya-detey.html"><img src="https://www.pnp.ru//upload/entities/2026/02/09/11/article/teaserPicture/3a/f3/34/3f/7cb9222d849211eb0ba6e9b12ce5afbb.jpg" alt="«Как могут измениться правила усыновления детей»" title="«Как могут измениться правила усыновления детей»" loading="lazy"></a>
+                <h4 class="press-center__title"><a href="https://www.pnp.ru/state-duma/kak-mogut-izmenitsya-pravila-usynovleniya-detey.html">«Как могут измениться правила усыновления детей»</a></h4>
+                <p>Видеоинтервью с депутатом Ириной Филатовой</p>
+            </div>
+                </div>
+                <div class="press-center__column">
+            <a href="https://www.pnp.ru/federation-council/senator-vladimir-dzhabarov-rasskazhet-pochemu-peregovory-v-zheneve-ne-mogut-privesti-k-bystromu-rezultatu.html"><img src="https://www.pnp.ru//upload/entities/2026/02/18/17/article/teaserPicture/50/0f/03/a9/b4eed63178f7148f5d9df8b56246f749.jpg" alt="Сенатор Владимир Джабаров расскажет, почему переговоры в Женеве не могут привести к быстрому результату" title="Сенатор Владимир Джабаров расскажет, почему переговоры в Женеве не могут привести к быстрому результату" loading="lazy"></a>
+<!--            <div class="press-center__soon">СКОРО В ПРЕСС-ЦЕНТРЕ:</div>-->
+            <h4 class="press-center__title"><a href="https://www.pnp.ru/federation-council/senator-vladimir-dzhabarov-rasskazhet-pochemu-peregovory-v-zheneve-ne-mogut-privesti-k-bystromu-rezultatu.html"><span class="press-center__soonlabel">Скоро</span> Сенатор Владимир Джабаров расскажет, почему переговоры в Женеве не могут привести к быстрому результату</a></h4>
+            <p>Политические итоги недели с парламентарием</p>
+        </div>
+                <p class="press-center__more"><a href="https://www.pnp.ru/press-center/">Все анонсы...</a>
+    </div>
+</div>
+
+
+    <!-- видео -->
+<div class="infoblock mainpage_video">
+    <p class="header">
+        <a href="https://www.pnp.ru/video/">Видео</a>
+    </p>
+    <div class="video_container" style="background-image:url('https://www.pnp.ru//upload/entities/2025/12/30/12/video/pictureMedium/21/96/1b/9a/4ea0b435982f0d724bd29759e632554d.jpg');">
+        <a href="https://www.pnp.ru/video/2025/12/30/xto-izmenitsya-v-sfere-kultury-v-2026-godu.html">
+            <span class="time_stamp" title="продолжительность" alt="продолжительность"></span>
+            <img src="https://www.pnp.ru//static/2/i/play_button.png">
+        </a>
+    </div>
+    <p class="title"><a href="https://www.pnp.ru/video/2025/12/30/xto-izmenitsya-v-sfere-kultury-v-2026-godu.html">Что изменится в сфере культуры в 2026 году  </a></p>
+    <p class="hide_on_s">Председатель профильного комитета Госдумы Ольга Казакова рассказала «Парламентской газете» об итогах осенней сессии</p>
+</div>
+<!-- .. видео -->
+
+
+<div class="full_width_hr hide_on_m full_width_hr_border"></div>
+
+<!-- фоторепортаж -->
+<div class="mainpage_photorep">
+    <h3 class="header"><a href="https://www.pnp.ru/photo-report/">Фоторепортаж</a></h3>
+        <div class="item">
+        <a href="https://www.pnp.ru/photo-report/2025/11/24/iv-mezhdunarodnyy-forum-sodruzhestvo-mody.html"><img src="https://www.pnp.ru//upload/entities/2025/11/21/17/photoReportImage/announcePicture/2a/4d/f6/c0/ed5057d1b59a39fd7a9bbb84e595d8d3.jpg" alt="IV Международный Форум «Содружество моды»" title="IV Международный Форум «Содружество моды»" loading="lazy"></a>
+        <p class="title"><a href="https://www.pnp.ru/photo-report/2025/11/24/iv-mezhdunarodnyy-forum-sodruzhestvo-mody.html">IV Международный Форум «Содружество моды»</a></p>
+    </div>
+        <div class="item">
+        <a href="https://www.pnp.ru/photo-report/2025/08/26/oficialnyy-vizit-predsedatelya-gosudarstvennoy-dumy-vyacheslava-volodina-v-kitayskuyu-narodnuyu-respubliku.html"><img src="https://www.pnp.ru//upload/entities/2025/08/26/16/photoReportImage/announcePicture/57/9a/97/48/0c8212ece98bad5ad22b66d25691ff60.jpg" alt="Официальный визит Председателя Государственной Думы Вячеслава Володина в Китайскую Народную Республику" title="Официальный визит Председателя Государственной Думы Вячеслава Володина в Китайскую Народную Республику" loading="lazy"></a>
+        <p class="title"><a href="https://www.pnp.ru/photo-report/2025/08/26/oficialnyy-vizit-predsedatelya-gosudarstvennoy-dumy-vyacheslava-volodina-v-kitayskuyu-narodnuyu-respubliku.html">Официальный визит Председателя Государственной Думы Вячеслава Володина в Китайскую Народную Республику</a></p>
+    </div>
+    </div>
+<!-- .. фоторепортаж -->
+
+
+
+
+
+
+</div></div>
+
+
+<!-- подвал навигация ---------------------------------------------------------------------------- -->
+
+<div class="footer_nav"><nav>
+        <div class="content">
+            <div class="logo">
+                <a href="https://www.pnp.ru/">
+                    <img src="https://www.pnp.ru//static/2/i/logo_svg.svg" alt="Парламентская газета" title="Парламентская газета">
+                </a>
+                <br />
+                <a href="https://www.pnp.ru/rss/index.xml" target="_blank" title="Парламентская газета rss-канал" class="sprite_social sprite_social_rss" rel="nofollow"></a>
+                <a href="https://www.vk.com/pnpru" target="_blank" title="Парламентская газета в ВКонтакте" class="sprite_social sprite_social_vk" rel="nofollow"></a>
+                <a href="https://t.me/parlament_novosti" target="_blank" title="Парламентская газета в Telegram" class="sprite_social_tg" rel="nofollow"></a>
+                <a href="https://ok.ru/pnpru" target="_blank" title="Парламентская газета в Одноклассниках" class="sprite_social sprite_social_ok" rel="nofollow"></a>
+                                <a href="https://rutube.ru/channel/25018140/videos/" target="_blank" title="Парламентская газета в RuTube" class="sprite_social_rutube" rel="nofollow"></a>
+                                 &nbsp;
+            </div>
+
+            <div class="menu1">
+                <nav>
+                    <ul>
+                                                <li><a href="https://www.pnp.ru/politics/">Политика</a></li>
+                                                <li><a href="https://www.pnp.ru/economics/">Экономика</a></li>
+                                                <li><a href="https://www.pnp.ru/social/">Общество</a></li>
+                                                <li><a href="https://www.pnp.ru/in-world/">В мире</a></li>
+                                                <li><a href="https://www.pnp.ru/incident/">Происшествия</a></li>
+                                                <li><a href="https://www.pnp.ru/culture/">Культура</a></li>
+                                            </ul>
+                </nav>
+            </div>
+            <div class="menu2">
+                <nav>
+                    <ul>
+                                                    <li><a href="https://www.pnp.ru/video/">Видео</a></li>
+                                                    <li><a href="https://www.pnp.ru/poll/">Опросы</a></li>
+                                                    <li><a href="https://www.pnp.ru/photo-report/">Фото</a></li>
+                                                    <li><a href="https://www.pnp.ru/person/">Персоны</a></li>
+                                                    <li><a href="https://www.pnp.ru/opinions/">Мнения</a></li>
+                                                    <li><a href="https://www.pnp.ru/regions/">Регионы</a></li>
+                                                    <li><a href="https://www.pnp.ru/press-center/">Пресс-центр</a></li>
+                                                    <li><a href="https://www.pnp.ru/interview/">Интервью</a></li>
+                                                    <li><a href="https://www.pnp.ru/columnists/">Колумнисты</a></li>
+                                            </ul>
+                </nav>
+            </div>
+            <div class="menu3">
+                <nav>
+                    <ul>
+                                                    <li><a href="https://www.pnp.ru/static/contacts/">Контакты</a></li>
+                                                    <li><a href="https://www.pnp.ru/static/advertising/">Реклама</a></li>
+                                                    <li><a href="https://www.pnp.ru/static/vacancy/">Вакансии</a></li>
+                                            </ul>
+                </nav>
+            </div>
+        </div>
+    </nav></div>
+
+<!-- / подвал навигация ---------------------------------------------------------------------------- -->
+
+<footer class="footer">
+	<div class="footer-i">
+		<div class="copyright">
+    &copy; «Парламентская газета», 2026 г.
+    <div class="screen">
+    Электронное периодическое издание «Парламентская газета» зарегистрировано в Федеральной службе по надзору в сфере связи, информационных технологий и массовых коммуникаций
+    (Роскомнадзор) 05 августа 2011 года. 18+ <br />
+
+    Свидетельство о регистрации Эл № ФС77-46097<br>
+    Учредитель &mdash; АНО «Парламентская газета»<br />
+    Исполняющий обязанности главного редактора &mdash; Абдуллаев М.Р.<br>
+    Тел.: +7 (495) 637–69–79  E-mail: <a href="mailto:pg@pnp.ru">pg@pnp.ru</a>
+    </div>
+</div>
+<div class="disclamer">
+    <p>«Парламентская газета» - официальное еженедельное издание Федерального Собрания РФ. Издается с 1997 года. Учредители газеты - Государственная Дума и Совет Федерации РФ. Официальный публикатор федеральных конституционных законов, федеральных законов и актов палат Федерального Собрания. «Парламентская газета» имеет пункты печати и представительства в десяти субъектах федерации. Распространяется по подписке и в розницу, в органах исполнительной и представительной власти федерального и регионального уровня, в поездах дальнего следования и «Сапсан», в самолетах Авиакомпании «Россия», а также региональных авиакомпаний.</p>
+    <p>Сайт «Парламентской газеты» - это оперативные новости и достоверная информация о принимаемых в стране законах и деятельности депутатов и сенаторов. При использовании материалов сайта «Парламентской газеты» активная ссылка на pnp.ru обязательна.</p>
+    <p>На информационном ресурсе применяются <a href="https://www.pnp.ru/static/recommendations/">рекомендательные технологии</a><br>
+        <a href="https://www.pnp.ru/upload/user/Положение.pdf" target="_blank">Положение о защите персональных данных</a>
+    </p>
+</div>
+					<div class="footer__counters">
+				            <div id='top100counter'></div>
+<script type="text/javascript">
+var _top100q = _top100q || [];
+_top100q.push(["setAccount", "3110716"]);
+_top100q.push(["trackPageviewByLogo", document.getElementById('top100counter')]);
+(function(){
+var top100 = document.createElement("script"); top100.type = "text/javascript";
+top100.async = true;
+top100.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//st.top100.ru/top100/top100.js";
+var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(top100, s);
+})();
+</script>
+
+<br><a href="https://www.pnp.ru/map/" target="_blank">Карта сайта</a>    			</div>
+			</div>
+</footer>
+<div class="cookie_notice">
+    Используя сайт pnp.ru, Вы соглашаетесь с <a href="https://www.pnp.ru/upload/user/Положение.pdf" target="_blank">использованием файлов cookie</a>
+    <div>
+        <a class="cookie_btn" id="cookie_close" href="#close">Согласен</a>
+    </div>
+</div>
+
+<script src="https://www.pnp.ru//static/2/js/slick.min.js"></script>
+<script src="https://www.pnp.ru//static/2/js/jquery.mCustomScrollbar.concat.min.temp.js"></script>
+<script src="https://www.pnp.ru//static/2/js/widgets.js"></script>
+<script src="https://www.pnp.ru//static/2/js/common.js?v=20230705"></script>
+<script src="https://www.pnp.ru//static/2/js/cookies.js"></script>
+<script src="https://yastatic.net/share2/share.js" defer></script>
+
+</body>
+</html>

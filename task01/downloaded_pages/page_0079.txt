@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <noscript><meta http-equiv="refresh" content="0; url=/exhkqyad"></noscript>
+</head>
+<style>
+    .container {
+      display: flex;
+      align-content: center;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+    .load {
+      color: grey;
+      font-size: 3vh;
+    }
+    .spinner {
+      display: block;
+      background:  url('//servicepipe.ru/loaders/default.gif');
+      width: 64px;
+      height: 64px;
+    }
+</style>
+<body>
+  <div id="id_spinner" class="container"><div class="load"></div><div class="spinner"></div></div>
+  <div id="id_captcha_frame_div" style="display: none;height: 100vh;"></div>
+  <script type="text/javascript" src="//servicepipe.ru/static/jsrsasign-all-min.js"></script>
+  <script type="text/javascript">
+
+function get_cookie_spsn() {
+  return "spsn=1771524700627_";
+}
+function get_cookie_spid() {
+  return "spid=1771524700627_60d4477d097483905d2ddbb10f6d30f9_87mcmk5jw2e6rgcd";
+}
+function get_options() {
+  return JSON.parse('{"kncdipiytd":"1771524700627_5a73e5a12a6486b3ad10d274","iamehkqlib":"69b6062b1679059b58c2575b1d070fdf","woprmswjtq":3396,"ojqqomaznz":"_ngy2vRyLlXboFQE5J6mZ7jXR8tQyc3Ibab3C0kpbi.YZ","bmdxprfwqa":17,"twdoonmfjr":1,"sauoqhgdwa":false,"is_captcha":false,"0hjsihgukl":false}');
+}
+function get_location() {
+  return "https://tass.ru/ekonomika";
+}
+
+  </script>
+  <script type="text/javascript" src="//servicepipe.ru/static/checkjs/6352d0/0oCN-ChFQl.js" integrity="sha256-Y1LQcJ/t1dlztYp91PFlkrTIFbggc8v58VQFgnnm1NM=" crossorigin="anonymous"></script>
+</body>
+</html>

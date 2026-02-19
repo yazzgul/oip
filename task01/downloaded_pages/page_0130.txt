@@ -1,0 +1,1889 @@
+
+
+
+<!DOCTYPE html>
+<html prefix="og:https://ogp.me/ns#" lang="ru">
+<head>
+    <meta http-equiv="Content-type" content="text/html;charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <title>The Art Newspaper Russia — новости искусства</title>
+    <meta name="description" content=""/>
+
+    
+
+    <meta name='yandex-verification' content='5edfc2a4e2761bfd'/>
+    <meta name='yandex-verification' content='56f67b70abf2ed49'/>
+    <meta name="yandex-verification" content="a29c9ec91327ffd8"/>
+    <meta property="fb:app_id" content="1554885308083436"/>
+    <meta name="google-site-verification" content="zfnCFvLgEeDTDnkbNV2d0s1CpUHsqu4fEtalehlX-vQ"/>
+
+    <link rel="icon" type="image/svg+xml" href="/static/favicon.3b4c06f09f7f.svg">
+    <link rel="alternate icon" type="image/x-icon" href="/static/favicon.d771a1935888.ico"/>
+
+    
+    <link rel="stylesheet" href="/static/scss/style.56902a7c4a97.css?v=315333111111111222113"/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.7.5/swiper-bundle.css" integrity="sha512-QVtxgaHBBkLhZUCbW87PairvKm3vCeV1URNOIsMmQimJobi1+D8azJi7ATrsw9zk2yQq2bzMv0kVK0PPggf3tA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+
+    
+        <script>window.yaContextCb = window.yaContextCb || []</script>
+        <script src="https://yandex.ru/ads/system/context.js" async></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/stickybits/3.7.9/jquery.stickybits.min.js" integrity="sha512-7dClNr/OotVIb36fGFrjMD7sYzVMNNVvYgxLWMDLghQzaoFnmDVqMVBRvzdMuRbyXKLWXKPXCrJCQKwc14UXbg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.7.5/swiper-bundle.min.js" integrity="sha512-jm5exnXjOC6mBpqBG81xU+GK4ybKq28mLihDCNj2E3RkzrfW/tSGt7Uy7wRSkedl95C4cH9+9lectBCGwEcD0g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script src="/static/js/script.508942de0a49.js?v=312111114441"></script>
+    
+</head>
+
+<body class="">
+
+
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(21638944, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/21638944" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+
+    
+
+<div class="js-overlay">
+    <div style="width: 100%; background-color: #EB1F28;">
+        <div class="headerFixedRoot">
+            <div class="leftCol"></div>
+            <div class="centerCol">
+                <a href="/" class="headerLogo">
+                    <img src="/static/img/logo/logo-tanr-secondary-1.4403770564c5.svg" alt="">
+                </a>
+            </div>
+            <div class="rightCol"></div>
+        </div>
+    </div>
+    <div class="containerRoot">
+        <div class="ageCheckRoot">
+            <div class="ageCheckMessage">
+                <div class="ageCheckMessageMinAge">18+</div>
+                 <div class="ageCheckMessageForbidText" style="display: none;">
+                    Материалы нашего сайта не&nbsp;предназначены для лиц моложе 18 лет.<br/>
+                    Пожалуйста, покиньте сайт.
+                </div>
+                <div class="ageCheckMessageDefaultText">
+                    Материалы нашего сайта не&nbsp;предназначены для лиц моложе 18 лет.<br/>
+                    Пожалуйста, подтвердите свое совершеннолетие.
+                </div>
+            </div>
+            <div class="ageCheckActions">
+                <a href="javascript:void(0)" class="js-age-check-no ageCheckActionsNo">Нет, мне нет 18 лет</a>
+                <a href="javascript:void(0)" class="js-age-check-yes ageCheckActionsYes">Да, мне есть 18 лет</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+    
+
+<div class="js-header-fixed"
+     style="z-index: 1200; width: 100%; position: fixed; top: 0;">
+    <div class="js-header-sticky-nav containerRoot" style="display: none; background-color: #EB1F28;">
+        <div class="headerStickyNavRoot" style="height: 60px;">
+            <div class="leftCol">
+                <a href="javascript:void(0)" class="headerLink js-sidebar-show">
+                    <img src="/static/img/icon/icon-burger-white.319b071adb74.svg" alt="" width="30" height="20">
+                </a>
+            </div>
+            <div class="centerCol">
+                <a href="/" class="headerLogo">
+                    <img src="/static/img/logo/logo-tanr-secondary-1.4403770564c5.svg" alt="">
+                </a>
+            </div>
+            <div class="rightCol">
+                <a href="/search/" class="headerLink">
+                    <img src="/static/img/icon/icon-search-white.88060221c244.svg" alt="" class="headerLinkIcon" width="30" height="30">
+                </a>
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+<div class="js-header containerRoot">
+    <div class="headerRoot">
+        <div class="leftCol">
+            <a href="javascript:void(0)" class="headerLink js-sidebar-show">
+                <img src="/static/img/icon/icon-burger-red.a2e07dd5da3f.svg" alt="" width="30" height="20">
+            </a>
+            <a href="/international-network/" class="headerLink">
+                <img src="/static/img/icon/icon-tanr-network-red.9ef117b35c1a.svg" alt="" class="headerLinkIcon" width="30" height="30">
+                <span class="headerLinkText">The Art Newspaper в&nbsp;мире</span>
+            </a>
+            <a href="/subscribe/" class="headerLink">
+                <img src="/static/img/icon/icon-newspaper-red.5f307ba1b804.svg" alt="" class="headerLinkIcon" width="30" height="30">
+                <span class="headerLinkText">Подписаться</span>
+            </a>
+        </div>
+        <div class="centerCol">
+            <a href="/" class="headerLogo">
+                <img src="/static/img/logo/logo-tanr-primary.a236ae7800b2.svg" alt="">
+            </a>
+        </div>
+        <div class="rightCol">
+            <a href="/search/" class="headerLink">
+                <img src="/static/img/icon/icon-search-red.98e38bf9e9d4.svg" alt="" class="headerLinkIcon" width="30" height="30">
+                <span class="headerLinkText">Поиск</span>
+            </a>
+            <a href="http://www.tanraward.ru/?utm_source=tanr-button" class="headerLink">
+                <img src="/static/img/icon/icon-tanr-award-red.30714eef3ab0.svg" alt="" class="headerLinkIcon" width="30" height="30">
+                <span class="headerLinkText">Ежегодная премия</span>
+            </a>
+            <a href="https://taff.ru/?utm_source=tanr-button" class="headerLink">
+                <img src="/static/img/icon/icon-tanr-ff-red.34e496d2a86c.svg" alt="" class="headerLinkIcon" width="30" height="30">
+                <span class="headerLinkText">Кинофестиваль</span>
+            </a>
+        </div>
+    </div>
+    <div class="headerMobileRoot">
+        <div class="leftCol">
+            <a href="javascript:void(0)" class="headerLink js-sidebar-show">
+                <img src="/static/img/icon/icon-burger-red.a2e07dd5da3f.svg" alt="">
+            </a>
+        </div>
+        <div class="centerCol">
+            <a href="/" class="headerLogo">
+                <img src="/static/img/logo/logo-tanr-primary.a236ae7800b2.svg" alt="">
+            </a>
+        </div>
+        <div class="rightCol">
+            <a href="/search/" class="headerLink">
+                <img src="/static/img/icon/icon-search-red.98e38bf9e9d4.svg" alt="" class="headerLinkIcon">
+            </a>
+        </div>
+    </div>
+    <div class="mainMenuRoot">
+        
+            <a href="/sections/news/" class="mainMenuItem">Новости</a>
+            
+                <span class="mainMenuSep"></span>
+            
+        
+            <a href="/sections/shows/" class="mainMenuItem">Выставки</a>
+            
+                <span class="mainMenuSep"></span>
+            
+        
+            <a href="/sections/conservation/" class="mainMenuItem">Реставрация</a>
+            
+                <span class="mainMenuSep"></span>
+            
+        
+            <a href="/sections/books/" class="mainMenuItem">Книги</a>
+            
+                <span class="mainMenuSep"></span>
+            
+        
+            <a href="/sections/po-puti/" class="mainMenuItem">По пути</a>
+            
+                <span class="mainMenuSep"></span>
+            
+        
+            <a href="/sections/muzei-teatr/" class="mainMenuItem">Музей/Театр</a>
+            
+                <span class="mainMenuSep"></span>
+            
+        
+            <a href="/sections/luxury/" class="mainMenuItem">Роскошь</a>
+            
+                <span class="mainMenuSep"></span>
+            
+        
+            <a href="/sections/priglasheniia/" class="mainMenuItem">Приглашения</a>
+            
+        
+    </div>
+</div>
+
+    
+
+<div class="js-sidebar-overlay">
+    <div class="containerRoot">
+        <div class="sidebarRoot">
+            <div class="sidebarMenu">
+                <a href="javascript:void(0)" class="sidebarMenuItem js-sidebar-hide">
+                    <img src="/static/img/icon/icon-cross-red.d1e325a660fa.svg" alt="">
+                </a>
+                <span class="sidebarMenuSep" style="margin-top: 15px;"></span>
+                
+                    <a href="/sections/news/" class="sidebarMenuItem">Новости</a>
+                
+                    <a href="/sections/shows/" class="sidebarMenuItem">Выставки</a>
+                
+                    <a href="/sections/conservation/" class="sidebarMenuItem">Реставрация</a>
+                
+                    <a href="/sections/books/" class="sidebarMenuItem">Книги</a>
+                
+                    <a href="/sections/po-puti/" class="sidebarMenuItem">По пути</a>
+                
+                    <a href="/sections/muzei-teatr/" class="sidebarMenuItem">Музей/Театр</a>
+                
+                    <a href="/sections/luxury/" class="sidebarMenuItem">Роскошь</a>
+                
+                    <a href="/sections/priglasheniia/" class="sidebarMenuItem">Приглашения</a>
+                
+                <span class="sidebarMenuSep"></span>
+                
+                    <a href="/international-network/" class="sidebarMenuItem">The Art Newspaper в мире</a>
+                
+                    <a href="http://www.tanraward.ru/?utm_source=tanr-button" class="sidebarMenuItem">Ежегодная премия</a>
+                
+                    <a href="https://taff.ru/?utm_source=tanr-button" class="sidebarMenuItem">Кинофестиваль</a>
+                
+                <span class="sidebarMenuSep"></span>
+                
+                    <a href="https://lk.dashamail.ru/forms/?f=84518" class="sidebarMenuItem sidebarMenuItemDotBefore">Подписаться на новости</a>
+                
+                    <a href="/subscribe/" class="sidebarMenuItem sidebarMenuItemDotBefore">Подписаться на газету</a>
+                
+                    <a href="/where-to-get/" class="sidebarMenuItem sidebarMenuItemDotBefore">Где найти газету</a>
+                
+                <span class="sidebarMenuSep" style="margin: 10px 0; background-color: transparent;"></span>
+                
+                    <a href="/contact-us/" class="sidebarMenuItem sidebarMenuItemBorderAfter" style="">Контакты редакции</a>
+                
+                    <a href="/authors/" class="sidebarMenuItem sidebarMenuItemBorderAfter" style="">Авторы</a>
+                
+                    <a href="https://www.theartnewspaper.ru/documents/99/TAN_Media_Rus_2026-3.pdf" class="sidebarMenuItem sidebarMenuItemBorderAfter" style="">Медиакит</a>
+                
+                    <a href="https://www.theartnewspaper.ru/documents/100/TAN_Media_Eng_2026.pdf" class="sidebarMenuItem sidebarMenuItemBorderAfter" style="border: none;">Mediakit</a>
+                
+                <span class="sidebarMenuSep"></span>
+                
+                    <a href="https://vk.com/theartnewspaper.russia" class="sidebarMenuItem sidebarMenuItemIcon">
+                        
+                            <img src="/static/img/icon/icon-vk-red.c1fc6fce9111.svg" alt="">
+                        
+                    </a>
+                
+                    <a href="https://t.me/TANR_official" class="sidebarMenuItem sidebarMenuItemIcon">
+                        
+                            <img src="/static/img/icon/icon-telega-red.38470fdd2820.svg" alt="">
+                        
+                    </a>
+                
+                    <a href="https://ok.ru/theartnewspaperrussia/" class="sidebarMenuItem sidebarMenuItemIcon">
+                        
+                            <img src="/static/img/icon/icon-ok-red.c23df169ca47.svg" alt="">
+                        
+                    </a>
+                
+                    <a href="https://twitter.com/TANRussia" class="sidebarMenuItem sidebarMenuItemIcon">
+                        
+                            <img src="/static/img/icon/icon-twitter-red.60b8122e6dcc.svg" alt="">
+                        
+                    </a>
+                
+                    <a href="https://www.youtube.com/c/TheArtNewspaperRussia" class="sidebarMenuItem sidebarMenuItemIcon">
+                        
+                            <img src="/static/img/icon/icon-youtube-red.2be422ce2653.svg" alt="">
+                        
+                    </a>
+                
+                <div style="clear: both;"></div>
+            </div>
+            <form class="sidebarSearchForm" action="/search/" method="get">
+                <label for="sidebarSearchFormInput"></label>
+                <input type="text" name="q" placeholder="Введите текст" id="sidebarSearchFormInput">
+                <button type="submit">
+                    <img src="/static/img/icon/icon-search-loupe-red.659b9e80ef8a.svg" alt="" class="menuSearchIcon">
+                </button>
+            </form>
+            <div class="sidebarCopy">&copy; 2021 The Art Newspaper Russia</div>
+        </div>
+    </div>
+</div>
+
+    
+    <div class="ad-desktop ad-desktop-01">
+        <!--AdFox START-->
+        <!--srgkm-->
+        <!--Площадка: TANR 2021 / * / *-->
+        <!--Тип баннера: TANR 2021: 001 DESKTOP-->
+        <!--Расположение: <верх страницы>-->
+        <div id="adfox_162763885843428497"></div>
+        <script>
+            window.yaContextCb.push(() => {
+                Ya.adfoxCode.create({
+                    ownerId: 229461,
+                    containerId: 'adfox_162763885843428497',
+                    params: {
+                        pp: 'g',
+                        ps: 'ezqw',
+                        p2: 'hfwq'
+                    }
+                })
+            })
+        </script>
+    </div>
+
+
+
+    <div class="ad-tablet ad-tablet-01">
+        <!--AdFox START-->
+        <!--srgkm-->
+        <!--Площадка: TANR 2021 / * / *-->
+        <!--Тип баннера: TANR 2021: 001 TABLET-->
+        <!--Расположение: <верх страницы>-->
+        <div id="adfox_16276389280685568"></div>
+        <script>
+            window.yaContextCb.push(() => {
+                Ya.adfoxCode.create({
+                    ownerId: 229461,
+                    containerId: 'adfox_16276389280685568',
+                    params: {
+                        pp: 'g',
+                        ps: 'ezqw',
+                        p2: 'hfwr'
+                    }
+                })
+            })
+        </script>
+    </div>
+
+
+
+    <div class="ad-mobile ad-mobile-01">
+        <!--AdFox START-->
+        <!--srgkm-->
+        <!--Площадка: TANR 2021 / * / *-->
+        <!--Тип баннера: TANR 2021: 001 MOBILE-->
+        <!--Расположение: <верх страницы>-->
+        <div id="adfox_162763890437963020"></div>
+        <script>
+            window.yaContextCb.push(() => {
+                Ya.adfoxCode.create({
+                    ownerId: 229461,
+                    containerId: 'adfox_162763890437963020',
+                    params: {
+                        pp: 'g',
+                        ps: 'ezqw',
+                        p2: 'hfws'
+                    }
+                })
+            })
+        </script>
+    </div>
+
+
+
+    <main>
+        <div class="containerRoot">
+            <div class="contentRoot">
+                <div class="leftCol" style="padding-top: 50px;">
+                    
+                        
+                            
+                            <!-- inc: 1 -->
+                            
+
+
+<div class="postPreviewsV1Root">
+    
+        <a href="/posts/20260217-ogiz/" title="Дом творчества «Переделкино» открывает на своей территории музей" class="postPreviewsItem">
+            <div class="postPreviewsItemSection">Новости</div>
+            <div class="postPreviewsItemTitle js-fix-hanging">Дом творчества «Переделкино» открывает на своей территории музей</div>
+            
+                <div class="postPreviewsItemImage">
+                    
+                    <img src="/media/images/31197_IMG_0263.2e16d0ba.fill-960x600.jpg" alt="Дом творчества «Переделкино» открывает на своей территории музей">
+                </div>
+            
+            <div class="postPreviewsItemTitle2 js-fix-hanging js-icon-read-more">Музейный дом «Первая дача» располагается в тщательно отреставрированном Коттедже № 1. Он откроется 1 марта выставкой про писателя Виктора Шкловского</div>
+            <div class=postPreviewsItemDate>17.02.2026</div>
+        </a>
+    
+</div>
+
+                        
+                            
+                                <div class="ad-tablet ad-tablet-02">
+    <!--AdFox START-->
+    <!--srgkm-->
+    <!--Площадка: TANR 2021 / * / *-->
+    <!--Тип баннера: TANR 2021: 002 TABLET-->
+    <!--Расположение: <верх страницы>-->
+    <div id="adfox_162763905828999883"></div>
+    <script>
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.create({
+                ownerId: 229461,
+                containerId: 'adfox_162763905828999883',
+                params: {
+                    pp: 'g',
+                    ps: 'ezqw',
+                    p2: 'hhiu'
+                }
+            })
+        })
+    </script>
+</div>
+
+                                <div class="ad-mobile ad-mobile-02">
+    <!--AdFox START-->
+    <!--srgkm-->
+    <!--Площадка: TANR 2021 / * / *-->
+    <!--Тип баннера: TANR 2021: 002 MOBILE-->
+    <!--Расположение: <верх страницы>-->
+    <div id="adfox_16276390309658348"></div>
+    <script>
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.create({
+                ownerId: 229461,
+                containerId: 'adfox_16276390309658348',
+                params: {
+                    pp: 'g',
+                    ps: 'ezqw',
+                    p2: 'hhiv'
+                }
+            })
+        })
+    </script>
+</div>
+
+                            
+                            <!-- inc: 2 -->
+                            
+
+
+
+
+    <div class="postPreviewsV2Root js-fix-post-previews">
+        
+            
+                <a href="/posts/20260219-rftw/" title="«Старая мастерица» напомнит о своей инновации почти 500-летней давности" class="postPreviewsItem">
+                    
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/31260_Catharina_van_Hemessen.2e16d0ba.fill-465x285.jpg" alt="«Старая мастерица» напомнит о своей инновации почти 500-летней давности">
+                        </div>
+                    
+                    <div class="postPreviewsItemSection">Новости</div>
+                    <div class="postPreviewsItemTitle js-fix-hanging">«Старая мастерица» напомнит о своей инновации почти 500-летней давности</div>
+                    <div class="postPreviewsItemTitle2 js-fix-hanging js-icon-read-more">Первый в истории живописи автопортрет перед мольбертом кисти Катарины ван Хемессен будет жемчужиной выставки в Антверпене</div>
+                    <div class=postPreviewsItemDate>19.02.2026</div>
+                </a>
+            
+        
+            
+                <a href="/posts/20260219-mxpu/" title="ОСА: взлет и падение архитекторов-конструктивистов" class="postPreviewsItem">
+                    
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/31096_08_copy.2e16d0ba.fill-465x285.jpg" alt="ОСА: взлет и падение архитекторов-конструктивистов">
+                        </div>
+                    
+                    <div class="postPreviewsItemSection">Выставки</div>
+                    <div class="postPreviewsItemTitle js-fix-hanging">ОСА: взлет и падение архитекторов-конструктивистов</div>
+                    <div class="postPreviewsItemTitle2 js-fix-hanging js-icon-read-more">На выставке в Музее архитектуры конструктивизм исследуется не как очередной художественный стиль, а как рациональный метод мышления, принимавший во внимание новые социальные связи и практики в советском обществе</div>
+                    <div class=postPreviewsItemDate>19.02.2026</div>
+                </a>
+            
+        
+    </div>
+
+    <div class="postPreviewsV2Root js-fix-post-previews">
+        
+            
+                <a href="/posts/20260219-ltdv/" title="Размышления у парадного подъезда привели к активным действиям" class="postPreviewsItem">
+                    
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/31262_Paradnyi_podezd_Doma_I.V.Pas.2e16d0ba.fill-465x285.jpg" alt="Размышления у парадного подъезда привели к активным действиям">
+                        </div>
+                    
+                    <div class="postPreviewsItemSection">Реставрация</div>
+                    <div class="postPreviewsItemTitle js-fix-hanging">Размышления у парадного подъезда привели к активным действиям</div>
+                    <div class="postPreviewsItemTitle2 js-fix-hanging js-icon-read-more">Дом Пашкова существует не только в Москве, но и в Санкт-Петербурге, на Литейном проспекте. Облик этого особняка, увековеченного Некрасовым, теперь постепенно становится все ближе и ближе к историческому</div>
+                    <div class=postPreviewsItemDate>19.02.2026</div>
+                </a>
+            
+        
+            
+                <a href="/posts/20260219-lxlc/" title="Обсессии одного художника — от монеток до The Beatles" class="postPreviewsItem">
+                    
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/31259_We_Buy_White_Albums_The_Firs.2e16d0ba.fill-465x285.jpg" alt="Обсессии одного художника — от монеток до The Beatles">
+                        </div>
+                    
+                    <div class="postPreviewsItemSection">Выставки</div>
+                    <div class="postPreviewsItemTitle js-fix-hanging">Обсессии одного художника — от монеток до The Beatles</div>
+                    <div class="postPreviewsItemTitle2 js-fix-hanging js-icon-read-more">Выставка в пекинском Центре современного искусства Улленсов знакомит публику с произведениями американца Резерфорда Чанга, выросшими из скрупулезной, почти компульсивной практики коллекционирования самых разных предметов</div>
+                    <div class=postPreviewsItemDate>19.02.2026</div>
+                </a>
+            
+        
+    </div>
+
+
+                        
+                            
+                            <!-- inc: 3 -->
+                            
+
+
+<div class="groupHeader ">
+    
+        <a href="/sections/gallery/">Галереи</a>
+    
+</div>
+
+
+<div class="postPreviewsGalleryRoot postPreviewsGalleryRoot-3">
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            
+                <div class="swiper-slide">
+                    <a href="/posts/20260210-gxte/" class="postPreviewsItem">
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/31055_PBL_287291.2e16d0ba.fill-960x600.jpg" alt="70 лет спустя. Архивы VII зимней Олимпиады в Кортина-д’Ампеццо">
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="swiper-slide">
+                    <a href="/posts/20251203-gchm/" class="postPreviewsItem">
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/29975_1_Eksterer_muzeya_ZILART._Fo.2e16d0ba.fill-960x600.jpg" alt="Музей «ЗИЛАРТ» снаружи и внутри">
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="swiper-slide">
+                    <a href="/posts/20250918-diey/" class="postPreviewsItem">
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/28513_NARODIZKIY-0343_copy.2e16d0ba.fill-960x600.jpg" alt="Как выглядит новый музейный центр «Масловка. Городок художников»">
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="swiper-slide">
+                    <a href="/posts/20250811-adil/" class="postPreviewsItem">
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/27812_Irina_Korina._Poslezavtra_sk.2e16d0ba.fill-960x600.jpg" alt="Ирина Корина, «Хвойные» и Михаил Рубанков в AZ/ART">
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="swiper-slide">
+                    <a href="/posts/20250514-pwlc/" class="postPreviewsItem">
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/26521_Pavilion_of_GREAT_BRITAIN_-_.2e16d0ba.fill-960x600.jpg" alt="В Венеции проходит 19-я Архитектурная биеннале">
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="swiper-slide">
+                    <a href="/posts/20250224-geis/" class="postPreviewsItem">
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/24848_19_Savarin_Palace_-_Na_Priko.2e16d0ba.fill-960x600.jpg" alt="Музей Альфонса Мухи открылся в Праге">
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="swiper-slide">
+                    <a href="/posts/20250131-waqh/" class="postPreviewsItem">
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/24283_Christian_Dior__Musee_du_Lou.2e16d0ba.fill-960x600.jpg" alt="Выставка «Искусство и мода» в Лувре">
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="swiper-slide">
+                    <a href="/posts/20241120-rktf/" class="postPreviewsItem">
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/22779_06_copy.2e16d0ba.fill-960x600.jpg" alt="Выставка «амазонки русского авангарда» Любови Поповой в Еврейском музее и центре толерантности">
+                        </div>
+                    </a>
+                </div>
+            
+        </div>
+        <div class="swiper-pagination"></div>
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+    </div>
+    <div class="swiper-container-2">
+        <div class="swiper-wrapper">
+            
+                <div class="swiper-slide">
+                    <a href="/posts/20260210-gxte/" class="postPreviewsItem">
+                        <div class="postPreviewsItemTitle js-fix-hanging">70 лет спустя. Архивы VII зимней Олимпиады в Кортина-д’Ампеццо</div>
+                    </a>
+                </div>
+            
+                <div class="swiper-slide">
+                    <a href="/posts/20251203-gchm/" class="postPreviewsItem">
+                        <div class="postPreviewsItemTitle js-fix-hanging">Музей «ЗИЛАРТ» снаружи и внутри</div>
+                    </a>
+                </div>
+            
+                <div class="swiper-slide">
+                    <a href="/posts/20250918-diey/" class="postPreviewsItem">
+                        <div class="postPreviewsItemTitle js-fix-hanging">Как выглядит новый музейный центр «Масловка. Городок художников»</div>
+                    </a>
+                </div>
+            
+                <div class="swiper-slide">
+                    <a href="/posts/20250811-adil/" class="postPreviewsItem">
+                        <div class="postPreviewsItemTitle js-fix-hanging">Ирина Корина, «Хвойные» и Михаил Рубанков в AZ/ART</div>
+                    </a>
+                </div>
+            
+                <div class="swiper-slide">
+                    <a href="/posts/20250514-pwlc/" class="postPreviewsItem">
+                        <div class="postPreviewsItemTitle js-fix-hanging">В Венеции проходит 19-я Архитектурная биеннале</div>
+                    </a>
+                </div>
+            
+                <div class="swiper-slide">
+                    <a href="/posts/20250224-geis/" class="postPreviewsItem">
+                        <div class="postPreviewsItemTitle js-fix-hanging">Музей Альфонса Мухи открылся в Праге</div>
+                    </a>
+                </div>
+            
+                <div class="swiper-slide">
+                    <a href="/posts/20250131-waqh/" class="postPreviewsItem">
+                        <div class="postPreviewsItemTitle js-fix-hanging">Выставка «Искусство и мода» в Лувре</div>
+                    </a>
+                </div>
+            
+                <div class="swiper-slide">
+                    <a href="/posts/20241120-rktf/" class="postPreviewsItem">
+                        <div class="postPreviewsItemTitle js-fix-hanging">Выставка «амазонки русского авангарда» Любови Поповой в Еврейском музее и центре толерантности</div>
+                    </a>
+                </div>
+            
+        </div>
+    </div>
+</div>
+
+
+
+<div class="groupFooter ">
+    
+        <a href="/sections/gallery/">
+            <img src="/static/img/icon/icon-read-more-2.0acb5e3066d4.svg" alt=""> Все галереи
+        </a>
+    
+</div>
+
+
+<script>
+    makeSwiperWithPaginationBullets('.postPreviewsGalleryRoot-3');
+</script>
+
+
+                        
+                            
+                                <div class="ad-tablet ad-tablet-03">
+    <!--AdFox START-->
+    <!--srgkm-->
+    <!--Площадка: TANR 2021 / * / *-->
+    <!--Тип баннера: TANR 2021: 003 TABLET-->
+    <!--Расположение: <середина страницы>-->
+    <div id="adfox_162763849186684825"></div>
+    <script>
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.create({
+                ownerId: 229461,
+                containerId: 'adfox_162763849186684825',
+                params: {
+                    pp: 'h',
+                    ps: 'ezqw',
+                    p2: 'hhqe'
+                }
+            })
+        })
+    </script>
+</div>
+
+                                <div class="ad-mobile ad-mobile-03">
+    <!--AdFox START-->
+    <!--srgkm-->
+    <!--Площадка: TANR 2021 / * / *-->
+    <!--Тип баннера: TANR 2021: 003 DESKTOP-->
+    <!--Расположение: <середина страницы>-->
+    <div id="adfox_162764122459953004_mobile"></div>
+    <script>
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.create({
+                ownerId: 229461,
+                containerId: 'adfox_162764122459953004_mobile',
+                params: {
+                    pp: 'h',
+                    ps: 'ezqw',
+                    p2: 'hhqb'
+                }
+            })
+        })
+    </script>
+</div>
+
+                            
+                            <!-- inc: 4 -->
+                            
+
+
+<div style="height: 20px"></div>
+
+<div class="groupHeader groupHeaderLux">
+    
+        <span>Партнерские проекты</span>
+    
+</div>
+
+
+<div class="adPartnersRoot adPartnersRoot-4 marginBottom">
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/zilart/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/30974_Osnovnoe.width-218x136.2e16d0ba.fill-465x285.jpg" alt="ЗИЛАРТ">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/zilart/" class="adPartnersItemTitle js-fix-hanging">ЗИЛАРТ</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/evreiskii-muzei-i-tsentr-tolerantnosti/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/29285_1_copy.width-218x136.2e16d0ba.fill-465x285.jpg" alt="Еврейский музей и центр толерантности">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/evreiskii-muzei-i-tsentr-tolerantnosti/" class="adPartnersItemTitle js-fix-hanging">Еврейский музей и центр толерантности</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/mr-group/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/218x136-MRG3002_NicoleProject_S110.2e16d0ba.fill-465x285.jpg" alt="MR Group">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/mr-group/" class="adPartnersItemTitle js-fix-hanging">MR Group</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/pioneer/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/218kh136-V1_1aDx9LB.2e16d0ba.fill-465x285.jpg" alt="PIONEER">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/pioneer/" class="adPartnersItemTitle js-fix-hanging">PIONEER</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/galereia-leonida-shishkina/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/218kh136-25950_2_co_NJrHB4X.2e16d0ba.fill-465x285.jpg" alt="Галерея Леонида Шишкина">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/galereia-leonida-shishkina/" class="adPartnersItemTitle js-fix-hanging">Галерея Леонида Шишкина</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/posts/?section=kreativnyi-muzei">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/TANR_POTANIN-3.2e16d0ba.fill-465x285.jpg" alt="Креативный музей. Фонд В. Потанина">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/posts/?section=kreativnyi-muzei" class="adPartnersItemTitle js-fix-hanging">Креативный музей. Фонд В. Потанина</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/dream-riva/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/DreamRiver_218x136.2e16d0ba.fill-465x285.jpg" alt="DREAM RIVA">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/dream-riva/" class="adPartnersItemTitle js-fix-hanging">DREAM RIVA</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/miasnoi-dom-borodina/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/218x136-zahod_new_2dBFTrz.2e16d0ba.fill-465x285.jpg" alt="Мясной дом Бородина">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/miasnoi-dom-borodina/" class="adPartnersItemTitle js-fix-hanging">Мясной дом Бородина</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/natsionalnaia-lotereia/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/1_DnBy2Qt.width-1290.2e16d0ba.fill-465x285.jpg" alt="«Национальная Лотерея»">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/natsionalnaia-lotereia/" class="adPartnersItemTitle js-fix-hanging">«Национальная Лотерея»</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/mono/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/7_1_qm7VIDs.width-1290.2e16d0ba.fill-465x285.jpg" alt="MONO">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/mono/" class="adPartnersItemTitle js-fix-hanging">MONO</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/usadby-moskvy/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/4N_DoD2N_.2e16d0ba.fill-465x285.jpg" alt="«Усадьбы Москвы»">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/usadby-moskvy/" class="adPartnersItemTitle js-fix-hanging">«Усадьбы Москвы»</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/muzei-dinamo/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/4.2e16d0ba.fill-465x285.jpg" alt="Музей «Динамо»">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/muzei-dinamo/" class="adPartnersItemTitle js-fix-hanging">Музей «Динамо»</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/nizhnii-novgorod-i-vokrug/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/Pakgauzy_na_Strelke_v_Nizhnem_Novg.2e16d0ba.fill-465x285_Hsx3qJb.jpg" alt="Нижний Новгород и вокруг">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/nizhnii-novgorod-i-vokrug/" class="adPartnersItemTitle js-fix-hanging">Нижний Новгород и вокруг</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/art-fabrika-aki/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/D_DN_N__DDDN_DDoD_D_D_D_.2e16d0ba.fill-465x285.jpg" alt="«Арт-фабрика» АКИ">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/art-fabrika-aki/" class="adPartnersItemTitle js-fix-hanging">«Арт-фабрика» АКИ</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/posie/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/8-161805_YandexDisk_1.2e16d0ba.fill-465x285.jpg" alt="Posié">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/posie/" class="adPartnersItemTitle js-fix-hanging">Posié</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/keywords/tsentr-zotov/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/Fasad_zdaniya_tsentra_Zotov3.2e16d0ba.fill-465x285.jpg" alt="Центр  «Зотов»">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/keywords/tsentr-zotov/" class="adPartnersItemTitle js-fix-hanging">Центр  «Зотов»</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/sankt-peterburgskaia-iarmarka-iskusstva-1703/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/2_1nomX4z.width-1290.2e16d0ba.fill-465x285.jpg" alt="Ярмарка «1703»">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/sankt-peterburgskaia-iarmarka-iskusstva-1703/" class="adPartnersItemTitle js-fix-hanging">Ярмарка «1703»</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/druzia-peterburga/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/1_AKwIIAu.width-1290.2e16d0ba.fill-465x285.jpg" alt="Друзья Петербурга">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/druzia-peterburga/" class="adPartnersItemTitle js-fix-hanging">Друзья Петербурга</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/Cartier/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/Cartier.2e16d0ba.fill-465x285.jpg" alt="CARTIER">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/Cartier/" class="adPartnersItemTitle js-fix-hanging">CARTIER</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/brafa-2020/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/BRAFA2020.2e16d0ba.fill-465x285.jpg" alt="BRAFA 2020">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/brafa-2020/" class="adPartnersItemTitle js-fix-hanging">BRAFA 2020</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/hasimi/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/Nasimi.2e16d0ba.fill-465x285.jpg" alt="«HАСИМИ»">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/hasimi/" class="adPartnersItemTitle js-fix-hanging">«HАСИМИ»</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/Art-Basel-2019/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/ArtBasel2019.2e16d0ba.fill-465x285.jpg" alt="ART BASEL 2019">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/Art-Basel-2019/" class="adPartnersItemTitle js-fix-hanging">ART BASEL 2019</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/brafa-2019/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/BRAFA2019.2e16d0ba.fill-465x285.jpg" alt="BRAFA 2019">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/brafa-2019/" class="adPartnersItemTitle js-fix-hanging">BRAFA 2019</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/brafa-2018/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/BRAFA2018.2e16d0ba.fill-465x285.jpg" alt="BRAFA 2018">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/brafa-2018/" class="adPartnersItemTitle js-fix-hanging">BRAFA 2018</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/brafa-2017/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/BRAFA2017.2e16d0ba.fill-465x285.jpg" alt="BRAFA 2017">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/brafa-2017/" class="adPartnersItemTitle js-fix-hanging">BRAFA 2017</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/brafa-2016/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/BRAFA2016.2e16d0ba.fill-465x285.jpg" alt="BRAFA 2016">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/brafa-2016/" class="adPartnersItemTitle js-fix-hanging">BRAFA 2016</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/artmossfera-2016/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/ARTMOSFERA.2e16d0ba.fill-465x285.jpg" alt="АРТМОССФЕРА 2016">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/artmossfera-2016/" class="adPartnersItemTitle js-fix-hanging">АРТМОССФЕРА 2016</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="adPartnersItem" data-link="https://www.theartnewspaper.ru/sections/shchukin-shchukin/">
+                        <div class="adPartnersItemImage">
+                            
+                            <img src="/media/images/Shchukin.2e16d0ba.fill-465x285.jpg" alt="ЩУКИН/SHCHUKIN">
+                        </div>
+                        <a href="https://www.theartnewspaper.ru/sections/shchukin-shchukin/" class="adPartnersItemTitle js-fix-hanging">ЩУКИН/SHCHUKIN</a>
+                    </div>
+                </div>
+            
+        </div>
+        <div class="swiper-scrollbar"></div>
+    </div>
+</div>
+
+<div style="height: 20px"></div>
+
+<script>
+    makeSwiperWithScrollbar('.adPartnersRoot-4');
+</script>
+
+                        
+                            
+                            <!-- inc: 5 -->
+                            
+
+
+
+
+    <div class="postPreviewsV2Root js-fix-post-previews">
+        
+            
+                <a href="/posts/20260218-gdkr/" title="В Ростове-на-Дону интересуются телесностью" class="postPreviewsItem">
+                    
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/31246_6_copy.2e16d0ba.fill-465x285.jpg" alt="В Ростове-на-Дону интересуются телесностью">
+                        </div>
+                    
+                    <div class="postPreviewsItemSection">Ростов-на-Дону Россия</div>
+                    <div class="postPreviewsItemTitle js-fix-hanging">В Ростове-на-Дону интересуются телесностью</div>
+                    <div class="postPreviewsItemTitle2 js-fix-hanging js-icon-read-more">Молодая галерея современного искусства Culture представила второй выставочный проект, в котором обращается к фундаментальной теме связи телесной и эмоциональной составляющих человека со способом освобождения собственного «я» в танце и движении</div>
+                    <div class=postPreviewsItemDate>18.02.2026</div>
+                </a>
+            
+        
+            
+                <a href="/posts/20260216-eytg/" title="Нью-йоркское ар-деко в московских координатах" class="postPreviewsItem">
+                    
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/31169_Lobby_007_no_Logo_Bashmakova.2e16d0ba.fill-465x285.jpg" alt="Нью-йоркское ар-деко в московских координатах">
+                        </div>
+                    
+                    <div class="postPreviewsItemSection">Роскошь</div>
+                    <div class="postPreviewsItemTitle js-fix-hanging">Нью-йоркское ар-деко в московских координатах</div>
+                    <div class="postPreviewsItemTitle2 js-fix-hanging js-icon-read-more">Девелоперская компания Optima Development в творческом альянсе с международным бюро Studia 54 представила концепцию лобби для новой архитектурной доминанты квартала «Прайм Парк» — башни PETROVSKY PARK TOWER</div>
+                    <div class=postPreviewsItemDate>18.02.2026</div>
+                </a>
+            
+        
+    </div>
+
+    <div class="postPreviewsV2Root js-fix-post-previews">
+        
+            
+                <a href="/posts/20260218-tfym/" title="Золотое кольцо увеличится в шесть раз" class="postPreviewsItem">
+                    
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/31251_lori-0037134582-a4.2e16d0ba.fill-465x285.jpg" alt="Золотое кольцо увеличится в шесть раз">
+                        </div>
+                    
+                    <div class="postPreviewsItemSection">Новости</div>
+                    <div class="postPreviewsItemTitle js-fix-hanging">Золотое кольцо увеличится в шесть раз</div>
+                    <div class="postPreviewsItemTitle2 js-fix-hanging js-icon-read-more">Расширение популярного маршрута станет ответом на растущий запрос граждан на путешествия по стране</div>
+                    <div class=postPreviewsItemDate>18.02.2026</div>
+                </a>
+            
+        
+            
+                <a href="/posts/20260218-lyam/" title="В Ульяновске проходит выставка «Детский мир» — и она не про магазин" class="postPreviewsItem">
+                    
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/31249_f03a2b084333977500e7f4ab905c.2e16d0ba.fill-465x285.jpg" alt="В Ульяновске проходит выставка «Детский мир» — и она не про магазин">
+                        </div>
+                    
+                    <div class="postPreviewsItemSection">Выставки</div>
+                    <div class="postPreviewsItemTitle js-fix-hanging">В Ульяновске проходит выставка «Детский мир» — и она не про магазин</div>
+                    <div class="postPreviewsItemTitle2 js-fix-hanging js-icon-read-more">Пока в филиале Третьяковки в Самаре продолжается выставка «Детство. Мечты», исследующая опыт жизни ребенка в СССР, выше по течению Волги, в Ульяновском областном художественном музее, детство рассматривают в историческом контексте двух столетий</div>
+                    <div class=postPreviewsItemDate>18.02.2026</div>
+                </a>
+            
+        
+    </div>
+
+
+                        
+                            
+                            <!-- inc: 6 -->
+                            
+
+
+
+
+    <div class="postPreviewsV2Root js-fix-post-previews">
+        
+            
+                <a href="/posts/20260218-esog/" title="Умер Дмитрий Бавильский" class="postPreviewsItem">
+                    
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/31229_photo_2026-02-17_18.04.44.2e16d0ba.fill-465x285.jpg" alt="Умер Дмитрий Бавильский">
+                        </div>
+                    
+                    <div class="postPreviewsItemSection">Некролог</div>
+                    <div class="postPreviewsItemTitle js-fix-hanging">Умер Дмитрий Бавильский</div>
+                    <div class="postPreviewsItemTitle2 js-fix-hanging js-icon-read-more">Писателя, критика, драматурга, редактора, нашего коллегу и друга Дмитрия Бавильского, скончавшегося на 58-м году жизни, вспоминает галерист Ильдар Галеев</div>
+                    <div class=postPreviewsItemDate>18.02.2026</div>
+                </a>
+            
+        
+            
+                <a href="/posts/20260218-jyrp/" title="В «Царицыно» исследуют влияние индийского текстиля на мировую культуру" class="postPreviewsItem">
+                    
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/31240_India_3_copy.2e16d0ba.fill-465x285.jpg" alt="В «Царицыно» исследуют влияние индийского текстиля на мировую культуру">
+                        </div>
+                    
+                    <div class="postPreviewsItemSection">Выставки</div>
+                    <div class="postPreviewsItemTitle js-fix-hanging">В «Царицыно» исследуют влияние индийского текстиля на мировую культуру</div>
+                    <div class="postPreviewsItemTitle2 js-fix-hanging js-icon-read-more">Хлопок, шерсть, шелк, вышивка, Джавахарлал Неру, The Beatles, пижамы и Ив Сен-Лоран — все это не случайный набор слов, а важные темы и акценты выставки «Индия. Ткань времен», посвященной связям Востока и Запада</div>
+                    <div class=postPreviewsItemDate>18.02.2026</div>
+                </a>
+            
+        
+    </div>
+
+    <div class="postPreviewsV2Root js-fix-post-previews">
+        
+            
+                <a href="/posts/20260213-hzzw/" title="Выставка дизайна ARTDOM сосредоточится на чувственном восприятии" class="postPreviewsItem">
+                    
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/31152_DSC03720.2e16d0ba.fill-465x285.jpg" alt="Выставка дизайна ARTDOM сосредоточится на чувственном восприятии">
+                        </div>
+                    
+                    <div class="postPreviewsItemSection">Новости</div>
+                    <div class="postPreviewsItemTitle js-fix-hanging">Выставка дизайна ARTDOM сосредоточится на чувственном восприятии</div>
+                    <div class="postPreviewsItemTitle2 js-fix-hanging js-icon-read-more">Международная выставка мебели, интерьерных решений и искусства пройдет в «Крокус Экспо»</div>
+                    <div class=postPreviewsItemDate>18.02.2026</div>
+                </a>
+            
+        
+            
+                <a href="/posts/20260204-qcsq/" title="Путеводитель по музею «ЗИЛАРТ»" class="postPreviewsItem">
+                    
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/30974_Osnovnoe.2e16d0ba.fill-465x285.jpg" alt="Путеводитель по музею «ЗИЛАРТ»">
+                        </div>
+                    
+                    <div class="postPreviewsItemSection">Спецпроект</div>
+                    <div class="postPreviewsItemTitle js-fix-hanging">Путеводитель по музею «ЗИЛАРТ»</div>
+                    <div class="postPreviewsItemTitle2 js-fix-hanging js-icon-read-more">Представляем главные хиты и пространства музея, его выставки и окружающие улицы, названные в честь художников — от Шагала до Родченко</div>
+                    <div class=postPreviewsItemDate>18.02.2026</div>
+                </a>
+            
+        
+    </div>
+
+
+                        
+                            
+                            <!-- inc: 7 -->
+                            
+
+
+
+
+    <div class="postPreviewsV2Root js-fix-post-previews">
+        
+            
+                <a href="/posts/20260202-zgev/" title="Индустриальная неоготика в инженерном вальсе" class="postPreviewsItem">
+                    
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/30901_16_Gustav_Elevated_1_copy.2e16d0ba.fill-465x285.jpg" alt="Индустриальная неоготика в инженерном вальсе">
+                        </div>
+                    
+                    <div class="postPreviewsItemSection">Спецпроект</div>
+                    <div class="postPreviewsItemTitle js-fix-hanging">Индустриальная неоготика в инженерном вальсе</div>
+                    <div class="postPreviewsItemTitle2 js-fix-hanging js-icon-read-more">Девелопер FORMA приступил к реставрации исторических объектов XIX века на территории бывшего завода «Борец», которые станут связующим звеном между разными эпохами и главным украшением нового креативно-делового кластера GUSTAV</div>
+                    <div class=postPreviewsItemDate>18.02.2026</div>
+                </a>
+            
+        
+            
+                <a href="/posts/20260217-iqrz/" title="В Третьяковке открылась выставка шедевров Пикассо и Матисса из коллекции Пушкинского" class="postPreviewsItem">
+                    
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/31225_20260213_IN_Matiss_Picasso_E.2e16d0ba.fill-465x285.jpg" alt="В Третьяковке открылась выставка шедевров Пикассо и Матисса из коллекции Пушкинского">
+                        </div>
+                    
+                    <div class="postPreviewsItemSection">Выставки</div>
+                    <div class="postPreviewsItemTitle js-fix-hanging">В Третьяковке открылась выставка шедевров Пикассо и Матисса из коллекции Пушкинского</div>
+                    <div class="postPreviewsItemTitle2 js-fix-hanging js-icon-read-more">Выставка «Матисс и Пикассо. Цвет и форма» разместилась в зале Марка Шагала в Новой Третьяковке на Крымском Валу, чьи работы показывают сейчас в Государственном музее изобразительных искусств им. А.С.Пушкина</div>
+                    <div class=postPreviewsItemDate>17.02.2026</div>
+                </a>
+            
+        
+    </div>
+
+    <div class="postPreviewsV2Root js-fix-post-previews">
+        
+            
+                <a href="/posts/20260217-feeu/" title="В Доме Остроухова становится все чудесатее и чудесатее" class="postPreviewsItem">
+                    
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/31211_2025-12-15_Alisa_vernisazh_3.2e16d0ba.fill-465x285.jpg" alt="В Доме Остроухова становится все чудесатее и чудесатее">
+                        </div>
+                    
+                    <div class="postPreviewsItemSection">Выставки</div>
+                    <div class="postPreviewsItemTitle js-fix-hanging">В Доме Остроухова становится все чудесатее и чудесатее</div>
+                    <div class="postPreviewsItemTitle2 js-fix-hanging js-icon-read-more">Выставка «Алиса, проснись!», созданная Гослитмузеем в партнерстве с галереей «ГРОСart», занимает все пространство особняка Ильи Остроухова. Проект посвящен интереснейшей судьбе книг Льюиса Кэрролла в России</div>
+                    <div class=postPreviewsItemDate>17.02.2026</div>
+                </a>
+            
+        
+            
+                <a href="/posts/20260217-kciv/" title="Искусственный интеллект поможет восстановить разрушенную фреску Чимабуэ" class="postPreviewsItem">
+                    
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/Bez_imeni-1_kopiya.2e16d0ba.fill-465x285.jpg" alt="Искусственный интеллект поможет восстановить разрушенную фреску Чимабуэ">
+                        </div>
+                    
+                    <div class="postPreviewsItemSection">Новости</div>
+                    <div class="postPreviewsItemTitle js-fix-hanging">Искусственный интеллект поможет восстановить разрушенную фреску Чимабуэ</div>
+                    <div class="postPreviewsItemTitle2 js-fix-hanging js-icon-read-more">Семь веков эта фреска украшала потолок базилики Святого Франциска в Ассизи, но в 1997 году разбилась на тысячи фрагментов в результате землетрясения. Чтобы собрать заново этот «пазл», одного лишь человеческого интеллекта оказалось недостаточно</div>
+                    <div class=postPreviewsItemDate>17.02.2026</div>
+                </a>
+            
+        
+    </div>
+
+
+                        
+                            
+                                <div class="ad-desktop ad-desktop-04">
+    <!--AdFox START-->
+    <!--srgkm-->
+    <!--Площадка: TANR 2021 / * / *-->
+    <!--Тип баннера: TANR 2021: 004 DESKTOP-->
+    <!--Расположение: <низ страницы>-->
+    <div id="adfox_162764118133983261"></div>
+    <script>
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.create({
+                ownerId: 229461,
+                containerId: 'adfox_162764118133983261',
+                params: {
+                    pp: 'i',
+                    ps: 'ezqw',
+                    p2: 'hhqc'
+                }
+            })
+        })
+    </script>
+</div>
+
+                                <div class="ad-tablet ad-tablet-04">
+    <!--AdFox START-->
+    <!--srgkm-->
+    <!--Площадка: TANR 2021 / * / *-->
+    <!--Тип баннера: TANR 2021: 004 DESKTOP-->
+    <!--Расположение: <низ страницы>-->
+    <div id="adfox_162764118133983261_tablet"></div>
+    <script>
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.create({
+                ownerId: 229461,
+                containerId: 'adfox_162764118133983261_tablet',
+                params: {
+                    pp: 'i',
+                    ps: 'ezqw',
+                    p2: 'hhqc'
+                }
+            })
+        })
+    </script>
+</div>
+
+                                <div class="ad-mobile ad-mobile-04">
+    <!--AdFox START-->
+    <!--srgkm-->
+    <!--Площадка: TANR 2021 / * / *-->
+    <!--Тип баннера: TANR 2021: 004 MOBILE-->
+    <!--Расположение: <низ страницы>-->
+    <div id="adfox_162763945305719330"></div>
+    <script>
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.create({
+                ownerId: 229461,
+                containerId: 'adfox_162763945305719330',
+                params: {
+                    pp: 'i',
+                    ps: 'ezqw',
+                    p2: 'hhqg'
+                }
+            })
+        })
+    </script>
+</div>
+
+                            
+                            <!-- inc: 8 -->
+                            
+
+
+<div class="groupHeader ">
+    
+        <a href="/sections/video/">Видео</a>
+    
+</div>
+
+
+<div class="postPreviewsVideoRoot postPreviewsVideoRoot-8">
+    
+        <div class="postPreviewsItem" data-link="/posts/20251209-wlgb/">
+            <div class="postPreviewsItemImage">
+                
+                <img src="/media/images/27058_20250609_IN_Brullov_PRESS_60.2e16d0ba.fill-960x525.jpg" alt="Экскурсия по выставке Карл Брюллов в Третьяковской галерее">
+                <img src="/static/img/icon/icon-video-white.075c943a41ad.svg" alt="">
+            </div>
+            <a href="/posts/20251209-wlgb/" class="postPreviewsItemTitle js-fix-hanging">Экскурсия по выставке Карл Брюллов в Третьяковской галерее</a>
+        </div>
+    
+        <div class="postPreviewsItem" data-link="/posts/20250811-ardb/">
+            <div class="postPreviewsItemImage">
+                
+                <img src="/media/images/27848_Snimok_ekrana_2025-08-11_v_1.2e16d0ba.fill-960x525.jpg" alt="Кураторская экскурсия по выставке в Эрмитаже «К барьеру!»">
+                <img src="/static/img/icon/icon-video-white.075c943a41ad.svg" alt="">
+            </div>
+            <a href="/posts/20250811-ardb/" class="postPreviewsItemTitle js-fix-hanging">Кураторская экскурсия по выставке в Эрмитаже «К барьеру!»</a>
+        </div>
+    
+        <div class="postPreviewsItem" data-link="/posts/20231010-moxg/">
+            <div class="postPreviewsItemImage">
+                
+                <img src="/media/images/Kolomenskoye_dvorec5.2e16d0ba.fill-960x525.jpg" alt="600 лет истории Коломенского за 37 минут">
+                <img src="/static/img/icon/icon-video-white.075c943a41ad.svg" alt="">
+            </div>
+            <a href="/posts/20231010-moxg/" class="postPreviewsItemTitle js-fix-hanging">600 лет истории Коломенского за 37 минут</a>
+        </div>
+    
+        <div class="postPreviewsItem" data-link="/posts/20241101-fprh/">
+            <div class="postPreviewsItemImage">
+                
+                <img src="/media/images/22631_Screenshot_2024-11-01_at_04..2e16d0ba.fill-960x525.jpg" alt="Что показывают на выставке «Новое общество художников» в Музее русского импрессионизма">
+                <img src="/static/img/icon/icon-video-white.075c943a41ad.svg" alt="">
+            </div>
+            <a href="/posts/20241101-fprh/" class="postPreviewsItemTitle js-fix-hanging">Что показывают на выставке «Новое общество художников» в Музее русского импрессионизма</a>
+        </div>
+    
+        <div class="postPreviewsItem" data-link="/posts/20241007-zsrq/">
+            <div class="postPreviewsItemImage">
+                
+                <img src="/media/images/Integratsiya_firmennogo_znaka.2e16d0ba.fill-960x525.jpg" alt="Елизавета Лихачева о ребрендинге Пушкинского музея">
+                <img src="/static/img/icon/icon-video-white.075c943a41ad.svg" alt="">
+            </div>
+            <a href="/posts/20241007-zsrq/" class="postPreviewsItemTitle js-fix-hanging">Елизавета Лихачева о ребрендинге Пушкинского музея</a>
+        </div>
+    
+</div>
+
+<div class="postPreviewsVideoMobileRoot postPreviewsVideoMobileRoot-8"
+     style="background-color: ;">
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            
+                <div class="swiper-slide">
+                    <div class="postPreviewsItem" data-link="/posts/20251209-wlgb/">
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/27058_20250609_IN_Brullov_PRESS_60.2e16d0ba.fill-960x600.jpg" alt="Экскурсия по выставке Карл Брюллов в Третьяковской галерее">
+                            <img src="/static/img/icon/icon-video-white.075c943a41ad.svg" alt="">
+                        </div>
+                        <a href="/posts/20251209-wlgb/" class="postPreviewsItemTitle js-fix-hanging">Экскурсия по выставке Карл Брюллов в Третьяковской галерее</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="postPreviewsItem" data-link="/posts/20250811-ardb/">
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/27848_Snimok_ekrana_2025-08-11_v_1.2e16d0ba.fill-960x600.jpg" alt="Кураторская экскурсия по выставке в Эрмитаже «К барьеру!»">
+                            <img src="/static/img/icon/icon-video-white.075c943a41ad.svg" alt="">
+                        </div>
+                        <a href="/posts/20250811-ardb/" class="postPreviewsItemTitle js-fix-hanging">Кураторская экскурсия по выставке в Эрмитаже «К барьеру!»</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="postPreviewsItem" data-link="/posts/20231010-moxg/">
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/Kolomenskoye_dvorec5.2e16d0ba.fill-960x600.jpg" alt="600 лет истории Коломенского за 37 минут">
+                            <img src="/static/img/icon/icon-video-white.075c943a41ad.svg" alt="">
+                        </div>
+                        <a href="/posts/20231010-moxg/" class="postPreviewsItemTitle js-fix-hanging">600 лет истории Коломенского за 37 минут</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="postPreviewsItem" data-link="/posts/20241101-fprh/">
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/22631_Screenshot_2024-11-01_at_04..2e16d0ba.fill-960x600.jpg" alt="Что показывают на выставке «Новое общество художников» в Музее русского импрессионизма">
+                            <img src="/static/img/icon/icon-video-white.075c943a41ad.svg" alt="">
+                        </div>
+                        <a href="/posts/20241101-fprh/" class="postPreviewsItemTitle js-fix-hanging">Что показывают на выставке «Новое общество художников» в Музее русского импрессионизма</a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="postPreviewsItem" data-link="/posts/20241007-zsrq/">
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/Integratsiya_firmennogo_znaka.2e16d0ba.fill-960x600.jpg" alt="Елизавета Лихачева о ребрендинге Пушкинского музея">
+                            <img src="/static/img/icon/icon-video-white.075c943a41ad.svg" alt="">
+                        </div>
+                        <a href="/posts/20241007-zsrq/" class="postPreviewsItemTitle js-fix-hanging">Елизавета Лихачева о ребрендинге Пушкинского музея</a>
+                    </div>
+                </div>
+            
+        </div>
+        <div class="swiper-scrollbar swiper-scrollbar-white"></div>
+    </div>
+</div>
+
+
+
+<div class="groupFooter ">
+    
+        <a href="/sections/video/">
+            <img src="/static/img/icon/icon-read-more-2.0acb5e3066d4.svg" alt=""> Все видео
+        </a>
+    
+</div>
+
+
+<script>
+    makeSwiperWithScrollbar('.postPreviewsVideoMobileRoot-8');
+</script>
+
+                        
+                            
+                            <!-- inc: 9 -->
+                            
+
+
+
+
+    <div class="postPreviewsV2Root js-fix-post-previews">
+        
+            
+                <a href="/posts/20260216-bxti/" title="Лувр не досчитался €10 млн из-за мошенников" class="postPreviewsItem">
+                    
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/31199_dat-vo--RLHf3HVsk4-unsplash_.2e16d0ba.fill-465x285.jpg" alt="Лувр не досчитался €10 млн из-за мошенников">
+                        </div>
+                    
+                    <div class="postPreviewsItemSection">Новости</div>
+                    <div class="postPreviewsItemTitle js-fix-hanging">Лувр не досчитался €10 млн из-за мошенников</div>
+                    <div class="postPreviewsItemTitle2 js-fix-hanging js-icon-read-more">Парижская прокуратура считает, что несколько сотрудников самого посещаемого музея мира могли разработать мошенническую схему с билетами, которая действовала не один год</div>
+                    <div class=postPreviewsItemDate>16.02.2026</div>
+                </a>
+            
+        
+            
+                <a href="/posts/20260216-poqg/" title="В Русском музее блюдут русские традиции" class="postPreviewsItem">
+                    
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/Russkii_muzei_Savva_Prikhodko_18.2e16d0ba.fill-465x285.jpg" alt="В Русском музее блюдут русские традиции">
+                        </div>
+                    
+                    <div class="postPreviewsItemSection">Выставки</div>
+                    <div class="postPreviewsItemTitle js-fix-hanging">В Русском музее блюдут русские традиции</div>
+                    <div class="postPreviewsItemTitle2 js-fix-hanging js-icon-read-more">Представительная экспозиция «Русская традиция» охватывает пять столетий — с XVI века до наших дней — и предлагает посмотреть на традицию как на непрерывный процесс, в котором успешно сосуществуют разные формы</div>
+                    <div class=postPreviewsItemDate>16.02.2026</div>
+                </a>
+            
+        
+    </div>
+
+    <div class="postPreviewsV2Root js-fix-post-previews">
+        
+            
+                <a href="/posts/20260216-ccmy/" title="Шпалерная алхимия: пятый элемент занял свое место" class="postPreviewsItem">
+                    
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/31181_RS_9743_r-Predstavlenie_shpa.2e16d0ba.fill-465x285.jpg" alt="Шпалерная алхимия: пятый элемент занял свое место">
+                        </div>
+                    
+                    <div class="postPreviewsItemSection">Новости</div>
+                    <div class="postPreviewsItemTitle js-fix-hanging">Шпалерная алхимия: пятый элемент занял свое место</div>
+                    <div class="postPreviewsItemTitle2 js-fix-hanging js-icon-read-more">В Государственном Эрмитаже продолжается реставрация серии из пяти шпалер XVI века «Времена года. Гротески», одна из которых, «Аполлон и знаки зодиака», уже вернулась в постоянную музейную экспозицию — в зал Рафаэля</div>
+                    <div class=postPreviewsItemDate>16.02.2026</div>
+                </a>
+            
+        
+            
+                <a href="/posts/20260213-wxsp/" title="Музей романтической жизни открывается в Париже после реконструкции" class="postPreviewsItem">
+                    
+                        <div class="postPreviewsItemImage">
+                            
+                            <img src="/media/images/535398414_1243044587866380_3652326.2e16d0ba.fill-465x285.jpg" alt="Музей романтической жизни открывается в Париже после реконструкции">
+                        </div>
+                    
+                    <div class="postPreviewsItemSection">Новости</div>
+                    <div class="postPreviewsItemTitle js-fix-hanging">Музей романтической жизни открывается в Париже после реконструкции</div>
+                    <div class="postPreviewsItemTitle2 js-fix-hanging js-icon-read-more">В обновленном доме, принадлежавшем художнику Ари Шефферу, рассказывают о культурной жизни первой половины XIX века и знаменитых гостях его салонов, в том числе Фредерике Шопене и Жорж Санд</div>
+                    <div class=postPreviewsItemDate>13.02.2026</div>
+                </a>
+            
+        
+    </div>
+
+
+                        
+                        
+
+<div class="groupFooter ">
+    
+        <a href="/posts/">
+            <img src="/static/img/icon/icon-read-more-2.0acb5e3066d4.svg" alt=""> Еще новости
+        </a>
+    
+</div>
+
+                    
+                </div>
+                <div class="rightCol" style="padding-top: 50px;">
+                    <div class="x-js-sticky-right">
+                        
+    <div class="ad-desktop ad-desktop-02">
+        <!--AdFox START-->
+        <!--srgkm-->
+        <!--Площадка: TANR 2021 / * / *-->
+        <!--Тип баннера: TANR 2021: 002 DESKTOP-->
+        <!--Расположение: <верх страницы>-->
+        <div id="adfox_162763896914094507"></div>
+        <script>
+            window.yaContextCb.push(() => {
+                Ya.adfoxCode.create({
+                    ownerId: 229461,
+                    containerId: 'adfox_162763896914094507',
+                    params: {
+                        pp: 'g',
+                        ps: 'ezqw',
+                        p2: 'hhit'
+                    }
+                })
+            })
+        </script>
+    </div>
+
+
+                        <div class="ad-desktop ad-desktop-03">
+    <!--AdFox START-->
+    <!--srgkm-->
+    <!--Площадка: TANR 2021 / * / *-->
+    <!--Тип баннера: TANR 2021: 003 DESKTOP-->
+    <!--Расположение: <середина страницы>-->
+    <div id="adfox_162764122459953004"></div>
+    <script>
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.create({
+                ownerId: 229461,
+                containerId: 'adfox_162764122459953004',
+                params: {
+                    pp: 'h',
+                    ps: 'ezqw',
+                    p2: 'hhqb'
+                }
+            })
+        })
+    </script>
+</div>
+
+                    </div>
+                    
+                        <!-- inc: 0 -->
+                        
+
+
+
+<div class="groupHeader ">
+    
+        <a href="/sections/interviu/">Интервью</a>
+    
+</div>
+
+
+<div class="postPreviewsInterviewRoot postPreviewsInterviewRoot-0">
+    
+        <div class="postPreviewsItem" data-link="/posts/20260210-boty/">
+            <div class="postPreviewsItemImage">
+                
+                    
+                
+                <img src="/media/images/Chernikhov_388x236.2e16d0ba.fill-300x180.jpg" alt="Андрей Чернихов: «Планирую архитектурную школу нового типа»">
+            </div>
+            <a href="/posts/20260210-boty/" class="postPreviewsItemTitle">
+                
+                    
+                        <b>Андрей Чернихов:</b>
+                        <span class="js-fix-hanging">«Планирую архитектурную школу нового типа»</span>
+                    
+                
+            </a>
+        </div>
+    
+        <div class="postPreviewsItem" data-link="/posts/20260203-bugp/">
+            <div class="postPreviewsItemImage">
+                
+                    
+                
+                <img src="/media/images/30960_Kr_388x236.2e16d0ba.fill-300x180.jpg" alt="Тейчин Сье: «Я не пытался быть суперменом, мои работы не о героизме»">
+            </div>
+            <a href="/posts/20260203-bugp/" class="postPreviewsItemTitle">
+                
+                    
+                        <b>Тейчин Сье:</b>
+                        <span class="js-fix-hanging">«Я не пытался быть суперменом, мои работы не о героизме»</span>
+                    
+                
+            </a>
+        </div>
+    
+        <div class="postPreviewsItem" data-link="/posts/20260127-nfqa/">
+            <div class="postPreviewsItemImage">
+                
+                    
+                
+                <img src="/media/images/KR_388x236.2e16d0ba.fill-300x180.jpg" alt="Игорь Суханов: «Мне интересны те художники, кто сейчас развивается, ищет себя, отражает ситуацию в обществе»">
+            </div>
+            <a href="/posts/20260127-nfqa/" class="postPreviewsItemTitle">
+                
+                    
+                        <b>Игорь Суханов:</b>
+                        <span class="js-fix-hanging">«Мне интересны те художники, кто сейчас развивается, ищет себя, отражает ситуацию в обществе»</span>
+                    
+                
+            </a>
+        </div>
+    
+</div>
+
+<div class="postPreviewsInterviewMobileRoot postPreviewsInterviewMobileRoot-0">
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            
+                <div class="swiper-slide">
+                    <div class="postPreviewsItem" data-link="/posts/20260210-boty/">
+                        <div class="postPreviewsItemImage">
+                            
+                                
+                            
+                            <img src="/media/images/Chernikhov_388x236.2e16d0ba.fill-300x180.jpg" alt="Андрей Чернихов: «Планирую архитектурную школу нового типа»">
+                        </div>
+                        <a href="/posts/20260210-boty/" class="postPreviewsItemTitle">
+                            
+                                
+                                    <b>Андрей Чернихов:</b>
+                                    <span class="js-fix-hanging">«Планирую архитектурную школу нового типа»</span>
+                                
+                            
+                        </a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="postPreviewsItem" data-link="/posts/20260203-bugp/">
+                        <div class="postPreviewsItemImage">
+                            
+                                
+                            
+                            <img src="/media/images/30960_Kr_388x236.2e16d0ba.fill-300x180.jpg" alt="Тейчин Сье: «Я не пытался быть суперменом, мои работы не о героизме»">
+                        </div>
+                        <a href="/posts/20260203-bugp/" class="postPreviewsItemTitle">
+                            
+                                
+                                    <b>Тейчин Сье:</b>
+                                    <span class="js-fix-hanging">«Я не пытался быть суперменом, мои работы не о героизме»</span>
+                                
+                            
+                        </a>
+                    </div>
+                </div>
+            
+                <div class="swiper-slide">
+                    <div class="postPreviewsItem" data-link="/posts/20260127-nfqa/">
+                        <div class="postPreviewsItemImage">
+                            
+                                
+                            
+                            <img src="/media/images/KR_388x236.2e16d0ba.fill-300x180.jpg" alt="Игорь Суханов: «Мне интересны те художники, кто сейчас развивается, ищет себя, отражает ситуацию в обществе»">
+                        </div>
+                        <a href="/posts/20260127-nfqa/" class="postPreviewsItemTitle">
+                            
+                                
+                                    <b>Игорь Суханов:</b>
+                                    <span class="js-fix-hanging">«Мне интересны те художники, кто сейчас развивается, ищет себя, отражает ситуацию в обществе»</span>
+                                
+                            
+                        </a>
+                    </div>
+                </div>
+            
+        </div>
+        <div class="swiper-scrollbar swiper-scrollbar-white"></div>
+    </div>
+</div>
+
+
+
+<div class="groupFooter ">
+    
+        <a href="/sections/interviu/">
+            <img src="/static/img/icon/icon-read-more-2.0acb5e3066d4.svg" alt=""> Все интервью
+        </a>
+    
+</div>
+
+
+<script>
+    makeSwiperWithScrollbar('.postPreviewsInterviewMobileRoot-0');
+</script>
+
+                    
+                </div>
+            </div>
+        </div>
+    </main>
+    
+
+<div class="containerRoot" style="margin-top: 80px; margin-bottom: 15px; background-color: #EB1F28;">
+    <div class="preFooterRoot">
+        <div class="leftCol">
+            
+                <a href="https://vk.com/theartnewspaper.russia" class="preFooterLink preFooterLinkIcon"
+                   style="">
+                    
+                        <img src="/static/img/icon/icon-vk-white.d19d7a709c08.svg" alt="" width="30" height="30">
+                    
+                </a>
+            
+                <a href="https://t.me/TANR_official" class="preFooterLink preFooterLinkIcon"
+                   style="">
+                    
+                        <img src="/static/img/icon/icon-telega-white.644cd0884304.svg" alt="" width="30" height="30">
+                    
+                </a>
+            
+                <a href="https://ok.ru/theartnewspaperrussia/" class="preFooterLink preFooterLinkIcon"
+                   style="">
+                    
+                        <img src="/static/img/icon/icon-ok-white.b02a257fe6f1.svg" alt="" width="30" height="30">
+                    
+                </a>
+            
+                <a href="https://twitter.com/TANRussia" class="preFooterLink preFooterLinkIcon"
+                   style="">
+                    
+                        <img src="/static/img/icon/icon-twitter-white.f628421b66a7.svg" alt="" width="30" height="30">
+                    
+                </a>
+            
+                <a href="https://www.youtube.com/c/TheArtNewspaperRussia" class="preFooterLink preFooterLinkIcon"
+                   style="margin-right: 0;">
+                    
+                        <img src="/static/img/icon/icon-youtube-white.953867fdadbc.svg" alt="" width="30" height="30">
+                    
+                </a>
+            
+        </div>
+        <div class="rightCol">
+            
+                <a href="/contact-us/" class="preFooterLink preFooterLinkText">Контакты редакции</a>
+            
+                <a href="/authors/" class="preFooterLink preFooterLinkText">Авторы</a>
+            
+                <a href="https://www.theartnewspaper.ru/documents/99/TAN_Media_Rus_2026-3.pdf" class="preFooterLink preFooterLinkText">Медиакит</a>
+            
+                <a href="https://www.theartnewspaper.ru/documents/100/TAN_Media_Eng_2026.pdf" class="preFooterLink preFooterLinkText">Mediakit</a>
+            
+        </div>
+    </div>
+</div>
+<div class="containerRoot" style="background-color: #EB1F28;">
+    <div class="footerRoot">
+        <a href="/" class="footerLogo">
+            <img src="/static/img/logo/logo-tanr-secondary-2.b097017862dd.svg" alt="">
+        </a>
+        <a href="/subscribe/" class="footerNewspaperSubsLink">Подписаться на газету</a>
+        <div class="footerLicense">
+            <div class="footerLicenseCol1">
+                <p>
+                    Сетевое издание theartnewspaper.ru<br>
+                    Свидетельство о регистрации СМИ: Эл № ФС77-69509 от 25 апреля 2017 года.<br>
+                    Выдано Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор)
+                </p>
+            </div>
+            <div class="footerLicenseCol2">
+                <div class="footerLicenseCol2Left">
+                    <p>
+                        Учредитель и издатель ООО «ДЕФИ»<br>
+                        info@theartnewspaper.ru | +7-495-514-00-16
+                    </p>
+                </div>
+                <div class="footerLicenseCol2Right">
+                    <p>
+                        Главный редактор Орлова М.В.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="footerCopy">
+            <p>
+                2012-2026 &copy; The Art Newspaper Russia.
+                Все права защищены.
+                Перепечатка и цитирование текстов на материальных носителях или в электронном виде возможна только с указанием источника.
+            </p>
+        </div>
+        <div class="footerAgeRestrictions">18+</div>
+    </div>
+</div>
+
+
+
+</body>
+</html>

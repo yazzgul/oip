@@ -1,0 +1,2521 @@
+<!doctype html>
+<html dir="ltr" lang="ru">
+<head>
+        <link rel="canonical" href="https://svpressa.ru/" />
+            <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Свободная Пресса - общественно-политическое интернет-издание</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Публикации о событиях в экономике, политике, социальной жизни, культуре, спорте. Лента новостей, фото- и видеорепортажи.">
+                    
+    
+        
+        <meta name="pmail-verification" content="d77be1ea86b5af6d246479b0d067a9ac">
+    
+    <link rel="stylesheet" href="/css/sp.css?v=202410281">
+    <!--[if lt IE 9]><script src="/js/html5support.js"></script><![endif]-->
+
+
+    
+    
+        <script type="application/ld+json">
+        {
+          "@context" : "https://schema.org/",
+          "@type" : "Organization",
+          "name" : "Свободная Пресса",
+          "url" : "https://svpressa.ru/",
+          "logo": "https://svpressa.ru/i/logo-svpressa.svg",
+          "contactPoint" : [
+            { "@type" : "ContactPoint",
+              "telephone" : [ "+7 (495) 999-36-79", "+7 (495) 380-41-36", "+7 (495) 380-41-32"],
+              "email": "inpress@svpressa.ru",
+              "contactType" : "management"
+            } , {
+              "@type" : "ContactPoint",
+              "telephone" : [ "+7 (495) 380-41-34", "(903) 611-84-10"],
+              "email" : ["release@svpressa.ru", "info@svpressa.ru", "photo@svpressa.ru", "jponega@svpressa.ru"],
+              "contactType" : "customer service"
+            }
+        ],
+        "sameAs": [
+            "https://vk.com/svpressa",
+            "https://www.odnoklassniki.ru/svpressa",
+            "https://www.youtube.com/user/svpressaru"
+          ]
+        }
+        </script>
+        
+
+
+    
+
+
+    
+
+
+    
+
+    <script src="/js/picturefill.min.js?v=1463063015000" async></script>
+
+    
+
+    
+    
+    <script async type="text/javascript" src="//s.luxcdn.com/t/229664/360_light.js"></script>
+    
+
+
+
+
+
+    
+    
+    
+    <link rel="icon" type="image/png" href="/favicon-16x16.png?v=1471426270000" sizes="16x16">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png?v=1471426270000" sizes="32x32">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png?v=1471426270000" sizes="96x96">
+
+
+
+<script src="https://image.sendsay.ru/app/js/forms/forms.min.js"></script>
+
+
+
+<style>
+@media (max-width: 480px) {
+
+#adfox_154334798986441917 {
+    display:block;
+clear:both;
+    padding-top:1em;
+}
+
+#yandex-vh {
+    height:250px;
+}
+
+/*#adfox_149382238558383135,*/
+#adfox_166074206548625200 {
+    height:120px;
+}
+
+#adfox_157321318210373358 {
+    height:300px;
+}
+
+#adfox_150347518061173214 {
+    height:350px;
+}
+
+#adfox_152483132227926856 {
+    height:350px;
+}
+
+#adfox_152112464784545018 {
+    height:480px;
+}
+
+
+#adfox_152967455873041513 {
+    height:750px;
+}
+
+#adfox_149805505100184850 {
+    height:600px;
+}
+
+#adfox_158576435130642108,
+#adfox_158652806112888988,
+#adfox_158944708604245095 {
+    height:120px;
+}
+
+#adfox_149684398997947462,
+#adfox_1481729649585323 {
+    height:400px;
+    width:250px;
+}
+
+#adfox_166074206548625200,
+/*#adfox_149382238558383135,*/
+#adfox_152483132227926856,
+#adfox_150347518061173214,
+#adfox_152112464784545018,
+#adfox_157321318210373358,
+#adfox_152967455873041513,
+#adfox_149805505100184850,
+#adfox_158576435130642108,
+#adfox_158652806112888988,
+#adfox_158944708604245095,
+#adfox_149684398997947462,
+#adfox_1481729649585323,
+#adfox_151671785189981641
+{
+    display:block;
+    background-color: #fff;
+    padding:0;
+    position: relative;
+}
+
+/*#adfox_166074206548625200::before,*/
+/*#adfox_149382238558383135::before,*/
+#adfox_152483132227926856::before,
+#adfox_150347518061173214::before,
+#adfox_152112464784545018::before,
+#adfox_157321318210373358::before,
+#adfox_152967455873041513::before,
+#adfox_149805505100184850::before,
+/*#adfox_158576435130642108::before,*/
+/*#adfox_158652806112888988::before,*/
+/*#adfox_158944708604245095::before,*/
+#adfox_149684398997947462::before,
+#adfox_1481729649585323::before,
+#adfox_151671785189981641::before
+{
+    content: "РЕКЛАМА";
+    color:#666;
+    font-size:14px;
+    font-weight: normal;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    z-index:0;
+}
+
+}
+
+
+@media (min-width: 481px) {
+
+    #yandex-vh {
+    height:450px;
+}
+
+#adfox_1481729326681014,
+#adfox_158531307548162957  {
+    width:300px;
+    height:300px;
+}
+
+#adfox_150347518061173214 {
+    height:450px;
+}
+
+#adfox_152112464784545018 {
+    height:480px;
+}
+
+
+
+#adfox_157321318210373358 {
+    height:340px;
+}
+
+/*
+#adfox_1482230651395507 {
+    height:200px;
+}
+*/
+/*
+#adfox_1481729254647214 {
+    height:90px;
+    width:728px;
+}
+*/
+
+#adfox_1481729521474783,
+#adfox_149684398997947462,
+#adfox_1481729649585323 {
+    height:400px;
+    width:240px;
+}
+
+
+#adfox_1481729389686235 {
+    width:300px;
+    height:600px;
+}
+
+#adfox_152967466817766424 {
+    height:300px;
+}
+
+
+#adfox_151671785189981641 {
+    height:250px;
+}
+
+    #adfox_166074199840271027 {
+        height:120px;
+}
+
+
+#adfox_166074199840271027,
+#adfox_150347518061173214,
+#adfox_152112464784545018,
+#adfox_157321318210373358,
+/*#adfox_1482230651395507,*/
+/*#adfox_1481729254647214,*/
+/*#adfox_1481729521474783,*/
+#adfox_152967466817766424,
+/*#adfox_1481729389686235,*/
+#adfox_1481729326681014,
+#adfox_158531307548162957,
+#adfox_149684398997947462,
+#adfox_1481729649585323,
+#adfox_151671785189981641 {
+    display:block;
+    background-color: #fff;
+    padding:0;
+    position: relative;
+}
+
+/*#adfox_166074199840271027::before,*/
+#adfox_150347518061173214::before,
+#adfox_152112464784545018::before,
+#adfox_157321318210373358::before,
+/*#adfox_1482230651395507::before,*/
+/*#adfox_1481729254647214::before,*/
+/*#adfox_1481729521474783::before,*/
+#adfox_152967466817766424::before,
+/*#adfox_1481729389686235::before,*/
+#adfox_1481729326681014::before,
+#adfox_158531307548162957::before,
+#adfox_151671785189981641::before,
+/*#adfox_149684398997947462::before,*/
+#adfox_1481729649585323::before,
+#adfox_151671785189981641::before
+ {
+    content: "РЕКЛАМА";
+    color:#666;
+    font-size:14px;
+    font-weight: normal;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    z-index:0;
+}
+
+/*
+#adfox_1482230651395507::before {
+    top: 11%;
+}
+*/
+
+    #adfox_15132575496764270_149097,
+    #adfox_15132575496764270_149068 {
+
+    }
+
+}
+
+
+div.sendsay-checkbox {
+margin-bottom: -1.75em;
+}
+
+div.sendsay-checkbox label {
+font-size: 12px;
+color:#666;
+}
+
+div.sendsay-image {
+max-width:44px;
+position:absolute;
+}
+
+div.sendsay-image + div.sendsay-text {
+height: 4em;
+padding-top: 1em;
+}
+
+div.sendsay-popup {
+width:auto !important;
+}
+
+</style>
+
+
+
+ 
+
+</head>
+
+<body>
+
+    
+        <div id="adfox_15132575496764270"></div>
+    
+    
+    
+    
+    
+        <div id="adfox_1484921178563864"></div>
+    
+    
+        
+            <div id="adfox_1495110525393924"></div>
+    
+        <div id="adfox_153079930644463343" style="z-index:5;"></div>
+        
+
+        <div id="adfox_152993940628348673"></div>
+    
+    
+
+
+    <a name="top"></a>
+    <div class="b-container">
+        
+<div class="_adfox_banner_above_header" id="adfox_1482230651395507"></div>
+
+
+
+
+<div id="adfox_149382238558383135" class="_adfox_banner_above_header_mobile_ad"></div>
+
+
+
+
+
+<style>
+.b-top-header__item {
+	width:100%;
+	display: block;
+	overflow: hidden;
+	line-height: 36px;
+}
+
+.b-top-header__logo {
+	display: none;
+}
+
+
+@media (max-width: 998px) {
+.b-top-header__logo {
+display: block;
+float:left;
+width:36px;
+margin-right:1em;
+}
+
+
+}
+
+
+
+.b-top-header__e2wwqk-img:after {
+  background: url('/i/164х38.png') no-repeat;
+	height:38px;
+	width:164px;
+}
+.b-top-header__e2wwqk,
+.b-top-header__e2wwqk-img {
+	height:38px;
+	width:164px;
+}
+
+.b-top-header__main,
+.b-top-header__aside {
+	height:41px;
+}
+
+
+</style>
+
+<section class="b-top-header">
+<div class="b-top-header__main">
+	<div class="b-top-header__ticker">
+		<div class="b-top-header__ticker-loader"></div>
+	</div>
+	<ul class="b-top-header__items">
+				<li class="b-top-header__item"><a href="/society/news/503339/?top=1">&laquo;Система трещит&raquo;: Полицию накрыла волна увольнений</a></li>
+				<li class="b-top-header__item"><a href="/science/news/503336/?top=1">Мантуров гарантировал полную безопасность нового российского самолёта</a></li>
+				<li class="b-top-header__item"><a href="/war21/news/503335/?top=1">Российские военкоры усомнились в освобождении Донбасса и Запорожья к концу года</a></li>
+				<li class="b-top-header__item"><a href="/health/news/503328/?top=1">Врач назвал лучшее время для употребления кофе</a></li>
+				<li class="b-top-header__item"><a href="/health/news/503321/?top=1">Убивает печень: врач назвала еду, ускоряющую развитие смертельно опасной болезни</a></li>
+				<li class="b-top-header__item"><a href="/politic/news/503311/?top=1">Стали известны подробности секретных консультаций США и Британии по России</a></li>
+				<li class="b-top-header__item"><a href="/health/news/503330/?top=1">Россиян призвали лечиться популярным чудо-овощем</a></li>
+				<li class="b-top-header__item"><a href="/health/news/503307/?top=1">Врач рассказала, как быстро снизить уровень холестерина без лекарств</a></li>
+		
+	</ul>
+</div>
+<div class="b-top-header__aside">
+	<div class="b-top-header__e2wwqk">
+		<div id="adfox_172951536231457824"></div>
+		
+	</div>
+
+
+	<div class="b-top-header__socials">
+		<a target="_blank" href="https://www.youtube.com/user/svpressaru?sub_confirmation=1" class="b-top-header__socials-item" title="Свободная Пресса на YouTube"><img src="/i/socials/yt.png" alt="Свободная Пресса на YouTube"></a>
+		<a target="_blank" href="https://vk.com/svpressa" class="b-top-header__socials-item" title="Свободная Пресса Вконтакте"><img src="/i/socials/vk.png" alt="Свободная Пресса Вконтакте"></a>
+		<a target="_blank" href="https://www.odnoklassniki.ru/svpressa" class="b-top-header__socials-item" title="Свободная Пресса в Одноклассниках"><img src="/i/socials/ok.png" alt="Свободная Пресса в Одноклассниках"></a>
+		<a target="_blank" href="https://t.me/s/svpressaru" class="b-top-header__socials-item" title="Свободная Пресса в Телеграм"><img src="/i/socials/tg.png" alt="Свободная Пресса в Телеграм"></a>
+				<a target="_blank" href="https://dzen.ru/svpressaru" class="b-top-header__socials-item" title="Свободная Пресса в Дзен"><img src="/i/socials/dzen.png" alt="Свободная Пресса в Дзен"></a>
+	</div>
+</div>
+</section>
+
+
+<!-- header -->
+<header class="b-header _clearfix">
+	<div class="b-header__info-container">
+		<div class="b-header__info">
+			<div class="b-header__logo"><a href="/"><img src="/i/logo-svpressa.svg" onerror="this.src='/i/logo-svpressa.png'" alt="Свободная Пресса" class="b-header__logo-img"></a>
+				<div class="b-header__age-rating">18+</div>
+			</div>
+			<div class="b-header__date-and-region">
+				<div class="b-header__date">
+					четверг, 19 февраля
+				</div>
+
+				<div class="b-header__currency-wrapper _hide_mobile">
+					<a class="b-header__currency-link" href="/topics/kurs-valyut/">Курс</a>
+					<a href="/topics/kurs-valyut/" class="b-header__currency b-header__currency--first">
+						$&thinsp;<span class="b-header__currency-value b-header__currency--down">76,15</span>
+					</a>
+					<a href="/topics/kurs-valyut/" class="b-header__currency">
+						&euro;&thinsp;<span class="b-header__currency-value b-header__currency--down">90,27</span></a>
+				</div>
+
+				
+
+
+				
+			</div>
+		</div>
+		<div class="b-header__top _hide_mobile">
+						<!-- quote -->
+			<article class="b-article" data-name="Никита Масленников:
+				Об отсутствии долговременных инвестиций">
+				<a href="/quotes/5512/?qht=1" class="b-quote-top__img">
+					<img src="/p/persons/72/s-72.jpg"
+						alt="">
+				</a>
+				<a class="b-quote-top__subtitle" href="/quotes/5512/?qht=1"><span
+						class="b-quote-mark">&laquo;</span>Если ясности в экономике нет, то предприятия инвестировать не будут…<span
+						class="b-quote-mark">&raquo;</span></a>
+				<a href="/quotes/5512/?qht=1"
+					class="b-quote-top__author-name">Никита Масленников</a>
+			</article>
+			<!-- /quote -->
+			
+					</div>
+		<div class="b-header__menu-trigger" id="b-header__menu-trigger">
+			<a href="#" class="b-header__menu-link">
+				<div class="b-header__menu-icon"></div>
+				<div class="b-header__menu-title">Меню</div>
+			</a>
+		</div>
+	</div>
+
+
+<noindex>
+<!--noindex-->
+<div class="b-quote-header">
+	<article class="b-quote-header__article" data-name="Никита Масленников:
+	Об отсутствии долговременных инвестиций">
+	<a href="/quotes/5512/?qht=1" class="b-quote-header__img" rel="nofollow">
+		<img src="/p/persons/72/s-72.jpg"
+			alt="">
+	</a>
+	<a class="b-quote-top__subtitle" href="/quotes/5512/?qht=1" rel="nofollow"><span
+			class="b-quote-mark">&laquo;</span>Если ясности в экономике нет, то предприятия инвестировать не будут…<span
+			class="b-quote-mark">&raquo;</span></a>
+	<a href="/quotes/5512/?qht=1"
+		class="b-quote-top__author-name" rel="nofollow">Никита Масленников</a>
+</article>
+</div>
+<!--/noindex-->
+</noindex>
+
+		<!-- menu-container -->
+	<div class="b-header__menu-container _hide_mobile" id="b-header__menu-container">
+		<!-- nav -->
+		<nav class="b-nav">
+			<div class="b-nav-container">
+				<div class="b-nav__container">
+					<div class="b-nav__rubrics-container" id="b-nav__rubrics-container">
+						<a href="#" class="b-nav__rubrics-trigger" id="b-nav__rubrics-trigger"></a>
+						<ul class="b-nav__list" id="b-nav__list_rubrics">
+							<li class="b-nav__item"><a class="b-nav__link b-nav__link_white" href="/">Главная</a></li>
+																					<li class="b-nav__item"><a class="b-nav__link b-nav__link_white" href="/politic/">Политика</a></li>
+																																										<li class="b-nav__item"><a class="b-nav__link b-nav__link_white" href="/society/">Общество</a></li>
+																																										<li class="b-nav__item"><a class="b-nav__link b-nav__link_white" href="/economy/">Экономика</a></li>
+																																										<li class="b-nav__item"><a class="b-nav__link b-nav__link_white" href="/war21/">Армии и войны</a></li>
+																																										<li class="b-nav__item"><a class="b-nav__link b-nav__link_white" href="/travel/">Путешествия</a></li>
+																																																								<li class="b-nav__item"><a class="b-nav__link b-nav__link_white" href="/auto/">Авто</a></li>
+																												<li class="b-nav__item"><a class="b-nav__link b-nav__link_white" href="/sport/">Спорт</a></li>
+																																																								<li class="b-nav__item"><a class="b-nav__link b-nav__link_white" href="/health/">Здоровье</a></li>
+																																										<li class="b-nav__item"><a class="b-nav__link b-nav__link_white" href="/world/">В мире</a></li>
+																																										<li class="b-nav__item"><a class="b-nav__link b-nav__link_white" href="/business/">Бизнес сегодня</a></li>
+																																										<li class="b-nav__item"><a class="b-nav__link b-nav__link_white" href="/realty/">Недвижимость</a></li>
+																												<li class="b-nav__item"><a class="b-nav__link b-nav__link_white" href="/accidents/">Происшествия</a></li>
+																																																								<li class="b-nav__item"><a class="b-nav__link b-nav__link_white" href="/science/">Наука и технологии</a></li>
+																												<li class="b-nav__item"><a class="b-nav__link b-nav__link_white" href="/culture/">Культура</a></li>
+																																																								<li class="b-nav__item"><a class="b-nav__link b-nav__link_white" href="/weather/">Погода</a></li>
+																																										<li class="b-nav__item"><a class="b-nav__link b-nav__link_white" href="/post/">История</a></li>
+																																																																																																																																																																																						
+						</ul>
+					</div>
+				</div>
+				<div class="b-nav__container">
+					<a href="#" class="b-nav__trigger" id="b-nav__list_categories-trigger">Разделы</a>
+					<div class="b-nav__sub-container _hide_mobile" id="b-nav__categories-container">
+						<ul class="b-nav__list">
+							<li class="b-nav__item b-nav__item_category b-nav__item_first"><a class="b-nav__link" href="/all/news/">Новости</a></li>
+							<li class="b-nav__item b-nav__item_category"><a class="b-nav__link" href="/blogs/">Мнения</a></li>
+							
+							<li class="b-nav__item b-nav__item_category"><a class="b-nav__link" href="/all/photo/">Фото</a></li>
+							
+							<li class="b-nav__item b-nav__item_category"><a class="b-nav__link" href="/all/sptv/">СП-Видео</a></li>
+							
+							<li class="b-nav__item b-nav__item_category"><a class="b-nav__link" href="/authors/">Авторы</a></li>
+							<li class="b-nav__item b-nav__item_category"><a class="b-nav__link " href="/experts/">Эксперты</a></li>
+							<li class="b-nav__item b-nav__item_category"><a class="b-nav__link " href="/quotes/">Цитаты</a></li>
+							<li class="b-nav__item b-nav__item_category"><a class="b-nav__link " href="/persons/">Персоны</a></li>
+							<li class="b-nav__item b-nav__item_category"><a class="b-nav__link " href="/companies/">Компании</a></li>
+							
+						</ul>
+					</div>
+				</div>
+				
+
+								<div class="b-nav__container b-nav__topics">
+					<a href="#" class="b-nav__trigger" id="b-nav__list_topics-trigger">Горячие темы</a>
+					<div class="b-nav__sub-container b-nav__sub-container_topics _hide_mobile" id="b-nav__topics-container">
+						<ul class="b-nav__list">
+							<li class="b-nav__item b-nav__item_topic b-nav__item_topics _hide_mobile"><a class="b-nav__link_topics" href="/topics/">Темы:</a></li>
+														<li class="b-nav__item b-nav__item_topic b-nav__item_first"><a class="b-nav__link" href="/topics/specialnaya-operaciya-na-ukraine/">Спецоперация на Украине</a></li>
+														<li class="b-nav__item b-nav__item_topic"><a class="b-nav__link" href="/topics/mir-na-ukraine/">Мир на Украине</a></li>
+														<li class="b-nav__item b-nav__item_topic"><a class="b-nav__link" href="/topics/migranty-i-migraciya/">Мигранты и миграция</a></li>
+														<li class="b-nav__item b-nav__item_topic"><a class="b-nav__link" href="/topics/sankcii/">Санкции</a></li>
+														<li class="b-nav__item b-nav__item_topic"><a class="b-nav__link" href="/topics/kurs-valyut/">Курс валют</a></li>
+														<li class="b-nav__item b-nav__item_topic"><a class="b-nav__link" href="/topics/krasota-i-uhod/">Красота и уход</a></li>
+														<li class="b-nav__item b-nav__item_topic"><a class="b-nav__link" href="/topics/kitay-segodnya/">Китай сегодня</a></li>
+							
+						</ul>
+					</div>
+				</div>
+				
+			</div>
+			<!-- /nav-container -->
+		</nav>
+		<!-- /nav -->
+	</div>
+	<!-- /menu-container -->
+
+</header>
+<!-- /header -->
+
+
+
+
+<!-- bottom topline -->
+
+
+
+
+
+
+
+
+        <!-- content -->
+        <div class="b-content _clearfix">
+            
+
+            
+
+            <!-- content-main -->
+            <div class="b-content__main b-content__main_index">
+	
+		
+					<!-- index-article-news -->
+				<div class="b-content__index-article_main-news">
+										<!-- article_index-main -->
+					<article class="b-article b-article_wide b-article_main">
+											<a class="b-article__img b-article__img_main" href="/war21/article/503277/">
+							
+							<img src="/p/50/503/503277/l-503277.jpg?v=1771515038" alt="Удар по Ирану: Трампу путает карты скромный российский корвет «Стойкий» в порту Бендер-Аббаса">
+						</a>
+												<h2><a class="b-article__title b-article__title_main" href="/war21/article/503277/">Удар по Ирану: Трампу путает карты скромный российский корвет &laquo;Стойкий&raquo; в порту Бендер-Аббаса</a></h2>
+						<p class="b-article__subtitle b-article__subtitle_main">Одно присутствие наших и китайских боевых кораблей в Персидском заливе грозит сорвать давно запланированную атаку Израиля и США на Тегеран</p>
+					</article>
+					<!-- /article_index-main -->
+
+					<div id="adfox_154334798986441917"></div>
+
+										<!-- news -->
+					<section class="b-content__section b-content__section_index-news">
+						<a class="b-content__title b-content__title_index-news" href="/all/news/" title="Новости">Новости</a>
+						<div class="b-news">
+							<!-- news list -->
+							<ul class="b-news__list b-news__list">
+																<li class="b-news__item b-news__item_first">
+									<a class="b-news__title" href="/sport/news/503341/?htn=1"><time class="b-news__time" datetime="2026-02-19T20:39:00+03:00">20:39</time> Защитник &laquo;Зенита&raquo; Кирш перешёл в&nbsp;&laquo;Пари&nbsp;НН&raquo;</a>
+								</li>
+																<li class="b-news__item">
+									<a class="b-news__title" href="/politic/news/503340/?htn=1"><time class="b-news__time" datetime="2026-02-19T20:37:00+03:00">20:37</time> NYT: Трамп хочет достигнуть мира на Украине до осени</a>
+								</li>
+																<li class="b-news__item">
+									<a class="b-news__title" href="/society/news/503339/?htn=1"><time class="b-news__time" datetime="2026-02-19T20:21:00+03:00">20:21</time> &laquo;Система трещит&raquo;: Полицию накрыла волна увольнений</a>
+								</li>
+																<li class="b-news__item">
+									<a class="b-news__title" href="/sport/news/503337/?htn=1"><time class="b-news__time" datetime="2026-02-19T20:10:00+03:00">20:10</time> &laquo;Спартак&raquo; хочет подписать форварда &laquo;Ахмата&raquo; Самородова</a>
+								</li>
+																<li class="b-news__item">
+									<a class="b-news__title" href="/science/news/503336/?htn=1"><time class="b-news__time" datetime="2026-02-19T20:07:00+03:00">20:07</time> Мантуров гарантировал полную безопасность нового российского самолёта</a>
+								</li>
+																<li class="b-news__item b-news__item_last">
+									<a class="b-news__title" href="/war21/news/503335/?htn=1"><time class="b-news__time" datetime="2026-02-19T19:59:00+03:00">19:59</time> Российские военкоры усомнились в освобождении Донбасса и Запорожья к концу года</a>
+								</li>
+								
+							</ul>
+							<!-- /news list -->
+						</div>
+					</section>
+					<!-- /news -->
+					
+				</div>
+				<!-- /index-article-news -->
+
+<div class="_adfox_banner_300x250_index" id="adfox_152483132227926856"></div>
+
+
+
+	<div class="b-index__content">
+
+		<!-- index-main -->
+		<div class="b-index__main">
+
+									<!-- articles -->
+																		<section class="b-content__section b-content__section_first">
+							<div id="adfox_1484912017376011"></div>
+							 
+							 
+																					
+							
+																					<div class="b-articles">
+								<!-- article -->
+<article class="b-article b-col_1-2_index_first">
+	<a class="b-article__img" href="/business/article/503301/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503301/s-503301.jpg?v=1771516603" media="(min-width: 584px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img srcset="/p/50/503/503301/s-503301.jpg?v=1771516603" alt="Коридор «Север-Юг»: Баку хоть и злится на Москву, но деньги любит больше">									
+		</picture>
+	</a>
+	<h3><a class="b-article__title" href="/business/article/503301/">Коридор &laquo;Север-Юг&raquo;: Баку хоть и злится на Москву, но деньги любит больше</a></h3>
+	<p class="b-article__subtitle">Выгода от возможностей логистического узла перевешивает претензии</p>
+</article>
+<!-- /article -->
+
+
+
+																						
+							
+							
+
+							
+
+
+
+
+ 
+																					
+							
+																						<!-- article -->
+<article class="b-article b-col_1-2_index">
+	<a class="b-article__img" href="/politic/article/503296/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503296/s-503296.jpg?v=1771516735" media="(min-width: 584px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img srcset="/p/50/503/503296/s-503296.jpg?v=1771516735" alt="АЭС США в Армении: Пашинян не боится Чернобыля, зато Алиев очень нервничает">									
+		</picture>
+	</a>
+	<h3><a class="b-article__title" href="/politic/article/503296/">АЭС США в Армении: Пашинян не боится Чернобыля, зато Алиев очень нервничает</a></h3>
+	<p class="b-article__subtitle">Ереван дал &laquo;добро&raquo; на строительство ядерных реакторов, которые американцы боятся испытывать в Штатах</p>
+</article>
+<!-- /article -->
+
+
+
+															</div>
+																							<div class="b-articles">
+									
+<!-- news -->
+<article class="b-article b-col_1-2_index_first">
+	<a class="b-article__title b-article__title_small" href="/society/news/503339/?nmp=1">&laquo;Система трещит&raquo;: Полицию накрыла волна увольнений</a>
+	<p class="b-article__subtitle">Общество</p>
+</article>
+<!-- /news -->
+
+																											
+<!-- news -->
+<article class="b-article b-col_1-2_index">
+	<a class="b-article__title b-article__title_small" href="/war21/news/503265/?nmp=1">Мерц назвал два условия для завершения боевых действий на Украине</a>
+	<p class="b-article__subtitle">Армии и войны</p>
+</article>
+<!-- /news -->
+
+								</div>
+																														
+							
+							
+
+							
+
+
+
+
+ 
+																					
+							
+																					<div class="b-articles">
+								<!-- article -->
+<article class="b-article b-col_1-2_index_first">
+	<a class="b-article__img" href="/society/article/503283/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503283/s-503283.jpg?v=1771506858" media="(min-width: 584px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img srcset="/p/50/503/503283/s-503283.jpg?v=1771506858" alt="Концерн «Калашников» стал жертвой аферистов. Что бы сделал Сталин, если о таком узнал?">									
+		</picture>
+	</a>
+	<h3><a class="b-article__title" href="/society/article/503283/">Концерн &laquo;Калашников&raquo; стал жертвой аферистов. Что&nbsp;бы сделал Сталин, если о таком узнал?</a></h3>
+	<p class="b-article__subtitle">Генерал Соболев, КПРФ: &laquo;Настало время принять аналог приказа &laquo;Ни шагу назад!&raquo;</p>
+</article>
+<!-- /article -->
+
+
+
+																						
+							
+							
+
+							
+
+
+
+
+ 
+																					
+							
+																						<!-- article -->
+<article class="b-article b-col_1-2_index">
+	<a class="b-article__img" href="/war21/article/503294/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503294/s-503294.jpg?v=1771506722" media="(min-width: 584px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img srcset="/p/50/503/503294/s-503294.jpg?v=1771506722" alt="Херсон ждет тумана: Командование ВСУ опасается крупной десантной операции на правом берегу Днепра">									
+		</picture>
+	</a>
+	<h3><a class="b-article__title" href="/war21/article/503294/">Херсон ждет тумана: Командование ВСУ опасается крупной десантной операции на правом берегу Днепра</a></h3>
+	<p class="b-article__subtitle">Бандеровцы боятся, что в нужный момент у Сырского не окажется под рукой &laquo;пожарных команд&raquo;</p>
+</article>
+<!-- /article -->
+
+
+
+															</div>
+																							<div class="b-articles">
+									
+<!-- news -->
+<article class="b-article b-col_1-2_index_first">
+	<a class="b-article__title b-article__title_small" href="/politic/news/503212/?nmp=1">Профессор: Запад и Киев используют ситуацию внутри России для затягивания переговоров</a>
+	<p class="b-article__subtitle">Политика</p>
+</article>
+<!-- /news -->
+
+																											
+<!-- news -->
+<article class="b-article b-col_1-2_index">
+	<a class="b-article__title b-article__title_small" href="/politic/news/503215/?nmp=1">&laquo;Великая хватамба&raquo;: Аграновский о вояже лидеров постсоветских республик на Совет мира</a>
+	<p class="b-article__subtitle">Политика</p>
+</article>
+<!-- /news -->
+
+								</div>
+																														
+							
+							
+
+							
+
+
+
+
+ 
+																					
+							
+																					<div class="b-articles">
+								<!-- article -->
+<article class="b-article b-col_1-2_index_first">
+	<a class="b-article__img" href="/business/article/503262/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503262/s-503262.jpg?v=1771507015" media="(min-width: 584px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img srcset="/p/50/503/503262/s-503262.jpg?v=1771507015" alt="Санкции, блокады, пошлины, «танкерная война»: ВТО, куда Россия так стремилась, испускает дух">									
+		</picture>
+	</a>
+	<h3><a class="b-article__title" href="/business/article/503262/">Санкции, блокады, пошлины, &laquo;танкерная война&raquo;: ВТО, куда Россия так стремилась, испускает дух</a></h3>
+	<p class="b-article__subtitle">Андрей Бунич: Действия США направлены на создание выгодных для себя правил в торговле через разрушение старых</p>
+</article>
+<!-- /article -->
+
+
+
+																						
+							
+							
+
+							
+
+
+
+
+ 
+																					
+							
+																						<!-- article -->
+<article class="b-article b-col_1-2_index">
+	<a class="b-article__img" href="/economy/article/503270/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503270/s-503270.jpg?v=1771506443" media="(min-width: 584px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img srcset="/p/50/503/503270/s-503270.jpg?v=1771506443" alt="Катастрофическая деиндустриализация: Россия в зеркале мировых рейтингов выглядит уныло">									
+		</picture>
+	</a>
+	<h3><a class="b-article__title" href="/economy/article/503270/">Катастрофическая деиндустриализация: Россия в зеркале мировых рейтингов выглядит уныло</a></h3>
+	<p class="b-article__subtitle">Обрабатывающая промышленность страны стремительно катится вниз</p>
+</article>
+<!-- /article -->
+
+
+
+															</div>
+																							<div class="b-articles">
+									
+<!-- news -->
+<article class="b-article b-col_1-2_index_first">
+	<a class="b-article__title b-article__title_small" href="/economy/news/503267/?nmp=1">Экономист сделал пугающее предупреждение малому и среднему бизнесу России</a>
+	<p class="b-article__subtitle">Экономика</p>
+</article>
+<!-- /news -->
+
+																											
+<!-- news -->
+<article class="b-article b-col_1-2_index">
+	<a class="b-article__title b-article__title_small" href="/politic/news/503214/?nmp=1">Аналитик указал на два принципиальных для США события, которые не произошли в Иране</a>
+	<p class="b-article__subtitle">Политика</p>
+</article>
+<!-- /news -->
+
+								</div>
+																														
+							
+							
+
+							
+
+
+
+
+ 
+																					
+							
+																					<div class="b-articles">
+								<!-- article -->
+<article class="b-article b-col_1-2_index_first">
+	<a class="b-article__img" href="/politic/article/503266/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503266/s-503266.jpg?v=1771507343" media="(min-width: 584px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img srcset="/p/50/503/503266/s-503266.jpg?v=1771507343" alt="Готовится обмен? Захарова призвала освободить россиян в Азербайджане, на Урале скоро огласят приговор лидеру диаспоры">									
+		</picture>
+	</a>
+	<h3><a class="b-article__title" href="/politic/article/503266/">Готовится обмен? Захарова призвала освободить россиян в Азербайджане, на Урале скоро огласят приговор лидеру диаспоры</a></h3>
+	<p class="b-article__subtitle">Как Россия планирует спасать своих людей, находящихся в Баку за решеткой?</p>
+</article>
+<!-- /article -->
+
+
+
+																						
+							
+							
+
+							
+
+
+
+
+ 
+																					
+							
+																						<!-- article -->
+<article class="b-article b-col_1-2_index">
+	<a class="b-article__img" href="/society/article/503166/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503166/s-503166.jpg?v=1771489420" media="(min-width: 584px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img srcset="/p/50/503/503166/s-503166.jpg?v=1771489420" alt="Весенняя угроза: Клещ устраивает засады и в лесу, и в городе. Но риски можно снизить">									
+		</picture>
+	</a>
+	<h3><a class="b-article__title" href="/society/article/503166/">Весенняя угроза: Клещ устраивает засады и в лесу, и в городе. Но риски можно снизить</a></h3>
+	<p class="b-article__subtitle">Вместе с природой просыпаются опасные паразиты&nbsp;&mdash; как защититься от смертельной опасности</p>
+</article>
+<!-- /article -->
+
+
+
+															</div>
+																													
+							
+							
+
+							
+
+
+
+
+ 
+																					
+							
+							
+							
+														<div class="b-articles">
+								
+<!-- article -->
+<article class="b-article b-article_wide">
+	<a class="b-article__img b-article__img_large" href="society/article/503260/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503260/m-503260.jpg?v=1771507015"  media="(min-width: 428px) and (max-width: 671px)"/>	
+			<source srcset="/p/50/503/503260/l-503260.jpg?v=1771507015"  media="(min-width: 672px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img src="/p/50/503/503260/s-503260.jpg?v=1771507015" alt="Мутные схемы сертификатов на жилье для мигрантов: КПРФ призывает Бастрыкина «заняться вопросом» плотно">									
+		</picture>
+	</a>
+	<h2><a class="b-article__title" href="society/article/503260/">Мутные схемы сертификатов на жилье для мигрантов: КПРФ призывает Бастрыкина &laquo;заняться вопросом&raquo; плотно</a></h2>
+	<p class="b-article__subtitle">Депутаты-коммунисты настаивают на масштабной ревизии</p>
+</article>
+<!-- /article -->	
+
+
+							</div>
+														
+
+													</section>
+						<!-- /articles -->
+
+						
+						<!-- articles -->
+
+						<section class="b-content__section">
+
+
+							<div class="_adfox_banner_768" id="adfox_151671785189981641"></div>
+
+
+
+
+
+ 
+																					
+							
+																					<div class="b-articles">
+								<!-- article -->
+<article class="b-article b-col_1-2_index_first">
+	<a class="b-article__img" href="/health/article/503161/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503161/s-503161.jpg?v=1771488526" media="(min-width: 584px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img srcset="/p/50/503/503161/s-503161.jpg?v=1771488526" alt="Почему лазерное отбеливание – это не просто осветлении кожи">									
+		</picture>
+	</a>
+	<h3><a class="b-article__title" href="/health/article/503161/">Почему лазерное отбеливание&nbsp;&mdash; это не просто осветлении кожи</a></h3>
+	<p class="b-article__subtitle">Процедура с выраженным эффектом ухоженности</p>
+</article>
+<!-- /article -->
+
+
+
+																						
+							
+							
+
+							
+
+
+
+
+ 
+																					
+							
+																						<!-- article -->
+<article class="b-article b-col_1-2_index">
+	<a class="b-article__img" href="/society/article/502840/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/502/502840/s-502840.jpg?v=1771501193" media="(min-width: 584px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img srcset="/p/50/502/502840/s-502840.jpg?v=1771501193" alt="В сердечке вашей малышки нет ничего хорошего">									
+		</picture>
+	</a>
+	<h3><a class="b-article__title" href="/society/article/502840/">В сердечке вашей малышки нет ничего хорошего</a></h3>
+	<p class="b-article__subtitle">Как спасают Веру со смертельно опасным пороком сердца</p>
+</article>
+<!-- /article -->
+
+
+
+															</div>
+																													
+							
+							
+
+							
+
+
+
+
+ 
+																					
+							
+																					<div class="b-articles">
+								<!-- article -->
+<article class="b-article b-col_1-2_index_first">
+	<a class="b-article__img" href="/society/article/503223/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503223/s-503223.jpg?v=1771507482" media="(min-width: 584px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img srcset="/p/50/503/503223/s-503223.jpg?v=1771507482" alt="Клондайки и капканы Минприроды: ФСБ «вела» министра, министр «фиксировал» губернатора. Всё вскрылось на суде">									
+		</picture>
+	</a>
+	<h3><a class="b-article__title" href="/society/article/503223/">Клондайки и капканы Минприроды: ФСБ &laquo;вела&raquo; министра, министр &laquo;фиксировал&raquo; губернатора. Всё вскрылось на суде</a></h3>
+	<p class="b-article__subtitle">Что скрывается за вывеской, казалось&nbsp;бы, скромных ведомств, которые борятся за&nbsp;&laquo;чистый воздух&raquo;</p>
+</article>
+<!-- /article -->
+
+
+
+																						
+							
+							
+
+							
+
+
+
+
+ 
+																					
+							
+																						<!-- article -->
+<article class="b-article b-col_1-2_index">
+	<a class="b-article__img" href="/politic/article/503249/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503249/s-503249.jpg?v=1771489146" media="(min-width: 584px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img srcset="/p/50/503/503249/s-503249.jpg?v=1771489146" alt="Компромиссов больше не будет: Женевские переговоры уперлись в стену, Зеленский доволен. Мединский молчит">									
+		</picture>
+	</a>
+	<h3><a class="b-article__title" href="/politic/article/503249/">Компромиссов больше не будет: Женевские переговоры уперлись в стену, Зеленский доволен. Мединский молчит</a></h3>
+	<p class="b-article__subtitle">Дипломаты и генералы расходятся в оценках урегулирования конфликта на Украине</p>
+</article>
+<!-- /article -->
+
+
+
+															</div>
+																													
+							
+							
+
+							
+
+
+
+
+ 
+																					
+							
+																					<div class="b-articles">
+								<!-- article -->
+<article class="b-article b-col_1-2_index_first">
+	<a class="b-article__img" href="/war21/article/503254/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503254/s-503254.jpg?v=1771489208" media="(min-width: 584px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img srcset="/p/50/503/503254/s-503254.jpg?v=1771489208" alt="Сводки СВО, 19 февраля, главное: «Готовится атака русских «Тритонов» на Одессу». В портах паника ">									
+		</picture>
+	</a>
+	<h3><a class="b-article__title" href="/war21/article/503254/">Сводки СВО, 19&nbsp;февраля, главное: &laquo;Готовится атака русских &bdquo;Тритонов&ldquo; на Одессу&raquo;. В портах паника</a></h3>
+	<p class="b-article__subtitle">1456-й день спецоперации. В Черниговской области &laquo;Искандер&raquo; уничтожил десятки дальних БПЛА и два взвода операторов ВСУ</p>
+</article>
+<!-- /article -->
+
+
+
+																						
+							
+							
+
+							
+
+
+
+
+ 
+																					
+							
+																						<!-- article -->
+<article class="b-article b-col_1-2_index">
+	<a class="b-article__img" href="/politic/article/503186/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503186/s-503186.jpg?v=1771489530" media="(min-width: 584px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img srcset="/p/50/503/503186/s-503186.jpg?v=1771489530" alt="«Вы кому даете гражданство? И зачем?»: Исмаил устроил скандал в аэропорту - паспорт наш &quot;плохой&quot;, бразильский лучше">									
+		</picture>
+	</a>
+	<h3><a class="b-article__title" href="/politic/article/503186/">&laquo;Вы кому даете гражданство? И зачем?&raquo;: Исмаил устроил скандал в аэропорту&nbsp;&mdash; паспорт наш &laquo;плохой&raquo;, бразильский лучше</a></h3>
+	<p class="b-article__subtitle">Почему в стране нужно срочно провести аудит выданных ранее главных личных документов</p>
+</article>
+<!-- /article -->
+
+
+
+															</div>
+																													
+							
+							
+
+							
+
+
+
+
+ 
+																					
+							
+							
+							
+														<div class="b-articles">
+								
+<!-- article -->
+<article class="b-article b-article_wide">
+	<a class="b-article__img b-article__img_large" href="economy/article/503192/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503192/m-503192.jpg?v=1771489076"  media="(min-width: 428px) and (max-width: 671px)"/>	
+			<source srcset="/p/50/503/503192/l-503192.jpg?v=1771489076"  media="(min-width: 672px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img src="/p/50/503/503192/s-503192.jpg?v=1771489076" alt="Мораторий на наглость ЖКХ: Рост тарифов заметили депутаты-коммунисты, следом - даже единороссы, но только не ФАС">									
+		</picture>
+	</a>
+	<h2><a class="b-article__title" href="economy/article/503192/">Мораторий на наглость ЖКХ: Рост тарифов заметили депутаты-коммунисты, следом&nbsp;&mdash; даже единороссы, но только не ФАС</a></h2>
+	<p class="b-article__subtitle">Александр Ющенко: Нам известны случаи скачков не на проценты, а в геометрической прогрессии, и чтобы они не стали массовыми&nbsp;&mdash; требуется это остановить</p>
+</article>
+<!-- /article -->	
+
+
+							</div>
+														
+
+							
+
+
+
+
+ 
+																					
+							
+																					<div class="b-articles">
+								<!-- article -->
+<article class="b-article b-col_1-2_index_first">
+	<a class="b-article__img" href="/politic/article/503252/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503252/s-503252.jpg?v=1771489347" media="(min-width: 584px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img srcset="/p/50/503/503252/s-503252.jpg?v=1771489347" alt="Второй украинский фронт: Залужный объявил войну Зеленскому – тот украл у него «перемогу» в 2023 году">									
+		</picture>
+	</a>
+	<h3><a class="b-article__title" href="/politic/article/503252/">Второй украинский фронт: Залужный объявил войну Зеленскому&nbsp;&mdash; тот украл у него &laquo;перемогу&raquo; в 2023 году</a></h3>
+	<p class="b-article__subtitle">Самостийная страна входит в стадию публичного элитного раскола перед выборами</p>
+</article>
+<!-- /article -->
+
+
+
+																						
+							
+							
+
+							
+
+
+
+
+ 
+																					
+							
+																						<!-- article -->
+<article class="b-article b-col_1-2_index">
+	<a class="b-article__img" href="/war21/article/503203/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503203/s-503203.jpg?v=1771442279" media="(min-width: 584px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img srcset="/p/50/503/503203/s-503203.jpg?v=1771442279" alt="«Войско Польское» вошло в Дробышево: Варшава начала необъявленную войну против Москвы? ">									
+		</picture>
+	</a>
+	<h3><a class="b-article__title" href="/war21/article/503203/">&laquo;Войско Польское&raquo; вошло в Дробышево: Варшава начала необъявленную войну против Москвы?</a></h3>
+	<p class="b-article__subtitle">Даже бандеровцы говорят местным жителям, &laquo;уходите, а то вас убьют пшеки&raquo;</p>
+</article>
+<!-- /article -->
+
+
+
+															</div>
+																													
+							
+							
+
+							
+
+
+
+
+ 
+																					
+							
+																					<div class="b-articles">
+								<!-- article -->
+<article class="b-article b-col_1-2_index_first">
+	<a class="b-article__img" href="/society/article/503196/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503196/s-503196.jpg?v=1771442213" media="(min-width: 584px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img srcset="/p/50/503/503196/s-503196.jpg?v=1771442213" alt="Олег Смолин, КПРФ: Агентство по борьбе с буллингом? Перестаньте лучше учителей третировать нагрузками">									
+		</picture>
+	</a>
+	<h3><a class="b-article__title" href="/society/article/503196/">Олег Смолин, КПРФ: Агентство по борьбе с буллингом? Перестаньте лучше учителей третировать нагрузками</a></h3>
+	<p class="b-article__subtitle">Зачем нужна еще одна госструктура, если есть Минпросвещения</p>
+</article>
+<!-- /article -->
+
+
+
+																						
+							
+							
+
+							
+
+
+
+
+ 
+																					
+							
+																						<!-- article -->
+<article class="b-article b-col_1-2_index">
+	<a class="b-article__img" href="/war21/article/503209/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503209/s-503209.jpg?v=1771442477" media="(min-width: 584px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img srcset="/p/50/503/503209/s-503209.jpg?v=1771442477" alt="ВМС НАТО скоро познакомятся с «морским Вагнером», которого Балтфлот прикроет калибром">									
+		</picture>
+	</a>
+	<h3><a class="b-article__title" href="/war21/article/503209/">ВМС НАТО скоро познакомятся с&nbsp;&laquo;морским Вагнером&raquo;, которого Балтфлот прикроет калибром</a></h3>
+	<p class="b-article__subtitle">В России готовят зеркальный ответ на захваты танкеров &laquo;теневого флота&raquo;</p>
+</article>
+<!-- /article -->
+
+
+
+															</div>
+																													
+							
+							
+
+							
+
+
+
+
+ 
+																					
+							
+							
+							
+														<div class="b-articles">
+								
+<!-- article -->
+<article class="b-article b-article_wide">
+	<a class="b-article__img b-article__img_large" href="politic/article/503181/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503181/m-503181.jpg?v=1771443315"  media="(min-width: 428px) and (max-width: 671px)"/>	
+			<source srcset="/p/50/503/503181/l-503181.jpg?v=1771443315"  media="(min-width: 672px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img src="/p/50/503/503181/s-503181.jpg?v=1771443315" alt="Рейтинг постсоветской дружбы: У России три друга, остальные сидят на московских траншах">									
+		</picture>
+	</a>
+	<h2><a class="b-article__title" href="politic/article/503181/">Рейтинг постсоветской дружбы: У России три друга, остальные сидят на московских траншах</a></h2>
+	<p class="b-article__subtitle">Многие наши вчерашние союзники могут перейти в разряд недругов</p>
+</article>
+<!-- /article -->	
+
+
+							</div>
+														
+
+							
+
+
+
+
+ 
+																					
+							
+																					<div class="b-articles">
+								<!-- article -->
+<article class="b-article b-col_1-2_index_first">
+	<a class="b-article__img" href="/society/article/503200/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503200/s-503200.jpg?v=1771442794" media="(min-width: 584px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img srcset="/p/50/503/503200/s-503200.jpg?v=1771442794" alt="Кирилл Кабанов: «Молельни мигрантов — это скрытая угроза радикализма и, не исключаю, подготовки терактов»">									
+		</picture>
+	</a>
+	<h3><a class="b-article__title" href="/society/article/503200/">Кирилл Кабанов: &laquo;Молельни мигрантов&nbsp;&mdash; это скрытая угроза радикализма и, не исключаю, подготовки терактов&raquo;</a></h3>
+	<p class="b-article__subtitle">В СПЧ вслед за Госдумой выступили против проведения религиозных ритуалов в жилых домах</p>
+</article>
+<!-- /article -->
+
+
+
+																						
+							
+							
+
+							
+
+
+
+
+ 
+																					
+							
+																						<!-- article -->
+<article class="b-article b-col_1-2_index">
+	<a class="b-article__img" href="/economy/article/503184/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503184/s-503184.jpg?v=1771443126" media="(min-width: 584px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img srcset="/p/50/503/503184/s-503184.jpg?v=1771443126" alt="Нефть девать некуда: Россия внезапно поняла, что надо было строить стратегические хранилища">									
+		</picture>
+	</a>
+	<h3><a class="b-article__title" href="/economy/article/503184/">Нефть девать некуда: Россия внезапно поняла, что надо было строить стратегические хранилища</a></h3>
+	<p class="b-article__subtitle">Проблемы со сбытом сырья обнажили старые проблемы</p>
+</article>
+<!-- /article -->
+
+
+
+															</div>
+																													
+							
+							
+
+							
+
+
+
+
+ 
+																					
+							
+																					<div class="b-articles">
+								<!-- article -->
+<article class="b-article b-col_1-2_index_first">
+	<a class="b-article__img" href="/economy/article/503097/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503097/s-503097.jpg?v=1771441977" media="(min-width: 584px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img srcset="/p/50/503/503097/s-503097.jpg?v=1771441977" alt="Василий Колташов: Экономику России вернет в чувство строительство ВСМ и других масштабных проектов">									
+		</picture>
+	</a>
+	<h3><a class="b-article__title" href="/economy/article/503097/">Василий Колташов: Экономику России вернет в чувство строительство ВСМ и других масштабных проектов</a></h3>
+	<p class="b-article__subtitle">Нашим вузам пора перестать готовить исключительно начальников, когда стране нужны инженеры</p>
+</article>
+<!-- /article -->
+
+
+
+																						
+							
+							
+
+							
+
+
+
+
+ 
+																					
+							
+																						<!-- article -->
+<article class="b-article b-col_1-2_index">
+	<a class="b-article__img" href="/war21/article/503056/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503056/s-503056.jpg?v=1771442948" media="(min-width: 584px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img srcset="/p/50/503/503056/s-503056.jpg?v=1771442948" alt="Плач Ярославны по-американски: Хегсет и Рубио призвали спасти работающий на износ  ВПК">									
+		</picture>
+	</a>
+	<h3><a class="b-article__title" href="/war21/article/503056/">Плач Ярославны по-американски: Хегсет и Рубио призвали спасти работающий на износ ВПК</a></h3>
+	<p class="b-article__subtitle">Россия и Китай могут увести покупателей оружия США, справедливо переживают министр войны и госсекретарь</p>
+</article>
+<!-- /article -->
+
+
+
+															</div>
+																													
+							
+							
+
+							
+
+
+
+
+ 
+																					
+							
+							
+							
+														<div class="b-articles">
+								
+<!-- article -->
+<article class="b-article b-article_wide">
+	<a class="b-article__img b-article__img_large" href="society/article/503160/">
+		<picture>
+			<!--[if IE 9]><video style="display: none;"><![endif]-->
+			<source srcset="/p/50/503/503160/m-503160.jpg?v=1771444621"  media="(min-width: 428px) and (max-width: 671px)"/>	
+			<source srcset="/p/50/503/503160/l-503160.jpg?v=1771444621"  media="(min-width: 672px)"/>	
+			<!--[if IE 9]></video><![endif]-->
+			<img src="/p/50/503/503160/s-503160.jpg?v=1771444621" alt="От 13 до 23 лет: Азербайджан молча встретил суровые слова прокурора в Екатеринбурге  ">									
+		</picture>
+	</a>
+	<h2><a class="b-article__title" href="society/article/503160/">От 13 до 23 лет: Азербайджан молча встретил суровые слова прокурора в Екатеринбурге</a></h2>
+	<p class="b-article__subtitle">Шахина Шыхлински и его людей гособвинение просит осудить на длительные сроки заключения</p>
+</article>
+<!-- /article -->	
+
+
+							</div>
+														
+
+							
+
+
+
+
+
+
+
+</section>
+<!-- /articles -->
+
+			
+			
+
+			
+		</div>
+		<!-- /index-main -->
+
+
+		<!-- index-aside -->
+		<div class="b-index__aside">
+						<div class="_adfox_banner_240_index" id="adfox_1481729521474783"><div id="crt-713416"></div></div>
+
+												<!-- columnists  -->
+						
+							<section class="b-content__section">
+							<a class="b-content__title" href="/authors/">Колумнисты</a>
+
+							<div class="b-columnists">
+
+								<div class="b-row">
+																								<!-- columnist -->
+<article class="b-columnist b-col_1-2_index_aside_first">
+	<a href="/economy/article/502731/" class="b-columnist__img">
+		<picture>
+		<img srcset="/p/authors/1567/l-1567.jpg" alt="Россию грабят по науке: Минфин предпочитает молчать о сотнях миллиардов, заработанных на экспорте">									
+		</picture>										
+	</a>
+	<a class="b-columnist__author" href="/economy/article/502731/">Валентин Катасонов</a>
+	<a class="b-columnist__title" href="/economy/article/502731/">Россию грабят по науке: Минфин предпочитает молчать о сотнях миллиардов, заработанных на экспорте</a>
+	
+</article>
+<!-- /columnist -->
+
+
+																								<!-- columnist -->
+<article class="b-columnist b-col_1-2_index_aside">
+	<a href="/economy/article/502888/" class="b-columnist__img">
+		<picture>
+		<img srcset="/p/authors/2405/l-2405.jpg" alt="ЦБ дал понять, что ключевая ставка в этом году – на выборы в Госдуму">									
+		</picture>										
+	</a>
+	<a class="b-columnist__author" href="/economy/article/502888/">Татьяна Куликова</a>
+	<a class="b-columnist__title" href="/economy/article/502888/">ЦБ дал понять, что ключевая ставка в этом году&nbsp;&mdash; на выборы в Госдуму</a>
+	
+</article>
+<!-- /columnist -->
+
+								</div>
+
+								<div class="b-row">
+																								<!-- columnist -->
+<article class="b-columnist b-col_1-2_index_aside_first">
+	<a href="/economy/article/503013/" class="b-columnist__img">
+		<picture>
+		<img srcset="/p/authors/1115/l-1115.jpg" alt="Михаил Делягин: «Скрепя кошельки», финансовые воротилы начали играть по правилам Мишустина">									
+		</picture>										
+	</a>
+	<a class="b-columnist__author" href="/economy/article/503013/">Михаил Делягин</a>
+	<a class="b-columnist__title" href="/economy/article/503013/">Михаил Делягин: &laquo;Скрепя кошельки&raquo;, финансовые воротилы начали играть по правилам Мишустина</a>
+	
+</article>
+<!-- /columnist -->
+
+
+																								<!-- columnist -->
+<article class="b-columnist b-col_1-2_index_aside">
+	<a href="/war21/article/502721/" class="b-columnist__img">
+		<picture>
+		<img srcset="/p/authors/65/l-65.jpg" alt="Мюнхенский сговор: Ракеты для Patriot? Самим мало. А для Украины их больше нет и не будет">									
+		</picture>										
+	</a>
+	<a class="b-columnist__author" href="/war21/article/502721/">Сергей Ищенко</a>
+	<a class="b-columnist__title" href="/war21/article/502721/">Мюнхенский сговор: Ракеты для Patriot? Самим мало. А для Украины их больше нет и не будет</a>
+	
+</article>
+<!-- /columnist -->
+
+								</div>
+
+							</div>
+
+						</section>
+						<!-- /columnists  -->
+
+						<!-- sptv-onlines  -->
+<section class="b-content__section">
+	<a class="b-content__title" href="/sptv/">СП-Видео</a>
+	<div class="b-sptvs">
+										<div class="b-col_1-3_index_aside">
+			<!-- sptv-online -->
+			<article class="b-sptv">
+				<a class="b-sptv__rubric" href="/opinions/sptv/">Мнения</a>
+				<a href="/opinions/sptv/503208/">
+					<div class="b-sptv__img">
+						<picture>
+							<img srcset="/p/50/503/503208/p-503208.jpg?v=1771489958" alt="">										
+						</picture>
+						<span class="b-sptv__icon"><i class="icon-video"></i></span>
+					</div>
+				</a>
+				<a class="b-sptv__title b-sptv__title_aside" href="/opinions/sptv/503208/">Алексей Рамм: ВС&nbsp;РФ начнут стратегическое наступление, как только решат две задачи</a>
+				
+			</article>
+			<!-- /sptv-online -->
+		</div>
+		
+
+										<div class="b-col_1-3_index_aside_second">
+			<!-- sptv-online -->
+			<article class="b-sptv">
+				<a class="b-sptv__rubric" href="/online/sptv/">Открытая студия</a>
+				<a href="/online/sptv/502884/">
+					<div class="b-sptv__img">
+						<picture>
+							<img srcset="/p/50/502/502884/p-502884.jpg?v=1771408320" alt="">										
+						</picture>
+						<span class="b-sptv__icon"><i class="icon-video"></i></span>
+					</div>
+				</a>
+				<a class="b-sptv__title b-sptv__title_aside" href="/online/sptv/502884/">Искусственный интеллект&nbsp;&mdash; не Гюльчатай, но тоже не спешит открыть своё &laquo;личико&raquo;</a>
+				
+			</article>
+			<!-- /sptv-online -->
+		</div>
+		
+
+										<div class="b-col_1-3_index_aside">
+			<!-- sptv-online -->
+			<article class="b-sptv">
+				<a class="b-sptv__rubric" href="/online/sptv/">Открытая студия</a>
+				<a href="/online/sptv/502206/">
+					<div class="b-sptv__img">
+						<picture>
+							<img srcset="/p/50/502/502206/p-502206.jpg?v=1771330900" alt="">										
+						</picture>
+						<span class="b-sptv__icon"><i class="icon-video"></i></span>
+					</div>
+				</a>
+				<a class="b-sptv__title b-sptv__title_aside" href="/online/sptv/502206/">&laquo;Файлы Эпштейна&raquo;: Какие выводы предстоит извлечь России</a>
+				
+			</article>
+			<!-- /sptv-online -->
+		</div>
+		
+	</div>								
+</section>
+<!-- /sptv-onlines  -->
+
+						<div class="_adfox_banner_240x400_index">
+  <a href="https://svpressa.ru/topics/kitay-segodnya/" target="_blank"><img id="indch"
+       src=""
+       alt=""
+       style="display:inline-block;width:240px;height:400px;"></a>
+</div>
+
+
+						<!-- photos  -->
+<section class="b-content__section">
+<a class="b-content__title" href="/all/photo/">Фото</a>
+	<div class="b-photos">
+										<!-- photo -->
+		<article class="b-photo b-col_1-3_index_aside">
+		<a href="/sport/photo/503070/">
+				<div class="b-photo__img">
+					<picture>
+						<img srcset="/p/50/503/503070/p-503070.jpg?v=1771485770" alt="">										
+					</picture>
+					<span class="b-photo__count-and-icon">54&nbsp;<i class="icon-photo"></i></span>
+				</div>
+			</a>
+			<a class="b-photo__title b-photo__title_index-aside" href="/sport/photo/503070/">$ 1 млн за показ топа, помолвки, падение Линдси Вонн, &laquo;кёрлинговый малыш&raquo;, цена медалей: Самые упоминаемые моменты на Олимпийских играх 2026</a>
+		</article>
+		<!-- /photo -->
+		
+
+										<!-- photo -->
+		<article class="b-photo b-col_1-3_index_aside_second">
+		<a href="/world/photo/502652/">
+				<div class="b-photo__img">
+					<picture>
+						<img srcset="/p/50/502/502652/p-502652.jpg?v=1771413422" alt="">										
+					</picture>
+					<span class="b-photo__count-and-icon">43&nbsp;<i class="icon-photo"></i></span>
+				</div>
+			</a>
+			<a class="b-photo__title b-photo__title_index-aside" href="/world/photo/502652/">Карнавал в Рио-де-Жанейро 2026: Самые горячие моменты уличных вечеринок в Бразилии</a>
+		</article>
+		<!-- /photo -->
+		
+
+										<!-- photo -->
+		<article class="b-photo b-col_1-3_index_aside">
+		<a href="/world/photo/502478/">
+				<div class="b-photo__img">
+					<picture>
+						<img srcset="/p/50/502/502478/p-502478.jpg?v=1771084454" alt="">										
+					</picture>
+					<span class="b-photo__count-and-icon">51&nbsp;<i class="icon-photo"></i></span>
+				</div>
+			</a>
+			<a class="b-photo__title b-photo__title_index-aside" href="/world/photo/502478/">Венецианский карнавал 2026: Cамые впечатляющие маски и костюмы</a>
+		</article>
+		<!-- /photo -->
+		
+	</div>
+</section>
+<!-- /photos  -->
+
+						<section class="b-content__section b-content__section_partners">
+	<a class="b-content__title b-content__title_ads" href="/experts/">Эксперты, комментарии</a>
+<div class="b-top-experts-list">
+  <ul class="b-top-experts-list__list"><li class="b-top-experts-list__item_index">
+    <a href="/experts/kirill-kabanov/" class="b-top-experts-list__img">
+      <img src="/p/persons/4266/s-4266.jpg?v=1" alt="Кирилл Кабанов"/>    </a>
+    <div class="b-top-experts-list__content">
+      <a class="b-authors-list__title" href="/experts/kirill-kabanov/" title="Кирилл Кабанов">Кирилл Кабанов</a>
+      <p class="b-authors-list__subtitle">Член Совета при президенте России по правам человека (СПЧ)</p>
+    </div>
+  </li><li class="b-top-experts-list__item_index">
+    <a href="/experts/dmitriy-bunevich/" class="b-top-experts-list__img">
+            <img src="/p/persons/sp/s-sp.jpg" alt=""/>    </a>
+    <div class="b-top-experts-list__content">
+      <a class="b-authors-list__title" href="/experts/dmitriy-bunevich/" title="Дмитрий Буневич">Дмитрий Буневич</a>
+      <p class="b-authors-list__subtitle">Советник директора Российского института стратегических исследований (РИСИ)</p>
+    </div>
+  </li><li class="b-top-experts-list__item_index">
+    <a href="/experts/aleksandr-mihaylov/" class="b-top-experts-list__img">
+      <img src="/p/persons/432/s-432.jpg?v=1" alt="Александр Михайлов"/>    </a>
+    <div class="b-top-experts-list__content">
+      <a class="b-authors-list__title" href="/experts/aleksandr-mihaylov/" title="Александр Михайлов">Александр Михайлов</a>
+      <p class="b-authors-list__subtitle">Член Совета по внешней оборонной политике, генерал-майор ФСБ в отставке</p>
+    </div>
+  </li><li class="b-top-experts-list__item_index">
+    <a href="/experts/rostislav-gurman/" class="b-top-experts-list__img">
+      <img src="/p/persons/3348/s-3348.jpg?v=1" alt="Ростислав Гурман"/>    </a>
+    <div class="b-top-experts-list__content">
+      <a class="b-authors-list__title" href="/experts/rostislav-gurman/" title="Ростислав Гурман">Ростислав Гурман</a>
+      <p class="b-authors-list__subtitle">Эксперт в области продуктов питания</p>
+    </div>
+  </li><li class="b-top-experts-list__item_index">
+    <a href="/experts/sergey-goncharov/" class="b-top-experts-list__img">
+      <img src="/p/persons/284/s-284.jpg?v=1" alt="Сергей Гончаров"/>    </a>
+    <div class="b-top-experts-list__content">
+      <a class="b-authors-list__title" href="/experts/sergey-goncharov/" title="Сергей Гончаров">Сергей Гончаров</a>
+      <p class="b-authors-list__subtitle">Президент Ассоциации ветеранов подразделения антитеррора «Альфа»</p>
+    </div>
+  </li><li class="b-top-experts-list__item_index b-top-experts-list__item_last">
+    <a href="/experts/mihail-delyagin/" class="b-top-experts-list__img">
+      <img src="/p/persons/8/s-8.jpg?v=1" alt="Михаил Делягин"/>    </a>
+    <div class="b-top-experts-list__content">
+      <a class="b-authors-list__title" href="/experts/mihail-delyagin/" title="Михаил Делягин">Михаил Делягин</a>
+      <p class="b-authors-list__subtitle">Доктор экономических наук, член РАЕН, публицист, политик</p>
+    </div>
+  </li></ul>
+</div>
+</section>
+
+						<div class="_adfox_banner_240x400_index" id="adfox_1481729649585323"></div>
+
+						<!-- numbers -->
+<section class="b-content__section">
+	<span class="b-content__title">Цифры дня</span>
+	<div class="b-numbers_index">
+		<!-- number -->
+		<article class="b-number">
+						<div id="b-number_1" >
+								<a class="b-number__number_index" href="https://svpressa.ru/economy/news/503245/?notd=1">22</a>				<a class="b-number__title-after"
+					href="https://svpressa.ru/economy/news/503245/?notd=1">млн. россиян</a>				<a class="b-number__text_index" href="https://svpressa.ru/economy/news/503245/?notd=1">точно не получат кредиты</a>				<a href="https://svpressa.ru/economy/news/503245/?notd=1" class="b-number__img">
+					<picture>
+						<!--[if IE 9]><video style="display: none;"><![endif]-->
+						<source srcset="/p/promo/5097/m-5097.jpg?v=1771524301"
+							media="(min-width: 428px) and (max-width: 840px)" />
+						<!--[if IE 9]></video><![endif]-->
+						<img src="/p/promo/5097/s-5097.jpg?v=1771524301" alt="">
+					</picture>
+				</a>			</div>
+						<div id="b-number_2" 				class="_hidden">
+								<a class="b-number__number_index" href="https://svpressa.ru/war21/news/503150?notd=1">15−24</a>				<a class="b-number__title-after"
+					href="https://svpressa.ru/war21/news/503150?notd=1">км</a>				<a class="b-number__text_index" href="https://svpressa.ru/war21/news/503150?notd=1">на таких высотах сможет работать российский беспилотник &laquo;Аргус&raquo;</a>				<a href="https://svpressa.ru/war21/news/503150?notd=1" class="b-number__img">
+					<picture>
+						<!--[if IE 9]><video style="display: none;"><![endif]-->
+						<source srcset="/p/promo/5095/m-5095.jpg?v=1771524301"
+							media="(min-width: 428px) and (max-width: 840px)" />
+						<!--[if IE 9]></video><![endif]-->
+						<img src="/p/promo/5095/s-5095.jpg?v=1771524301" alt="">
+					</picture>
+				</a>			</div>
+						<div id="b-number_3" 				class="_hidden">
+				<a class="b-number__title-before"
+					href="https://svpressa.ru/society/article/502913/?notd=1">В</a>				<a class="b-number__number_index" href="https://svpressa.ru/society/article/502913/?notd=1">8</a>				<a class="b-number__title-after"
+					href="https://svpressa.ru/society/article/502913/?notd=1">раз</a>				<a class="b-number__text_index" href="https://svpressa.ru/society/article/502913/?notd=1">выросли тарифы на ЖКХ в&nbsp;РФ за 24 года</a>				<a href="https://svpressa.ru/society/article/502913/?notd=1" class="b-number__img">
+					<picture>
+						<!--[if IE 9]><video style="display: none;"><![endif]-->
+						<source srcset="/p/promo/5093/m-5093.jpg?v=1771524301"
+							media="(min-width: 428px) and (max-width: 840px)" />
+						<!--[if IE 9]></video><![endif]-->
+						<img src="/p/promo/5093/s-5093.jpg?v=1771524301" alt="">
+					</picture>
+				</a>			</div>
+						<div id="b-number_4" 				class="_hidden">
+								<a class="b-number__number_index" href="https://svpressa.ru/accidents/news/502863/?notd=1">9</a>				<a class="b-number__title-after"
+					href="https://svpressa.ru/accidents/news/502863/?notd=1">человек</a>				<a class="b-number__text_index" href="https://svpressa.ru/accidents/news/502863/?notd=1">погибли за минувшую неделю в 25 регионах России от схода снега с крыш</a>				<a href="https://svpressa.ru/accidents/news/502863/?notd=1" class="b-number__img">
+					<picture>
+						<!--[if IE 9]><video style="display: none;"><![endif]-->
+						<source srcset="/p/promo/5092/m-5092.jpg?v=1771524301"
+							media="(min-width: 428px) and (max-width: 840px)" />
+						<!--[if IE 9]></video><![endif]-->
+						<img src="/p/promo/5092/s-5092.jpg?v=1771524301" alt="">
+					</picture>
+				</a>			</div>
+						<div id="b-number_5" 				class="_hidden">
+								<a class="b-number__number_index" href="https://svpressa.ru/economy/news/502609/?notd=1">19,7</a>				<a class="b-number__title-after"
+					href="https://svpressa.ru/economy/news/502609/?notd=1">трлн. рублей</a>				<a class="b-number__text_index" href="https://svpressa.ru/economy/news/502609/?notd=1">составил объем наличных денег на начало 2026 года</a>				<a href="https://svpressa.ru/economy/news/502609/?notd=1" class="b-number__img">
+					<picture>
+						<!--[if IE 9]><video style="display: none;"><![endif]-->
+						<source srcset="/p/promo/5090/m-5090.jpg?v=1771524301"
+							media="(min-width: 428px) and (max-width: 840px)" />
+						<!--[if IE 9]></video><![endif]-->
+						<img src="/p/promo/5090/s-5090.jpg?v=1771524301" alt="">
+					</picture>
+				</a>			</div>
+						<div id="b-number_6" 				class="_hidden">
+				<a class="b-number__title-before"
+					href="https://svpressa.ru/economy/article/502507/?notd=1">На</a>				<a class="b-number__number_index" href="https://svpressa.ru/economy/article/502507/?notd=1">18</a>				<a class="b-number__title-after"
+					href="https://svpressa.ru/economy/article/502507/?notd=1">процентов</a>				<a class="b-number__text_index" href="https://svpressa.ru/economy/article/502507/?notd=1">упало потребление металлов в России к началу 2026 года</a>				<a href="https://svpressa.ru/economy/article/502507/?notd=1" class="b-number__img">
+					<picture>
+						<!--[if IE 9]><video style="display: none;"><![endif]-->
+						<source srcset="/p/promo/5089/m-5089.jpg?v=1771524301"
+							media="(min-width: 428px) and (max-width: 840px)" />
+						<!--[if IE 9]></video><![endif]-->
+						<img src="/p/promo/5089/s-5089.jpg?v=1771524301" alt="">
+					</picture>
+				</a>			</div>
+			
+			<div class="b-number__button">
+				<a href="#" class="_button" id="b-number__button">Ещё цифры</a>
+			</div>
+		</article>
+	</div>
+	<!-- /number -->
+</section>
+<!-- /numbers -->
+
+			
+		</div>
+		<!-- /index-aside -->
+
+	</div>
+	<!-- /index-content -->
+
+</div>
+<!--/ content-main -->
+            <!--/ content-main -->
+            <!-- content-aside -->
+            <div class="b-content__aside">
+                								<section class="b-content__section b-content__section_first">
+    <a class="b-content__title" href="/all/sptv/?tvtd=1">СП-Видео</a>
+    <div class="b-photo-of-the-day">
+        <article>
+            <a href="/opinions/sptv/503208/?tvtd=1" class="b-sptv__img">
+                <img src="/p/50/503/503208/p-503208.jpg?v=1771524301" alt="Алексей Рамм: ВС РФ начнут стратегическое наступление, как только решат две задачи">
+                <span class="b-video__icon"><i class="icon-video"></i></span>
+            </a>
+            <a class="b-sptv__title b-sptv__title_aside"
+                href="/opinions/sptv/503208/?tvtd=1">Алексей Рамм: ВС&nbsp;РФ начнут стратегическое наступление, как только решат две задачи</a>
+        </article>
+    </div>
+</section>
+
+								<section class="b-content__section b-content__section_teasers">
+    <span class="b-content__title">Спецпредложения</span>
+    
+    
+  
+    
+    
+
+    
+    
+
+    
+    
+
+
+    
+    
+    
+    
+
+     
+    <div id="adfox_158531307548162957"></div>
+</section>
+
+
+
+								<!-- populars -->
+<section class="b-content__section b-content__section_partners">
+	<a class="b-content__title" href="/recommended/">Выбор редакции</a>
+
+	<div class="b-articles">
+						<!-- article -->
+<article class="b-article b-article_small b-col_1-2_aside_first">
+	<a href="/society/article/503200/?rpop=1" class="b-article__img b-article__img_small">
+		<img src="/p/50/503/503200/xs-503200.jpg?v=1771442794" alt="Кирилл Кабанов: «Молельни мигрантов — это скрытая угроза радикализма и, не исключаю, подготовки терактов»">
+	</a>
+	<a class="b-article__title b-article__title_small" href="/society/article/503200/?rpop=1">Кирилл Кабанов: &laquo;Молельни мигрантов&nbsp;&mdash; это скрытая угроза радикализма и, не исключаю, подготовки терактов&raquo;</a>
+	<p class="b-article__subtitle b-article__subtitle_small">В СПЧ вслед за Госдумой выступили против проведения религиозных ритуалов в жилых домах</p>
+</article>
+<!-- /article -->
+
+
+						<!-- article -->
+<article class="b-article b-article_small b-col_1-2_aside">
+	<a href="/society/article/503196/?rpop=1" class="b-article__img b-article__img_small">
+		<img src="/p/50/503/503196/xs-503196.jpg?v=1771442213" alt="Олег Смолин, КПРФ: Агентство по борьбе с буллингом? Перестаньте лучше учителей третировать нагрузками">
+	</a>
+	<a class="b-article__title b-article__title_small" href="/society/article/503196/?rpop=1">Олег Смолин, КПРФ: Агентство по борьбе с буллингом? Перестаньте лучше учителей третировать нагрузками</a>
+	<p class="b-article__subtitle b-article__subtitle_small">Зачем нужна еще одна госструктура, если есть Минпросвещения</p>
+</article>
+<!-- /article -->
+
+	</div>
+
+	<div class="b-articles">
+						<!-- article -->
+<article class="b-article b-article_small b-col_1-2_aside_first">
+	<a href="/politic/article/503153/?rpop=1" class="b-article__img b-article__img_small">
+		<img src="/p/50/503/503153/xs-503153.jpg?v=1771402439" alt="Женева, переговоры, день второй: Буданов затеял контригру против Зеленского. У кого шансов больше?">
+	</a>
+	<a class="b-article__title b-article__title_small" href="/politic/article/503153/?rpop=1">Женева, переговоры, день второй: Буданов затеял контригру против Зеленского. У кого шансов больше?</a>
+	<p class="b-article__subtitle b-article__subtitle_small">Украинская &laquo;партия мира&raquo; понимает, что затягивание конфликта приведет страну к катастрофе</p>
+</article>
+<!-- /article -->
+
+
+						<!-- article -->
+<article class="b-article b-article_small b-col_1-2_aside">
+	<a href="/economy/article/503184/?rpop=1" class="b-article__img b-article__img_small">
+		<img src="/p/50/503/503184/xs-503184.jpg?v=1771443126" alt="Нефть девать некуда: Россия внезапно поняла, что надо было строить стратегические хранилища">
+	</a>
+	<a class="b-article__title b-article__title_small" href="/economy/article/503184/?rpop=1">Нефть девать некуда: Россия внезапно поняла, что надо было строить стратегические хранилища</a>
+	<p class="b-article__subtitle b-article__subtitle_small">Проблемы со сбытом сырья обнажили старые проблемы</p>
+</article>
+<!-- /article -->
+
+	</div>
+
+	<div class="b-articles">
+						<!-- article -->
+<article class="b-article b-article_small b-col_1-2_aside_first">
+	<a href="/auto/article/503151/?rpop=1" class="b-article__img b-article__img_small">
+		<img src="/p/50/503/503151/xs-503151.jpg?v=1771444443" alt="Комфортные, надежные, недорогие: Какие машины можно купить в России помимо отечественных авто?">
+	</a>
+	<a class="b-article__title b-article__title_small" href="/auto/article/503151/?rpop=1">Комфортные, надежные, недорогие: Какие машины можно купить в России помимо отечественных авто?</a>
+	<p class="b-article__subtitle b-article__subtitle_small">Эксперт &laquo;Свободной прессы&raquo; продолжает анализ существующих недорогих вариантов машин, которые все еще можно купить в России</p>
+</article>
+<!-- /article -->
+
+
+						
+								<!-- article -->
+<article class="b-article b-article_small b-col_1-2_aside b-article_last">
+	<a href="/war21/article/503203/?rpop=1" class="b-article__img b-article__img_small">
+		<img src="/p/50/503/503203/xs-503203.jpg?v=1771442279" alt="«Войско Польское» вошло в Дробышево: Варшава начала необъявленную войну против Москвы? ">
+	</a>
+	<a class="b-article__title b-article__title_small" href="/war21/article/503203/?rpop=1">&laquo;Войско Польское&raquo; вошло в Дробышево: Варшава начала необъявленную войну против Москвы?</a>
+	<p class="b-article__subtitle b-article__subtitle_small">Даже бандеровцы говорят местным жителям, &laquo;уходите, а то вас убьют пшеки&raquo;</p>
+</article>
+<!-- /article -->
+
+			
+	</div>
+	
+</section>
+<!-- /populars -->
+
+								<section class="b-content__section">
+    <div data-sendsay-form-embedded="svpressa/2"></div>
+</section>
+								<section class="b-content__section" id="adfox_150028550384634160"></section>
+								<div class="_adfox_banner_300x250">
+	<div id="adfox_1481729326681014"></div>
+
+</div>
+
+								<!-- people -->
+<section class="b-content__section b-content__section_partners">
+	<a class="b-content__title" href="https://partners.svpressa.ru/people/" target="_blank">Новости Жэньминь Жибао</a>
+
+	<div class="b-articles">
+						<!-- article -->
+<article class="b-article b-article_small b-col_1-2_aside_first">
+	<a href="https://partners.svpressa.ru/people/9131/" class="b-article__img b-article__img_small" target="_blank">
+		<img src="/p/people/9131/s-9131.jpg" alt="Су Имин завоевал первое золото Китая в соревнованиях по сноуборду">
+	</a>
+	<a class="b-article__title b-article__title_small" href="https://partners.svpressa.ru/people/9131/" target="_blank">Су Имин завоевал первое золото Китая в соревнованиях по сноуборду</a>
+</article>
+<!-- /article -->
+
+						<!-- article -->
+<article class="b-article b-article_small b-col_1-2_aside">
+	<a href="https://partners.svpressa.ru/people/9132/" class="b-article__img b-article__img_small" target="_blank">
+		<img src="/p/people/9132/s-9132.jpg" alt="В 2025 году в Китае заметно увеличился объем &quot;зеленых&quot; кредитов">
+	</a>
+	<a class="b-article__title b-article__title_small" href="https://partners.svpressa.ru/people/9132/" target="_blank">В 2025 году в Китае заметно увеличился объем &laquo;зеленых&raquo; кредитов</a>
+</article>
+<!-- /article -->
+
+	</div>
+
+	<div class="b-articles">
+						<!-- article -->
+<article class="b-article b-article_small b-col_1-2_aside_first">
+	<a href="https://partners.svpressa.ru/people/9124/" class="b-article__img b-article__img_small" target="_blank">
+		<img src="/p/people/9124/s-9124.jpg" alt="Китай станет одним из мировых центров обрабатывающей промышленности на базе биотехнологий">
+	</a>
+	<a class="b-article__title b-article__title_small" href="https://partners.svpressa.ru/people/9124/" target="_blank">Китай станет одним из мировых центров обрабатывающей промышленности на базе биотехнологий</a>
+</article>
+<!-- /article -->
+
+						<!-- article -->
+<article class="b-article b-article_small b-col_1-2_aside">
+	<a href="https://partners.svpressa.ru/people/9123/" class="b-article__img b-article__img_small" target="_blank">
+		<img src="/p/people/9123/s-9123.jpg" alt="Как ИИ формирует в Китае новую парадигму предпринимательства">
+	</a>
+	<a class="b-article__title b-article__title_small" href="https://partners.svpressa.ru/people/9123/" target="_blank">Как&nbsp;ИИ формирует в Китае новую парадигму предпринимательства</a>
+</article>
+<!-- /article -->
+
+	</div>
+
+</section>
+<!-- /people -->
+
+
+								<!-- quotes -->
+<section class="b-content__section">
+	<a class="b-content__title" href="/quotes//">Цитаты</a>
+	<div class="b-quotes">
+		 
+		<!-- quote -->
+		<article class="b-quote">
+			<div class="b-quote__quote">
+				<a class="b-quote__title" href="/quotes/5546/?qt=1">О восстановлении экономики</a>
+				<a class="b-quote__subtitle" href="/quotes/5546/?qt=1">&laquo;По итогам первых полутора месяцев 2026 года, мы видим существенное улучшение положения предприятий российского ВПК. Это прямой результат восстановления правильного финансирования ключевых элементов современной экономики при помощи бюджетных авансов&hellip;&raquo;</a>
+				
+			</div>
+			<div class="b-quote__author">
+					<a href="/quotes/5546/?qt=1" class="b-quote__img">
+						<img src="/p/persons/8/s-8.jpg" alt="">
+					</a>
+				<div class="b-quote__author-info">
+					<a href="/quotes/5546/?qt=1" class="b-quote__author-name">Михаил Делягин</a>
+					<p class="b-quote__author-about">Доктор экономических наук, член РАЕН, публицист, политик</p>
+				</div>
+			</div>
+		</article>
+		<!-- /quote -->
+		 
+		<!-- quote -->
+		<article class="b-quote">
+			<div class="b-quote__quote">
+				<a class="b-quote__title" href="/quotes/5539/?qt=1">О ситуации в сфере ЖКХ</a>
+				<a class="b-quote__subtitle" href="/quotes/5539/?qt=1">&laquo;Чтобы навести порядок в ЖКХ и остановить вал коммунальных аварий, нужен не дальнейший рост тарифов, а возвращение в эту сферу государства. Необходимо остановить рост тарифов хотя&nbsp;бы на два года, пока экономическая ситуация не станет более благоприятной&hellip;&raquo;</a>
+				
+			</div>
+			<div class="b-quote__author">
+					<a href="/quotes/5539/?qt=1" class="b-quote__img">
+						<img src="/p/persons/1275/s-1275.jpg" alt="">
+					</a>
+				<div class="b-quote__author-info">
+					<a href="/quotes/5539/?qt=1" class="b-quote__author-name">Юрий Афонин</a>
+					<p class="b-quote__author-about">Заместитель председателя ЦК КПРФ, депутат Государственной Думы</p>
+				</div>
+			</div>
+		</article>
+		<!-- /quote -->
+		 
+		<!-- quote -->
+		<article class="b-quote">
+			<div class="b-quote__quote">
+				<a class="b-quote__title" href="/quotes/5535/?qt=1">О борьбе элит в США</a>
+				<a class="b-quote__subtitle" href="/quotes/5535/?qt=1">&laquo;Публикация файлов Эпштейна&nbsp;&mdash; показатель внутренней борьбы в элите США, которая между собой сводит счеты. И то, как структурирована информация, не оставляет сомнений, что следующий шаг может быть против действующего президента, если он не начнет идти навстречу этим группировкам&hellip;&raquo;</a>
+				
+			</div>
+			<div class="b-quote__author">
+					<a href="/quotes/5535/?qt=1" class="b-quote__img">
+						<img src="/p/persons/1024/s-1024.jpg" alt="">
+					</a>
+				<div class="b-quote__author-info">
+					<a href="/quotes/5535/?qt=1" class="b-quote__author-name">Дмитрий Евстафьев</a>
+					<p class="b-quote__author-about">Профессор НИУ ВШЭ, политолог</p>
+				</div>
+			</div>
+		</article>
+		<!-- /quote -->
+		
+	</div>
+</section>
+<!-- /quotes -->
+
+								<section class="b-content__section b-content__section_partners">
+<div id="unit_95699"><a href="https://smi2.ru/" >Новости СМИ2</a></div>
+
+</section>
+
+								<div class="_adfox_banner_300x250">
+	<div id="adfox_1481729389686235"></div>
+	<div id="adfox_149805505100184850"></div>
+</div>
+
+				
+            </div>
+            <!-- /content-aside -->
+        </div>
+        <!-- content -->
+        <div class="b-content b-content_footer _clearfix">
+	<a class="b-content__title" href="/health/">Здоровье</a>
+	<div class="b-articles">
+								<!-- article -->
+		<article class="b-article b-col_1-4_content b-col_1-4_content_first">
+			<a class="b-article__img b-article__img_aside" href="/health/article/501065/?fpi=1">
+				<img src="/p/50/501/501065/m-501065.jpg" alt="&quot;Корона&quot; крепко порадовала фармацевтов-барышников: Онищенко назвал еще 7 вирусов-кандидатов на обогащение &quot;Биг фармы&quot;">
+			</a>
+			<a class="b-article__title b-article__title_aside" href="/health/article/501065/?fpi=1">&laquo;Корона&raquo; крепко порадовала фармацевтов-барышников: Онищенко назвал еще 7 вирусов-кандидатов на обогащение &laquo;Биг фармы&raquo;</a>
+			<p class="b-article__subtitle b-article__subtitle_aside">Доктор Стародубцев: &laquo;Колоссальное количество людей перенесли коронавирус без симптомов и последствий, но почему так произошло&nbsp;&mdash; исследований я так и не увидел&raquo;</p>
+		</article>
+		<!-- /article -->
+
+								<!-- article -->
+		<article class="b-article b-col_1-4_content b-col_1-4_content_second">
+			<a class="b-article__img b-article__img_aside" href="/health/article/499870/?fpi=1">
+				<img src="/p/49/499/499870/m-499870.jpg" alt="Итог борьбы с деменцией: забыты миллионы пациентов">
+			</a>
+			<a class="b-article__title b-article__title_aside" href="/health/article/499870/?fpi=1">Итог борьбы с деменцией: забыты миллионы пациентов</a>
+			<p class="b-article__subtitle b-article__subtitle_aside">В столице появилась новая профессия&nbsp;&mdash; психиатр-затейник</p>
+		</article>
+		<!-- /article -->
+
+								<!-- article -->
+		<article class="b-article b-col_1-4_content b-col_1-4_content_third">
+			<a class="b-article__img b-article__img_aside" href="/health/article/500343/?fpi=1">
+				<img src="/p/50/500/500343/m-500343.jpg" alt="Детские обиды ломают жизнь даже у взрослых мужчин">
+			</a>
+			<a class="b-article__title b-article__title_aside" href="/health/article/500343/?fpi=1">Детские обиды ломают жизнь даже у взрослых мужчин</a>
+			<p class="b-article__subtitle b-article__subtitle_aside">Нередко дети, вырастая, начинают &laquo;воспитывать&raquo; своих родителей и обвинять их во всех своих неудачах, прошлых и будущих. Есть&nbsp;ли шанс спасти отношения?</p>
+		</article>
+		<!-- /article -->
+
+								<!-- article -->
+		<article class="b-article b-col_1-4_content b-col_1-4_content_fourth">
+			<a class="b-article__img b-article__img_aside" href="/health/article/499865/?fpi=1">
+				<img src="/p/49/499/499865/m-499865.jpg" alt="Тренд на сонный туризм набирает обороты: Японцы придумали еще одну новинку">
+			</a>
+			<a class="b-article__title b-article__title_aside" href="/health/article/499865/?fpi=1">Тренд на сонный туризм набирает обороты: Японцы придумали еще одну новинку</a>
+			<p class="b-article__subtitle b-article__subtitle_aside">Разбираемся, как спать хорошо и крепко, а также знакомимся с интересным видом отдыха</p>
+		</article>
+		<!-- /article -->
+
+	</div>
+</div>
+
+
+
+<div id="adfox_166074206548625200"></div>
+<div id="adfox_166074199840271027"></div>
+<div id="adfox_174230876343527824"></div>
+
+<footer class="b-footer">
+	<div class="b-footer__container">
+
+		<div class="b-footer__copyright-first-container">
+
+			<div class="b-footer__social-container">
+				<ul class="b-footer__social-list">
+					
+					<li class="b-footer__social-item"><a target="_blank" href="https://vk.com/svpressa" class="icon-vk-large" title="Свободная Пресса Вконтакте"></a></li>
+					<li class="b-footer__social-item"><a target="_blank" href="https://dzen.ru/svpressaru" class="icon-dz-large" title="Свободная Пресса в Дзен"></a></li>
+					<li class="b-footer__social-item"><a target="_blank" href="https://www.odnoklassniki.ru/svpressa" class="icon-ok-large" title="Свободная Пресса в Одноклассниках"></a></li>
+					<li class="b-footer__social-item"><a target="_blank" href="https://www.youtube.com/user/svpressaru?sub_confirmation=1" class="icon-yt-large" title="Свободная Пресса на YouTube"></a></li>
+				</ul>
+			</div>
+
+			<div class="b-footer__nav-container">
+				<nav class="b-footer__nav">
+					<ul class="b-footer__nav-list">
+						<li class="b-footer__nav-item"><a class="b-footer__nav-link" href="/text/pravovaya-informaciya/">Правовая информация</a></li><li class="b-footer__nav-item"><a class="b-footer__nav-link" href="/text/reklama-na-sayte/">Реклама на сайте</a></li><li class="b-footer__nav-item"><a class="b-footer__nav-link" href="/text/avtoram/">Авторам</a></li><li class="b-footer__nav-item"><a class="b-footer__nav-link" href="/text/kontakty/">Контакты</a></li>
+					</ul>
+				</nav>
+			</div>
+
+
+			<div class="b-footer__search">
+				<form action="https://yandex.ru/sitesearch" method="get" target="_self">
+					<input type="hidden" name="searchid" value="2221801"/>
+					<input type="hidden" name="l10n" value="ru"/>
+					<input type="hidden" name="reqenc" value="utf-8"/>
+					<input type="search" class="b-footer__search-input" placeholder="Поиск" results="5" autosave="svp_search" name="text" value="">
+				</form>
+			</div>
+
+
+			<div class="b-footer__copyright-first">
+				<p class="_line">
+					<span class="_bold">Врио главного редактора Лебедев В.В.</span>
+				</p>
+				
+
+				<p class="_line">
+					Перепечатка и цитирование материалов издания допускается только при точном соблюдении требований <a href="/text/pravila-ispolzovaniya-materialov-svpressa/" class="_link_standart">Правил их использования</a>.
+				</p>
+
+				<p class="_line">
+					Мнения отдельных авторов могут не совпадать с позицией редакции.
+				</p>
+
+			</div>
+		</div>
+
+		<div class="b-footer__copyright-second-container">
+			<div class="b-footer__copyright-second">
+				<div class="_text">
+					<p class="_line">
+						<strong>СвободнаяПресса</strong>&nbsp;&reg; – свидетельства о регистрации товарных знаков №390722 и №390723 выданы Роспатентом 06.10.2009.<br>
+						Действительны до 23.03.2029.
+					</p>
+					<p class="_line">
+						&copy; <strong>2009, АНО «ИнПресс»</strong> – свидетельство о регистрации СМИ Эл №ФС77-77526 выдано Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций.
+					</p>
+					<p class="_line">
+					Сетевое издание «Свободная пресса» выходит с 1 ноября 2008 года.
+				</p>
+				<div class="_bold">18+</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="b-footer__copyright-third-container">
+			<div class="b-footer__copyright-third">
+				<div class="_text">
+					<p class="_line">
+						<strong>Учредитель:</strong>
+						<br/>АНО «ИнПресс»
+					</p>
+
+					<p class="_line">
+						<strong>Редакция:</strong>
+						<br/>E-mail: см. <a href="/text/kontakty/" class="_link_standart">Контакты</a>
+						<br/>Тел.: <a href="tel:+84959993679" class="_link_standart">+7 495 999 36 79</a>
+					</p>
+
+					<p class="_line">
+						<strong>Издатель:</strong>
+						<br/>ООО «Авторское бюро»
+						<br/>E-mail: <a href="mailto:7404263@mail.ru" class="_link_standart">7404263@mail.ru</a>
+						<br/>Тел.: <a href="tel:+8493804132" class="_link_standart">+7 495 380 41 32</a>
+					</p>
+					<p class="_line">
+					На информационном ресурсе применяются <a class="_link_standart" href="/text/rekomendatelnye-tehnologii/">рекомендательные технологии</a>.
+				</p>
+				</div>
+			</div>
+
+			<div class="b-footer__button-top-container">
+				<a href="#top" class="b-footer__button-top">Наверх</a>
+			</div>
+
+    
+			<div class="b-footer__counters"><div class="b-footer__counter">
+			<div id="top100_widget">
+			<noscript>
+			  <img src="//counter.rambler.ru/top100.cnt?pid=1526186" alt="Топ-100" />
+			</noscript>
+			</div>
+				</div><div class="b-footer__counter">
+<!-- Rating@Mail.ru logo -->
+<a href="https://top.mail.ru/jump?from=1523619">
+<img src="//top-fwz1.mail.ru/counter?id=1523619;t=534;l=1" height="40" width="88" alt="Рейтинг@Mail.ru" /></a>
+<noscript><div style="position:absolute;left:-10000px;"><img src="//top-fwz1.mail.ru/counter?id=1523619;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" /></div></noscript>
+<!-- //Rating@Mail.ru logo -->
+			</div><div class="b-footer__counter">
+
+			<!--LiveInternet logo--><a href="//www.liveinternet.ru/click;svpressa"
+			target="_blank"><img src="//counter.yadro.ru/logo;svpressa?14.6"
+			title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня"
+			alt="" border="0" width="88" height="31"/></a><!--/LiveInternet-->
+			<!--LiveInternet counter--><script type="text/javascript"><!--
+			new Image().src = "//counter.yadro.ru/hit;svpressa?r"+
+			escape(document.referrer)+((typeof(screen)=="undefined")?"":
+				";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+					screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+			";h"+escape(document.title.substring(0,80))+
+			";"+Math.random();//--></script><!--/LiveInternet-->
+
+		</div><div class="b-footer__counter">
+        <a href="https://rambler.ru" target="_blank" class="b-footer__counter-link">Партнер Рамблера</a>
+      </div><div class="b-footer__counter">
+        <img width="88" height="31" alt="" border="0" border-radius="8" src="https://yandex.ru/cycounter?https://svpressa.ru&theme=light&lang=ru"/>
+      </div></div></div>
+</div>
+
+</footer>
+    </div>
+    <!-- /container -->
+
+
+    <div class="cookie-bar _hidden" id="cookie-bar">
+        <span class="cookie-message">Если Вы продолжите использование данного сайта, это означает, что Вы даете согласие
+            на использование нашим сервером Cookie-файлов и иных технологий по сбору статистических сведений о
+            посещениях этого сайта с Вашего компьютера или иного устройства. <a href="/text/policy/" class="cookie-message-link">Политика конфиденциальности.</a></span>
+        <span class="cookie-message-mobile">Этот сайт использует Cookies, <a href="/text/policy/" class="cookie-message-link">подробнее</a></span>
+        <button class="close-cb" id="cookie-trigger-agree">Больше не показывать</button>
+    </div>
+
+
+
+
+        <!-- fullscreen yandex -->
+
+    <script src="/js/_sp.js?v=28102020124229"></script>
+
+    
+    
+    
+    <script src="https://yastatic.net/share2/share.js" async></script>
+
+
+    
+
+
+    
+    
+
+
+<script>window.yaContextCb = window.yaContextCb || []</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+<script src="/js/_svpressa-async2.js?v=1750782033"></script>
+
+
+    <script async src="https://jsn.24smi.net/smi.js"></script>
+
+    
+    <script type="text/javascript" src="//code.giraff.io/data/widget-svpressaru.js" async></script>
+    <script type="text/javascript" src="//code.giraff.io/data/widget-msvpressaru.js" async></script>
+    <script type="text/javascript" src="//code.giraff.io/data/widget-svpressainlineru.js" async></script>
+
+    
+    <script>(function(a,b,c,d){var e=a.getElementsByTagName(b)[0],f=a.createElement(b);f.async=!0,f.src="https://image.sendsay.ru/app/js/sdk/sdk.min.js",f.id="sendsay-sdk-script",f.dataset.accountId=c,f.dataset.siteId=d,e.parentNode.insertBefore(f,e)})(document,"script","svpressa","pl43589");</script>
+    
+
+
+
+
+<script async src="https://cdn-plus.roxot-panel.com/roxot-wrapper/js/roxot-manager.js?pid=2c213512-7728-4873-afec-9e5d3afe7363"></script>
+
+
+
+
+
+<script>
+setInterval(function () {
+    if (document.getElementById('adfox_1481729649585323') !== null) {
+        Ya.adfoxCode.reload('adfox_1481729649585323');
+    }
+    if (document.getElementById('adfox_152967455873041513') !== null) {
+        Ya.adfoxCode.reload('adfox_152967455873041513');
+    }
+    if (document.getElementById('adfox_149805505100184850') !== null) {
+        Ya.adfoxCode.reload('adfox_149805505100184850');
+    }
+    if (document.getElementById('adfox_15132575496764270') !== null) {
+        Ya.adfoxCode.reload('adfox_15132575496764270');
+    }
+    if (document.getElementById('adfox_1481729326681014') !== null) {
+        Ya.adfoxCode.reload('adfox_1481729326681014');
+    }
+    if (document.getElementById('adfox_1481729389686235') !== null) {
+        Ya.adfoxCode.reload('adfox_1481729389686235');
+    }
+    if (document.getElementById('adfox_158531307548162957') !== null) {
+        Ya.adfoxCode.reload('adfox_158531307548162957');
+    }
+    if (document.getElementById('adfox_152967466817766424') !== null) {
+        Ya.adfoxCode.reload('adfox_152967466817766424');
+    }
+    if (document.getElementById('adfox_166074206548625200') !== null) {
+        Ya.adfoxCode.reload('adfox_166074206548625200');
+    }
+    if (document.getElementById('adfox_166074199840271027') !== null) {
+        Ya.adfoxCode.reload('adfox_166074199840271027');
+    }
+    if (document.getElementById('adfox_151671785189981641') !== null) {
+        Ya.adfoxCode.reload('adfox_151671785189981641');
+    }
+
+}, 15000);
+</script>
+
+
+
+
+
+
+
+<!-- Varioqub experiments -->
+<script type="text/javascript">
+(function(e, x, pe, r, i, me, nt){
+e[i]=e[i]||function(){(e[i].a=e[i].a||[]).push(arguments)},
+me=x.createElement(pe),me.async=1,me.src=r,nt=x.getElementsByTagName(pe)[0],nt.parentNode.insertBefore(me,nt)})
+(window, document, 'script', 'https://abt.s3.yandex.net/expjs/latest/exp.js', 'ymab');
+ymab('metrika.22780096', 'init'/*, {clientFeatures}, {callback}*/);
+</script>
+
+
+
+
+    
+
+    
+<script type="text/javascript">
+    
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+     ym(22780096, "init", {
+         clickmap:false,
+         trackLinks:true,
+         accurateTrackBounce:true,
+         webvisor:false
+    });
+    
+
+
+
+
+ </script>
+    
+
+
+
+    <!-- Yandex.Metrika counter -->
+    <noscript><div>
+        <img src="https://mc.yandex.ru/watch/22780096" style="position:absolute; left:-9999px;" alt="">
+    </div></noscript>
+    <!-- /Yandex.Metrika counter -->
+
+
+    
+    
+    <script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://vk.com/js/api/openapi.js?168",t.onload=function(){VK.Retargeting.Init("VK-RTRG-534954-e6chm"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-534954-e6chm" style="position:fixed; left:-999px;" alt=""/></noscript>
+    
+
+    
+
+    
+
+    
+    
+
+        <script src="/js/rb.js?v=1" defer></script>
+
+</body>
+
+</html>

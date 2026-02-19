@@ -1,0 +1,897 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="x-dns-prefetch-control" content="on">
+    <link rel="preconnect" href="https://d.searchengines.guru" crossorigin>
+    <link rel="preconnect" href="wss://chat.searchengines.guru">
+    <link rel="preload" href="https://d.searchengines.guru/fonts/jost/jost-book.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://d.searchengines.guru/fonts/source-sans-pro/sourcesanspro-regular.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://d.searchengines.guru/fonts/source-sans-pro/sourcesanspro-semibold.woff2" as="font" type="font/woff2" crossorigin>
+    <meta name="msapplication-config" content="none" />
+    <meta name="referrer" content="no-referrer-when-downgrade">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+    <meta name="theme-color" content="#042189" />
+    <title>Searchengines.guru — Новости IT и форум про интернет-маркетинг, SEO-оптимизацию, сайтостроение</title>
+        <meta name="keywords" content="сео, форум, продвижение, сайт, новости, searchengines, сёрч, forum searchengines, трафик, интернет-маркетинг, маркетинг" />
+    <meta name="description" content="Крупнейший русскоязычный форум и новостной сайт, посвященный поисковой оптимизации, продвижению сайтов, интернет-маркетингу, работе с контекстной рекламой, монетизации трафика, сайтостроению." />
+    <meta property="og:title" content="Searchengines.guru — Новости IT и форум про интернет-маркетинг, SEO-оптимизацию, сайтостроение">
+    <meta property="og:description" content="Крупнейший русскоязычный форум и новостной сайт, посвященный поисковой оптимизации, продвижению сайтов, интернет-маркетингу, работе с контекстной рекламой, монетизации трафика, сайтостроению.">
+    <meta property="og:url" content="https://searchengines.guru/ru">
+    <meta property="og:type" content="website">
+        <meta property="og:image" content="https://d.searchengines.guru/og/se.png">
+        <meta property="og:image:width" content="1200">
+        <meta property="og:image:height" content="630">
+        <meta property="vk:image" content="https://d.searchengines.guru/og/se-vk.png">
+    <meta name="twitter:domain" content="searchengines.guru" />
+    <meta name="twitter:site" content="@search_news" />
+    <meta name="twitter:title" content="Searchengines.guru — Новости IT и форум про интернет-маркетинг, SEO-оптимизацию, сайтостроение" />
+    <meta name="twitter:description" content="Крупнейший русскоязычный форум и новостной сайт, посвященный поисковой оптимизации, продвижению сайтов, интернет-маркетингу, работе с контекстной рекламой, монетизации трафика, сайтостроению." />
+    <meta name="twitter:card" content="summary_large_image" />
+        <link rel="canonical" href="https://searchengines.guru">
+
+    <link rel="manifest" href="https://d.searchengines.guru/manifest.json">
+    <link rel="apple-touch-icon" sizes="57x57" href="https://d.searchengines.guru/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://d.searchengines.guru/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://d.searchengines.guru/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://d.searchengines.guru/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="https://d.searchengines.guru/apple-touch-icon-167x167.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://d.searchengines.guru/apple-touch-icon-180x180.png">
+    <link rel="apple-touch-icon" sizes="192x192" href="https://d.searchengines.guru/apple-touch-icon-192x192.png">
+    <link rel="icon" sizes="192x192" href="https://d.searchengines.guru/i/android-touch-icon-192x192.png">
+    <link rel="icon" sizes="128x128" href="https://d.searchengines.guru/i/android-touch-icon-128x128.png">
+    <link rel="shortcut icon" id="favicon" href="https://d.searchengines.guru/i/favicon.ico">
+    <link href="https://d.searchengines.guru/styles/app.e2a91fab2c5570039e5a894f44bb61f3.css" type="text/css" rel="stylesheet">
+    
+    <script type="text/javascript">
+        window.resourceBasePath = "https://d.searchengines.guru/";
+    </script>
+     <script type="text/javascript">!function(){window.mqGlobal={};var n=!1,t=!1,e=[],o=[];function d(n){var t;for(t=0;t<n.length;t+=1)n[t]()}function i(){n||(n=!0,d(e),e=[])}function l(){i(),t||(t=!0,d(o),o=[])}mqGlobal.AddOnReady=function(t){n?t(document):e.push(t)},mqGlobal.AddOnLoad=function(n){t?n(document):o.push(n)},mqGlobal.AddOnActiveWindowChange=function(n){this._onvisibility||(this._onvisibility=[]),this._onvisibility[this._onvisibility.length]=n},document.addEventListener?(document.addEventListener("DOMContentLoaded",i,!1),window.addEventListener("load",l,!1)):document.attachEvent&&(document.attachEvent("onreadystatechange",(function(){switch(document.readyState){case"interactive":i();break;case"complete":l()}})),window.attachEvent("onload",l),document.documentElement.doScroll&&window==window.top&&function n(){if(document.body)try{document.documentElement.doScroll("left"),i()}catch(t){setTimeout(n,0)}}()),window.V||(window.V=[]),mqGlobal.AddOnReady((function(){var n=document.body;null==n.style.flex&&null==n.style.msFlex&&null==n.style.webkitBoxFlex&&(n.className+=" old-browser")}))}(); </script>
+    <script src="https://d.searchengines.guru/js/app.39b4472f64405f159ec806a2298fbd8b.js" type="text/javascript" defer></script>
+</head>
+<body class="main-page">
+
+    <div class="page-header" id="header">
+        <div class="page-header__logo">
+            <a href="/ru">
+                <img src="https://d.searchengines.guru/i/logo.png" srcset="https://d.searchengines.guru/i/logo_2x.png 2x" loading="lazy" width="225" height="50" alt="Searchengines.guru" title="Searchengines.guru">
+                <img src="https://d.searchengines.guru/i/se.png" srcset="https://d.searchengines.guru/i/se_2x.png 2x" loading="lazy" width="51" height="50" alt="Searchengines.guru" title="Searchengines.guru" style="display: none">
+            </a>
+        </div>
+
+        <div class="page-header__menu">
+            <ul class="page-header-menu" id="page-header-menu">
+                <li class="page-header-menu__item page-header-menu__item_selected  page-header-menu__item_mobile"><a href='/ru'><span><b>Главная</b></span><i class="ui-icons ui-icons_arrow-down-white"></i><i class="ui-icons ui-icons_arrow-down-min"></i></a></li>
+<li class="page-header-menu__item"><a href='/ru/articles'><span><b>Статьи</b></span></a></li>
+<li class="page-header-menu__item_forum page-header-menu__item"><a href='/ru/forum'><span><b>Форум</b></span></a></li>
+<li class="page-header-menu__item"><a href='/ru/aom'><span><b>Реклама</b></span></a></li>
+
+            </ul>
+        </div>
+
+        <div class="page-header__search">
+                <form class="page-header-search" action="/ru/search">
+                    <input id="headerSearch" type="text" class="input page-header-search__input" placeholder=" " name="keyword"/>
+                    <div class="page-header-search__placeholder page-header-search__placeholder_long">Нажмите <span>/</span> для поиска</div>
+                    <div class="page-header-search__placeholder page-header-search__placeholder_short">Поиск</div>
+                    <button type="submit" class="page-header-search__button">
+                        <i class="ui-icons ui-icons_search-black"></i>
+                    </button>
+                </form>
+                <script type="text/javascript">
+                    window.mqGlobal.AddOnReady(function () {
+                    window.initSuggestions("headerSearch", "/ru/search/suggestions", "/ru/search/users", "");
+                    });
+                </script>
+        </div>
+
+        <div class="page-header__private page-header__private_login">
+            <div class="page-header__private-item header-search-button">
+<a id="searchHeader" class="search-button qa-header-search-button" title="Поиск" href="/ru/search"><i class="ui-icons ui-icons_search"></i></a><div class="search-panel search-panel_hidden" id="searchPanel"><input type="text" class="input search-panel__input qa-search-panel-input" id="searchPanelInput"><button class="search-panel__button qa-search-panel-button" id="searchPanelButton"><i class="ui-icons ui-icons_search-black"></i></button></div>
+</div>
+<div class="page-header__private-item">
+<a class="signin-btn" title="Войти" href="/ru/login">Войти</a></div>
+<div class="page-header__private-item page-header__private-item_signup">
+<a class="signup-btn" title="Регистрация" href="/ru/register">Регистрация</a></div>
+
+        </div>
+    </div>
+
+
+      <div style="text-align: center">
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6257102811409879"
+                  crossorigin="anonymous"></script>
+          <!-- SE.guru - TOP RESPONSIVE -->
+          <ins class="adsbygoogle"
+               style="display:block; height: 100px"
+               data-ad-client="ca-pub-6257102811409879"
+               data-ad-slot="4849808988"
+               data-ad-format="fluid"
+               data-full-width-responsive="true"></ins>
+          <script>
+              (adsbygoogle = window.adsbygoogle || []).push({});
+          </script>
+      </div>
+
+
+    <div class="main-content main-content_fullscreen">
+        <div class="main-content__column-mid" id="mainContentColumn">
+            <div class="frontpage">
+    <div class="frontpage__content">
+        <div class="topics__container">
+          <div class="topics-list topics-list_forum">
+                <div class="topics-list__item">
+                  <div class="topics-list__line">
+                    <div class="topics-list__title">
+                      <a class="topics__title" href="/ru/forum/1081206"
+                         title="2023.08.11 Нарушения и угрозы безопасности на сайте , Малополезный контент, спам, избыток рекламы">
+                        Нарушения и угрозы безопасности на сайте , Малополезный контент, спам, избыток рекламы
+                          <i class="ui-icons ui-icons_topic-read"></i>
+
+                      </a>
+                        <span class="topics-pages">
+                          ( <span class="topics-pages__total"><i class="ui-icons ui-icons_comment-square"></i>3988</span>
+                            <span class="topics-pages__counter"><i class="ui-icons ui-icons_file"></i><a href="/ru/forum/1081206">1</a>&nbsp;<a href="/ru/forum/1081206/page2">2</a>&nbsp;<a href="/ru/forum/1081206/page3">3</a>&nbsp;<a href="/ru/forum/1081206/page4">4</a>&nbsp;<a href="/ru/forum/1081206/page5">5</a>&nbsp;<a href="/ru/forum/1081206/page201">...</a>&nbsp;<a href="/ru/forum/1081206/page398">398</a>&nbsp;<a href="/ru/forum/1081206/page399">399</a></span>
+                          )
+                        </span>
+                    </div>
+                    <div class="topics-list__author">
+<a href="/ru/users/2146312" title="2026.02.07 15:21">Genius Ideaing</a>                    </div>
+                    <div class="topics-list__last">
+                    </div>
+                  </div>
+                </div>
+                <div class="topics-list__item">
+                  <div class="topics-list__line">
+                    <div class="topics-list__title">
+                      <a class="topics__title" href="/ru/forum/1010516"
+                         title="2019.02.18 Упал доход">
+                        Упал доход
+                          <i class="ui-icons ui-icons_topic-read"></i>
+
+                      </a>
+                        <span class="topics-pages">
+                          ( <span class="topics-pages__total"><i class="ui-icons ui-icons_comment-square"></i>25049</span>
+                            <span class="topics-pages__counter"><i class="ui-icons ui-icons_file"></i><a href="/ru/forum/1010516">1</a>&nbsp;<a href="/ru/forum/1010516/page2">2</a>&nbsp;<a href="/ru/forum/1010516/page3">3</a>&nbsp;<a href="/ru/forum/1010516/page4">4</a>&nbsp;<a href="/ru/forum/1010516/page5">5</a>&nbsp;<a href="/ru/forum/1010516/page1254">...</a>&nbsp;<a href="/ru/forum/1010516/page2504">2504</a>&nbsp;<a href="/ru/forum/1010516/page2505">2505</a></span>
+                          )
+                        </span>
+                    </div>
+                    <div class="topics-list__author">
+<a href="/ru/users/2134380" title="2026.02.18 16:05">superbug</a>                    </div>
+                    <div class="topics-list__last">
+                    </div>
+                  </div>
+                </div>
+                <div class="topics-list__item">
+                  <div class="topics-list__line">
+                    <div class="topics-list__title">
+                      <a class="topics__title" href="/ru/forum/1072958"
+                         title="2023.02.08 Яндекс колбасит">
+                        Яндекс колбасит
+                          <i class="ui-icons ui-icons_topic-read"></i>
+
+                      </a>
+                        <span class="topics-pages">
+                          ( <span class="topics-pages__total"><i class="ui-icons ui-icons_comment-square"></i>12602</span>
+                            <span class="topics-pages__counter"><i class="ui-icons ui-icons_file"></i><a href="/ru/forum/1072958">1</a>&nbsp;<a href="/ru/forum/1072958/page2">2</a>&nbsp;<a href="/ru/forum/1072958/page3">3</a>&nbsp;<a href="/ru/forum/1072958/page4">4</a>&nbsp;<a href="/ru/forum/1072958/page5">5</a>&nbsp;<a href="/ru/forum/1072958/page632">...</a>&nbsp;<a href="/ru/forum/1072958/page1260">1260</a>&nbsp;<a href="/ru/forum/1072958/page1261">1261</a></span>
+                          )
+                        </span>
+                    </div>
+                    <div class="topics-list__author">
+<a href="/ru/users/1142888" title="2026.02.19 14:31">OZLaim</a>                    </div>
+                    <div class="topics-list__last">
+                    </div>
+                  </div>
+                </div>
+                <div class="topics-list__item">
+                  <div class="topics-list__line">
+                    <div class="topics-list__title">
+                      <a class="topics__title" href="/ru/forum/1090320"
+                         title="2024.01.05 Быстрая индексация страниц сайта и обратных ссылок - 2Index">
+                        Быстрая индексация страниц сайта и обратных ссылок - 2Index
+                          <i class="ui-icons ui-icons_crown-small"></i>
+
+                      </a>
+                        <span class="topics-pages">
+                          ( <span class="topics-pages__total"><i class="ui-icons ui-icons_comment-square"></i>938</span>
+                            <span class="topics-pages__counter"><i class="ui-icons ui-icons_file"></i><a href="/ru/forum/1090320">1</a>&nbsp;<a href="/ru/forum/1090320/page2">2</a>&nbsp;<a href="/ru/forum/1090320/page3">3</a>&nbsp;<a href="/ru/forum/1090320/page4">4</a>&nbsp;<a href="/ru/forum/1090320/page5">5</a>&nbsp;<a href="/ru/forum/1090320/page49">...</a>&nbsp;<a href="/ru/forum/1090320/page93">93</a>&nbsp;<a href="/ru/forum/1090320/page94">94</a></span>
+                          )
+                        </span>
+                    </div>
+                    <div class="topics-list__author">
+<a href="/ru/users/2142618" title="2026.02.19 09:45">2Index</a>                    </div>
+                    <div class="topics-list__last">
+                    </div>
+                  </div>
+                </div>
+                <div class="topics-list__item">
+                  <div class="topics-list__line">
+                    <div class="topics-list__title">
+                      <a class="topics__title" href="/ru/forum/1074672"
+                         title="2023.03.15 Google Updates - апдейты Гугл">
+                        Google Updates - апдейты Гугл
+                          <i class="ui-icons ui-icons_topic-read"></i>
+
+                      </a>
+                        <span class="topics-pages">
+                          ( <span class="topics-pages__total"><i class="ui-icons ui-icons_comment-square"></i>5788</span>
+                            <span class="topics-pages__counter"><i class="ui-icons ui-icons_file"></i><a href="/ru/forum/1074672">1</a>&nbsp;<a href="/ru/forum/1074672/page2">2</a>&nbsp;<a href="/ru/forum/1074672/page3">3</a>&nbsp;<a href="/ru/forum/1074672/page4">4</a>&nbsp;<a href="/ru/forum/1074672/page5">5</a>&nbsp;<a href="/ru/forum/1074672/page291">...</a>&nbsp;<a href="/ru/forum/1074672/page578">578</a>&nbsp;<a href="/ru/forum/1074672/page579">579</a></span>
+                          )
+                        </span>
+                    </div>
+                    <div class="topics-list__author">
+<a href="/ru/users/240511" title="2026.02.19 15:27">Vladimir SEO</a>                    </div>
+                    <div class="topics-list__last">
+                    </div>
+                  </div>
+                </div>
+                <div class="topics-list__item">
+                  <div class="topics-list__line">
+                    <div class="topics-list__title">
+                      <a class="topics__title" href="/ru/forum/1134124"
+                         title="2025.11.11 Продвижение в топ-1 Яндекс при помощи лучших ПФ на рынке">
+                        Продвижение в топ-1 Яндекс при помощи лучших ПФ на рынке
+                          <i class="ui-icons ui-icons_crown-small"></i>
+
+                      </a>
+                        <span class="topics-pages">
+                          ( <span class="topics-pages__total"><i class="ui-icons ui-icons_comment-square"></i>242</span>
+                            <span class="topics-pages__counter"><i class="ui-icons ui-icons_file"></i><a href="/ru/forum/1134124">1</a>&nbsp;<a href="/ru/forum/1134124/page2">2</a>&nbsp;<a href="/ru/forum/1134124/page3">3</a>&nbsp;<a href="/ru/forum/1134124/page4">4</a>&nbsp;<a href="/ru/forum/1134124/page5">5</a>&nbsp;<a href="/ru/forum/1134124/page14">...</a>&nbsp;<a href="/ru/forum/1134124/page24">24</a>&nbsp;<a href="/ru/forum/1134124/page25">25</a></span>
+                          )
+                        </span>
+                    </div>
+                    <div class="topics-list__author">
+<span title="Этот пользователь удален">[Удален]</span>                    </div>
+                    <div class="topics-list__last">
+                    </div>
+                  </div>
+                </div>
+                <div class="topics-list__item">
+                  <div class="topics-list__line">
+                    <div class="topics-list__title">
+                      <a class="topics__title" href="/ru/forum/1085105"
+                         title="2023.10.12 SpeedyIndex - ускорение индексирования ссылок в Google. 100 ссылок в подарок.">
+                        SpeedyIndex - ускорение индексирования ссылок в Google. 100 ссылок в подарок.
+                          <i class="ui-icons ui-icons_crown-small"></i>
+
+                      </a>
+                        <span class="topics-pages">
+                          ( <span class="topics-pages__total"><i class="ui-icons ui-icons_comment-square"></i>303</span>
+                            <span class="topics-pages__counter"><i class="ui-icons ui-icons_file"></i><a href="/ru/forum/1085105">1</a>&nbsp;<a href="/ru/forum/1085105/page2">2</a>&nbsp;<a href="/ru/forum/1085105/page3">3</a>&nbsp;<a href="/ru/forum/1085105/page4">4</a>&nbsp;<a href="/ru/forum/1085105/page5">5</a>&nbsp;<a href="/ru/forum/1085105/page17">...</a>&nbsp;<a href="/ru/forum/1085105/page30">30</a>&nbsp;<a href="/ru/forum/1085105/page31">31</a></span>
+                          )
+                        </span>
+                    </div>
+                    <div class="topics-list__author">
+<a href="/ru/users/2195457" title="2026.02.15 18:45">Александр</a>                    </div>
+                    <div class="topics-list__last">
+                    </div>
+                  </div>
+                </div>
+                <div class="topics-list__item">
+                  <div class="topics-list__line">
+                    <div class="topics-list__title">
+                      <a class="topics__title" href="/ru/forum/1098850"
+                         title="2024.05.22 SiteAnalyzer SEO Tools - бесплатное браузерное расширение для Chrome &amp; Firefox">
+                        SiteAnalyzer SEO Tools - бесплатное браузерное расширение для Chrome &amp; Firefox
+                          <i class="ui-icons ui-icons_topic-read"></i>
+
+                      </a>
+                        <span class="topics-pages">
+                          ( <span class="topics-pages__total"><i class="ui-icons ui-icons_comment-square"></i>51</span>
+                            <span class="topics-pages__counter"><i class="ui-icons ui-icons_file"></i><a href="/ru/forum/1098850">1</a>&nbsp;<a href="/ru/forum/1098850/page2">2</a>&nbsp;<a href="/ru/forum/1098850/page3">3</a>&nbsp;<a href="/ru/forum/1098850/page4">4</a>&nbsp;<a href="/ru/forum/1098850/page5">5</a>&nbsp;<a href="/ru/forum/1098850/page6">6</a></span>
+                          )
+                        </span>
+                    </div>
+                    <div class="topics-list__author">
+<a href="/ru/users/8726" title="2026.02.17 10:04">chaser</a>                    </div>
+                    <div class="topics-list__last">
+                    </div>
+                  </div>
+                </div>
+                <div class="topics-list__item">
+                  <div class="topics-list__line">
+                    <div class="topics-list__title">
+                      <a class="topics__title" href="/ru/forum/1136978"
+                         title="2026.01.21 Боты из Сингапура">
+                        Боты из Сингапура
+                          <i class="ui-icons ui-icons_topic-read"></i>
+
+                      </a>
+                        <span class="topics-pages">
+                          ( <span class="topics-pages__total"><i class="ui-icons ui-icons_comment-square"></i>58</span>
+                            <span class="topics-pages__counter"><i class="ui-icons ui-icons_file"></i><a href="/ru/forum/1136978">1</a>&nbsp;<a href="/ru/forum/1136978/page2">2</a>&nbsp;<a href="/ru/forum/1136978/page3">3</a>&nbsp;<a href="/ru/forum/1136978/page4">4</a>&nbsp;<a href="/ru/forum/1136978/page5">5</a>&nbsp;<a href="/ru/forum/1136978/page6">6</a></span>
+                          )
+                        </span>
+                    </div>
+                    <div class="topics-list__author">
+<a href="/ru/users/2146312" title="2026.02.18 10:19">Genius Ideaing</a>                    </div>
+                    <div class="topics-list__last">
+                    </div>
+                  </div>
+                </div>
+                <div class="topics-list__item">
+                  <div class="topics-list__line">
+                    <div class="topics-list__title">
+                      <a class="topics__title" href="/ru/forum/904964"
+                         title="2015.07.30 ihor.ru: VDS с SSD от 250 р, Сервера, Хостинг в Москве. / 2">
+                        ihor.ru: VDS с SSD от 250 р, Сервера, Хостинг в Москве. / 2
+                          <i class="ui-icons ui-icons_topic-read"></i>
+
+                      </a>
+                        <span class="topics-pages">
+                          ( <span class="topics-pages__total"><i class="ui-icons ui-icons_comment-square"></i>1074</span>
+                            <span class="topics-pages__counter"><i class="ui-icons ui-icons_file"></i><a href="/ru/forum/904964">1</a>&nbsp;<a href="/ru/forum/904964/page2">2</a>&nbsp;<a href="/ru/forum/904964/page3">3</a>&nbsp;<a href="/ru/forum/904964/page4">4</a>&nbsp;<a href="/ru/forum/904964/page5">5</a>&nbsp;<a href="/ru/forum/904964/page56">...</a>&nbsp;<a href="/ru/forum/904964/page107">107</a>&nbsp;<a href="/ru/forum/904964/page108">108</a></span>
+                          )
+                        </span>
+                    </div>
+                    <div class="topics-list__author">
+<a href="/ru/users/1019760" title="2016.01.15 23:40">Ivan Lungov</a>                    </div>
+                    <div class="topics-list__last">
+                    </div>
+                  </div>
+                </div>
+                <div class="topics-list__item">
+                  <div class="topics-list__line">
+                    <div class="topics-list__title">
+                      <a class="topics__title" href="/ru/forum/1108352"
+                         title="2024.11.03 Что может, что не может AI. Обсуждаем возможности, делимся опытом, спорим, но в рамках приличия.">
+                        Что может, что не может AI. Обсуждаем возможности, делимся опытом, спорим, но в рамках приличия.
+                          <i class="ui-icons ui-icons_topic-read"></i>
+
+                      </a>
+                        <span class="topics-pages">
+                          ( <span class="topics-pages__total"><i class="ui-icons ui-icons_comment-square"></i>965</span>
+                            <span class="topics-pages__counter"><i class="ui-icons ui-icons_file"></i><a href="/ru/forum/1108352">1</a>&nbsp;<a href="/ru/forum/1108352/page2">2</a>&nbsp;<a href="/ru/forum/1108352/page3">3</a>&nbsp;<a href="/ru/forum/1108352/page4">4</a>&nbsp;<a href="/ru/forum/1108352/page5">5</a>&nbsp;<a href="/ru/forum/1108352/page50">...</a>&nbsp;<a href="/ru/forum/1108352/page96">96</a>&nbsp;<a href="/ru/forum/1108352/page97">97</a></span>
+                          )
+                        </span>
+                    </div>
+                    <div class="topics-list__author">
+<a href="/ru/users/10296" title="2026.02.19 18:08">юни</a>                    </div>
+                    <div class="topics-list__last">
+                    </div>
+                  </div>
+                </div>
+                <div class="topics-list__item">
+                  <div class="topics-list__line">
+                    <div class="topics-list__title">
+                      <a class="topics__title" href="/ru/forum/1137001"
+                         title="2026.01.22 SEO для динозавров">
+                        SEO для динозавров
+                          <i class="ui-icons ui-icons_topic-read"></i>
+
+                      </a>
+                        <span class="topics-pages">
+                          ( <span class="topics-pages__total"><i class="ui-icons ui-icons_comment-square"></i>67</span>
+                            <span class="topics-pages__counter"><i class="ui-icons ui-icons_file"></i><a href="/ru/forum/1137001">1</a>&nbsp;<a href="/ru/forum/1137001/page2">2</a>&nbsp;<a href="/ru/forum/1137001/page3">3</a>&nbsp;<a href="/ru/forum/1137001/page4">4</a>&nbsp;<a href="/ru/forum/1137001/page5">5</a>&nbsp;<a href="/ru/forum/1137001/page6">6</a>&nbsp;<a href="/ru/forum/1137001/page7">7</a></span>
+                          )
+                        </span>
+                    </div>
+                    <div class="topics-list__author">
+<a href="/ru/users/240511" title="2026.02.15 14:59">Vladimir SEO</a>                    </div>
+                    <div class="topics-list__last">
+                    </div>
+                  </div>
+                </div>
+                <div class="topics-list__item">
+                  <div class="topics-list__line">
+                    <div class="topics-list__title">
+                      <a class="topics__title" href="/ru/forum/953066"
+                         title="2016.12.26 Все вопросы по бирже ссылок Sape.ru - 17">
+                        Все вопросы по бирже ссылок Sape.ru - 17
+                          <i class="ui-icons ui-icons_topic-read"></i>
+
+                      </a>
+                        <span class="topics-pages">
+                          ( <span class="topics-pages__total"><i class="ui-icons ui-icons_comment-square"></i>3180</span>
+                            <span class="topics-pages__counter"><i class="ui-icons ui-icons_file"></i><a href="/ru/forum/953066">1</a>&nbsp;<a href="/ru/forum/953066/page2">2</a>&nbsp;<a href="/ru/forum/953066/page3">3</a>&nbsp;<a href="/ru/forum/953066/page4">4</a>&nbsp;<a href="/ru/forum/953066/page5">5</a>&nbsp;<a href="/ru/forum/953066/page161">...</a>&nbsp;<a href="/ru/forum/953066/page317">317</a>&nbsp;<a href="/ru/forum/953066/page318">318</a></span>
+                          )
+                        </span>
+                    </div>
+                    <div class="topics-list__author">
+<a href="/ru/users/240511" title="2025.12.02 11:00">Vladimir SEO</a>                    </div>
+                    <div class="topics-list__last">
+                    </div>
+                  </div>
+                </div>
+                <div class="topics-list__item">
+                  <div class="topics-list__line">
+                    <div class="topics-list__title">
+                      <a class="topics__title" href="/ru/forum/1058595"
+                         title="2022.03.06 Ходят слухи, что деньги могут стать бумажками (рубли)">
+                        Ходят слухи, что деньги могут стать бумажками (рубли)
+                          <i class="ui-icons ui-icons_topic-read"></i>
+
+                      </a>
+                        <span class="topics-pages">
+                          ( <span class="topics-pages__total"><i class="ui-icons ui-icons_comment-square"></i>8503</span>
+                            <span class="topics-pages__counter"><i class="ui-icons ui-icons_file"></i><a href="/ru/forum/1058595">1</a>&nbsp;<a href="/ru/forum/1058595/page2">2</a>&nbsp;<a href="/ru/forum/1058595/page3">3</a>&nbsp;<a href="/ru/forum/1058595/page4">4</a>&nbsp;<a href="/ru/forum/1058595/page5">5</a>&nbsp;<a href="/ru/forum/1058595/page427">...</a>&nbsp;<a href="/ru/forum/1058595/page850">850</a>&nbsp;<a href="/ru/forum/1058595/page851">851</a></span>
+                          )
+                        </span>
+                    </div>
+                    <div class="topics-list__author">
+<a href="/ru/users/7641" title="2025.02.19 15:41">Accountant</a>                    </div>
+                    <div class="topics-list__last">
+                    </div>
+                  </div>
+                </div>
+                <div class="topics-list__item">
+                  <div class="topics-list__line">
+                    <div class="topics-list__title">
+                      <a class="topics__title" href="/ru/forum/1138397"
+                         title="2026.02.18 Яндекс стал &quot;убивать сайты&quot;">
+                        Яндекс стал &quot;убивать сайты&quot;
+                          <i class="ui-icons ui-icons_topic-read"></i>
+
+                      </a>
+                        <span class="topics-pages">
+                          ( <span class="topics-pages__total"><i class="ui-icons ui-icons_comment-square"></i>61</span>
+                            <span class="topics-pages__counter"><i class="ui-icons ui-icons_file"></i><a href="/ru/forum/1138397">1</a>&nbsp;<a href="/ru/forum/1138397/page2">2</a>&nbsp;<a href="/ru/forum/1138397/page3">3</a>&nbsp;<a href="/ru/forum/1138397/page4">4</a>&nbsp;<a href="/ru/forum/1138397/page5">5</a>&nbsp;<a href="/ru/forum/1138397/page6">6</a>&nbsp;<a href="/ru/forum/1138397/page7">7</a></span>
+                          )
+                        </span>
+                    </div>
+                    <div class="topics-list__author">
+<a href="/ru/users/49712" title="2026.02.19 17:15">ksylite</a>                    </div>
+                    <div class="topics-list__last">
+                    </div>
+                  </div>
+                </div>
+          </div>
+        </div>
+          <div class="frontpage__categories forum-cats">
+              <div class="forum-cats__row">
+                  <div class="forum-cats__item">
+                    <a class="forum-cats__link" href="/ru/forum/search-engines">Поиск</a>
+                  </div>
+                  <div class="forum-cats__item">
+                    <a class="forum-cats__link" href="/ru/forum/optimization-practices">Оптимизация</a>
+                  </div>
+                  <div class="forum-cats__item">
+                    <a class="forum-cats__link" href="/ru/forum/website-advertisement">Трафик</a>
+                  </div>
+                  <div class="forum-cats__item">
+                    <a class="forum-cats__link" href="/ru/forum/website-monetization">Монетизация</a>
+                  </div>
+              </div>
+              <div class="forum-cats__row">
+                  <div class="forum-cats__item">
+                    <a class="forum-cats__link" href="/ru/forum/development">Web</a>
+                  </div>
+                  <div class="forum-cats__item">
+                    <a class="forum-cats__link" href="/ru/forum/social-media-marketing">Маркетинг</a>
+                  </div>
+                  <div class="forum-cats__item">
+                    <a class="forum-cats__link" href="/ru/forum/professionals-talks">Общение</a>
+                  </div>
+                  <div class="forum-cats__item">
+                    <a class="forum-cats__link" href="/ru/forum/optimizators-exchange">Биржа</a>
+                  </div>
+                  <div class="forum-cats__item">
+                    <a class="forum-cats__link" href="/ru/forum/webmasters-jobs">Работа</a>
+                  </div>
+              </div>
+          </div>
+
+<div class="tile-list">
+        <div class="tile tile_double">
+            <div class="tile__container" style="background: rgba(58,58,58, 1);">
+                        <img class="tile__img-preview" loading="lazy" alt="preview" width="32" height="16" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAwICQoJBwwKCQoNDAwOER0TERAQESMZGxUdKiUsKyklKCguNEI4LjE/MigoOk46P0RHSktKLTdRV1FIVkJJSkf/2wBDAQwNDREPESITEyJHMCgwR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0f/wAARCAAQACADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4&#x2B;Tl5ufo6erx8vP09fb3&#x2B;Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3&#x2B;Pn6/9oADAMBAAIRAxEAPwDjEgmWIqABk9NwqBrWc87OPXIqcSNjFSeZ8mM80AVo7X5huQn/AIFW7ZK8cAVRtHoDWUpPar1vNsjwTQB//9k=" />
+            <a href="/ru/articles/2058405" class="tile__img">
+              <picture>
+                <source srcset="https://d.searchengines.guru/20/96/delete-button-keyboard_600x314__3661c0be.jpg, https://d.searchengines.guru/20/96/delete-button-keyboard_1200x628__84d4751c.jpg 2x" media="(min-width:800px)">
+                <img class="tile__img-main" loading="lazy" width="600" height="314" src="https://d.searchengines.guru/20/96/delete-button-keyboard_600x314__3661c0be.jpg" srcset="https://d.searchengines.guru/20/96/delete-button-keyboard_300x157__db717013.jpg, https://d.searchengines.guru/20/96/delete-button-keyboard_600x314__3661c0be.jpg 2x" alt="Как удалить плохие SEO-ссылки и очистить ссылочную массу сайта" onerror="this.style.display='none';">
+              </picture>
+              <span class="tile__img-fill" style="background: linear-gradient(to top, rgba(58,58,58, 0.9) 0%, rgba(58,58,58, 0.9) 10%, rgba(58,58,58, 0.7) 50%, rgba(58,58,58, 0) 100%);"></span>
+            </a>
+                <div class="tile__content" style="background: rgba(58,58,58, 0.9);">
+                    <span class="tile__content-fill" style="background: linear-gradient(to top, rgba(58,58,58, 0.9) 0%, rgba(58,58,58, 0.9) 10%, rgba(58,58,58, 0.7) 50%, rgba(58,58,58, 0) 100%);"></span>
+                    <div class="tile__content-wrapper">
+                        <h2 class="tile__title">
+                            <a href="/ru/articles/2058405">Как удалить плохие SEO-ссылки и очистить ссылочную массу сайта</a>
+                        </h2>
+                        <div class="tile__description">
+                            Применяем отклонение ссылок
+                        </div>
+                    </div>
+                </div>
+                <div class="tile__blackout"></div>
+            </div>
+        </div>
+        <div class="tile tile_light">
+            <div class="tile__container" style="background: rgba(201,207,222, 1);">
+                        <img class="tile__img-preview" loading="lazy" alt="preview" width="32" height="16" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAwICQoJBwwKCQoNDAwOER0TERAQESMZGxUdKiUsKyklKCguNEI4LjE/MigoOk46P0RHSktKLTdRV1FIVkJJSkf/2wBDAQwNDREPESITEyJHMCgwR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0f/wAARCAAQACADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4&#x2B;Tl5ufo6erx8vP09fb3&#x2B;Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3&#x2B;Pn6/9oADAMBAAIRAxEAPwD0Dfnqaq3N55J&#x2B;QlmPpSq/HIpPkJyVrWxFwW9dlBIwaie4JckmnuUxVZ1y2QadkB//2Q==" />
+                    <a href="/ru/articles/2058101" class="tile__img">
+                      <picture>
+                        <img class="tile__img-main" loading="lazy" width="318" height="166" src="https://d.searchengines.guru/20/96/productoverview_pbicapabilities_1.1_600x314__ca8d6d83.jpg" srcset="https://d.searchengines.guru/20/96/productoverview_pbicapabilities_1.1_300x157__ba2469e5.jpg, https://d.searchengines.guru/20/96/productoverview_pbicapabilities_1.1_600x314__ca8d6d83.jpg 2x" alt="Что такое Power BI и зачем это нужно бизнесу" onerror="this.style.display='none';">
+                      </picture>
+                      <span class="tile__img-fill" style="background: linear-gradient(to top, rgba(201,207,222, 0.9) 0%, rgba(201,207,222, 0.9) 10%, rgba(201,207,222, 0.7) 50%, rgba(201,207,222, 0) 100%);"></span>
+                    </a>
+                <div class="tile__content" style="background: rgba(201,207,222, 0.9);">
+                    <span class="tile__content-fill" style="background: linear-gradient(to top, rgba(201,207,222, 0.9) 0%, rgba(201,207,222, 0.9) 10%, rgba(201,207,222, 0.7) 50%, rgba(201,207,222, 0) 100%);"></span>
+                    <div class="tile__content-wrapper">
+                        <h2 class="tile__title">
+                            <a href="/ru/articles/2058101">Что такое Power BI и зачем это нужно бизнесу</a>
+                        </h2>
+                        <div class="tile__description">
+                            От анализа – к принятию решений
+                        </div>
+                    </div>
+                </div>
+                <div class="tile__blackout"></div>
+            </div>
+        </div>
+        <div class="tile">
+            <div class="tile__container" style="background: rgba(112,90,71, 1);">
+                        <img class="tile__img-preview" loading="lazy" alt="preview" width="32" height="16" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAwICQoJBwwKCQoNDAwOER0TERAQESMZGxUdKiUsKyklKCguNEI4LjE/MigoOk46P0RHSktKLTdRV1FIVkJJSkf/2wBDAQwNDREPESITEyJHMCgwR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0f/wAARCAAQACADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4&#x2B;Tl5ufo6erx8vP09fb3&#x2B;Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3&#x2B;Pn6/9oADAMBAAIRAxEAPwCpZTpAhwAM9cGm7hLJu2jg8ZrIMzYAHFKJnxhTj3rnsdB0aai1umEPzfnVKXVSzlpAWY96zA7YyXqKQsW4bP4VPKM//9k=" />
+                    <a href="/ru/articles/2058400" class="tile__img">
+                      <picture>
+                        <img class="tile__img-main" loading="lazy" width="318" height="166" src="https://d.searchengines.guru/20/96/email-spam_600x314__c5488739.jpg" srcset="https://d.searchengines.guru/20/96/email-spam_300x157__930a0fab.jpg, https://d.searchengines.guru/20/96/email-spam_600x314__c5488739.jpg 2x" alt="Что делать, если ваша email-рассылка попала в спам" onerror="this.style.display='none';">
+                      </picture>
+                      <span class="tile__img-fill" style="background: linear-gradient(to top, rgba(112,90,71, 0.9) 0%, rgba(112,90,71, 0.9) 10%, rgba(112,90,71, 0.7) 50%, rgba(112,90,71, 0) 100%);"></span>
+                    </a>
+                <div class="tile__content" style="background: rgba(112,90,71, 0.9);">
+                    <span class="tile__content-fill" style="background: linear-gradient(to top, rgba(112,90,71, 0.9) 0%, rgba(112,90,71, 0.9) 10%, rgba(112,90,71, 0.7) 50%, rgba(112,90,71, 0) 100%);"></span>
+                    <div class="tile__content-wrapper">
+                        <h2 class="tile__title">
+                            <a href="/ru/articles/2058400">Что делать, если ваша email-рассылка попала в спам</a>
+                        </h2>
+                        <div class="tile__description">
+                            10 распространенных причин и решений
+                        </div>
+                    </div>
+                </div>
+                <div class="tile__blackout"></div>
+            </div>
+        </div>
+        <div class="tile tile_light">
+            <div class="tile__container" style="background: rgba(187,169,137, 1);">
+                        <img class="tile__img-preview" loading="lazy" alt="preview" width="32" height="16" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAwICQoJBwwKCQoNDAwOER0TERAQESMZGxUdKiUsKyklKCguNEI4LjE/MigoOk46P0RHSktKLTdRV1FIVkJJSkf/2wBDAQwNDREPESITEyJHMCgwR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0f/wAARCAAQACADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4&#x2B;Tl5ufo6erx8vP09fb3&#x2B;Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3&#x2B;Pn6/9oADAMBAAIRAxEAPwDs5J4oVw77sdqotqqBsACs6ZGlfhyBT4baNOckn1NYNKS1NLtDrxluhlic9sms3ypouIp9o9BWysMZ68077PCeorjlyrRG8W&#x2B;p/9k=" />
+                    <a href="/ru/articles/2058392" class="tile__img">
+                      <picture>
+                        <img class="tile__img-main" loading="lazy" width="318" height="166" src="https://d.searchengines.guru/20/96/confael-all_600x314__a07ee5d4.jpg" srcset="https://d.searchengines.guru/20/96/confael-all_300x157__350624e4.jpg, https://d.searchengines.guru/20/96/confael-all_600x314__a07ee5d4.jpg 2x" alt="Маркетинг для шоколадной фабрики. На 34% выше средний чек" onerror="this.style.display='none';">
+                      </picture>
+                      <span class="tile__img-fill" style="background: linear-gradient(to top, rgba(187,169,137, 0.9) 0%, rgba(187,169,137, 0.9) 10%, rgba(187,169,137, 0.7) 50%, rgba(187,169,137, 0) 100%);"></span>
+                    </a>
+                <div class="tile__content" style="background: rgba(187,169,137, 0.9);">
+                    <span class="tile__content-fill" style="background: linear-gradient(to top, rgba(187,169,137, 0.9) 0%, rgba(187,169,137, 0.9) 10%, rgba(187,169,137, 0.7) 50%, rgba(187,169,137, 0) 100%);"></span>
+                    <div class="tile__content-wrapper">
+                        <h2 class="tile__title">
+                            <a href="/ru/articles/2058392">Маркетинг для шоколадной фабрики. На 34% выше средний чек</a>
+                        </h2>
+                        <div class="tile__description">
+                            Через устранение узких мест
+                        </div>
+                    </div>
+                </div>
+                <div class="tile__blackout"></div>
+            </div>
+        </div>
+        <div class="tile tile_light">
+            <div class="tile__container" style="background: rgba(138,145,145, 1);">
+                        <img class="tile__img-preview" loading="lazy" alt="preview" width="32" height="16" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAwICQoJBwwKCQoNDAwOER0TERAQESMZGxUdKiUsKyklKCguNEI4LjE/MigoOk46P0RHSktKLTdRV1FIVkJJSkf/2wBDAQwNDREPESITEyJHMCgwR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0f/wAARCAAQACADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4&#x2B;Tl5ufo6erx8vP09fb3&#x2B;Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3&#x2B;Pn6/9oADAMBAAIRAxEAPwDs4LXaBg4HpUGrOUtiGOQOx6VaW42L81Yut3iyRFF60CZjXOrSQthHK49KyLjVTLIWc7j6moL/AH5PzVkOr7jzT0Isz//Z" />
+                    <a href="/ru/articles/2058346" class="tile__img">
+                      <picture>
+                        <img class="tile__img-main" loading="lazy" width="318" height="166" src="https://d.searchengines.guru/20/96/ddos_vc-1_600x314__16e230ee.jpg" srcset="https://d.searchengines.guru/20/96/ddos_vc-1_300x157__df12bfc7.jpg, https://d.searchengines.guru/20/96/ddos_vc-1_600x314__16e230ee.jpg 2x" alt="Все что нужно знать о DDоS-атаках грамотному менеджеру" onerror="this.style.display='none';">
+                      </picture>
+                      <span class="tile__img-fill" style="background: linear-gradient(to top, rgba(138,145,145, 0.9) 0%, rgba(138,145,145, 0.9) 10%, rgba(138,145,145, 0.7) 50%, rgba(138,145,145, 0) 100%);"></span>
+                    </a>
+                <div class="tile__content" style="background: rgba(138,145,145, 0.9);">
+                    <span class="tile__content-fill" style="background: linear-gradient(to top, rgba(138,145,145, 0.9) 0%, rgba(138,145,145, 0.9) 10%, rgba(138,145,145, 0.7) 50%, rgba(138,145,145, 0) 100%);"></span>
+                    <div class="tile__content-wrapper">
+                        <h2 class="tile__title">
+                            <a href="/ru/articles/2058346">Все что нужно знать о DDоS-атаках грамотному менеджеру</a>
+                        </h2>
+                        <div class="tile__description">
+                            И как реагировать на "пожар", когда неизвестно, где хранятся "огнетушители
+                        </div>
+                    </div>
+                </div>
+                <div class="tile__blackout"></div>
+            </div>
+        </div>
+        <div class="tile">
+            <div class="tile__container" style="background: rgba(36,43,51, 1);">
+                        <img class="tile__img-preview" loading="lazy" alt="preview" width="32" height="16" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAwICQoJBwwKCQoNDAwOER0TERAQESMZGxUdKiUsKyklKCguNEI4LjE/MigoOk46P0RHSktKLTdRV1FIVkJJSkf/2wBDAQwNDREPESITEyJHMCgwR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0f/wAARCAAQACADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4&#x2B;Tl5ufo6erx8vP09fb3&#x2B;Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3&#x2B;Pn6/9oADAMBAAIRAxEAPwDgVBY4Fa1jp1u0W&#x2B;Z1z7mslSR0p/nP61oyC1d2sCMfKYEVSK4NKXY9TTc0JMD/2Q==" />
+                    <a href="/ru/articles/2058350" class="tile__img">
+                      <picture>
+                        <img class="tile__img-main" loading="lazy" width="318" height="166" src="https://d.searchengines.guru/20/96/frame_27_600x314__b353b658.jpg" srcset="https://d.searchengines.guru/20/96/frame_27_300x157__76ddf096.jpg, https://d.searchengines.guru/20/96/frame_27_600x314__b353b658.jpg 2x" alt="Зачем быть уникальным в мире, где все можно скопировать" onerror="this.style.display='none';">
+                      </picture>
+                      <span class="tile__img-fill" style="background: linear-gradient(to top, rgba(36,43,51, 0.9) 0%, rgba(36,43,51, 0.9) 10%, rgba(36,43,51, 0.7) 50%, rgba(36,43,51, 0) 100%);"></span>
+                    </a>
+                <div class="tile__content" style="background: rgba(36,43,51, 0.9);">
+                    <span class="tile__content-fill" style="background: linear-gradient(to top, rgba(36,43,51, 0.9) 0%, rgba(36,43,51, 0.9) 10%, rgba(36,43,51, 0.7) 50%, rgba(36,43,51, 0) 100%);"></span>
+                    <div class="tile__content-wrapper">
+                        <h2 class="tile__title">
+                            <a href="/ru/articles/2058350">Зачем быть уникальным в мире, где все можно скопировать</a>
+                        </h2>
+                        <div class="tile__description">
+                            Почему так важна уникальность текста и как она влияет на SEO
+                        </div>
+                    </div>
+                </div>
+                <div class="tile__blackout"></div>
+            </div>
+        </div>
+        <div class="tile tile_light">
+            <div class="tile__container" style="background: rgba(202,204,200, 1);">
+                        <img class="tile__img-preview" loading="lazy" alt="preview" width="32" height="16" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAwICQoJBwwKCQoNDAwOER0TERAQESMZGxUdKiUsKyklKCguNEI4LjE/MigoOk46P0RHSktKLTdRV1FIVkJJSkf/2wBDAQwNDREPESITEyJHMCgwR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0f/wAARCAAQACADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4&#x2B;Tl5ufo6erx8vP09fb3&#x2B;Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3&#x2B;Pn6/9oADAMBAAIRAxEAPwDrGjSHmDAJ71X3Tl/lVDU&#x2B;52f7wC&#x2B;mKlQDIPH5VlCo1oooqdTn1bYtqZkHKKD7VcSebHIFRp16/pU4K4ro5k&#x2B;hnbzP/9k=" />
+                    <a href="/ru/articles/2058328" class="tile__img">
+                      <picture>
+                        <img class="tile__img-main" loading="lazy" width="318" height="166" src="https://d.searchengines.guru/20/96/bard_ai_600x314__3202a8ec.jpg" srcset="https://d.searchengines.guru/20/96/bard_ai_300x157__9a0e2aa3.jpg, https://d.searchengines.guru/20/96/bard_ai_600x314__3202a8ec.jpg 2x" alt="Что делать, чтобы попасть в ответы Google Bard" onerror="this.style.display='none';">
+                      </picture>
+                      <span class="tile__img-fill" style="background: linear-gradient(to top, rgba(202,204,200, 0.9) 0%, rgba(202,204,200, 0.9) 10%, rgba(202,204,200, 0.7) 50%, rgba(202,204,200, 0) 100%);"></span>
+                    </a>
+                <div class="tile__content" style="background: rgba(202,204,200, 0.9);">
+                    <span class="tile__content-fill" style="background: linear-gradient(to top, rgba(202,204,200, 0.9) 0%, rgba(202,204,200, 0.9) 10%, rgba(202,204,200, 0.7) 50%, rgba(202,204,200, 0) 100%);"></span>
+                    <div class="tile__content-wrapper">
+                        <h2 class="tile__title">
+                            <a href="/ru/articles/2058328">Что делать, чтобы попасть в ответы Google Bard</a>
+                        </h2>
+                        <div class="tile__description">
+                            И какую это может принести выгоду
+                        </div>
+                    </div>
+                </div>
+                <div class="tile__blackout"></div>
+            </div>
+        </div>
+</div>
+        <div class="most-discussed">
+            <ul class="most-discussed__list">
+                    <li class="most-discussed__item">
+                        <span class="most-discussed__header">
+                            <a href="/ru/forum/1081206" class="most-discussed__title">Нарушения и угрозы безопасности на сайте , Малополезный контент, спам, избыток рекламы</a>
+                        </span>
+                        <span class="most-discussed__desc">
+                            На всех сайтах полетели уведомления &quot; Малополезный контент, спам, избыток рекламы...
+                        </span>
+                    </li>
+                    <li class="most-discussed__item">
+                        <span class="most-discussed__header">
+                            <a href="/ru/forum/1010516" class="most-discussed__title">Упал доход</a>
+                        </span>
+                        <span class="most-discussed__desc">
+                            Доброго времени. Хочу понять: совпадение или нет...
+                        </span>
+                    </li>
+                    <li class="most-discussed__item">
+                        <span class="most-discussed__header">
+                            <a href="/ru/forum/1072958" class="most-discussed__title">Яндекс колбасит</a>
+                        </span>
+                        <span class="most-discussed__desc">
+                            Скажите, кто нибудь заметил вчера в 22:00 или сегодня в мобильную выдачу стало...
+                        </span>
+                    </li>
+                    <li class="most-discussed__item">
+                        <span class="most-discussed__header">
+                            <a href="/ru/forum/1090320" class="most-discussed__title">Быстрая индексация страниц сайта и обратных ссылок - 2Index</a>
+                        </span>
+                        <span class="most-discussed__desc">
+                            Привет всем! Представляем наш новый сервис, который помогает индексировать внутренние...
+                        </span>
+                    </li>
+                    <li class="most-discussed__item">
+                        <span class="most-discussed__header">
+                            <a href="/ru/forum/1074672" class="most-discussed__title">Google Updates - апдейты Гугл</a>
+                        </span>
+                        <span class="most-discussed__desc">
+                            Тема про главные Апдейты Google - Core, Spam, Reviews и др. https://developers.google...
+                        </span>
+                    </li>
+                    <li class="most-discussed__item">
+                        <span class="most-discussed__header">
+                            <a href="/ru/forum/1134124" class="most-discussed__title">Продвижение в топ-1 Яндекс при помощи лучших ПФ на рынке</a>
+                        </span>
+                        <span class="most-discussed__desc">
+                            Рад в лице своей команды представить абсолютно лучшую (говорим это без зазрения...
+                        </span>
+                    </li>
+                    <li class="most-discussed__item">
+                        <span class="most-discussed__header">
+                            <a href="/ru/forum/1085105" class="most-discussed__title">SpeedyIndex - ускорение индексирования ссылок в Google. 100 ссылок в подарок.</a>
+                        </span>
+                        <span class="most-discussed__desc">
+                             Уважаемые пользователи. Приглашаем вас оценить эффективность сервиса SpeedyIndexBot...
+                        </span>
+                    </li>
+                    <li class="most-discussed__item">
+                        <span class="most-discussed__header">
+                            <a href="/ru/forum/1098850" class="most-discussed__title">SiteAnalyzer SEO Tools - бесплатное браузерное расширение для Chrome &amp; Firefox</a>
+                        </span>
+                        <span class="most-discussed__desc">
+                            Всем привет! Представляем вашему вниманию SiteAnalyzer SEO Tools - браузерное...
+                        </span>
+                    </li>
+                    <li class="most-discussed__item">
+                        <span class="most-discussed__header">
+                            <a href="/ru/forum/1136978" class="most-discussed__title">Боты из Сингапура</a>
+                        </span>
+                        <span class="most-discussed__desc">
+                            Последние 2-3 дня на несколько сайтов повалили боты с Сингапура, все через прямые...
+                        </span>
+                    </li>
+                    <li class="most-discussed__item">
+                        <span class="most-discussed__header">
+                            <a href="/ru/forum/904964" class="most-discussed__title">ihor.ru: VDS с SSD от 250 р, Сервера, Хостинг в Москве. / 2</a>
+                        </span>
+                        <span class="most-discussed__desc">
+                             Наши тарифы на VDS: SSD диски, KVM виртуализация: HDD диски, KVM / OpenVZ...
+                        </span>
+                    </li>
+            </ul>
+        </div>
+    </div>
+    <div class="frontpage__sidebar">
+        <div class="most-liked-comments">
+            <div class="most-liked-comments__item">
+              <span class="most-liked-comments__head">
+                <a class="most-liked-comments__author" href="/ru/users/2052717">
+                  <img
+                    class="most-liked-comments__avatar"
+                    src="https://d.searchengines.guru/avatar/default.png"
+                    loading="lazy"
+                    width="22"
+                    height="22"
+                    alt="master32">
+                  master32
+                </a>
+                <i class="ui-icons ui-icons_best-answer most-liked-comments__icon"></i>
+                <span class="most-liked-comments__badge">
+                  Лучший ответ дня
+                </span>
+              </span>
+              <a class="most-liked-comments__text" href="/ru/forum/1020117/page385#comment_17194569">закупаюсь на всю катлету, надеюсь в этом году потрогаем 200к...</a>
+              <a class="most-liked-comments__topic" href="/ru/forum/1020117">Биткоин готовится к новому рекорду - 9</a>
+            </div>
+            <div class="most-liked-comments__item">
+              <span class="most-liked-comments__head">
+                <a class="most-liked-comments__author" href="/ru/users/1074598">
+                  <img
+                    class="most-liked-comments__avatar"
+                    src="https://d.searchengines.guru/avatar/default.png"
+                    loading="lazy"
+                    width="22"
+                    height="22"
+                    alt="artshevtsov">
+                  artshevtsov
+                </a>
+                <i class="ui-icons ui-icons_best-answer most-liked-comments__icon"></i>
+                <span class="most-liked-comments__badge">
+                  Лучший ответ дня
+                </span>
+              </span>
+              <a class="most-liked-comments__text" href="/ru/forum/1138397/page6#comment_17194543">Евпатий-коловратий, ни одного слова про интернет по белым спискам… Вы понимаете что...</a>
+              <a class="most-liked-comments__topic" href="/ru/forum/1138397">Яндекс стал &quot;убивать сайты&quot;</a>
+            </div>
+            <div class="most-liked-comments__item">
+              <span class="most-liked-comments__head">
+                <a class="most-liked-comments__author" href="/ru/users/1095096">
+                  <img
+                    class="most-liked-comments__avatar"
+                    src="https://d.searchengines.guru/avatar/1095000/1095096_1.png"
+                    loading="lazy"
+                    width="22"
+                    height="22"
+                    alt="Artem189">
+                  Artem189
+                </a>
+                <i class="ui-icons ui-icons_best-answer most-liked-comments__icon"></i>
+                <span class="most-liked-comments__badge">
+                  Лучший ответ дня
+                </span>
+              </span>
+              <a class="most-liked-comments__text" href="/ru/forum/1109511/page17#comment_17194684">Когда факты очевидны, а крыть нечем - лучше по-тихому слиться? &#x1F602; Принимается</a>
+              <a class="most-liked-comments__topic" href="/ru/forum/1109511">Куда сейчас вкладывать деньги?</a>
+            </div>
+        </div>
+        <div class="live-tape">
+          <div class="live-tape__content" id="liveTape">
+          </div>
+        </div>
+
+        
+        
+    </div>
+</div>
+        </div>
+    </div>
+
+    
+
+
+
+<div class="page-footer" id="footer">
+    <div class="page-footer__columns">
+                <div class="page-footer__columns-item page-footer__columns-forum">
+                    <ul class="page-footer__subcategories"><li><a href="/ru/forum/search-engines">Поисковые системы</a></li><li><a href="/ru/forum/optimization-practices">Практика оптимизации</a></li><li><a href="/ru/forum/website-advertisement">Трафик для сайтов</a></li><li><a href="/ru/forum/website-monetization">Монетизация сайтов</a></li><li><a href="/ru/forum/development">Сайтостроение</a></li><li><a href="/ru/about/rules">Правила форума</a></li></ul>
+
+                </div>
+                <div class="page-footer__columns-item page-footer__columns-articles">
+                    <ul class="page-footer__subcategories"><li><a href="/ru/articles/mobile">Мобильные технологии</a></li><li><a href="/ru/articles/interview">Интервью</a></li><li><a href="/ru/articles/seo">SEO</a></li><li><a href="/ru/articles/ad-technology">Рекламные технологии</a></li><li><a href="/ru/articles/analytics">Веб-аналитика</a></li></ul>
+
+                </div>
+                <div class="page-footer__columns-item page-footer__columns-news">
+                    <ul class="page-footer__subcategories"><li><a href="/ru/news/seo">SEO</a></li><li><a href="/ru/news/social">Социальные сети</a></li><li><a href="/ru/news/analytics">Веб-аналитика</a></li><li><a href="/ru/news/media">Интернет и медиа</a></li><li><a href="/ru/news/ecommerce">eCommerce</a></li></ul>
+
+                </div>
+        <div class="page-footer__columns-item">
+            <div class="page-footer__copyright">
+                <ul class="page-footer__subcategories">
+                        <li><div class="page-footer__copyright-about"><a href="/ru/about">О проекте</a></div></li>
+                        <li><div class="page-footer__copyright-terms"><a href="/ru/about/terms">Условия использования</a></div></li>
+                        <li><div class="page-footer__copyright-security"><a href="/ru/about/security">Политика конфиденциальности данных</a></div></li>
+                        <li><div class="page-footer__copyright-cookies"><a href="/ru/about/cookies">Политика в отношении cookie-файлов</a></div></li>
+                        <li><div class="page-footer__copyright-security"><a href="/ru/about/autopayments">Соглашение о реккурентных платежах</a></div></li>
+                        <li><div class="page-footer__copyright-contact"><a href="/ru/contact">Контакты и обращения</a></div></li>
+                    <li>
+                      35 Dodekanisou str, Germasogeia, 4043, Limassol,&nbsp;Cyprus
+                    </li>
+                    <li class="qa-copyright">
+                       &copy; <span class="qa-copyright-date">2000-2026</span>, <a class="page-footer__copyright-company" href="https://www.metaquotes.net/ru" target="_blank">MetaQuotes&nbsp;Ltd.</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+    <script type="text/javascript">
+        (function(a,e,f,g,b,c,d){a[b]||(a.FintezaCoreObject=b,a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)},a[b].l=1*new Date,c=e.createElement(f),d=e.getElementsByTagName(f)[0],c.async=!0,c.defer=!0,c.src=g,d&&d.parentNode&&d.parentNode.insertBefore(c,d))})
+          (window,document,"script","https://searchengines.guru/fz/core.js","fz");
+      fz("register", "website", {
+          id: "gylresdaaaenlcgoyigvffvmpbymkvszke",
+          trackHash: true, trackLinks: true, timeOnPage: true
+      });
+    </script>
+    
+    
+    <script data-type="translate" type="application/json">{"cookies":{"accept":"Сайт использует cookie-файлы. Узнайте больше о нашей <a href=\"/ru/about/cookies\" target=\"_blank\">политике по использованию cookie-файлов</a>."},"cancel":"Отмена","ok":"Ok","errorOccured":"Произошла ошибка","lightBox":{"close":"Закрыть","collapse":"Свернуть","showOriginal":"Показать оригинал","errorLoading":"Невозможно загрузить вложение","next":"Следующий","previous":"Предыдущий","save":"Сохранить","linkToImg":"Ссылка на изображение"},"chat":{"closeChat":"Закрыть переписку","title":"Чаты","close":"Закрыть","notsupport":"Ваша версия браузера не поддерживается","attachFileTitle":"Прикрепить файл","sendMessageTitle":"Ответить","searchUserPlaceholder":"Часть имени или логин","errorOccuredMessage":"Произошла ошибка. Пожалуйста, повторите попытку позже.","unreadMessages":"Непрочитанные сообщения","message":"Сообщение","send":"Отправить","emptyResultMessages":"Здесь пока нет сообщений","emptyResultSearch":"К сожалению, по вашему запросу ничего не найдено","errorEmptyMessage":"Сообщение не может быть пустым","errorLongMessage":"Длина сообщения не должна превышать {0} символов","chooseChat":"Пожалуйста, выберите чат или создайте новый.","deleteChat":"Удалить","delete":"Удалить","deleteChatConfirm":"Вы действительно хотите удалить чат?","newChat":"Создать чат","systemYouInvited":"Вас пригласили в чат {0}","systemUserInvited":"{0} пригласил(а) {1}","systemChatUserRemoved":"{0} исключил(а) {1} из чата","systemChannelUserRemove":"{0} исключила(а) {1} из канала","systemChannelPrivate":"{0} сделал(а) канал приватным","systemChannelPublic":"{0} сделал(а) канал публичным","systemChatLimited":"{0} сделала(а) чат ограниченным","systemChatUnlimited":"{0} снял(а) ограничения с чата","systemChatClosed":"{0} закрыл(а) чат","systemChannelClosed":"Канал закрыт","systemChatRename":"{0} изменил(а) название чата на {1}","systemChannelRename":"Название чата изменено на {0}","systemChatCreate":"{0} создал чат {1}","systemChannelCreate":"Создан канал {0}","systemChatUserLeft":"{0} покинул(а) чат","systemChatReopened":"{0} переоткрыл(а) чат","systemChannelReopened":"Канал снова открыт","countUsers":"{0} участников","leaveChat":"Покинуть чат","inviteChat":"Добавить участников","open":"Открыть","emptyAddMember":"Чтобы добавить новых участников, воспользуйтесь поиском","admin":"Администратор","moderator":"Модератор","edit":"Правка","changeChat":"Правка"}}</script><script type="text/javascript">
+          mqGlobal.AddOnReady(function () {
+            if (window.components && 'liveTape' in window.components){
+              window.components.liveTape.init('liveTape');
+            }
+            });
+        </script>
+<script id="liveTapeData" type="application/json">[{"authorName":"юни","authorLink":"/ru/users/10296","parentLink":"/ru/forum/1108352","avatarUrl":"https://d.searchengines.guru/avatar/9000/10296_1.png","commentLink":"/ru/forum/1108352/page97#comment_17194697","text":" master32 # : вопрос простой: вы верите подарку, если не знаете цену...","title":"Что может, что не может AI. Обсуждаем возможности, делимся опытом, спорим, но в рамках приличия.","date":1771524507},{"authorName":"Mazay","authorLink":"/ru/users/129342","parentLink":"/ru/forum/1109511","avatarUrl":"https://d.searchengines.guru/avatar/129000/129342_2.png","commentLink":"/ru/forum/1109511/page18#comment_17194696","text":" Artem189 # : Когда факты очевидны Очевидные факты в том, что в условиях санкций...","title":"Куда сейчас вкладывать деньги?","date":1771524215},{"authorName":"юни","authorLink":"/ru/users/10296","parentLink":"/ru/forum/1137508","avatarUrl":"https://d.searchengines.guru/avatar/9000/10296_1.png","commentLink":"/ru/forum/1137508/page9#comment_17194695","text":" Devstory # : Кто это придумал? Природа...","title":"Мужчина и женщина: кто кем управляет?","date":1771523829},{"authorName":"pavlkonst","authorLink":"/ru/users/2194178","parentLink":"/ru/forum/1137791","avatarUrl":"https://d.searchengines.guru/avatar/2193000/2194178_1.png","commentLink":"/ru/forum/1137791/page8#comment_17194692","text":" Юлия # : Не исключено... Хотя я бы больше думала о потере рынка иностранных...","title":"Telegram официально замедлили","date":1771522209},{"authorName":"ksylite","authorLink":"/ru/users/49712","parentLink":"/ru/forum/1138397","avatarUrl":"https://d.searchengines.guru/avatar/default.png","commentLink":"/ru/forum/1138397/page7#comment_17194689","text":" 1771 # : Или только у ТС? Не только лишь у ТС","title":"Яндекс стал \"убивать сайты\"","date":1771521329},{"authorName":"TheVS","authorLink":"/ru/users/27654","parentLink":"/ru/forum/1138025","avatarUrl":"https://d.searchengines.guru/avatar/27000/27654_2.png","commentLink":"/ru/forum/1138025/page3#comment_17194682","text":"Не забывайте делать скидку на то, что каждому человеку своё сгенерированное творение...","title":"Нейропесни в Яндекс музыке","date":1771518552},{"authorName":"Mazay","authorLink":"/ru/users/129342","parentLink":"/ru/forum/1137784","avatarUrl":"https://d.searchengines.guru/avatar/129000/129342_2.png","commentLink":"/ru/forum/1137784#comment_17194673","text":" alaev : Яндекс расщедрился и обещает 10k за нового клиента...","title":"Яндекс Директ запускает партнерку для рефоводов","date":1771516504},{"authorName":"team-voice","authorLink":"/ru/users/1118053","parentLink":"/ru/forum/1138436","avatarUrl":"https://d.searchengines.guru/avatar/1116000/1118053_1.png","commentLink":"/ru/forum/1138436/page2#comment_17194668","text":" webgroupco # : А Гугл по вашему не коммерческая? Или считаете что Клауд убыточен...","title":"Российский аналог CF закрылся","date":1771515927},{"authorName":"Vladimir SEO","authorLink":"/ru/users/240511","parentLink":"/ru/forum/1074672","avatarUrl":"https://d.searchengines.guru/avatar/240000/240511_1.png","commentLink":"/ru/forum/1074672/page579#comment_17194660","text":"а подштармливает плотно. Все проекты переснял - видно как колеблющиеся кластеры летают...","title":"Google Updates - апдейты Гугл","date":1771514858},{"authorName":"OZLaim","authorLink":"/ru/users/1142888","parentLink":"/ru/forum/1072958","avatarUrl":"https://d.searchengines.guru/avatar/1140000/1142888_1.png","commentLink":"/ru/forum/1072958/page1261#comment_17194646","text":" dimax07 # : https://yandex.ru/ips - это все сразу в белый список, без проверок...","title":"Яндекс колбасит","date":1771511459},{"authorName":"Brat_Sergij","authorLink":"/ru/users/1097889","parentLink":"/ru/forum/1020117","avatarUrl":"https://d.searchengines.guru/avatar/1095000/1097889_1.png","commentLink":"/ru/forum/1020117/page385#comment_17194642","text":" b-s-v # : На счёт $200к неуверен, но то что рынок развернётся в этом году и пойдет в...","title":"Биткоин готовится к новому рекорду - 9","date":1771510582},{"authorName":"Коля","authorLink":"/ru/users/32179","parentLink":"/ru/forum/1136163","avatarUrl":"https://d.searchengines.guru/avatar/30000/32179_20.png","commentLink":"/ru/forum/1136163/page64#comment_17194640","text":" ilyamaster # : отек квинки - не произошел, уже счастье, от блейзера виноградного...","title":"Цены на продукты и товары 2026","date":1771510410},{"authorName":"Sherkhan","authorLink":"/ru/users/1161880","parentLink":"/ru/forum/1137386","avatarUrl":"https://d.searchengines.guru/avatar/default.png","commentLink":"/ru/forum/1137386/page3#comment_17194636","text":"Физик, Райф - пришло баблецо! А завтра как раз пятница-развратница!! \uD83E\uDD2A","title":"Январь 2026","date":1771509829},{"authorName":"app_CyberYozh","authorLink":"/ru/users/2174402","parentLink":"/ru/forum/1127637","avatarUrl":"https://d.searchengines.guru/avatar/2172000/2174402_1.png","commentLink":"/ru/forum/1127637/page6#comment_17194634","text":"5G Arizona · Phoenix · Verizon — Premium​ Максимально чистый и быстрый мобильный...","title":"Проект CyberYozh App. Мобильные (4G, LTE, 5G) и Резидентские прокси","date":1771509235}]</script>  
+<script type="text/javascript">
+    window.mqGlobal.CurrentLanguage =  'ru';
+    window.mqGlobal.HostName = 'searchengines.guru';
+    window.mqGlobal.Uniq = '5626292649988375766';
+window.mqGlobal.AddOnReady(function() {
+      if(window.self === window.top)
+      {
+        // панель политика по использованию cookie-файлов.
+        components.cookieAccept(Translations.get('cookies.accept'), 'cookie_accept');
+      }
+    });</script>    
+    <script type="application/ld&#x2B;json">
+        {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "url": "https://searchengines.guru",
+        "logo": "https://d.searchengines.guru/i/logo_se.png",
+        "sameAs": [
+        "https://www.facebook.com/Searchengines.ru",
+        "https://www.twitter.com/search_news"
+        ]
+        }
+    </script>
+    <script type="application/ld&#x2B;json">
+        {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Searchengines.guru",
+        "url": "https://searchengines.guru",
+        "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://searchengines.guru/ru/search?keyword={keyword}",
+        "query-input": "required name=keyword"
+        }
+        }
+    </script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"ItemList","itemListElement":[{"@type":"SiteNavigationElement","name":"Статьи","url":"/ru/articles","position":1},{"@type":"SiteNavigationElement","name":"Новости ","url":"/ru/news","position":2},{"@type":"SiteNavigationElement","name":"Форум","url":"/ru/forum","position":3}]}
+</script>
+</body>
+</html>
+

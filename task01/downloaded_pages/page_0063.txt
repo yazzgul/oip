@@ -1,0 +1,2378 @@
+     
+ 
+ 
+                
+                
+                                                                                                                
+                            
+                        <!DOCTYPE html>
+    
+    
+                 
+<html  lang="ru">
+<head>
+                                                                        
+    <title>Авторадио — слушать онлайн</title>
+    <meta charset="UTF-8">
+    
+        <meta name="description" content='Авторадио  слушать онлайн бесплатно прямой эфир в хорошем качестве'>
+    <meta name="keywords" content='авторадио, avtoradio, радио, радио онлайн, слушать радио, бесплатное радио, бесплатное радио слушать, онлайн-радио, интернет-радио, радиостанция, музыка, популярная музыка, слушать радио, игра много денег, гимн авторадио, установить гимн авторадио'>
+    <meta property="og:image:width" content='1016' />
+    <meta name="apple-itunes-app" content="app-id=952832425">
+    <meta name="google-play-app" content="app-id=ru.profmedia.avtoradio">    
+    <link rel="image_src" href='https://www.avtoradio.ru/design/images/site-design/avtoradio-logo200x200.jpg' />
+    <meta property="og:site_name" content='avtoradio.ru'>
+    <meta name="referrer"               content="origin" id="meta_referrer" />
+    <meta property="og:type" content='article'>
+    <meta property="og:image" content='https://www.avtoradio.ru/design/images/site-design/avtoradio-logo200x200.jpg' />
+    <meta property="og:title" content='Авторадио — Авторадио — слушать онлайн' />
+    <meta property="og:description" content='Авторадио  слушать онлайн бесплатно прямой эфир в хорошем качестве' />
+    <meta property="og:url" content='http://www.avtoradio.ru/' />
+    <meta name="yandex-verification" content='e091e09904e897e5' />
+    <meta name="yandex-verification" content="8488cc08b0c9b8cf" />
+    <meta name="google-site-verification" content='AFU4sHOJqlvV8D2ju6GHOGBZLYssMrHD64H7PQpEY6I' />
+    <meta name="google-site-verification" content="0l9SElat98pRcxPKxvl8gjC40AZFbCsTPpS3snIGrr4" />
+    <meta name="zen-verification" content="c34c0M5ayMsF0TgWuliy1ipqyjNMTf9ouDYfSK4yXQ09OwaWLoJYVSZFQWbYlZrt" />
+    <link rel="icon" href="https://www.avtoradio.ru/favicon.ico" type="image/png">
+    <link rel="apple-touch-icon-precomposed" href="/design/images/icons/apple-touch-icon-precomposed.png"/>
+    <link rel="apple-touch-icon" sizes="152x152" href="/design/images/icons/touch-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/design/images/icons/touch-icon-iphone-retina.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="/design/images/icons/touch-icon-ipad-pro.png">
+    <link rel="android-touch-icon" href="/design/images/icons/apple-touch-icon-precomposed.png" />
+    
+            <link rel="canonical" href="https://www.avtoradio.ru"/>
+        <script src="https://yastatic.net/pcode/adfox/loader.js"></script>
+        <script type="text/javascript" src="https://s3.wi-fi.ru/mtt/configs/sites/avtoradio.js" async nocache></script>
+<script>
+document.addEventListener('DOMContentLoaded', function(){
+    try {
+        if (window.MTT) {
+            window.MTT.dmp({ useSegments: true });
+            function TMPCounter(path){
+                let img = document.createElement("IMG");
+                img.src = path;
+                img.height = 1;
+                img.width = 1;
+                img.style.display = 'none';
+                document.body.appendChild(img);
+            }
+            TMPCounter('https://tms.dmp.wi-fi.ru/?dmpkit_cid=81460eb5-647b-4d9b-a3e3-7863f294c3da&dmpkit_evid=ab914581-c2bd-45ef-9242-3128c73c48c5&g_adv=gpm_partners');
+            TMPCounter('https://d.wi-fi.ru/b/v1/sync?cb=google&mti=1');
+            TMPCounter('https://d.wi-fi.ru/b/v1/sync?cb=otm&mti=1');
+            TMPCounter('https://d.wi-fi.ru/b/v1/sync?cb=yandex&mti=1');
+            TMPCounter('https://d.wi-fi.ru/b/v1/sync?cb=dmp&mti=1');
+        }
+    } catch (error) {
+        console.error(error);
+    }
+});
+</script> 
+<link rel="stylesheet" href="https://cdn2.avtoradio.ru/design/include/min/avtoradio_animation.min.css?v=1760346825">
+<link rel="stylesheet" href="https://cdn0.avtoradio.ru/vendorjs/jquery-ui/jquery-ui.min.css?v=1711527093"><script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=u*el*CJn8B4tNXkeseSF*HfeZ*AOvY3X85P2/Z6Nn2/fnVJ*iNs23wiLVepmteloKaqfMtpym0V9P4OELvLrIiMDj3S0r*2LA9Y7JpSUqZlVJZfcSrPNXlpu8gus*a8AwTUlhvlAiSW5Iq55yIvZrHhChP*hWepiZtD/lziOtFM-&pixel_id=1000038871';</script>
+</head>
+<body    >
+<style>
+.D_Top{margin:1px auto;max-width: 1024px;width: 100%;height: 150px;}
+/*.D_Top.move {display:none}*/
+.block-menu-wrap{
+    top: 84px !important;
+	height: 316px;
+}
+.header.move{
+    margin-top: 0px;
+}
+.block-menu-wrap.move{
+	height: 316px;
+    top: -100px;
+}
+.header{
+    position: sticky !important;
+}
+.block-menu {
+    margin-top: 25px;
+}
+</style>
+<div class="D_Top">
+    <div id="GPM_avtoradio_D_Top"></div>
+</div>    
+    
+    <div class="pr wide ma block block-menu-wrapper ">
+        <div class="block-menu-wrap wide pa "></div>
+    </div>
+    
+    
+    <style>
+    #murzilki_frame{display:none;}
+    .fix1004.ma.pr.drop {
+      z-index: 1300;
+    }
+    .animated{
+        animation-duration: 1s;
+    }
+    .murzilki_frame {
+        position: relative;
+        width: 1px;
+        height:1px;
+        z-index:900!important;
+        top:0px;
+        left:0px;
+        width: 100%;
+    }
+    .murzilki_frame_content{
+        position: relative;
+        width: 1000px;
+        background:#fff;
+        border-radius:0 0 14px 14px;
+        margin:0 auto !important;
+        top: 76px;
+        height:80px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.5);
+        z-index:900!important;
+        display: flex;
+    	flex-direction: row;
+    	flex-wrap: nowrap;
+    	justify-content: space-between;
+    	align-items: center;
+    	align-content: stretch;
+    }
+    .murzilki_name{
+        font-size: 18px;
+        padding:0 0 0 60px;
+    }
+    .murzilki_name i {
+        position: relative;
+        font-style: normal;
+        font-size: 24px;
+        font-weight: bold;
+        color:#485290;
+    }
+    .murzilki_name i:before {
+        content:'';
+         display: block; 
+         background: #00FF30;
+         position: absolute;
+         left:-20px;
+         top:10px;
+         border-radius:50%;
+         width: 7px;
+         height: 7px;
+    }
+    .murzilki_sound_link{
+        display: block;
+        width: 180px;
+        height: 40px;
+        background:url('/design/images/action/2024/murzilki_frame/murz_sound.png');
+    }
+    .murzilki_video_link{
+        display: block;
+        width: 180px;
+        height: 40px;
+        background:url('/design/images/action/2024/murzilki_frame/murz_video.png');
+    }
+    .murzilki_close_link{
+        display: block;
+        width: 24px;
+        height: 24px;
+        background:url('/design/images/action/2024/murzilki_frame/murz_close.png') no-repeat;
+        padding:0 20px 0 0;
+    }
+</style>
+    
+    <div id="header" class="header wide pr">
+    
+        <div id="city-list-selector" class="city-slider pa">
+    
+    <style>
+    .block-menu-logo {z-index:100 !important;}
+    body {overflow-y: scroll !important;}
+    .D_Top{display:block !important; }
+</style></div> 
+        
+        <div class="header-block fix ma pr">
+          
+            <div class="header-menu icon-set pa" onMouseOver="return MP.ShowBlock('header-menu-drop'); "  onMouseOut="return MP.HideBlock('header-menu-drop'); "></div>
+        
+             
+                   
+      
+            	      
+                        
+      <div class="header-player pa z100" id="main-radio">
+    
+            <div class="header-player-block pr">
+    <div class="header-player-text pa  ml5">  </div>
+    <div class="header-player-upp pa">
+        <div class="radio-player pa">
+            <div class="mefir_player">
+                                                                                                                                                                                                                                                                                                    <div class="mplayer-wraper"> 
+    	<div
+    	    class="mplayer-block-play"
+    	    
+	    >
+            <button
+    	        class="toggleplayer play left" 
+    	        type="button"
+    	        data-player-button="avtoradio-main-player"
+                                    onclick="ym(50976755,'reachGoal','clickPlayMainAvtoradio'); return true;"
+                            ></button>
+    	</div>
+    	        	
+    	        	<div class="mplayer-block-volume" id="volume-avtoradio-main-player">
+        	    <div id="soundSlider-block">
+                    <div class="player-volume">
+                        <button class="icon icon-volume" data-volume-icon="avtoradio-main-player"></button>
+                        <div class="sliderStrip  left" data-volume="avtoradio-main-player">
+                            <div class="sliderBack" data-volume-line="avtoradio-main-player"></div>
+                            <button class="sliderThumb" data-volume-button="avtoradio-main-player" type="button"></button>
+                        </div>
+                    </div>
+                </div>
+        	</div>
+    	    	    </div>
+                
+                    <script src="//x.instreamatic.com/mark/idsync.js?site_id=346"></script>
+    <script src="https://cdn1.avtoradio.ru/static/js/library/mills/dist/mills.1.4.7.min.js"></script>
+    <script>
+        try {
+            document.addEventListener("DOMContentLoaded", function() {
+                const options = {
+                    place: 44,
+                    advInterval: 600, 
+                    repeatInterval: 60, 
+                    actionsLimit: 20, 
+                    titlesTrigger: false, 
+                    fadeOverlay: 200, 
+                    hideBannerInterval: 35, 
+                    VASTRequestTimeout: 3000, 
+                    bannerBottomMargin: 100, 
+                    playerVolume: 95, 
+                    // allowContent: [`stream`, `sample`, `podcast`], 
+                    partners: [
+                                                {
+    "link": "https://yandex.ru/ads/adfox/271868/getCode?p1=cbuuq&p2=gaxi",
+    "counters": {},
+    "partnerName": "Name",
+    "content": "",
+    "partnerID": 1127,
+    "placeID": 44
+},                                                {
+    "link": "https://www.avtoradio.ru/api/outreach/vast/54/1",
+    "counters": {},
+    "partnerName": "ГПМ Радио",
+    "content": "",
+    "partnerID": 1387,
+    "placeID": 44
+},                                                {
+    "link": "https://yandex.ru/ads/adfox/277740/getCode?p1=dkdox&p2=gdol",
+    "counters": {},
+    "partnerName": "GPMAdv",
+    "content": "",
+    "partnerID": 4531,
+    "placeID": 44
+}                                            ]
+                };
+                new Mills(options);
+                MillsChecker = () => {
+                    document.addEventListener(`millsQuery`, ({ detail: { data = {}}}) => {
+                        const { partnerName } = data;
+                        console.log(`Отправляем запрос к партнеру ${partnerName}`);
+                    });
+                    document.addEventListener(`millsQueryEmpty`, ({ detail: { data = {}}}) => {
+                        const { partnerName } = data;
+                        console.log(`Пришел пустой ответ от партнера ${partnerName}`);
+                    });
+                    document.addEventListener(`millsQueryError`, ({ detail: { data = {}}}) => {
+                        const { partnerName } = data;
+                        console.log(`Ошибка запроса к партнеру ${partnerName}`);
+                    });
+                    document.addEventListener(`millsStart`, ({ detail: { data = {}}}) => {
+                        const { partnerName } = data;
+                        console.log(`Проигрываем рекламный блок от партнера ${partnerName}`);
+                    });
+                    document.addEventListener(`millsEnd`, ({ detail: { data = {}}}) => {
+                        const { partnerName } = data;
+                        console.log(`Закончили проигрывать рекламный блок от партнера ${partnerName}`);
+                    });
+                    document.addEventListener(`millsPlay`, ({ detail: { data= {}}}) => {
+                        const { partnerName } = data;
+                        console.log(`Продолжили воспроизведение после паузы у партнера ${partnerName}`);
+                    });
+                    document.addEventListener(`millsPause`, ({ detail: { data = {}}}) => {
+                        const { partnerName } = data;
+                        console.log(`Поставили на паузу воспроизведение рекламного блока от партнера ${partnerName}`);
+                    });
+                    document.addEventListener(`millsFirstQuartile`, ({ detail: { data = {}}}) => {
+                        const { partnerName } = data;
+                        console.log(`Проиграли 1/4 рекламного блока от партнера ${partnerName}`);
+                    });
+                    document.addEventListener(`millsMidpoint`, ({ detail: { data= {}}}) => {
+                        const { partnerName } = data;
+                        console.log(`Проиграли 1/2 рекламного блока от партнера ${partnerName}`);
+                    });
+                    document.addEventListener(`millsThirdQuartile`, ({ detail: { data = {}}}) => {
+                        const { partnerName } = data;
+                        console.log(`Проиграли 3/4 рекламного блока от партнера ${partnerName}`);
+                    });
+                    document.addEventListener(`millsTimeout`, ({ detail: { data = {}}}) => {
+                        const { partnerName } = data;
+                        console.log(`Рекламный блок пропущен из-за таймаута`);
+                    });
+                };
+                document.addEventListener(`DOMContentLoaded`, () => {
+                    MillsChecker();
+                });                     
+            });
+        } catch (error) {
+            console.error(error);
+        }
+    </script>
+            </div>
+        </div>
+    </div>
+    <div class="header-player-city pa point"  ><a href="#main-radio-select" class="toggle"></a>
+    </div>
+</div>
+<div class="header-player-listern pa">
+    
+</div>
+<style>
+#soundSlider-block{
+    height: 1px;
+}
+.mefir_player .mplayer-block-play .stop, 
+.mefir_player .mplayer-block-play .pause, 
+.mefir_player .mplayer-block-play .play {
+  width: 132px;
+  height: 36px;
+}
+.mefir_player .mplayer-block-volume {
+  width: 45%;
+  height: 1px;
+}
+.radio-player {
+  top: -4px;
+  left: 10px;
+  width: 269px !important;
+  overflow: hidden;
+}
+.mefir_player .mplayer-block-play {
+  width: 36px;
+  text-align: center;
+}
+.mefir_player .mplayer-wraper {
+  width: 253px;
+  position: relative;
+  height: 40px  !important;
+  overflow: inherit;
+}
+.mefir_player #soundSlider-block .player-volume {
+  margin: 14px 0px 0px 122px;
+  height: 26px;
+}
+.radio-player {
+  top: 5px;
+  left: -110px;
+  width: 269px !important;
+  overflow: inherit;
+}
+.mefir_player .mplayer-block-play .play::before {
+  font-family: inherit !important;
+  content: '';
+  text-align: center;
+  width: 131px !important;
+  display: block;
+  height:36px;
+  background: url('/design/images/site-design/online/play_ar.svg') no-repeat;
+  margin: 2px 0 0 12px;
+}
+.mefir_player .mplayer-block-play .toggleplayer:not(.play)::before,
+.mefir_player .mplayer-block-play .stop::before,
+.mefir_player .mplayer-block-play .pause::before {
+  font-family: inherit !important;
+  content: '';
+  text-align: center;
+  width: 131px !important;
+  display: block;
+  height:36px;
+  background: url('/design/images/site-design/online/stop_ar.svg') no-repeat;
+  margin:2px 0 0 12px;
+}
+</style>
+    
+        
+    <!-- IS HLS = 1 -->
+    <!-- GLOB: 154 https://hls-01-gpm.hostingradio.ru/avtoradio812/playlist.m3u8 -->
+    
+    <audio
+        data-player="avtoradio-main-player"
+        data-playlist="https://hls-01-gpm.hostingradio.ru/avtoradio812/playlist.m3u8"
+        data-idstation="154"
+                    data-station="avtoradio495"
+            data-source="metadata"
+            data-source-offset="0"
+            data-source-type="channel"
+                data-player-channel="Avtoradio"
+        data-prefixchannel="www.avtoradio.ru"
+        data-outreach="true"
+        
+        data-typecontent="stream"
+        data-volume="100"
+        data-counters="streamStart:50976755:clickOnTurnOnButton"
+        preload="none"
+    ></audio>
+</div>  
+             
+            <div class="header-nowefir pr">
+    <div id="header-nowefir"  class="point pr">
+        <img class="equalizer pa" src="/design/images/site-design/equalizer.gif">
+    
+                        
+        <div
+            class="TitleSongAir header-nowefir-songtitle l60  none" 
+            onMouseOver="MP.ShowBlock('header-plist');  return MP.HideBlock('header-nowefir');"
+            onClick="MP.ShowBlock('header-plist');   MP.HideBlock('header-nowefir');  return MP.LoadContent('/header-animation-hide','header-studia');"
+        >
+            <span data-player-author="avtoradio-main-player">Сейчас в эфире</span>
+            <br>
+            <span data-player-track="avtoradio-main-player">звучит...</span>
+        </div>
+        <i class="icon-set select pa"></i>
+    </div>
+    
+    <div id="header-plist" class="header-nowefir-playlist pa "  onMouseOver="MP.ShowBlock('header-plist'); return MP.HideBlock('animation-studio');" onMouseOut="MP.HideBlock('header-plist');  return MP.ShowBlock('header-nowefir');">
+        <div class="clear"></div>
+        
+        <div class="song-curent ">
+        <img class="equalizer pa mt5" src="/design/images/site-design/equalizer.gif">
+        <div
+            class="TitleSongAir header-nowefir-songtitle l60  none" 
+            onMouseOver="MP.ShowBlock('header-plist');  return MP.HideBlock('header-nowefir');"
+            onClick="MP.ShowBlock('header-plist');   MP.HideBlock('header-nowefir');  return MP.LoadContent('/header-animation-hide','header-studia');"
+        >
+            <span data-player-author="avtoradio-main-player">Сейчас в эфире</span>
+            <br>
+            <span data-player-track="avtoradio-main-player">звучит...</span>
+        </div>
+        <i class="icon-set select pa"></i>
+        
+        
+                <div class="like pa"><i class="like-btn icon-set fl"></i><span class="TitleSongAirVoices count  fl">0</span><a href="#" data-page-track="/music/uid/!mdbUidTrack/show/tracks/playtrack/1" id="linkToPageTrack"><i class="like-link icon-set fr mr5 fade" title="Страница трека"></i></a></div>
+                </div>
+        
+        <div class="list">
+                                                <div class="song-list pr">
+                        <div class="song-time fl ">21:07</div>
+                        <div class="header-nowefir-songtitle pt10 none mt10">Наутилус Помпилиус <br >Тутанхамон</div>
+                        <div class="like pa">
+                         
+                        
+                            
+                            
+                            <a href="/music/uid/377275/show/tracks/playtrack/1"><i class="like-link icon-set fr mr5 fade"  title="Страница трека"></i></a>                                                </div>
+                    </div>
+                                    <div class="song-list pr">
+                        <div class="song-time fl ">21:03</div>
+                        <div class="header-nowefir-songtitle pt10 none mt10">Artik & Asti <br >Она Не Я</div>
+                        <div class="like pa">
+                         
+                        
+                            
+                            
+                            <a href="/music/uid/788656/show/tracks/playtrack/1"><i class="like-link icon-set fr mr5 fade"  title="Страница трека"></i></a>                                                </div>
+                    </div>
+                                    <div class="song-list pr">
+                        <div class="song-time fl ">20:57</div>
+                        <div class="header-nowefir-songtitle pt10 none mt10">Danny <br >If Only You</div>
+                        <div class="like pa">
+                         
+                        
+                            
+                            
+                            <a href="/music/uid/428501/show/tracks/playtrack/1"><i class="like-link icon-set fr mr5 fade"  title="Страница трека"></i></a>                                                </div>
+                    </div>
+                                    <div class="song-list pr">
+                        <div class="song-time fl ">20:47</div>
+                        <div class="header-nowefir-songtitle pt10 none mt10">Дмитрий Колдун <br >Корабли</div>
+                        <div class="like pa">
+                         
+                        
+                            
+                            
+                            <a href="/music/uid/67387/show/tracks/playtrack/1"><i class="like-link icon-set fr mr5 fade"  title="Страница трека"></i></a>                                                </div>
+                    </div>
+                                    <div class="song-list pr">
+                        <div class="song-time fl ">20:43</div>
+                        <div class="header-nowefir-songtitle pt10 none mt10">Texas <br >Summer Son</div>
+                        <div class="like pa">
+                         
+                        
+                            
+                            
+                            <a href="/music/uid/604404/show/tracks/playtrack/1"><i class="like-link icon-set fr mr5 fade"  title="Страница трека"></i></a>                                                </div>
+                    </div>
+                                    <div class="song-list pr">
+                        <div class="song-time fl ">20:36</div>
+                        <div class="header-nowefir-songtitle pt10 none mt10">Звонкий <br >Лети</div>
+                        <div class="like pa">
+                         
+                        
+                            
+                            
+                            <a href="/music/uid/853764/show/tracks/playtrack/1"><i class="like-link icon-set fr mr5 fade"  title="Страница трека"></i></a>                                                </div>
+                    </div>
+                                        
+        </div>
+        <div class="wide small tac mt10 mb10">
+          <a href="/playlist" class=" playlist-link white line"  onclick="MP.HideBlock('header-plist'); return MP.ShowBlock('header-nowefir');">Весь плейлист</a>
+          <i class="icon-set pa close point mt5 fade" onclick="MP.HideBlock('header-plist'); return MP.ShowBlock('header-nowefir');" title="Скрыть историю эфира"></i>
+        </div>
+      
+        <hr size="1" noshade color="#8ba9c6">
+        
+        <div class="wide small tac mt10 mb20 bt-white">
+          <span class="pa playlist-link white pl10"  onclick="MP.HideBlock('header-plist'); return MP.ShowBlock('header-nowefir');">Далее в эфире</span>
+        </div>
+        <br>
+        <div class="list-future">
+                                        <div class="song-list pr">
+                    <div class="song-time fl">21:12</div>
+                    <div class="header-nowefir-songtitle none pt10 mt5 bt-white">The Beach Boys <br >California Dreamin'</div>
+                    <div class="like pa">
+                         
+                            
+                        
+                            <a href="/music/uid/604318/show/tracks/playtrack/1"><i class="like-link icon-set fr mr5 fade"  title="Страница трека"></i></a>                                            </div>
+                </div>
+                            <div class="song-list pr">
+                    <div class="song-time fl">21:16</div>
+                    <div class="header-nowefir-songtitle none pt10 mt5 bt-white">HammAli <br >О чем ты не спишь по ночам？</div>
+                    <div class="like pa">
+                         
+                            
+                        
+                            <a href="/music/uid/871991/show/tracks/playtrack/1"><i class="like-link icon-set fr mr5 fade"  title="Страница трека"></i></a>                                            </div>
+                </div>
+                            <div class="song-list pr">
+                    <div class="song-time fl">21:20</div>
+                    <div class="header-nowefir-songtitle none pt10 mt5 bt-white">Filatov & Karas <br >Мимо меня</div>
+                    <div class="like pa">
+                         
+                            
+                        
+                            <a href="/music/uid/843474/show/tracks/playtrack/1"><i class="like-link icon-set fr mr5 fade"  title="Страница трека"></i></a>                                            </div>
+                </div>
+                            </div>
+        
+    </div>
+</div>             
+           
+            <div class="header-transl pr" id="header-studia">
+                <a href="/onair-video">
+                    <img class="icon pr" src="/design/images/site-design/header/header-studia.svg" width="120" height="60" alt="Смотреть эфир">
+                </a>
+            </div>
+            
+            
+            <a 
+                href="https://www.avtoradio.ru/apps" 
+                onclick="ym(50976755,'reachGoal','ClikcDownloadappmenu'); return true;"
+                class="header-smart pr" 
+            >
+                <img src="/design/images/site-design/header/DownloadApp.svg" alt="Скачать приложение">
+            </a>
+            
+                 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+             
+             
+        
+            
+                        <div class="white small fr pa age-index  ">12+</div>
+                        
+            <link rel="stylesheet" href="https://www.avtoradio.ru/static/js/library/player/examples/styles.css">
+<link rel="stylesheet" href="/design/include/site-design/player_subchannel.css?v=1771524626">
+<div class="header-player-subchannel disabled pr">
+    <div class="header-player-text-subchannel pa">Слушать Online</div>
+    <div class="header-player-stream pa z100">
+        <button
+            class="go_to_stream"
+            type="button"
+            
+            data-player-button="avtoradio-main-player"
+            data-return-button="true"
+        >← Слушать эфир</button>
+    </div>
+</div>
+<style>
+.header-player-text-subchannel {
+       font-size: 10px;
+        top: 48px;
+        left: 8px;
+}
+.header-player-subchannel {
+        background: none;
+}
+.go_to_stream {
+    position: relative;
+    top: 46px;
+    left: 160px;
+}
+#header.move .header-player-subchannel{
+    z-index: 1 !important;
+    height: 1px;
+}
+.header-player-subchannel {
+  height: 1px !important;
+}
+#header .header-player-subchannel {
+  top: -64px;
+    z-index: 1 !important;
+    height: 1px !important;
+}
+.header-player {
+    height: 53px;
+}
+.header-player-listern { display: none; }
+</style>            
+        </div>
+    </div>
+    <style>
+        .header-nowefir {
+          top: 0px !important;
+        }
+        .header {
+            height: 78px;
+        }
+        .header-smart, .header-smart:hover {
+              top: 3px;
+              width: 108px;
+              left: 321px;
+        }
+        #header.move .header-smart {
+              left: 460px;
+              opacity: 1;
+        }
+        #header.move .header-transl {
+          left: 480px;
+          top: 0px;
+          transition: all .2s ease-in;
+          border-right: solid 1px #8ba9c6;
+        }
+        .header-transl {
+          border-right: solid 1px #8ba9c6;
+          width: 120px;
+          height: 70px !important;
+          top: 1px;
+          left: 328px;
+          color: #fff;
+          text-align: right;
+          vertical-align: middle;
+          display: table-cell;
+          transition: all .5s ease-in;
+          z-index: 4;
+        }
+        .header-nowefir {
+          top: -2px;
+        }
+        
+        .header-transl a {
+          height: 53px;
+          margin: 0px;
+          padding: 0px;
+          width: 40px !important;
+          vertical-align: middle;
+          display: table-cell;
+          z-index: 102;
+          left: 0px   !important;
+          position: relative;
+        }
+        .header-transl .icon{
+            left: 0px;
+            top: 2px;
+            width: 120px;
+            height: 70px;
+        }
+        .header-search {
+          width: 23px;
+          height: 30px;
+          right: 0px;
+          top: 24px;
+          vertical-align: middle;
+          display: table-cell;
+        }
+        #header .header-smart {
+          opacity: 1 !important;
+          left: 320px;
+        }
+        
+    </style>
+     
+ 
+ 
+<div class="block-menu wide">
+    <div class="block-menu-block fix ma pr">
+        <a href="/" class="noajax" id="menu_link_ar_logo">
+            <div id="ar_logo" class="block-menu-logo pa">
+                <img src="/design/images/site-design/avtoradio-logo.png" class="header_logo">
+            </div>
+        </a>
+        <div class="block-menu-city pa">
+    
+    <div class="block-menu-city-block pts-r ma"  onClick="MP.showpreloadingimage = false;return MP.LoadContent('/city-selector-by-region','city-list-selector');">
+    <i class="icon-set geo"></i><span class="city-active">
+                    Санкт-Петербург 88.4 FM
+        </span>
+    </div>
+</div> 
+        <style>.icon-set {background-image: url('/design/images/site-design/icon-set.png?v=19');}
+        .block-menu .block-menu-snet i.vk:hover {width:34px;background-position:-267px -26px;} </style>
+        <div class="block-menu-snet pa">
+            <i class="subscribe"><a href="/feedback/city/154">Напиши в эфир</a></i>
+            <div class="clear h30"></div>
+            <i class="icon-set vk"><a href="https://vkontakte.ru/avtoradio" class="noajax" target="_blank"></a></i>
+            <i class="icon-set ok"><a href="https://www.odnoklassniki.ru/group/51027731349594" class="noajax" target="_blank"></a></i>
+            
+            
+            
+            <i class="icon-set tt"><a href="https://www.tiktok.com/@avtoradio" class="noajax" target="_blank"></a></i>
+            <i class="icon-set tg"><a href="https://t.me/Avtoradioru" class="noajax" target="_blank"></a></i>
+            
+           
+            <i class="icon-set rt"><a href="https://rutube.ru/channel/607542" class="noajax" target="_blank"></a></i>
+            <i class="icon-set yz"><a href="https://dzen.yandex.ru/avtoradiomoscow" class="noajax" target="_blank"></a></i>
+            <a class="icon-yappy" href="https://yappy.media/s/p_58ABDNzcoqCJhbGbEXd0HL" class="noajax" target="_blank"><i></i></a>
+            
+        </div>
+        <div id="block-menu-setka" class="menu-setka pa ">
+            <div class="menu-setka-fix">
+                <div class="menu-setka-block x4 pr">
+                    <div class="h50 clear">Выиграй на Авторадио</div> <i class="icon-set-m gift"></i>
+                            <div class="menu-setka-action-list">
+                                
+    
+                                                                        
+                                                                        
+                                                                                                                                                                    <p><a href="https://www.avtoradio.ru/money" class="noajax">Много Денег. Счастливый сезон</a></p>
+                                                                    
+                                
+                                    
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                    
+                                    
+                                
+                                
+                                
+                                
+                                
+                            <div class="pa small"><a href="/promo_actions">Все акции</a></div>
+                            </div>
+                </div>
+                
+                
+                                                            
+                        <style>
+                            .icon-set-m.money {background:url('/design/images/site-design/phone-set-auto.gif') center center no-repeat;}
+                            #block-menu-setka .menu-setka-block i.money {background-position: 0px 0px;width: 66px;}
+                        </style>
+    
+                        <div class="menu-setka-block x2"  style="background: #df042c;background: -moz-linear-gradient(top,  #df042c 18%, #fe0000 100%);background: -webkit-linear-gradient(top,  #df042c 18%,#fe0000 100%);background: linear-gradient(to bottom,  #df042c 18%,#fe0000 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#df042c', endColorstr='#fe0000',GradientType=0 ) !important;">
+                            <a 
+                                href="https://www.avtoradio.ru/money?utm_source=avtoradio&utm_medium=button&utm_campaign=website&utm_term=block-menu&utm_content=149"
+                                onclick="ym(50976755,'reachGoal','ClickongimnPC'); return true;"
+                                class="noajax menu-setka-block-link"
+                            ></a>
+                            <div class="h50 clear up">Установить гимн<br>Авторадио</div>
+                            <i class="icon-set-m money mt5"></i>
+                        </div>
+                                                    
+                
+                
+                
+              
+                <div class="menu-setka-block x1">
+                    
+                    <a href="/murzilki/city/154" class="menu-setka-block-link"></a>
+                    <div class="h40 clear">Мурзилки LIVE</div><i class
+                    ="icon-set-m murzilki mt15"></i>
+                </div> 
+                
+                 
+                
+               
+                <div class="menu-setka-block x1">
+                    <a href="/driveshow/city/154" class="menu-setka-block-link"></a>
+                    <div class="h40 clear">Шоу<br>Поехали</div>
+                    <i class="icon-set-m driveshow mt10"></i>
+                </div>
+                
+                
+                
+               
+                
+                
+                
+                
+                
+                
+                <div class="menu-setka-block x2">
+                    <a href="/video/city/154" class="menu-setka-block-link"></a>
+                    <div class="h40 clear">Живые  <br>концерты</div>
+                    <i class="icon-set-m liveconcert mt10"></i>
+                </div>
+                
+                <div class="menu-setka-block x1">
+                    <a href="/playlist/city/154" class="menu-setka-block-link"></a>
+                    <div class="h40 clear mt10">Плейлист</div><i 
+                    class="icon-set-m playlist"></i>
+                </div>
+            
+                <div class="menu-setka-block x1">
+                    <a href="/newmusic/city/154" class="menu-setka-block-link"></a>
+                    <div class="h50 clear">Новая <br>музыка</div>
+                    <i class="icon-set-m music"></i>
+                </div>
+               
+                
+                
+                
+                
+            </div>
+        </div>
+    </div>
+</div>    <div id="layout" role="main">
+<style>
+    #murzilki_frame{display:block !important;}
+</style>
+        
+    <div class="fix ma pr" id="top-carousel">
+<span class="top-carousel-control  icon-set top-carousel-scroll-left" id="top-carousel-scroll-left"></span>
+<span class="top-carousel-control  icon-set top-carousel-scroll-right" id="top-carousel-scroll-right"></span>
+    <div class="bullets__layout pa" id="bullets__layout-top">
+        <div class="bullets__list" id="bullets__list-top"></div>
+    </div>
+</div>
+<div class="wide over-hide pr  mt5 h400 top-inter-window" id="top-inter-window">
+    <div  id="top-carousel-wrap"   >
+        <ul class="img_container " id="top-carousel-block" style="position: relative">
+                                                                                
+            
+            <li id="b4781" class="pr"><a href="/api/outreach/go/4781/17" target="_blank" style="background:url(/vardata/modules/outreach/file/4781/7160f69dde7025631478547d06832ebe.jpg) center center no-repeat;background-size: contain; }" class="block  top_banner_autosize noajax" ><img src="/api/outreach/stat/4781/17/spacer.png" border="0" height="400" style="position:absolute; top:0px; left:0px;z-index:1000;cursor:pointer;"  onClick="return location.href='/api/outreach/go/4781/17'">
+                              </a></li>
+                                                                                    
+            
+            <li id="b4801" class="pr"><a href="/api/outreach/go/4801/17" target="_blank" style="background:url(/vardata/modules/outreach/file/4801/132647d60445d34386062e30e51899a7.jpg) center center no-repeat;background-size: contain; }" class="block  top_banner_autosize noajax" ><img src="/api/outreach/stat/4801/17/spacer.png" border="0" height="400" style="position:absolute; top:0px; left:0px;z-index:1000;cursor:pointer;"  onClick="return location.href='/api/outreach/go/4801/17'">
+                              </a></li>
+                                                                                    
+            
+            <li id="b1781" class="pr"><a href="/api/outreach/go/1781/17" target="_blank" style="background:url(/vardata/modules/outreach/file/1781/c5e2e95bbef0d24e5a4096b7dab20e95.jpg) center center no-repeat;background-size: contain; }" class="block  top_banner_autosize noajax" ><img src="/api/outreach/stat/1781/17/spacer.png" border="0" height="400" style="position:absolute; top:0px; left:0px;z-index:1000;cursor:pointer;"  onClick="return location.href='/api/outreach/go/1781/17'">
+                              </a></li>
+                                                                                    
+            
+            <li id="b4758" class="pr"><a href="/api/outreach/go/4758/17" target="_blank" style="background:url(/vardata/modules/outreach/file/4758/a084b9b1a227c906075bd4b14df2b1a1.png) center center no-repeat;background-size: contain; }" class="block  top_banner_autosize noajax" ><img src="/api/outreach/stat/4758/17/spacer.png" border="0" height="400" style="position:absolute; top:0px; left:0px;z-index:1000;cursor:pointer;"  onClick="return location.href='/api/outreach/go/4758/17'">
+                              </a></li>
+                                                                                    
+            
+            <li id="b4753" class="pr"><a href="/api/outreach/go/4753/17" target="_blank" style="background:url(/vardata/modules/outreach/file/4753/25a2ef71f6e914263e43a49e75091ac3.webp) center center no-repeat;background-size: contain; }" class="block  top_banner_autosize noajax" ><img src="/api/outreach/stat/4753/17/spacer.png" border="0" height="400" style="position:absolute; top:0px; left:0px;z-index:1000;cursor:pointer;"  onClick="return location.href='/api/outreach/go/4753/17'">
+                              </a></li>
+                                    
+        
+        </ul>
+     
+        <div class="bullets__layout">
+            <div class="bullets__list"></div>
+        </div>
+    </div>
+</div>
+<style>
+    @media screen and (max-width: 1680px) {
+        .top-inter-window{
+            margin-top: -25px !important;
+        }
+        .bullets__layout {
+            margin-top: -10px;
+        }
+    }
+    @media screen and (max-width: 1600px) {
+        .top-inter-window{
+            margin-top: -25px !important;
+        }
+        .bullets__layout {
+            margin-top: -20px;
+        }
+    }
+    @media screen and (max-width: 1440px) {
+        .top-inter-window{
+            margin-top: -45px !important;
+        }
+        .bullets__layout {
+            margin-top: -50px;
+        }
+     }
+    @media screen and (max-width: 1280px) {
+        .top-inter-window{
+            margin-top: -55px !important;
+        }
+        .bullets__layout {
+            margin-top: -60px;
+        }
+     }
+      @media screen and (max-width: 1200px) {
+        .top-inter-window{
+            margin-top: -55px !important;
+        }
+        .bullets__layout {
+            margin-top: -80px;
+        }
+     }
+    @media screen and (max-width: 1024px) {
+        .top_banner_autosize{
+            background-size: cover !important; 
+        }
+     }
+     .top-inter-window{margin-bottom: 40px;}
+</style>
+    <div class="wide pr lay-wrapper "></div>
+    <div class=" lay-wrap  pr">
+        
+        <div class="wide" role="article">
+    <div class="fix ma " id="ar-channel">
+        
+        <div class="block-lable wide pr mb10">
+            <i class="icon-set channel fl"></i>
+            <h1 class="block-header fl up">ещё Каналы Авторадио</h1>
+        </div>
+         
+        <div class="music__list_container swiper mySwiper">
+            <div class="music__list swiper-wrapper">
+                                    <div class="music__item swiper-slide">
+                        <div class="aradio-channel">
+                                                                                    <button 
+                                                                class="js-stream-change-btn play-btn play-btn_view_with-content aradio-channel__btn play" 
+                                type="button" 
+                                data-player-button="avtoradio-main-player"
+                                data-playlist="https://101.ru/api/channel/getListServersChannel/160/channel/"
+                                data-broadcast-button="aradio-channel-160"
+                                data-idstation="160"
+                                data-prefixchannel="channelchannel"
+                                data-channel="Авторадио. Зарубежный рок"
+                                data-source="websockets"
+                                data-sub-channel="Авторадио. Зарубежный рок"
+                            >
+                                <img class="aradio-channel__logo lazyload" data-src="https://cdn1.101.ru/proxy/vardata/modules/channel/image/171607ce7dcfee023631c3fc5ac256ab.jpg?w=246&h=240&pos=center&q=100&t=1671536085" alt="Авторадио. Зарубежный рок" loading="lazy" src="https://cdn1.101.ru/proxy/vardata/modules/channel/image/171607ce7dcfee023631c3fc5ac256ab.jpg?w=246&h=240&pos=center&q=100&t=1671536085">
+                            </button> 
+                            
+                            <div class="aradio-channel__title">Авторадио. Зарубежный рок</div>
+                        </div>
+                    </div>
+                                    <div class="music__item swiper-slide">
+                        <div class="aradio-channel">
+                                                                                    <button 
+                                                                    onclick="ym(50976755,'reachGoal', 'clickOnSubChannelDisco80'); return true;"
+                                                                class="js-stream-change-btn play-btn play-btn_view_with-content aradio-channel__btn play" 
+                                type="button" 
+                                data-player-button="avtoradio-main-player"
+                                data-playlist="https://101.ru/api/channel/getListServersChannel/1/channel/"
+                                data-broadcast-button="aradio-channel-1"
+                                data-idstation="1"
+                                data-prefixchannel="channelchannel"
+                                data-channel="Авторадио. Дискотека 80-х"
+                                data-source="websockets"
+                                data-sub-channel="Авторадио. Дискотека 80-х"
+                            >
+                                <img class="aradio-channel__logo lazyload" data-src="https://cdn2.101.ru/proxy/vardata/modules/channel/image/80322e02fbfa6888ccda74783cae42ab.jpg?w=246&h=240&pos=center&q=100&t=1668603643" alt="Авторадио. Дискотека 80-х" loading="lazy" src="https://cdn2.101.ru/proxy/vardata/modules/channel/image/80322e02fbfa6888ccda74783cae42ab.jpg?w=246&h=240&pos=center&q=100&t=1668603643">
+                            </button> 
+                            
+                            <div class="aradio-channel__title">Авторадио. Дискотека 80-х</div>
+                        </div>
+                    </div>
+                                    <div class="music__item swiper-slide">
+                        <div class="aradio-channel">
+                                                                                    <button 
+                                                                class="js-stream-change-btn play-btn play-btn_view_with-content aradio-channel__btn play" 
+                                type="button" 
+                                data-player-button="avtoradio-main-player"
+                                data-playlist="https://101.ru/api/channel/getListServersChannel/42/channel/"
+                                data-broadcast-button="aradio-channel-42"
+                                data-idstation="42"
+                                data-prefixchannel="channelchannel"
+                                data-channel="Авторадио. Русский рок"
+                                data-source="websockets"
+                                data-sub-channel="Авторадио. Русский рок"
+                            >
+                                <img class="aradio-channel__logo lazyload" data-src="https://cdn0.101.ru/proxy/vardata/modules/channel/image/93980f2060cd4c16716fdb65689a8d85.jpg?w=246&h=240&pos=center&q=100&t=1671565385" alt="Авторадио. Русский рок" loading="lazy" src="https://cdn0.101.ru/proxy/vardata/modules/channel/image/93980f2060cd4c16716fdb65689a8d85.jpg?w=246&h=240&pos=center&q=100&t=1671565385">
+                            </button> 
+                            
+                            <div class="aradio-channel__title">Авторадио. Русский рок</div>
+                        </div>
+                    </div>
+                                    <div class="music__item swiper-slide">
+                        <div class="aradio-channel">
+                                                                                    <button 
+                                                                    onclick="ym(50976755,'reachGoal', 'clickOnSubChannelMusicAvtoradio'); return true;"
+                                                                class="js-stream-change-btn play-btn play-btn_view_with-content aradio-channel__btn play" 
+                                type="button" 
+                                data-player-button="avtoradio-main-player"
+                                data-playlist="https://101.ru/api/channel/getListServersChannel/2/channel/"
+                                data-broadcast-button="aradio-channel-2"
+                                data-idstation="2"
+                                data-prefixchannel="channelchannel"
+                                data-channel="Музыка Авторадио"
+                                data-source="websockets"
+                                data-sub-channel="Музыка Авторадио"
+                            >
+                                <img class="aradio-channel__logo lazyload" data-src="https://cdn0.101.ru/proxy/vardata/modules/channel/image/ef99753c748bc6c1a878fbcf00b8aa2c.jpg?w=246&h=240&pos=center&q=100&t=1668603692" alt="Музыка Авторадио" loading="lazy" src="https://cdn0.101.ru/proxy/vardata/modules/channel/image/ef99753c748bc6c1a878fbcf00b8aa2c.jpg?w=246&h=240&pos=center&q=100&t=1668603692">
+                            </button> 
+                            
+                            <div class="aradio-channel__title">Музыка Авторадио</div>
+                        </div>
+                    </div>
+                                    <div class="music__item swiper-slide">
+                        <div class="aradio-channel">
+                                                                                    <button 
+                                                                class="js-stream-change-btn play-btn play-btn_view_with-content aradio-channel__btn play" 
+                                type="button" 
+                                data-player-button="avtoradio-main-player"
+                                data-playlist="https://101.ru/api/channel/getListServersChannel/34/channel/"
+                                data-broadcast-button="aradio-channel-34"
+                                data-idstation="34"
+                                data-prefixchannel="channelchannel"
+                                data-channel="Авторадио. Россия. Топ-50"
+                                data-source="websockets"
+                                data-sub-channel="Авторадио. Россия. Топ-50"
+                            >
+                                <img class="aradio-channel__logo lazyload" data-src="https://cdn1.101.ru/proxy/vardata/modules/channel/image/6be10abbedc5c07ae870473138324d44.jpg?w=246&h=240&pos=center&q=100&t=1671789228" alt="Авторадио. Россия. Топ-50" loading="lazy" src="https://cdn1.101.ru/proxy/vardata/modules/channel/image/6be10abbedc5c07ae870473138324d44.jpg?w=246&h=240&pos=center&q=100&t=1671789228">
+                            </button> 
+                            
+                            <div class="aradio-channel__title">Авторадио. Россия. Топ-50</div>
+                        </div>
+                    </div>
+                                    <div class="music__item swiper-slide">
+                        <div class="aradio-channel">
+                                                                                    <button 
+                                                                    onclick="ym(50976755,'reachGoal', 'clickOnSubChannelDisco90'); return true;"
+                                                                class="js-stream-change-btn play-btn play-btn_view_with-content aradio-channel__btn play" 
+                                type="button" 
+                                data-player-button="avtoradio-main-player"
+                                data-playlist="https://101.ru/api/channel/getListServersChannel/74/channel/"
+                                data-broadcast-button="aradio-channel-74"
+                                data-idstation="74"
+                                data-prefixchannel="channelchannel"
+                                data-channel="Авторадио. Дискотека 90-х"
+                                data-source="websockets"
+                                data-sub-channel="Авторадио. Дискотека 90-х"
+                            >
+                                <img class="aradio-channel__logo lazyload" data-src="https://cdn0.101.ru/proxy/vardata/modules/channel/image/c82dd37d6023d00032e34d745f3bae34.jpg?w=246&h=240&pos=center&q=100&t=1668603667" alt="Авторадио. Дискотека 90-х" loading="lazy" src="https://cdn0.101.ru/proxy/vardata/modules/channel/image/c82dd37d6023d00032e34d745f3bae34.jpg?w=246&h=240&pos=center&q=100&t=1668603667">
+                            </button> 
+                            
+                            <div class="aradio-channel__title">Авторадио. Дискотека 90-х</div>
+                        </div>
+                    </div>
+                                    <div class="music__item swiper-slide">
+                        <div class="aradio-channel">
+                                                                                    <button 
+                                                                class="js-stream-change-btn play-btn play-btn_view_with-content aradio-channel__btn play" 
+                                type="button" 
+                                data-player-button="avtoradio-main-player"
+                                data-playlist="https://101.ru/api/channel/getListServersChannel/144/channel/"
+                                data-broadcast-button="aradio-channel-144"
+                                data-idstation="144"
+                                data-prefixchannel="channelchannel"
+                                data-channel="Авторадио. Дискотека СССР"
+                                data-source="websockets"
+                                data-sub-channel="Авторадио. Дискотека СССР"
+                            >
+                                <img class="aradio-channel__logo lazyload" data-src="https://cdn0.101.ru/proxy/vardata/modules/channel/image/21f1840060e3c1bbb22e1ce7ce6d9be2.jpg?w=246&h=240&pos=center&q=100&t=1671564261" alt="Авторадио. Дискотека СССР" loading="lazy" src="https://cdn0.101.ru/proxy/vardata/modules/channel/image/21f1840060e3c1bbb22e1ce7ce6d9be2.jpg?w=246&h=240&pos=center&q=100&t=1671564261">
+                            </button> 
+                            
+                            <div class="aradio-channel__title">Авторадио. Дискотека СССР</div>
+                        </div>
+                    </div>
+                                
+                <script>
+                    try {
+                        document.addEventListener(`DOMContentLoaded`, function() {
+                            const subWrapper = document.querySelector(`.header-player-subchannel`);
+                            const returnButton = document.querySelector(`.go_to_stream`);
+                            const buttons = document.querySelectorAll(`.js-stream-change-btn`);
+                            const subChannelName = subWrapper.querySelector(`.header-player-text-subchannel`);
+                            buttons.forEach(function(button) {
+                                button.addEventListener(`click`, function() {
+                                    subWrapper.classList.remove(`disabled`);
+                                    subChannelName.innerText = button.dataset.subChannel;
+                                });
+                            });
+                            returnButton.addEventListener(`click`, function() {
+                                subWrapper.classList.add(`disabled`);
+                            });
+                        });
+                    } catch (error) {
+                        console.error(error);
+                    }
+                </script>
+            </div>
+            <div class="swiper-pagination"></div>
+            
+        </div>
+    </div>
+</div>
+<link rel="stylesheet" href="/design/include/site-design/swiper-bundle.min.css"/>
+<script src="/design/include/site-design/swiper-bundle.min.js"></script>
+<script>
+  var swiper = new Swiper(".mySwiper", {
+    slidesPerView: 4,
+    spaceBetween: 2,
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true,
+    },
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+    },
+    autoplay: {
+      delay: 2500,
+      disableOnInteraction: false,
+    }
+  });
+</script>
+<style>
+    .aradio-channel__title {letter-spacing: -1px;}
+    .swiper-pagination-bullet {background: #a1c4de;opacity:  1;}
+    .swiper-pagination-bullet-active {background: #4a4f8f;}
+    .swiper-horizontal > .swiper-pagination-bullets {bottom: 0px;left:0.5%;}
+    .aradio-channel__title{font-size:17px;}
+    
+</style>    
+        <div class="h20"></div>
+        <div class=" fix ma">
+            <div class="index-new-music fl" role="article">
+                     
+ 
+ 
+<div class="block-lable wide pr mb10">
+    <i class="icon-set music fl"></i><h1 class="block-header  fl up">Новая музыка в эфире</h1>
+    <div class="button-grey fl mt10 ml20"><a href="/newmusic/city/154">Больше музыки</a></div>
+</div>
+<div class="ma pr" id="music-carousel">
+<span class="music-carousel-control  icon-set music-carousel-scroll-left" id="music-carousel-scroll-left"></span>
+<span class="music-carousel-control  icon-set music-carousel-scroll-right" id="music-carousel-scroll-right"></span>
+    <div class="bullets__layout pa" id="bullets__layout-music">
+        <div class="bullets__list" id="bullets__list-music">
+        </div>
+    </div>
+</div>
+<div  id="music-carousel-wrap">
+    <ul class="img_container" id="music-carousel-block">
+                
+                    <li class="pr  animated imgzoom" id="track873209">
+                            <div class="pa imgsize"><img src="https://101.ru/proxy/vardata/modules/musicdb/files/202602/08/82cee1306cb6652591e7df77cf5ccf97.jpg?w=200&h=200&pos=center&t=1771524193" class="pa"></div>
+                                        <div class="newmusic_player">
+                        <div class="mplayer-wraper"> 
+    	<div
+    	    class="mplayer-block-play"
+    	    
+	    >
+            <button
+    	        class="toggleplayer play left" 
+    	        type="button"
+    	        data-player-button="avtoradio-main-player"
+                                    data-broadcast-button="sample-873209"                                            data-track="https://101.ru:8143?date=202602%2F07&hash=cdd17bc245ec96a5a4fb3670d68d3683&start=56"
+                        data-pause="true"
+                                            	                                        ></button>
+    	</div>
+    	        	
+    	    	    </div>
+                </div>
+                
+            <div class="pa music-index-name">Филипп Киркоров                        <br> <b>Давно всё хорошо</b>
+            </div>
+            
+            <div class="pa like">
+                 
+                    
+                        
+                                            <a href="/music/uid/873209/show/tracks/playtrack/1"><i class="like-link icon-set fr mr20 fade"  title="Страница трека"></i></a>
+                                                </div>
+            <div id="newmusic873209" class="music-player pa"></div>
+            </li>
+                    <li class="pr  animated imgzoom" id="track870526">
+                            <div class="pa imgsize"><img src="https://101.ru/proxy/vardata/modules/musicdb/files/202510/41/64187b0758bbbfba9f18ec9ffa107c29.jpg?w=200&h=200&pos=center&t=1771521795" class="pa"></div>
+                                        <div class="newmusic_player">
+                        <div class="mplayer-wraper"> 
+    	<div
+    	    class="mplayer-block-play"
+    	    
+	    >
+            <button
+    	        class="toggleplayer play left" 
+    	        type="button"
+    	        data-player-button="avtoradio-main-player"
+                                    data-broadcast-button="sample-870526"                                            data-track="https://101.ru:8143?date=202510%2F41&hash=32ec6de2a0bb6cb9817d8ca1c7109e98&start=44"
+                        data-pause="true"
+                                            	                                        ></button>
+    	</div>
+    	        	
+    	    	    </div>
+                </div>
+                
+            <div class="pa music-index-name">Ваня Дмитриенко                                                & Аня Пересильд                                        <br> <b>Силуэт</b>
+            </div>
+            
+            <div class="pa like">
+                 
+                    
+                        
+                                            <a href="/music/uid/870526/show/tracks/playtrack/1"><i class="like-link icon-set fr mr20 fade"  title="Страница трека"></i></a>
+                                                </div>
+            <div id="newmusic870526" class="music-player pa"></div>
+            </li>
+                    <li class="pr  animated imgzoom" id="track871884">
+                            <div class="pa imgsize"><img src="https://101.ru/proxy/vardata/modules/musicdb/files/202601/03/bef4d4e6b0e3f961f8352c051057051e.jpeg?w=200&h=200&pos=center&t=1771523066" class="pa"></div>
+                                        <div class="newmusic_player">
+                        <div class="mplayer-wraper"> 
+    	<div
+    	    class="mplayer-block-play"
+    	    
+	    >
+            <button
+    	        class="toggleplayer play left" 
+    	        type="button"
+    	        data-player-button="avtoradio-main-player"
+                                    data-broadcast-button="sample-871884"                                            data-track="https://101.ru:8143?date=202601%2F03&hash=74a788cbb7ded34769411bd112371cd4"
+                        data-pause="true"
+                                            	                                        ></button>
+    	</div>
+    	        	
+    	    	    </div>
+                </div>
+                
+            <div class="pa music-index-name">Kungs                                                & Theophilus London                                        <br> <b>Galaxy</b>
+            </div>
+            
+            <div class="pa like">
+                 
+                    
+                        
+                                            <a href="/music/uid/871884/show/tracks/playtrack/1"><i class="like-link icon-set fr mr20 fade"  title="Страница трека"></i></a>
+                                                </div>
+            <div id="newmusic871884" class="music-player pa"></div>
+            </li>
+                    <li class="pr  animated imgzoom" id="track873251">
+                            <div class="pa imgsize"><img src="https://101.ru/proxy/vardata/modules/musicdb/files/202602/08/18e660e3083e033618645b54d1935d42.jpg?w=200&h=200&pos=center&t=1771523602" class="pa"></div>
+                                        <div class="newmusic_player">
+                        <div class="mplayer-wraper"> 
+    	<div
+    	    class="mplayer-block-play"
+    	    
+	    >
+            <button
+    	        class="toggleplayer play left" 
+    	        type="button"
+    	        data-player-button="avtoradio-main-player"
+                                    data-broadcast-button="sample-873251"                                            data-track="https://101.ru:8143?date=202602%2F08&hash=9ecf35f6357c6f0a9035d80eb504344c&start=30"
+                        data-pause="true"
+                                            	                                        ></button>
+    	</div>
+    	        	
+    	    	    </div>
+                </div>
+                
+            <div class="pa music-index-name">Roza ZERGERLI                        <br> <b>Я Пью Тебя До Дна</b>
+            </div>
+            
+            <div class="pa like">
+                 
+                    
+                        
+                                            <a href="/music/uid/873251/show/tracks/playtrack/1"><i class="like-link icon-set fr mr20 fade"  title="Страница трека"></i></a>
+                                                </div>
+            <div id="newmusic873251" class="music-player pa"></div>
+            </li>
+                    <li class="pr  animated imgzoom" id="track873250">
+                            <div class="pa imgsize"><img src="https://101.ru/proxy/vardata/modules/musicdb/files/202602/08/5cc98a593e901f0bd0abbaaeac50627f.jpg?w=200&h=200&pos=center&t=1771523602" class="pa"></div>
+                                        <div class="newmusic_player">
+                        <div class="mplayer-wraper"> 
+    	<div
+    	    class="mplayer-block-play"
+    	    
+	    >
+            <button
+    	        class="toggleplayer play left" 
+    	        type="button"
+    	        data-player-button="avtoradio-main-player"
+                                    data-broadcast-button="sample-873250"                                            data-track="https://101.ru:8143?date=202602%2F08&hash=5c503b1a8a28478639ff3c540d5eb98a&start=30"
+                        data-pause="true"
+                                            	                                        ></button>
+    	</div>
+    	        	
+    	    	    </div>
+                </div>
+                
+            <div class="pa music-index-name">Ella Langley                        <br> <b>Choosin' Texas</b>
+            </div>
+            
+            <div class="pa like">
+                 
+                    
+                        
+                                            <a href="/music/uid/873250/show/tracks/playtrack/1"><i class="like-link icon-set fr mr20 fade"  title="Страница трека"></i></a>
+                                                </div>
+            <div id="newmusic873250" class="music-player pa"></div>
+            </li>
+                    <li class="pr  animated imgzoom" id="track872823">
+                            <div class="pa imgsize"><img src="https://101.ru/proxy/vardata/modules/musicdb/files/202602/07/ae9bc1a51f92307809161cea89328a05.jpg?w=200&h=200&pos=center&t=1771523833" class="pa"></div>
+                                        <div class="newmusic_player">
+                        <div class="mplayer-wraper"> 
+    	<div
+    	    class="mplayer-block-play"
+    	    
+	    >
+            <button
+    	        class="toggleplayer play left" 
+    	        type="button"
+    	        data-player-button="avtoradio-main-player"
+                                    data-broadcast-button="sample-872823"                                            data-track="https://101.ru:8143?date=202602%2F07&hash=f15c5a3d41acb7a1e797bca49d43032a&start=30"
+                        data-pause="true"
+                                            	                                        ></button>
+    	</div>
+    	        	
+    	    	    </div>
+                </div>
+                
+            <div class="pa music-index-name">Владимир Пресняков                        <br> <b>Учусь Любить</b>
+            </div>
+            
+            <div class="pa like">
+                 
+                    
+                        
+                                            <a href="/music/uid/872823/show/tracks/playtrack/1"><i class="like-link icon-set fr mr20 fade"  title="Страница трека"></i></a>
+                                                </div>
+            <div id="newmusic872823" class="music-player pa"></div>
+            </li>
+                    <li class="pr  animated imgzoom" id="track872824">
+                            <div class="pa imgsize"><img src="https://101.ru/proxy/vardata/modules/musicdb/files/202602/07/37859a151082b8b3877b33e5815395b6.jpg?w=200&h=200&pos=center&t=1771521971" class="pa"></div>
+                                        <div class="newmusic_player">
+                        <div class="mplayer-wraper"> 
+    	<div
+    	    class="mplayer-block-play"
+    	    
+	    >
+            <button
+    	        class="toggleplayer play left" 
+    	        type="button"
+    	        data-player-button="avtoradio-main-player"
+                                    data-broadcast-button="sample-872824"                                            data-track="https://101.ru:8143?date=202602%2F07&hash=374bbaff739dbcf8f8ddf99876da6cb8&start=30"
+                        data-pause="true"
+                                            	                                        ></button>
+    	</div>
+    	        	
+    	    	    </div>
+                </div>
+                
+            <div class="pa music-index-name">Татьяна Куртукова                        <br> <b>Синяя Вода</b>
+            </div>
+            
+            <div class="pa like">
+                 
+                    
+                        
+                                            <a href="/music/uid/872824/show/tracks/playtrack/1"><i class="like-link icon-set fr mr20 fade"  title="Страница трека"></i></a>
+                                                </div>
+            <div id="newmusic872824" class="music-player pa"></div>
+            </li>
+                    <li class="pr  animated imgzoom" id="track872822">
+                            <div class="pa imgsize"><img src="https://101.ru/proxy/vardata/modules/musicdb/files/202602/07/d1da0752c1566428d76fc71c3ccb7b79.jpg?w=200&h=200&pos=center&t=1771522055" class="pa"></div>
+                                        <div class="newmusic_player">
+                        <div class="mplayer-wraper"> 
+    	<div
+    	    class="mplayer-block-play"
+    	    
+	    >
+            <button
+    	        class="toggleplayer play left" 
+    	        type="button"
+    	        data-player-button="avtoradio-main-player"
+                                    data-broadcast-button="sample-872822"                                            data-track="https://101.ru:8143?date=202602%2F07&hash=4b6e4e4e19b06f44f25fe122c026d249&start=30"
+                        data-pause="true"
+                                            	                                        ></button>
+    	</div>
+    	        	
+    	    	    </div>
+                </div>
+                
+            <div class="pa music-index-name">Митя Фомин                        <br> <b>Танцуют Все</b>
+            </div>
+            
+            <div class="pa like">
+                 
+                    
+                        
+                                            <a href="/music/uid/872822/show/tracks/playtrack/1"><i class="like-link icon-set fr mr20 fade"  title="Страница трека"></i></a>
+                                                </div>
+            <div id="newmusic872822" class="music-player pa"></div>
+            </li>
+                        
+    </ul>
+</div>
+<style>
+.newmusic_player .mplayer-block-play .toggleplayer::before,
+.newmusic_player .mplayer-block-play .play::before,
+.newmusic_player .mplayer-block-play .pause::before,
+.newmusic_player .mplayer-block-play .stop::before {margin: -10px 0px 0px -24px !important;}
+@media (max-width:1600px){
+    #music-carousel .bullets__layout {
+      top: 283px;
+    }
+@media (max-width:1440px){
+    #music-carousel .bullets__layout {
+      top: 325px;
+    }
+@media (max-width:1280px){
+    #music-carousel .bullets__layout {
+      top: 327px;
+    }
+}
+@media (max-width: 1200px){
+    #music-carousel .bullets__layout {
+      top: 347px;
+    }
+}
+</style>
+            </div>
+            <div class="index-shortnews fr" role="article">
+                     
+ 
+ 
+ 
+    
+                            
+        
+        
+        
+     
+                                                                                                                                                                                                                                            <div class="block-lable wide pr">
+    <i class="icon-set news fl"></i><h1 class="block-header  fl up">Новости часа</h1>
+    <div class="button-grey fl mt10 ml20"><a href="/shortnews/city/154">Больше новостей</a></div>
+</div>
+<ul>
+    <li style="background: #eaeefe;">
+        <a href="/news/uid/559881" class="noajax" target="_blank">
+            <span class="time" style="text-align: center;">🔥</span>  <span class="anons">Покупки на рынках стали новым трендом в соцсетях</span>
+        </a>
+    </li>
+    <li>
+        <a href="/news/uid/559876" class="noajax" target="_blank">
+            <span class="time" style="text-align: center;">20:31</span>  <span class="anons">В России введут дополнительную надбавку к грузовым железнодорожным тарифам</span>
+        </a>
+    </li>
+    <li>
+        <a href="/news/uid/559871" class="noajax" target="_blank">
+            <span class="time" style="text-align: center;">20:16</span>  <span class="anons">Владимир Путин провёл встречу с лидером Мадагаскара</span>
+        </a>
+    </li>
+    <li>
+        <a href="/news/uid/559866" class="noajax" target="_blank">
+            <span class="time" style="text-align: center;">20:06</span>  <span class="anons">Роспотребнадзор сообщил о снижении активности вирусов гриппа</span>
+        </a>
+    </li>
+    <li style="background: #eaeefe;">
+        <a href="/news/uid/559861" class="noajax" target="_blank">
+            <span class="time" style="text-align: center;">🔥</span>  <span class="anons">Продажи дизельных легковых автомобилей в России снизились</span>
+        </a>
+    </li>
+</ul>
+            </div>
+        </div>
+    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+ 
+ 
+        <div class="wide"  role="article">
+    <div class="fix ma" id="ar-news">
+        
+        <div class="clear h20"></div>
+            <div class="block-lable wide pr mb10">
+                <i class="icon-set arnews fl"></i>
+                <h1 class="block-header fl up">Новости Авторадио Москва</h1>
+                <div class="button-grey fl mt12 ml20">
+                    <a href="/arnews/city/154">Больше новостей</a>
+                </div>
+            </div>
+        
+        <div id="arnews-carousel">
+            <span class="arnews-carousel-control  icon-set arnews-carousel-scroll-left" id="arnews-carousel-scroll-left"></span>
+            <span class="arnews-carousel-control  icon-set arnews-carousel-scroll-right" id="arnews-carousel-scroll-right"></span>
+            <div id="arnews-carousel-wrap" class="fix">
+                <ul  id="arnews-carousel-block">
+                                    <li class="imgzoom pr" id="news540213">
+                                                    <a href="/news/uid/540213/city/" class="arnews-link"></a>
+                                                <span class="anons ma pa">Нашёл свой «золотой ключ» и победил на «Авторадио»!</span>
+                        <div class="icon-set icon-arnews-text type pa"></div>
+                        
+                                                    <img src="https://cdn2.avtoradio.ru/proxy/vardata/modules/news/files/55/540213/news_file_540213_694508726175d.jpg?w=240&h=220&pos=top&q=100&t=1766131826" class="newsimg pa z">
+                                            </li>
+                                    <li class="imgzoom pr" id="news538333">
+                                                    <a href="/news/uid/538333/city/" class="arnews-link"></a>
+                                                <span class="anons ma pa">Попал в «золотую десятку» «Авторадио»!</span>
+                        <div class="icon-set icon-arnews-text type pa"></div>
+                        
+                                                    <img src="https://cdn1.avtoradio.ru/proxy/vardata/modules/news/files/54/538333/news_file_538333_693ac55902f12.jpg?w=240&h=220&pos=top&q=100&t=1765459243" class="newsimg pa z">
+                                            </li>
+                                    <li class="imgzoom pr" id="news536018">
+                                                    <a href="/news/uid/536018/city/" class="arnews-link"></a>
+                                                <span class="anons ma pa">2 декабря вспоминаем первого президента Авторадио Александра Варина</span>
+                        <div class="icon-set icon-arnews-text type pa"></div>
+                        
+                                                    <img src="https://cdn0.avtoradio.ru/proxy/vardata/modules/news/files/54/536018/news_file_536018_692ed7989981c.jpeg?w=240&h=220&pos=top&q=100&t=1764677341" class="newsimg pa z">
+                                            </li>
+                                    <li class="imgzoom pr" id="news532093">
+                                                    <a href="/news/uid/532093/city/" class="arnews-link"></a>
+                                                <span class="anons ma pa">«Авторадио» - лауреат престижной премии «Радиомания 2025»</span>
+                        <div class="icon-set icon-arnews-text type pa"></div>
+                        
+                                                    <img src="https://cdn1.avtoradio.ru/proxy/vardata/modules/news/files/54/532093/news_file_532093_6920b4317cbb9.png?w=240&h=220&pos=top&q=100&t=1763750961" class="newsimg pa z">
+                                            </li>
+                                    <li class="imgzoom pr" id="news531221">
+                                                    <a href="/news/uid/531221/city/" class="arnews-link"></a>
+                                                <span class="anons ma pa">«Бабочки в животе», миллион в кармане и шанс на килограмм золота!</span>
+                        <div class="icon-set icon-arnews-text type pa"></div>
+                        
+                                                    <img src="https://cdn1.avtoradio.ru/proxy/vardata/modules/news/files/54/531221/news_file_531221_6915953f7e45c.jpg?w=240&h=220&pos=top&q=100&t=1763022139" class="newsimg pa z">
+                                            </li>
+                                    <li class="imgzoom pr" id="news531068">
+                                                    <a href="/news/uid/531068/city/" class="arnews-link"></a>
+                                                <span class="anons ma pa">В Москве отметили 130-летие радио</span>
+                        <div class="icon-set icon-arnews-text type pa"></div>
+                        
+                                                    <img src="https://cdn2.avtoradio.ru/proxy/vardata/modules/news/files/54/531068/news_file_531068_69147fc69fd8c.jpg?w=240&h=220&pos=top&q=100&t=1762951099" class="newsimg pa z">
+                                            </li>
+                                    <li class="imgzoom pr" id="news526491">
+                                                    <a href="/news/uid/526491/city/" class="arnews-link"></a>
+                                                <span class="anons ma pa">Проекты Авторадио вошли в шорт-лист премии «‎Радиомания-2025»‎</span>
+                        <div class="icon-set icon-arnews-text type pa"></div>
+                        
+                                                    <img src="https://cdn1.avtoradio.ru/proxy/vardata/modules/news/files/53/526491/news_file_526491_68faa51d512b6.jpeg?w=240&h=220&pos=top&q=100&t=1761256203" class="newsimg pa z">
+                                            </li>
+                                    <li class="imgzoom pr" id="news524511">
+                                                    <a href="/news/uid/524511/city/" class="arnews-link"></a>
+                                                <span class="anons ma pa">Золотой звонок: петербуржец выиграл на Авторадио более миллиона рублей</span>
+                        <div class="icon-set icon-arnews-text type pa"></div>
+                        
+                                                    <img src="https://cdn0.avtoradio.ru/proxy/vardata/modules/news/files/53/524511/news_file_524511_68f0c0d442d08.jpg?w=240&h=220&pos=top&q=100&t=1760608229" class="newsimg pa z">
+                                            </li>
+                                    <li class="imgzoom pr" id="news519386">
+                                                    <a href="/news/uid/519386/city/" class="arnews-link"></a>
+                                                <span class="anons ma pa">ГПМ Радио и Яндекс Музыка объявляют о стратегическом партнёрстве</span>
+                        <div class="icon-set icon-arnews-text type pa"></div>
+                        
+                                                    <img src="https://cdn0.avtoradio.ru/proxy/vardata/modules/news/files/52/519386/news_file_519386_68d51e985a854.jpg?w=240&h=220&pos=top&q=100&t=1758797464" class="newsimg pa z">
+                                            </li>
+                                    <li class="imgzoom pr" id="news517628">
+                                                    <a href="/news/uid/517628/city/" class="arnews-link"></a>
+                                                <span class="anons ma pa">Включила «Авторадио» и выиграла золото</span>
+                        <div class="icon-set icon-arnews-text type pa"></div>
+                        
+                                                    <img src="https://cdn1.avtoradio.ru/proxy/vardata/modules/news/files/52/517628/news_file_517628_68cbbf56611f4.jpg?w=240&h=220&pos=top&q=100&t=1758183254" class="newsimg pa z">
+                                            </li>
+                                    <li class="imgzoom pr" id="news509986">
+                                                    <a href="/news/uid/509986/city/" class="arnews-link"></a>
+                                                <span class="anons ma pa">На Авторадио определился шестой финалист "золотого" сезона игры "Много денег"</span>
+                        <div class="icon-set icon-arnews-text type pa"></div>
+                        
+                                                    <img src="https://cdn0.avtoradio.ru/proxy/vardata/modules/news/files/51/509986/news_file_509986_68ac315219ac7.jpg?w=240&h=220&pos=top&q=100&t=1756115282" class="newsimg pa z">
+                                            </li>
+                                    <li class="imgzoom pr" id="news504921">
+                                                    <a href="/news/uid/504921/city/" class="arnews-link"></a>
+                                                <span class="anons ma pa">Сегодня День рождения отмечает генеральный директор «Газпром-Медиа Холдинга» Александр Жаров</span>
+                        <div class="icon-set icon-arnews-text type pa"></div>
+                        
+                                                    <img src="https://cdn0.avtoradio.ru/proxy/vardata/modules/news/files/51/504921/news_file_504921_6899f221f3e8d.jpg?w=240&h=220&pos=top&q=100&t=1754919458" class="newsimg pa z">
+                                            </li>
+                                </ul>
+            </div>
+        </div>
+        
+        <div class="clear h20"></div>
+    </div>
+</div>
+            
+        <div class=" fix ma">
+                 
+ 
+ 
+<div class="clear h20"></div>
+<div class="block-lable wide pr mb10">
+    <i class="icon-set video fl"></i><h1 class="block-header  fl up">Видео</h1>
+    <div class="button-grey fl ml10 mt12"><a href="/video/city/154">Больше видео</a></div>
+</div>
+     
+ 
+ 
+<div id="video-carousel">
+    <span class="video-carousel-control  icon-set video-carousel-scroll-left"  id="video-carousel-scroll-left"></span>
+    <span class="video-carousel-control  icon-set video-carousel-scroll-right" id="video-carousel-scroll-right"></span>
+    <div id="video-carousel-wrap" class="fix">
+        <ul  id="video-carousel-block">
+                    <li class="pr animated imgzoom block" id="video85216">
+                <a href="/video/cat/33/uid/85216/city/154">
+                    <span class="anons ma pa">Dabro - Красиво Жить (LIVE @ Авторадио)</span>
+                    
+                    <div class="pa imgsize">
+                                                    <img src="https://cdn0.avtoradio.ru/proxy/vardata/modules/dynalenta/files/60/2026/02/08/600b69024bb52f6bb11849abdb7867a9.jpg?w=500&h=334&pos=top&q=100&t=1771510317" class="videoimg pa">
+                                            </div>
+                </a>
+                <div class="video-type pa">
+                    <a class="line white" href="/video/cat/33/city/154">#LIVE Авторадио</a>
+                </div>
+                
+            </li>
+                    <li class="pr animated imgzoom block" id="video85211">
+                <a href="/video/cat/33/uid/85211/city/154">
+                    <span class="anons ma pa">ВИА «Поющие Гитары» с живым концертом на Авторадио (2025)</span>
+                    
+                    <div class="pa imgsize">
+                                                    <img src="https://cdn2.avtoradio.ru/proxy/vardata/modules/dynalenta/files/60/2026/02/08/a4525bde7735730924bcdb79aba58993.jpg?w=500&h=334&pos=top&q=100&t=1771510253" class="videoimg pa">
+                                            </div>
+                </a>
+                <div class="video-type pa">
+                    <a class="line white" href="/video/cat/33/city/154">#LIVE Авторадио</a>
+                </div>
+                
+            </li>
+                    <li class="pr animated imgzoom block" id="video85206">
+                <a href="/video/cat/33/uid/85206/city/154">
+                    <span class="anons ma pa">JONY с LIVE-презентацией альбома «Рядом» в студии Авторадио (2025)</span>
+                    
+                    <div class="pa imgsize">
+                                                    <img src="https://cdn2.avtoradio.ru/proxy/vardata/modules/dynalenta/files/60/2026/02/08/3354bf773da8f4f3c106b0368f0b2714.jpg?w=500&h=334&pos=top&q=100&t=1771510134" class="videoimg pa">
+                                            </div>
+                </a>
+                <div class="video-type pa">
+                    <a class="line white" href="/video/cat/33/city/154">#LIVE Авторадио</a>
+                </div>
+                
+            </li>
+                    <li class="pr animated imgzoom block" id="video85196">
+                <a href="/video/cat/33/uid/85196/city/154">
+                    <span class="anons ma pa">ВИА «Поющие Гитары» - Новогодняя (LIVE @ Авторадио)</span>
+                    
+                    <div class="pa imgsize">
+                                                    <img src="https://cdn2.avtoradio.ru/proxy/vardata/modules/dynalenta/files/60/2026/02/08/5dc05b782b34c396d280321726a56ce7.jpg?w=500&h=334&pos=top&q=100&t=1771510051" class="videoimg pa">
+                                            </div>
+                </a>
+                <div class="video-type pa">
+                    <a class="line white" href="/video/cat/33/city/154">#LIVE Авторадио</a>
+                </div>
+                
+            </li>
+                    <li class="pr animated imgzoom block" id="video85201">
+                <a href="/video/cat/33/uid/85201/city/154">
+                    <span class="anons ma pa">ВИА «Поющие Гитары» - Синий Иней (LIVE @ Авторадио)</span>
+                    
+                    <div class="pa imgsize">
+                                                    <img src="https://cdn0.avtoradio.ru/proxy/vardata/modules/dynalenta/files/60/2026/02/08/21ec0ed0c77df68986a2d235e32d2d52.jpg?w=500&h=334&pos=top&q=100&t=1771510092" class="videoimg pa">
+                                            </div>
+                </a>
+                <div class="video-type pa">
+                    <a class="line white" href="/video/cat/33/city/154">#LIVE Авторадио</a>
+                </div>
+                
+            </li>
+                    <li class="pr animated imgzoom block" id="video85191">
+                <a href="/video/cat/33/uid/85191/city/154">
+                    <span class="anons ma pa">ВИА «Поющие Гитары» - Нет Тебя Прекрасней (LIVE @ Авторадио)</span>
+                    
+                    <div class="pa imgsize">
+                                                    <img src="https://cdn0.avtoradio.ru/proxy/vardata/modules/dynalenta/files/60/2026/02/08/9e42a3129b711a53fc225d2ef8ac6b04.jpg?w=500&h=334&pos=top&q=100&t=1771510020" class="videoimg pa">
+                                            </div>
+                </a>
+                <div class="video-type pa">
+                    <a class="line white" href="/video/cat/33/city/154">#LIVE Авторадио</a>
+                </div>
+                
+            </li>
+                    <li class="pr animated imgzoom block" id="video85186">
+                <a href="/video/cat/33/uid/85186/city/154">
+                    <span class="anons ma pa">ВИА «Поющие Гитары» - Клавиши Любви (LIVE @ Авторадио)</span>
+                    
+                    <div class="pa imgsize">
+                                                    <img src="https://cdn0.avtoradio.ru/proxy/vardata/modules/dynalenta/files/60/2026/02/08/4066e348c59e2de909752eb7f7a7ec55.jpg?w=500&h=334&pos=top&q=100&t=1771509981" class="videoimg pa">
+                                            </div>
+                </a>
+                <div class="video-type pa">
+                    <a class="line white" href="/video/cat/33/city/154">#LIVE Авторадио</a>
+                </div>
+                
+            </li>
+                    <li class="pr animated imgzoom block" id="video85181">
+                <a href="/video/cat/33/uid/85181/city/154">
+                    <span class="anons ma pa">ВИА «Поющие Гитары» - Вечер Солнечного Дня (LIVE @ Авторадио)</span>
+                    
+                    <div class="pa imgsize">
+                                                    <img src="https://cdn0.avtoradio.ru/proxy/vardata/modules/dynalenta/files/60/2026/02/08/9d6ea8416edf902dd570480721acdf3b.jpg?w=500&h=334&pos=top&q=100&t=1771509908" class="videoimg pa">
+                                            </div>
+                </a>
+                <div class="video-type pa">
+                    <a class="line white" href="/video/cat/33/city/154">#LIVE Авторадио</a>
+                </div>
+                
+            </li>
+                    <li class="pr animated imgzoom block" id="video85176">
+                <a href="/video/cat/33/uid/85176/city/154">
+                    <span class="anons ma pa">DAASHA - Воду Не Мути (LIVE @ Авторадио)</span>
+                    
+                    <div class="pa imgsize">
+                                                    <img src="https://cdn0.avtoradio.ru/proxy/vardata/modules/dynalenta/files/60/2026/02/08/51e391ab3c89ae731403e8782540ce79.jpg?w=500&h=334&pos=top&q=100&t=1771505237" class="videoimg pa">
+                                            </div>
+                </a>
+                <div class="video-type pa">
+                    <a class="line white" href="/video/cat/33/city/154">#LIVE Авторадио</a>
+                </div>
+                
+            </li>
+                    <li class="pr animated imgzoom block" id="video85171">
+                <a href="/video/cat/33/uid/85171/city/154">
+                    <span class="anons ma pa">Хабиб - Мёд (LIVE @ Авторадио)</span>
+                    
+                    <div class="pa imgsize">
+                                                    <img src="https://cdn0.avtoradio.ru/proxy/vardata/modules/dynalenta/files/60/2026/02/08/a9ca8a943d6499f63f09189c04adb843.jpg?w=500&h=334&pos=top&q=100&t=1771505035" class="videoimg pa">
+                                            </div>
+                </a>
+                <div class="video-type pa">
+                    <a class="line white" href="/video/cat/33/city/154">#LIVE Авторадио</a>
+                </div>
+                
+            </li>
+                    <li class="pr animated imgzoom block" id="video85161">
+                <a href="/video/cat/33/uid/85161/city/154">
+                    <span class="anons ma pa">Хабиб - Наши Девчонки (LIVE @ Авторадио)</span>
+                    
+                    <div class="pa imgsize">
+                                                    <img src="https://cdn0.avtoradio.ru/proxy/vardata/modules/dynalenta/files/60/2026/02/08/0b50d8d1d8a35e5ad821b15de5597574.jpg?w=500&h=334&pos=top&q=100&t=1771504957" class="videoimg pa">
+                                            </div>
+                </a>
+                <div class="video-type pa">
+                    <a class="line white" href="/video/cat/33/city/154">#LIVE Авторадио</a>
+                </div>
+                
+            </li>
+                    <li class="pr animated imgzoom block" id="video85166">
+                <a href="/video/cat/33/uid/85166/city/154">
+                    <span class="anons ma pa">Хабиб - Грустинка (LIVE @ Авторадио)</span>
+                    
+                    <div class="pa imgsize">
+                                                    <img src="https://cdn1.avtoradio.ru/proxy/vardata/modules/dynalenta/files/60/2026/02/08/567d9e41afde613b51e1ddeacbe37312.jpg?w=500&h=334&pos=top&q=100&t=1771504992" class="videoimg pa">
+                                            </div>
+                </a>
+                <div class="video-type pa">
+                    <a class="line white" href="/video/cat/33/city/154">#LIVE Авторадио</a>
+                </div>
+                
+            </li>
+                </ul>
+    </div>
+</div> 
+<div class="clear h20"></div>            
+                 
+ 
+ 
+<div class="clear h20"></div>
+    <div class="block-lable wide pr mb10">
+        <i class="live-index fl"></i><h1 class="block-header fl up">ЖИВЫЕ КОНЦЕРТЫ</h1>
+        <div class="button-grey fl ml20 mt10"><a href="/video/cat/33/city/154">Больше концертов</a></div>
+    </div>
+<div class="wide pr index-prog-banner"  role="article">
+    <div class="fix-left-index pa ma"> 
+            
+                                                                                                                                                                                                                                                        
+<div class="LiveList">
+           <div class="LiveItem" style="background:url('/vardata/modules/dynalenta/files/357/2025/03/11/9cea82f57bd3fe38e39cfb914ee1c308.jpg') center center no-repeat;">
+            <a class="LiveItem-link" href="https://rutube.ru/video/c45663a6b398c1bf4fb1afb471d23cfb/" target="blank">
+                <div class="LiveItem-title">МАРСЕЛЬ</div>
+                <div class="LiveItem-fade"></div>
+                <div class="LiveItem-line"></div>
+                <div class="LiveItem-look" title="Cмотреть все живые выступления  на Rutube">Cмотреть все живые выступления на Rutube</div>
+                <div class="LiveItem-go"></div>
+            </a>
+       </div>
+           <div class="LiveItem" style="background:url('/vardata/modules/dynalenta/files/357/2025/03/10/9b7829d12c9e5f8dafe87ec84d4334d7.jpg') center center no-repeat;">
+            <a class="LiveItem-link" href="https://rutube.ru/video/d08c24465f3d21578ac8a0a43ba6b705/" target="blank">
+                <div class="LiveItem-title">Полина Гагарина</div>
+                <div class="LiveItem-fade"></div>
+                <div class="LiveItem-line"></div>
+                <div class="LiveItem-look" title="Cмотреть все живые выступления  на Rutube">Cмотреть все живые выступления на Rutube</div>
+                <div class="LiveItem-go"></div>
+            </a>
+       </div>
+           <div class="LiveItem" style="background:url('/vardata/modules/dynalenta/files/357/2025/03/10/66b3e5be65046a5db6344fdb0aca1481.jpg') center center no-repeat;">
+            <a class="LiveItem-link" href="https://rutube.ru/video/11cc074d430ec92b86ea0b546600be5d/?r=wd" target="blank">
+                <div class="LiveItem-title"> Доминик Джокер</div>
+                <div class="LiveItem-fade"></div>
+                <div class="LiveItem-line"></div>
+                <div class="LiveItem-look" title="Cмотреть все живые выступления  на Rutube">Cмотреть все живые выступления на Rutube</div>
+                <div class="LiveItem-go"></div>
+            </a>
+       </div>
+    </div>
+<style>
+@font-face {
+  font-family: 'Montserrat';
+  src: url("/design/images/site-design/Montserrat.ttf") format('truetype');
+}
+.LiveList{
+    width:100%;
+    height:400px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.LiveItem{
+    position: relative;
+    width:251px;
+    height:400px;
+    background-size: 100% 100% !important;
+    border-right:solid 3px #fff;
+    transition: all 0.2s ease-in-out;
+    overflow:hidden ;
+}
+.LiveItem:hover{
+    background-size: 120% 120% !important;
+    transition: all 1s ease-in-out;
+}
+.LiveItem-link{
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    text-decoration:none;
+    border-bottom:none;
+}
+.LiveItem-link:hover{
+    text-decoration:none;
+    border-bottom:none;
+}
+.LiveItem-fade{
+    width: 250px;
+    height: 400px;
+    background:none;
+    top:0px;left:0px;
+    position: absolute;
+    z-index: 1;
+    transition: all 0.3s linear;
+    opacity: 0;
+}
+.LiveItem:hover  .LiveItem-fade{
+    background: rgb(0,67,223);
+    background: linear-gradient(0deg, rgba(0,67,223,1) 0%, rgba(0,24,79,0.5) 100%);
+    width: 250px;
+    height: 400px;
+    top:0px;
+    left:0px;
+    opacity: 1;
+    transition: all 0.1s linear;
+}
+.LiveItem-title{
+    font-family: "Montserrat", Sans-Serif;
+    font-size:30px;
+    top:330px;
+    color:#fff;
+    position: relative;
+    z-index:5;
+    font-weight:bold;
+    text-transform: uppercase;
+    padding:0 20px;
+    transition: all 0.5s ease-in-out;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+    text-decoration: none !important;
+    border-bottom: none !important;
+}
+.LiveItem:hover  .LiveItem-title{
+    top:60px;
+    transition: all 0.2s ease-in-out;
+    text-decoration:none;
+    border-bottom:none;
+}
+.LiveItem-line{
+    position: absolute;
+    z-index:4;
+    top:150px;
+    left:20px;
+    width:2px;
+    height:2px;
+    background:#fed700;
+    transition: all 0.3s ease-in-out;
+    opacity: 0;
+}
+.LiveItem:hover  .LiveItem-line{
+    position: absolute;
+    font-family: 19px;
+    text-align:center;
+    z-index:4;
+    top:150px;
+    left:20px;
+    width:200px;
+    height:2px;
+    transition: all 0.2s ease-in-out;
+    transition-delay: 0.3s;
+    opacity: 1;
+}
+.LiveItem-look{
+    font-family: "Montserrat", Sans-Serif;
+    font-size:0px;
+    text-align:center;
+    position: absolute;
+    z-index: 5;
+    width: 200px;
+    height:auto;
+    left:20px;
+    top:180px;
+    color:#fff;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+    transition: all 0.2s ease-in-out;
+    opacity: 0;
+}
+.LiveItem:hover  .LiveItem-look{
+    font-size:17px;
+    width: 200px;
+    left:20px;
+    top:180px;
+    color:#fff;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+    transition: all 0.2s ease-in-out;
+    transition-delay: 0.4s;
+    opacity: 1;
+}
+.LiveItem-go{
+    position: absolute;
+    z-index: 6;
+    top:290px;
+    left:90px;
+    width: 66px;
+    height: 66px;
+    background:url('/design/images/site-design/go.png') center center no-repeat;
+    transition: all 0.2s ease-in-out;
+    background-size: 99% 99%;
+    transition-delay: 0.2s;
+    opacity: 0;
+}
+.LiveItem:hover .LiveItem-go {
+    position: absolute;
+    z-index: 6;
+    top:250px;
+    left:90px;
+    width: 66px;
+    height: 66px;
+    background:url('/design/images/site-design/go.png') center center no-repeat;
+    animation: pulse 0.8s infinite;
+    opacity: 1;
+}
+@-webkit-keyframes pulse {
+  from {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+  50% {
+    -webkit-transform: scale3d(1.02, 1.02, 1.02);
+    transform: scale3d(1.02, 1.02, 1.02);
+  }
+  to {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+}
+</style>    
+    <div class="D_240x400-1 outreach-index mb20 pa">
+    <div id="GPM_avtoradio_D_240x400_1"></div>
+</div>    </div>
+</div>            <div id="social-network-wrap">
+    <div class="block-lable wide pr  mb10">
+        <i class="icon-set social-network fl"></i><h1 class="block-header  fl up">Мы в социальных сетях</h1>
+                <div class="button-blue fl ml10 mt10"><a href="/index-social-network-vk" onclick="MP.showpreloadingimage = false;return MP.LoadContent(this,'social-network-wrap');" class="noajax"><img src='/design/images/site-design/vk_sn_footer.png' width='20' height='21' alt='ВКонтакте'></a></div>
+        <div class="button-grey fl ml10 mt10"><a href="/index-social-network-ok" onclick="MP.showpreloadingimage = false;return MP.LoadContent(this,'social-network-wrap');" class="noajax"><img src='/design/images/site-design/ok_group.png?v=3' style='margin-top: 1px;' width='13' height='14' alt='Ok'></a></div>
+<style>.button-blue a{display: flex;padding: 1px 5px;}</style>
+    </div>
+    <!-- VK Widget -->
+    <script type="text/javascript" src="https://vk.com/js/api/openapi.js?125"></script>
+    <div id="vk_gr" redesign='1' mode="3" width="1004" height="600" color1='FFFFFF' color2='000000' color3='476FA0' group_id="383476"></div>
+    <script type="text/javascript">
+     VK.Widgets.Group("vk_gr", {redesign: 1, mode: 3, width: "1004", height:"600", color1: 'FFFFFF', color2: '000000', color3: '476FA0'}, 383476);
+    </script>
+    
+    <style>#social-network-menu div.button-grey.button-grey:first-child  a {background: #3E6E9F;}</style>
+</div>
+        </div>
+        
+    </div>   
+</div>
+    
+   
+   
+   
+   
+   
+    
+    
+    
+        
+    
+                 
+ 
+ 
+    
+        <div class="fix1004 ma pr drop"> 
+             
+ 
+ 
+<ul role="navigation" id="header-menu-drop" class="header-menu-drop fixed"  onMouseOver="return MP.ShowBlock('header-menu-drop');"  onMouseOut="return MP.HideBlock('header-menu-drop'); ">
+    <li role="menuitem">
+                    <a href="/station/city/154">О нас</a>
+            </li>
+    <li role="menuitem"><a href="/foto/city/154">Фото</a></li>
+    <li role="menuitem"><a href="/video/city/154">Видео</a></li>
+    <li role="menuitem"><a href="/shortnews/city/154">Новости</a></li>
+    <li role="menuitem"><a href="/team/city/154">Ведущие</a></li>
+    <li role="menuitem"><a href="/promo_actions">Акции и конкурсы</a></li>
+    <li role="menuitem"><a href="https://www.avtoradio.ru/money" target="_blank">Игра "Много денег"</a></li>
+    <li role="menuitem"><a href="/programs/city/154">Программы</a></li>
+    <li role="menuitem"><a href="/driveshow/city/154">Поехали</a></li>
+    <li role="menuitem"><a href="/murzilki/city/154">Мурзилки LIVE</a></li>
+    <li role="menuitem"><a href="http://disco80.ru" target="_blank">Дискотека 80-х</a></li>
+    <li role="menuitem"><a href="/video/kw1/402379/city/154">Живые концерты</a></li>
+    
+    <li role="menuitem"><a href="/newmusic/city/154">Новая музыка</a></li>
+    <li role="menuitem"><a href="/playlist/city/154">Плейлист</a></li>
+    <li role="menuitem"><a href="/adv/city/154">Реклама на радио</a></li>
+    
+</ul>    </div>
+    <style>
+        .fix1004.drop {z-index:300;height:1px;top:0px;}
+    </style>
+    
+    
+    <div class="dj-now-wrap" id="dj-onair">
+                 
+ 
+ 
+<div class="dj-now pr ma tac">
+    <div class="dj-close pa  w25p">
+        <a href="/dj-hide" onClick="MP.showpreloadingimage = false;return MP.LoadContent(this,'dj-onair');" class="noajax blue fade nl">Скрыть</a>
+    </div>
+    
+    <div class="clear h5"></div>
+    <div class="tac white"><b>Марат Волошин</b></div>
+    <div class="tac white mt5 w75p ma">Сейчас в эфире<div class="onair animated infinite fr pulse"></div></div>
+    
+        <div class="dj-foto-wrap pr mt10">
+                <img src="https://cdn0.avtoradio.ru/proxy/vardata/modules/lenta/images/2500000/2483896_2_1769427495.jpg?w=200&h=150&pos=top&q=100&t=1769427495" class="foto pa">
+                <div class="write-to-dj pa wide"><a href="/feedback/city/154" class="line white ma">Напиши в эфир!</a></div>
+        </div>
+        
+    <div class="frends-with-dj mt5 wide blue-light fl">Добавь в друзья</div>
+    <div class="clear"></div>
+    <div class="dj-frend-link ma tac">
+    
+       
+                                </div>
+    <div class="small wide blue-light mt5"><a href="/team" class="blue-light line">Посмотреть всех :)</a></div>
+</div>    </div> 
+    
+    
+       
+    <style>
+    #auto_banner {width:350px;height: 350px;position:fixed;z-index:100;right:40px;bottom:3px;background:transparent; }
+    #auto_banner .back {position:relative;width: 450px;height: 330px;}
+    #auto_banner .auto {position: absolute;width: 350px;height:350px;left: -80px;top: 0px;}
+    #auto_banner .close_car {position:absolute;width:60px;height:60px;top:5px;left: 220px;z-index:2000;vertical-align:middle;text-align:center;margin:0;padding:2px 0px 0px 0px ;border-radius:30px;}
+    #auto_banner .point {cursor:pointer;}
+    .dj-now-wrap {left: 40px !important;}
+</style>
+<div id="auto_banner" class="invis animated-middle slideInRight">
+    <a href="/api/outreach/go/4791/64" target="_blank" class="js-bnr-link noajax">
+        <div class="back">
+            <img class="auto" src="https://www.avtoradio.ru/vardata/modules/outreach/file/4791/2699a8d9a123b702391bfc6fd1fb8d41.png">
+            <img src="/api/outreach/stat/4791/64/spacer.png" border="0" height="320" style="position:absolute; top:20px; left:0px;z-index:1000;cursor:pointer;">
+        </div>
+    </a>
+        
+    <div class="js-bnr-close close_car point animated fadein-hover"><img class="close" src="/design/images/action/2018/auto/banner/close.svg"></div>
+</div>
+<script>
+    document.addEventListener(`DOMContentLoaded`, function(){
+        
+        const popup = document.getElementById("auto_banner");
+        const isHidden = sessionStorage.getItem("isBannerHidden");
+        
+        if (popup === null || isHidden === "true") return;
+        popup.classList.remove("invis");
+        popup.addEventListener("click", (event) => {
+            const link = event.target.closest(".js-bnr-link");
+            const close = event.target.closest(".js-bnr-close");
+            
+            if (link === null && close === null) return;
+            
+            popup.remove();
+            sessionStorage.setItem("isBannerHidden", "true");
+        });
+        
+    });
+</script>
+    
+    
+           
+        
+     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+            
+        
+        <div class="wide info-block  ">
+    <div class="fix ma info-p pr">
+        
+            <div class="media">
+    <a href="/api/outreach/go/3370/2" target="_blank" class="noajax"><img src="/vardata/modules/outreach/file/3370/60727c8e9f7496cf276808c3a45f1c73.png" class="transparent-b" alt="sponsor"></a></div>
+        
+    <img src="/api/outreach/stat/3370/2/spacer.png" width="1" height="1" style="position:absolute; top:0px; left:-9000px; border: 0px;" alt="counters">
+    
+                   
+        </div>
+    </div>
+    <div class="footer wide  ">
+        <div class="footer-block fix ma pr">
+            
+            
+            
+            <div class="white small fr pa age">12+</div>
+            
+            
+            
+            <div class="w45p pl20 pt20  fr counters">
+                <div class="counters_block">
+    <img height='0' width='0' alt='' src='https://px.adhigh.net/p/cm/qvnt?u=avtoradio'>
+        
+    <!-- tns-counter.ru -->
+    <script>
+    	(function(win, doc, cb){
+    		(win[cb] = win[cb] || []).push(function() {
+    			try {
+    				tnsCounterVkpm_ru = new TNS.TnsCounter({
+    				'account':'vkpm_ru',
+    				'tmsec': 'avtoradio_total'
+    				});
+    			} catch(e){}
+    		});
+    
+    		var tnsscript = doc.createElement('script');
+    		tnsscript.type = 'text/javascript';
+    		tnsscript.async = true;
+    		tnsscript.src = ('https:' == doc.location.protocol ? 'https:' : 'http:') + 
+    			'//www.tns-counter.ru/tcounter.js';
+    		var s = doc.getElementsByTagName('script')[0];
+    		s.parentNode.insertBefore(tnsscript, s);
+    	})(window, this.document,'tnscounter_callback');
+    </script>
+    <noscript>
+    	<img src="//www.tns-counter.ru/V13a****vkpm_ru/ru/UTF-8/tmsec=avtoradio_total/" width="0" height="0" alt="">
+    </noscript>
+    <!--/ tns-counter.ru -->
+    <!-- Yandex.Metrika counter -->
+    <script>
+       (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+       var z = null;m[i].l=1*new Date();
+       for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+       k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+       (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+    
+       ym(50976755, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true,
+            webvisor:true
+       });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/50976755" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+</div>            </div>
+            <div class="h20"></div>
+            
+            <div role="contentinfo">
+                <p class="small">© ООО «ГПМ Радио», 2026<br>
+                Сетевое издание AVTORADIO.RU, регистрационный  номер <nobr>СМИ Эл № ФС77-81953 от 24.09.2021,</nobr> выдано Федеральной службой <nobr>по надзору в сфере связи,</nobr> информационных технологий и массовых коммуникаций (Роскомнадзор).</p>
+                <p class="small">    
+                Учредитель сетевого издания: Общество с ограниченной ответственностью «ГПМ Радио»<br>
+                Главный редактор: Ипатова И.Ю.<br>
+                Адрес электронной почты: <a class="white line" href="mailto:info@aradio.ru">info@aradio.ru</a><br>
+                Номер телефона редакции: +7 (495) 937-33-67<br>
+                По всем вопросам размещения рекламы на «Авторадио»<br>
+                сейлз-хаус «ГПМ Реклама»: +7 (495) 921-40-41<br>
+                E-mail: <a href="mailto:sales@gazprom-media.ru" class="white line">sales@gazprom-media.ru</a><br>
+                <a href="https://gpmsaleshouse.ru" target="_blank" class="white line">https://gpmsaleshouse.ru</a></p>
+            </div>
+            
+            <p class="small">При использовании материалов сайта гиперссылка на сайт обязательна</p>
+            <p class="small">Адрес электронной почты для отправления досудебной претензии по вопросам нарушения авторских и смежных прав: <a  class="line white noajax" href="mailto:copyright@gpmradio.ru?subject=По вопросам нарушения авторских и смежных прав Авторадио">copyright@gpmradio.ru</a></p>
+            <p class="small">На информационном ресурсе (сайте) применяются рекомендательные технологии (информационные технологии предоставления информации на основе сбора, систематизации и анализа сведений, относящихся к предпочтениям пользователей сети «Интернет», находящихся на территории Российской Федерации)</p>
+            <p class="small"><a href="/antipirate" onclick="return expandIframe( this, {width: 650, height:500});" class="line white noajax">Более подробная информация для правообладателей</a></p>
+            <p class="small"><a href="/avtoradio_rules" target="_blank" class="line white noajax">Правила участия в акциях, конкурсах, играх</a></p>
+            <p class="small"><a href="/privacy_policy" class="line white noajax">Политика конфиденциальности</a></p>
+            <p class="small"><a href="https://www.gpmradio.ru/design/images/sout_new/sout_result.pdf" class="line white noajax" target="_blank">Результаты СОУТ</a></p>
+            
+            
+            
+            <div class="clear h40"></div>
+            
+            <div class="footer-menu" role="menu">
+                <ul class="w16p fl">
+                    <li role="menuitem"><b>О нас</b></li>
+                    <li role="menuitem"><a href="/station/city/154" class="white ">О радиостанции</a></li>
+                    <li role="menuitem"><a href="/team/city/154" class="white ">Команда</a></li>
+                    <li role="menuitem"><a href="/contact/city/154" class="white ">Контакты</a></li>
+                    
+                    <li role="menuitem"><a href="#"  onclick="MP.showpreloadingimage = false;return MP.LoadContent('/city-selector-by-region','city-list-selector');" class="white noajax">Города вещания</a></li>
+                    <li role="menuitem"><a href="/broadcast/city/154" class="white ">Сетка вещания</a></li>
+                    <li role="menuitem"><a href="/history/city/154" class="white ">История</a></li>
+                    <li role="menuitem"><a href="http://www.varin.aradio.ru" target="_blank" class="white ">Александр Варин</a></li>
+                    <li role="menuitem"><a href="/offer/city/154" class="white ">Оферта</a></li>
+                </ul>
+                
+                
+                <ul class="w18p fl">
+                    <li role="menuitem"><a href="/programs/city/154" class="white "><b>Программы</b></a></li>
+                    <li role="menuitem"><a href="/murzilki/city/154" class="white ">Мурзилки Live</a></li>
+                    <li role="menuitem"><a href="/driveshow/city/154" class="white ">Драйв-шоу Поехали</a></li>
+                    <li role="menuitem"><a href="/feedback/city/154" class="white ">Авторадио поздравляет</a></li>
+                </ul>
+                
+                <ul class="w16p fl">
+                    <li role="menuitem"><b>Музыка</b></li>
+                    <li role="menuitem"><a href="/newmusic/city/154" class="white ">Новая музыка</a></li>
+                    <li role="menuitem"><a href="/playlist/city/154" class="white ">Плейлист</a></li>
+                </ul>
+                
+                <ul class="w16p fl">  
+                    <li role="menuitem"><b>Новости</b></li>
+                    <li role="menuitem"><a href="/arnews/city/154" class="white noajax">Новости Авторадио</a></li>
+                    <li role="menuitem"><a href="/shortnews/city/154" class="white noajax">Новости часа</a></li>
+                                        <li role="menuitem" class="mt30"><b>Медиа</b></li>
+                    <li role="menuitem"><a href="/video/city/154" class="white ">Видео</a></li>
+                    <li role="menuitem"><a href="/foto/city/154" class="white ">Фото</a></li>
+                </ul>
+                
+                <ul class="w18p fl">
+                    <li role="menuitem"><a href="/win/city/154" class="white "><b>Акции и конкурсы</b></a></li>
+                    
+                    
+                                                
+                                                
+                                                                            
+                            <li role="menuitem"><a href="https://www.avtoradio.ru/money/city/154"  class="white noajax">Много Денег. Счастливый сезон</a></li>
+                                            
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                         
+ 
+ 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                    </ul>
+                
+                <ul class="w16p fl">
+                    <li role="menuitem"><b>Проекты</b></li>
+                    <li role="menuitem"><a href="http://disco80.ru"  target="_blank" class="noajax white">Дискотека 80-х</a></li>
+                    <li role="menuitem"><a href="/video/kw1/402379"  target="_blank" class="noajax white">Живые концерты</a></li>
+                    <li role="menuitem"><a href="http://www.gpmradio.ru/press#magazine"  target="_blank" class="noajax white">Журнал Авторадио</a></li>
+                    <li role="menuitem"><a href="https://www.avtoradio.ru/apps" class="footer-smart white noajax">Авторадио <nobr>в смартфоне</nobr></a></li>
+<div id="smart-modal">
+  <img src="/design/images/site-design/ar_widget_app.png" alt="Мобильное приложение «Авторадио» для смартфонов" title="Мобильное приложение «Авторадио» для смартфонов" class="fl  mt40" height="86" border="0" width="85">
+  <div class="fl tac mt40 w50p p10">Мобильное приложение «Авторадио» для смартфонов</div>
+  <a href="https://itunes.apple.com/ru/app/avtoradio-new/id952832425" target="_blank"  class="annimated imgzoom noajax">
+  <img src="/design/images/site-design/ar_widget_app_as.png" alt="Мобильное приложение «Авторадио» iPhone" title="Мобильное приложение «Авторадио» iPhone" class="fl mt40 ml20" height="86" border="0"  width="85"></a>
+  <a href="https://play.google.com/store/apps/details?id=ru.profmedia.avtoradio" target="_blank"  class="annimated imgzoom noajax">
+  <img src="/design/images/site-design/ar_widget_app_gp.png" alt="Мобильное приложение «Авторадио» Android" title="Мобильное приложение «Авторадио» Android" class="fl  mt40 ml20" height="86" border="0"  width="85"></a>
+</div>
+<script>
+var Avtoradio = Avtoradio || {};
+Avtoradio.smartFooter = function() {
+    $("#footer-smart").on("click", function() {
+    var modal = $("#smart-modal").setModal({
+        animate:true, 
+        closeClass: "closeBtn", 
+        defaultCss: false,
+        
+        onOpen: function() { $("#footer-smart").css("color", "#fff");  }, 
+        onClose: function() {console.log("close"); $("#footer-smart").css("color", "#fff"); }});
+    });
+};
+document.addEventListener(`DOMContentLoaded`, function(){
+    Avtoradio.smartFooter();
+});
+</script>                </ul>
+            
+            </div>
+    
+        </div>
+    </div>
+    
+<div id="sitestat">
+    
+    <img src="/api/seo/pageStat/cmVmZXJlcj0mdT1zdGF0Njk5NzUyMTJjMjRlNzkuNzUyNDc4MTkmdXJpPSUyRg==/stat.png" width="1" height="1">
+</div>
+<!-- 0.46886 196 //-->
+<div id="outdated"></div>
+<script src="/static/js/library/cookies/dist/cookies.min.js"></script>
+<script src="https://cdn1.avtoradio.ru/design/include/min/outdated.min.js?v=1620156517"></script>
+<script src="https://cdn0.avtoradio.ru/design/include/stream-counts.js?v=1629724411"></script>
+<script src="https://cdn1.avtoradio.ru/static/js/library/player/dist/player.1.5.2.min.js?v=1770710687"></script>
+<script src="https://cdn0.avtoradio.ru/design/include/min/common_new-player.min.js?v=1759830400"></script></body>
+</html>

@@ -1,0 +1,907 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="/favicon.ico" rel="shortcut icon" />
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <meta content="width=1024" name="viewport" />
+    <title>
+      Colta.ru | Всё  о культуре и духе времени
+    </title>
+    <link href="https://www.colta.ru/feed" rel="alternate" title="Colta.ru" type="application/rss+xml" />
+    <meta content="Colta.ru | Всё  о культуре и духе времени" property="og:title" />
+    <meta content="Общественное СМИ, существующее на средства читателей. Универсальный ресурс о кино, музыке, искусстве, литературе, театре, медиа, обществе, охватывающий все области современной культуры. Профессиональные мнения экспертов. Новости." property="og:description" />
+    <meta content="Colta.ru | Всё  о культуре и духе времени" name="title" />
+    <meta content="Общественное СМИ, существующее на средства читателей. Универсальный ресурс о кино, музыке, искусстве, литературе, театре, медиа, обществе, охватывающий все области современной культуры. Профессиональные мнения экспертов. Новости." name="description" />
+    <link href="https://colta.ru/social-logo.png" rel="image_src" />
+    <meta content="http://colta.ru/social-logo.png" property="og:image" />
+    <meta content="444834165548669" property="fb:app_id" />
+    <link href="/assets/application-89a6d07fe5df6b0c0ef5bc321f9f5943.css" media="all" rel="stylesheet" type="text/css" />
+    <script src="/assets/application-36c1338536f96609bfea31bb01f99a5a.js" type="text/javascript"></script>  <style>
+       .traur {
+        border: 1px solid black;
+        padding: 10px 10px;
+        display: inline; 
+       }
+      </style>
+    
+    <!--В <head> сайта один раз добавьте код загрузчика-->
+    <script>window.yaContextCb = window.yaContextCb || []</script>
+    <script src="https://yandex.ru/ads/system/context.js" async></script>
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-33046207-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'UA-33046207-1');
+    </script>
+    
+    <!-- Global site tag (gtag.js) - Google Analytics  END -->
+    <meta content="authenticity_token" name="csrf-param" />
+    <meta content="rxAWISfNY8BJTTOL3NgJhej+SnxuxJ3JGbXXMeNyDg0=" name="csrf-token" /><script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/bc528aab52f4f2c8b8781c856/8f80381ca53486c7d01d5e6c5.js");</script>
+  </head>
+  <body class="width_1320">
+    <script type="text/javascript" src="https://userapi.com/js/api/openapi.js?49"></script>
+    <script type="text/javascript">
+        VK.init({apiId: 3034541, onlyWidgets: true});
+    </script>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/ru_RU/all.js#xfbml=1&appId=444834165548669";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+        <div align="center"><!--AdFox START-->
+    <!--colta-->
+    <!--Площадка: Colta.ru / * / *-->
+    <!--Тип баннера: Перетяжка 100%-->
+    <!--Расположение: верх страницы-->
+    <div id="adfox_166728919744687918"></div>
+    <script>
+        window.yaContextCb.push(()=>{
+            Ya.adfoxCode.create({
+                ownerId: 202734,
+                containerId: 'adfox_166728919744687918',
+                params: {
+                    pp: 'g',
+                    ps: 'bfdj',
+                    p2: 'y'
+                }
+            })
+        })
+    </script>
+    </div>
+    
+    <!--AdFox START-->
+    <!--colta-->
+    <!--Площадка: Colta.ru / * / *-->
+    <!--Тип баннера: BackGround-->
+    <!--Расположение: верх страницы-->
+    <div id="adfox_166728922061053193"></div>
+    <script>
+        window.yaContextCb.push(()=>{
+            Ya.adfoxCode.create({
+                ownerId: 202734,
+                containerId: 'adfox_166728922061053193',
+                params: {
+                    pp: 'g',
+                    ps: 'bfdj',
+                    p2: 'ezua'
+                }
+            })
+        })
+    </script>
+    
+    
+    <section id="main">
+      <form accept-charset="UTF-8" action="/search" id="search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+            <div>
+              <input class="input" id="post_query" name="post[query]" size="30" type="text" /><input class="button" name="commit" type="submit" value="" />
+            </div></form>
+      <header>
+        <span class="img_18" title="Адресовано читателям, достигшим 18 лет">&nbsp;</span>
+        <nav>
+          <div class="left">
+            <a href="/about">О проекте</a>
+            <a href="/donate">Помоги сайту</a>
+          </div>
+          <a class="logo" href="/"><img alt="Logo" src="/assets/logo-afb684c3d35fc1f6f103f9fb638c8ec1.png" /></a>
+          <div class="right">
+            <a href="http://vk.com/colta_ru" target="_blank"><img alt="Soc_vk" src="/assets/soc_vk-c69d1d991b38e6ae21d49000389daabc.png" /></a><a href="https://t.me/colta_ru" target="_blank"><img alt="Soc_tg" src="/assets/soc_tg-275e0c976e1a8e522af7af152dcbd9a4.png" /></a><a href="https://twitter.com/ColtaRu" target="_blank"><img alt="Soc_tw" src="/assets/soc_tw-1e8175bcebcaf248212d8eda9d7ab5a2.png" /></a><a href="/feed" target="_blank"><img alt="Rss" src="/assets/rss-353d89819f5463f4bc21e81ddf365600.png" /></a><a class="help" href="/donate">Помоги сайту<img alt="Header_help" src="/assets/header_help-4312a8c6c96abf580396ef3ee0dd7bff.png" /></a><a class="search" href="#"><img alt="Search_icon" src="/assets/search_icon-bc3f95183f396a3e08ec4b08f3013bbb.png" /></a>
+          </div>
+        </nav>
+      </header>
+      <section id="banner">
+        <div class="inner" style="width:6000px;">
+          <a href="/articles/specials/22877-kolte-nuzhna-vasha-pomosch" target=""><img alt="Picture" src="/storage/banner/6037/picture.jpg" width="100%" /><span><em>Кольте нужна ваша помощь</em><strong>О чем мы вас просим и почему</strong></span></a>
+          <a href="/articles/vrazluke/29758-razgovor-c-ostavshimsya" target=""><img alt="Picture" src="/storage/banner/7787/picture.jpg" width="100%" /><span><em>Разговор c оставшимся</em><strong>Мария Карпенко поговорила с человеком, который принципиально остается в России: о том, что это ему дает и каких жертв требует взамен</strong></span></a>
+          <a href="/articles/vrazluke/29757-stolitsy-novoy-diaspory-tbilisi" target=""><img alt="Picture" src="/storage/banner/7786/picture.jpg" width="100%" /><span><em>Столицы новой диаспоры: Тбилиси</em><strong>Проект «В разлуке» начинает серию портретов больших городов, которые стали хабами для новой эмиграции. 
+                Первый разговор — о русском Тбилиси с историком и продюсером Дмитрием Споровым</strong></span></a>
+          <a href="articles/vrazluke/29756-space-is-the-place" target=""><img alt="Picture" src="/storage/banner/7785/picture.jpg" width="100%" /><span><em>Space is the place, space is the place</em><strong>Три дневника почти за три военных года. Все три автора несколько раз пересекали за это время границу РФ, погружаясь и снова выныривая в принципиально разных, внутренних и внешних, пространствах</strong></span></a>
+          <a href="/articles/vrazluke/29755-razgovor-s-nevozvraschentsem" target=""><img alt="Picture" src="/storage/banner/7784/picture.jpg" width="100%" /><span><em>Разговор с невозвращенцем </em><strong>Мария Карпенко поговорила с экономическим журналистом Денисом Касянчуком, человеком, для которого возвращение в Россию из эмиграции больше не обсуждается</strong></span></a>
+          <a href="/articles/vrazluke/29752-otkuda-my-govorim" target=""><img alt="Picture" src="/storage/banner/7783/picture.jpeg" width="100%" /><span><em>Откуда мы говорим, или О речевой геопозиции</em><strong>Социолог Анна Лемиаль поговорила с поэтом Павлом Арсеньевым о поломках в коммуникации между «уехавшими» и «оставшимися», о кризисе речи и о том, зачем людям нужно слово «релокация»
+                </strong></span></a>
+          <a href="/articles/vrazluke/29751-mesto-zhitelstva-vezde" target=""><img alt="Picture" src="/storage/banner/7782/picture.jpg" width="100%" /><span><em>Место жительства: везде </em><strong>Быть в России? Жить в эмиграции? Журналист Владимир Шведов нашел для себя третий путь</strong></span></a>
+          <a href="/articles/vrazluke/29750-aleksey-titkov-ne-skatyvatsya-v-partiynyy-kritmysh" target=""><img alt="Picture" src="/storage/banner/7781/picture.jpeg" width="100%" /><span><em>Алексей Титков: «Не скатываться в партийный “критмыш”»</em><strong>Как возник конфликт между «уехавшими» и «оставшимися», на какой основе он стоит и как работают «бурлящие ритуалы» соцсетей. Разговор Дмитрия Безуглова с социологом, приглашенным исследователем Манчестерского университета Алексеем Титковым</strong></span></a>
+          <a href="/articles/vrazluke/29749-dnevnik-vzglyad-iz-rossii-vremen-voyny" target=""><img alt="Picture" src="/storage/banner/7780/picture.jpg" width="100%" /><span><em>Дневник отчаявшегося: взгляд из России времен войны</em><strong>Философ, не покидавшая Россию с начала войны, поделилась с редакцией своим дневником за эти годы. На условиях анонимности</strong></span></a>
+          <a href="/articles/vrazluke/29748-dolin-rodionov-poverh-granitsy" target=""><img alt="Picture" src="/storage/banner/7779/picture.jpg" width="100%" /><span><em>Антон Долин — Александр Родионов: разговор поверх границы</em><strong>Проект Кольты «В разлуке» проводит эксперимент и предлагает публично поговорить друг с другом «уехавшим» и «оставшимся». Первый диалог — кинокритика Антона Долина и сценариста, руководителя «Театра.doc» Александра Родионова</strong></span></a>
+          <a href="/articles/vrazluke/29747-ivan-davydov-pismo-cheloveku-iks" target=""><img alt="Picture" src="/storage/banner/7778/picture.jpg" width="100%" /><span><em>Письмо человеку Икс</em><strong>Иван Давыдов пишет письмо другу в эмиграции, с которым ждет встречи, хотя на нее не надеется. Начало нового проекта Кольты «В разлуке»</strong></span></a>
+          <a href="/articles/specials/29742-na-segodnya-olga-sedakova-podzemelie" target=""><img alt="Picture" src="/storage/banner/7776/picture.jpg" width="100%" /><span><em>Подземелье</em><strong>Ольга Седакова о выходе преисподней на свет</strong></span></a>
+          <a href="/articles/specials/29743-na-segodnya-evgeniya-vezhlyan-mezhdu-strahom-i-uzhasom" target=""><img alt="Picture" src="/storage/banner/7775/picture.jpg" width="100%" /><span><em>Между страхом и ужасом</em><strong>Евгения Вежлян о ложных выборах и зависимостях</strong></span></a>
+          <a href="/specials/29739-na-segodnya-ella-rossman-priznat-simptom" target=""><img alt="Picture" src="/storage/banner/7774/picture.jpg" width="100%" /><span><em>Признать симптом</em><strong>Элла Россман о нашей безъязыкости</strong></span></a>
+          <a href="/articles/specials/29740-na-segodnya-anna-narinskaya-god-kogda-rassosalas-druzhba" target=""><img alt="Picture" src="/storage/banner/7772/picture.jpg" width="100%" /><span><em>Год, когда рассосалась дружба</em><strong>Анна Наринская об оборотной стороне слова «свой»</strong></span></a>
+          <a href="/articles/revision/29741-elizaveta-osetinskaya-my-privykli-platit-malenkie-dengi" target=""><img alt="Picture" src="/storage/banner/7771/picture.JPG" width="100%" /><span><em>Елизавета Осетинская: «Мы привыкли платить и сами получать маленькие деньги, и ничего хорошего в этом нет»</em><strong>Разговор с основательницей The Bell о журналистике «без выпученных глаз», хронической бедности в профессии и о том, как спасти все независимые медиа разом</strong></span></a>
+          <a href="/articles/revision/29738-maksim-trudolyubov-polyarizatsiya-budet-tolko-uglublyatsya" target=""><img alt="Picture" src="/storage/banner/7770/picture.jpg" width="100%" /><span><em>Максим Трудолюбов: «Поляризация будет только углубляться»</em><strong>Известный публицист о проигранной борьбе за факт и о конце западноцентричной модели журналистики</strong></span></a>
+          <a href="/articles/revision/29737-ekaterina-gorbunova-o-tom-kak-eto-tyazhelo" target=""><img alt="Picture" src="/storage/banner/7769/picture.jpg" width="100%" /><span><em>Екатерина Горбунова: «О том, как это тяжело и трагично, я подумаю потом»</em><strong>Разговор с главным редактором независимого медиа «Адвокатская улица». Точнее, два разговора: первый — пока проект, объявленный «иноагентом», работал. И второй — после того, как он не выдержал давления и закрылся</strong></span></a>
+          <a href="/articles/revision/29736-oleg-kashin-situatsiya-vpolne-tragicheskaya" target=""><img alt="Picture" src="/storage/banner/7768/picture.jpg" width="100%" /><span><em>Олег Кашин: «Ситуация вполне трагическая: есть зло, а на позиции добра непонятно кто»</em><strong>Ни с теми, ни с этими. Известный журналист ищет пути между медийными лагерями и обвиняет оппозиционно-эмигрантский в предвзятости</strong></span></a>
+          <a href="/subjects/234" target=""><img alt="Picture" src="/storage/banner/7777/picture.jpg" width="100%" /><span><em>С другого берега</em><strong>.</strong></span></a>
+          <a href="/articles/specials/29734-ilya-kukulin-otvetstvennost-russkoy-kultury" target=""><img alt="Picture" src="/storage/banner/7763/picture.jpg" width="100%" /><span><em>Достоевский, Кундера и ответственность русской культуры</em><strong>Илья Кукулин — о необходимости понимать</strong></span></a>
+          <a href="/articles/revision/29728-dmitriy-butrin-chitatel-seychas-hochet-nepravdu" target=""><img alt="Picture" src="/storage/banner/7762/picture.jpg" width="100%" /><span><em>Дмитрий Бутрин: «Читатель сейчас хочет неправду»</em><strong>Заместитель главного редактора ИД «Коммерсантъ» о работе в подцензурном пространстве, о миссии и о том, что ее подрывает, и об отсутствии аудитории, заинтересованной в правде о войне</strong></span></a>
+          <a href="/articles/revision/29725-liliya-yapparova-my-suschestvuem-tolko-v-nastoyaschem" target=""><img alt="Picture" src="/storage/banner/7761/picture.jpg" width="100%" /><span><em>Лилия Яппарова: «У нас нет ни прошлого, ни будущего. Мы существуем только в настоящем»</em><strong>Журналистка «Медузы» о работе в эмиграции, идентичности и о смутных перспективах на завтра и послезавтра</strong></span></a>
+          <a href="/articles/revision/29724-nadezhda-papudoglo-polnyy-upadok-malyh-rossiyskih-media" target=""><img alt="Picture" src="/storage/banner/7760/picture.jpg" width="100%" /><span><em>Надежда Папудогло: «Я прогнозирую полный упадок малых российских медиа»</em><strong>Разговор с издателем «Мела» о плачевном состоянии медийного рынка, который экономика убьет быстрее, чем политика</strong></span></a>
+          <a href="/articles/revision/29723-evgeniya-volunkova-privilegii-u-teh-kto-ostalsya-v-rossii" target=""><img alt="Picture" src="/storage/banner/7759/picture.jpg" width="100%" /><span><em>Евгения Волункова: «Привилегии у тех, кто остался в России» </em><strong>Главный редактор «Таких дел» о том, как взбивать сметану в масло, писать о людях вне зависимости от их ошибок, бороться за «глубинного» читателя и работать там, где очень трудно, но необходимо</strong></span></a>
+          <a href="/articles/revision/29722-lola-tagaeva-redaktsiya-stala-zamenyat-gosudarstvo" target=""><img alt="Picture" src="/storage/banner/7758/picture.jpg" width="100%" /><span><em>Лола Тагаева: «Редакция в какой-то степени стала заменять государство» </em><strong>Главный редактор «Верстки» о новой философии дистрибуции, опорных точках своей редакционной политики, механизмах успеха и о том, как просто ощутить свою миссию </strong></span></a>
+          <a href="articles/revision/29721-tihon-dzyadko-gde-by-my-ni-nahodilis" target=""><img alt="Picture" src="/storage/banner/7757/picture.jpeg" width="100%" /><span><em>Тихон Дзядко: «Где бы мы ни находились, мы воспринимаем “Дождь” как российский телеканал»</em><strong>Главный редактор телеканала «Дождь» о том, как делать репортажи из России, не находясь в России, о редакции как общине и о неподчинении императивам</strong></span></a>
+          <a href="/articles/revision/29720-vasiliy-gatov" target=""><img alt="Picture" src="/storage/banner/7756/picture.jpg" width="100%" /><span><em>Василий Гатов: «Журналист не может забить “большой железный” на связь со страной»</em><strong>Разговор Ксении Лученко с известным медиааналитиком о жизни и проблемах эмигрантских медиа. И старт нового проекта Кольты «Журналистика: ревизия»</strong></span></a>
+          <a href="/articles/vokrug_gorizontali/29717-lenivka-1" target=""><img alt="Picture" src="/storage/banner/7754/picture.jpg" width="100%" /><span><em>Встреча на Ленивке (Первые три часа)</em><strong>Пятичасовой разговор Елены Ковальской, Нади Плунгян, Юрия Сапрыкина и Александра Иванова о том, почему сегодня необходимо быть в России. Разговор ведут Михаил Ратгауз и Екатерина Вахрамцева</strong></span></a>
+          <a href="/articles/vokrug_gorizontali/29718-lenivka-2" target=""><img alt="Picture" src="/storage/banner/7753/picture.jpg" width="100%" /><span><em>Встреча на Ленивке (Еще два часа)</em><strong>Вторая часть большого, пятичасового, разговора между Юрием Сапрыкиным, Александром Ивановым, Надей Плунгян, Еленой Ковальской, Екатериной Вахрамцевой и Михаилом Ратгаузом</strong></span></a>
+          <a href="/articles/vokrug_gorizontali/29716-maria-rakhmaninova-interview" target=""><img alt="Picture" src="/storage/banner/7752/picture.jpg" width="100%" /><span><em>Мария Рахманинова: «Государство — это не несомненное благо»</em><strong>Историк анархизма о судьбах горизонтальной идеи в последние два столетия</strong></span></a>
+          <a href="/articles/vokrug_gorizontali/29715-coliving-activism" target=""><img alt="Picture" src="/storage/banner/7751/picture.jpg" width="100%" /><span><em>Коливинги как модель для активизма</em><strong>Социолог Любовь Чернышева изучала питерские квартиры-коммуны. Мария Мускевич узнала, какие достижения и ошибки можно обнаружить в этом опыте для активистских инициатив</strong></span></a>
+          <a href="/articles/vokrug_gorizontali/29714-horizontal-alliances" target=""><img alt="Picture" src="/storage/banner/7750/picture.jpg" width="100%" /><span><em>«Конфликты — это нормально». О подводных камнях горизонтального</em><strong>Горизонтальные объединения — это не только розы, очень часто это вполне ощутимые тернии. И к ним лучше быть готовым</strong></span></a>
+          <a href="/articles/vokrug_gorizontali/29713-anti-war-movement" target=""><img alt="Picture" src="/storage/banner/7749/picture.jpg" width="100%" /><span><em>Что мешает антивоенному движению объединиться?</em><strong>Руководитель «Теплицы социальных технологий» Алексей Сидоренко разбирает трудности антивоенного движения и выступает с предложением</strong></span></a>
+          <a href="/subjects/233" target=""><img alt="Picture" src="/storage/banner/7773/picture.jpg" width="100%" /><span><em>Неясная Россия будущего</em><strong>.</strong></span></a>
+          <a href="/articles/vokrug_gorizontali/29707-bezopasnaya-rabota-v-seti" target=""><img alt="Picture" src="/storage/banner/7743/picture.jpg" width="100%" /><span><em>Как сообществам работать безопасно и сообща</em><strong>Маленький путеводитель по самому необходимому для вашего спокойствия и продуктивности — от новых цифровых сервисов до практик XIX века</strong></span></a>
+          <a href="/articles/vokrug_gorizontali/29706-ilia-budraytskis-interview-dissidents" target=""><img alt="Picture" src="/storage/banner/7742/picture.jpg" width="100%" /><span><em>Интервью с Ильей Будрайтскисом об опыте диссидентов</em><strong>О полезных уроках советского диссидентства и о том, почему нельзя относиться к людям, поддерживающим СВО, как к роботам или зомби</strong></span></a>
+          <a href="/articles/vokrug_gorizontali/29704-grigory-yudin-protesty-bolshoy-razgovor" target=""><img alt="Picture" src="/storage/banner/7739/picture.jpg" width="100%" /><span><em>Григорий Юдин о прошлом и будущем протеста. Большой разговор</em><strong>Что становится базой для массового протеста? Какие предрассудки и ошибки ему угрожают и как оценить его успешность?</strong></span></a>
+          <a href="/articles/vokrug_gorizontali/29703-gert-lovink-web-3" target=""><img alt="Picture" src="/storage/banner/7740/picture.jpg" width="100%" /><span><em>Герт Ловинк: «Web 3 — действительно новый зверь»</em><strong>Известный теоретик медиа рассказывает, что такое Web 3.0 и говорит о необходимости следующего шага — Web 4.0</strong></span></a>
+          <a href="/articles/specials/29696-ot-redaktsii-colta-ru" target=""><img alt="Picture" src="/storage/banner/7738/picture.jpg" width="100%" /><span><em>От редакции COLTA</em><strong>Обращение к читателям</strong></span></a>
+        </div>
+        <div class="border"></div>
+        <div class="border">
+          <span>&nbsp;</span>
+        </div>
+        <div class="border right"></div>
+        <div class="arrow prev">
+          <a href="#"></a>
+        </div>
+        <div class="arrow next">
+          <a href="#"></a>
+        </div>
+      </section><section id="menu">
+        <a class="logo" href="/"><img alt="Logo_scroll" src="/assets/logo_scroll-bc1e15c371294f49971ff759fdb168a2.png" /></a>
+        <div class="inner">
+          <div class="shift">
+            <a href="/cinema">Кино<em>&nbsp;</em></a><a href="/art">Искусство<em>&nbsp;</em></a>
+            <div class="submenu">
+              <a class="music" href="#" onclick="return false">Музыка<em>&nbsp;</em></a>
+              <div>
+                <a href="/music_modern">Современная<span> музыка</span><em>&nbsp;</em></a><a href="/music_classic">Академическая<span> музыка</span><em>&nbsp;</em></a>
+              </div>
+            </div>
+            <a href="/literature">Литература<em>&nbsp;</em></a><a href="/theatre">Театр<em>&nbsp;</em></a><a href="/media">Медиа<em>&nbsp;</em></a><a href="/society">Общество<em>&nbsp;</em></a><a href="/science">Наука<em>&nbsp;</em></a><a href="/specials">Colta Specials<em>&nbsp;</em></a>
+          </div>
+        </div>
+      </section><section id="news">
+        <div class="h3">
+          новости<a class="all" href="/news">все новости</a><a class="b_prev news" href="#"></a><a class="b_next news" href="#"></a>
+        </div>
+        <div class="inner">
+          <div class="mask">
+            <div class="lenta" style="width:10000px;">
+              <div>
+                <span>11 марта 14:52</span><a href="/news/29697-colta-ru-zablokirovana-v-rossii">COLTA.RU заблокирована в России</a>
+              </div>
+              <div>
+                <span> 3 марта 14:53</span><a href="/news/29689-iz-fonda-v-a-c-uhodit-hudozhestvennyy-direktor-franchesko-manakorda">Из фонда V-A-C уходит художественный директор Франческо Манакорда</a>
+              </div>
+              <div>
+                <span> 3 марта 12:33</span><a href="/news/29687-uvolilsya-zamdirektora-pushkinskogo-muzeya">Уволился замдиректора Пушкинского музея</a>
+              </div>
+              <div>
+                <span> 3 марта 11:29</span><a href="/news/29686-prinyato-reshenie-o-likvidatsii-eha-moskvy">Принято решение о ликвидации «Эха Москвы»</a>
+              </div>
+              <div>
+                <span> 2 марта 18:26</span><a href="/news/29685-fabrika-predostavit-ploschadku-ostavshimsya-bez-raboty-hudozhnikam-i-kuratoram">«Фабрика» предоставит площадку оставшимся без работы художникам и кураторам</a>
+              </div>
+              <div>
+                <span> 2 марта 17:23</span><a href="/news/29683-gosduma-obsudit-15-letniy-srok-za-rasprostranenie-feykov-o-voennyh-deystviyah">Госдума обсудит 15-летний срок за распространение фейков о военных действиях</a>
+              </div>
+              <div>
+                <span> 2 марта 15:11</span><a href="/news/29680-v-moskve-pokazhut-lebedinoe-ozero">В Москве покажут «Лебединое озеро»</a>
+              </div>
+              <div>
+                <span> 2 марта 12:48</span><a href="/news/29678-kuzbass-budet-pisatsya-cherez-z">Кузбасс будет писаться через Z</a>
+              </div>
+              <div>
+                <span> 1 марта 20:55</span><a href="/news/29676-v-rossii-nachali-blokirovat-sayty-eha-moskvy-i-dozhdya">В России начали блокировать сайты «Эха Москвы» и «Дождя»</a>
+              </div>
+              <div>
+                <span> 1 марта 17:29</span><a href="/news/29673-uvolen-hudruk-tsima-dmitriy-volkostrelov">Уволен худрук ЦИМа Дмитрий Волкострелов</a>
+              </div>
+              <div>
+                <span> 1 марта 16:36</span><a href="/news/29672-filmy-disney-warner-bros-i-sony-pictures-ne-pokazhut-v-rossii">Фильмы Disney, Warner Bros. и Sony Pictures не покажут в России</a>
+              </div>
+              <div>
+                <span> 1 марта 13:28</span><a href="/news/29669-myunhenskiy-filarmonicheskiy-orkestr-uvolil-valeriya-gergieva">Мюнхенский филармонический оркестр уволил Валерия Гергиева</a>
+              </div>
+              <div>
+                <span> 1 марта 12:13</span><a href="/news/29668-rossiyskie-pisateli-i-rukovoditeli-tvorcheskih-vuzov-vystupili-v-podderzhku-deystviy-rossii-v-ukraine">Российские писатели и руководители творческих вузов выступили в поддержку действий России в Украине</a>
+              </div>
+              <div>
+                <span> 1 марта 11:04</span><a href="/news/29667-dirizher-ivan-velikanov-otstranen-ot-uchastiya-v-zolotoy-maske">Дирижер Иван Великанов отстранен от участия в «Золотой маске»</a>
+              </div>
+              <div>
+                <span>28 февраля 21:06</span><a href="/news/29659-glava-spch-fadeev-nuzhno-stavit-vopros-o-blokirovke-facebook">Глава СПЧ Фадеев: Нужно ставить вопрос о блокировке Facebook</a>
+              </div>
+              <div>
+                <span>28 февраля 19:34</span><a href="/news/29658-germaniya-potrebovala-ot-gtg-dosrochno-zakryt-vystavku-mnogoobrazie-edinstvo">Германия потребовала от Третьяковки досрочно закрыть выставку «Многообразие. Единство»</a>
+              </div>
+              <div>
+                <span>28 февраля 15:43</span><a href="/news/29655-po-vsemu-miru-ob-yavili-initsiativy-v-podderzhku-mirnogo-naseleniya-ukrainy">По всему миру объявили инициативы в поддержку мирного населения Украины</a>
+              </div>
+              <div>
+                <span>28 февраля 13:42</span><a href="/news/29653-institut-strelka-i-ges-2-priostanovili-rabotu">Институт «Стрелка» и «ГЭС-2» приостановили работу</a>
+              </div>
+              <div>
+                <span>27 февраля 21:28</span><a href="/news/29648-v-moskve-na-antivoennoy-aktsii-zaderzhan-shura-burtin">В Москве на антивоенной акции задержан Шура Буртин</a>
+              </div>
+              <div>
+                <span>27 февраля 14:52</span><a href="/news/29640-genprokuratura-pomosch-drugim-gosudarstvam-gosizmena">Генпрокуратура: Помощь другим государствам — госизмена</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="inner with_adfox">
+        <section class="posts">
+          <div class="inner">
+            <div class="mask left_posts">
+              <article class=" ">
+                <a class="img" href="/articles/vrazluke/29758-razgovor-c-ostavshimsya" target=""><img alt="Разговор c оставшимся" src="/storage/post/29758/post_cover_picture.jpg" title="Разговор c оставшимся" /></a><a href="/vrazluke" class="rubric">В разлуке</a><br /><a class="head" href="/articles/vrazluke/29758-razgovor-c-ostavshimsya" target="">Разговор c оставшимся</a><em class="overflow">&nbsp;</em>
+                <div>
+                  <p>
+                    Мария Карпенко поговорила с человеком, который принципиально остается в России: о том, что это ему дает и каких жертв требует взамен
+                  </p>
+                  <span class="date">28 ноября 2024</span><a class="view" href="/articles/vrazluke/29758-razgovor-c-ostavshimsya">76131</a>
+                </div>
+              </article>
+              <article class=" ">
+                <a class="img" href="/articles/vrazluke/29757-stolitsy-novoy-diaspory-tbilisi" target=""><img alt="Столицы новой диаспоры: Тбилиси" src="/storage/post/29757/post_cover_picture.jpg" title="Столицы новой диаспоры: Тбилиси" /></a><a href="/vrazluke" class="rubric">В разлуке</a><br /><a class="head" href="/articles/vrazluke/29757-stolitsy-novoy-diaspory-tbilisi" target="">Столицы новой диаспоры: Тбилиси</a><em class="overflow">&nbsp;</em>
+                <div>
+                  <p>
+                    Проект «В разлуке» начинает серию портретов больших городов, которые стали хабами для новой эмиграции. 
+                    Первый разговор — о русском Тбилиси с историком и продюсером Дмитрием Споровым
+                  </p>
+                  <span class="date">22 ноября 2024</span><a class="view" href="/articles/vrazluke/29757-stolitsy-novoy-diaspory-tbilisi">73528</a>
+                </div>
+              </article>
+              <article class=" ">
+                <a class="img" href="/articles/vrazluke/29756-space-is-the-place" target=""><img alt="Space is the place, space is the place" src="/storage/post/29756/post_cover_picture.jpg" title="Space is the place, space is the place" /></a><a href="/vrazluke" class="rubric">В разлуке</a><br /><a class="head" href="/articles/vrazluke/29756-space-is-the-place" target="">Space is the place, space is the place</a><em class="overflow">&nbsp;</em>
+                <div>
+                  <p>
+                    Три дневника почти за три военных года. Все три автора несколько раз пересекали за это время границу РФ, погружаясь и снова выныривая в принципиально разных внутренних и внешних пространствах
+                  </p>
+                  <span class="date">14 октября 2024</span><a class="view" href="/articles/vrazluke/29756-space-is-the-place">75293</a>
+                </div>
+              </article>
+              <article class=" ">
+                <a class="img" href="/articles/vrazluke/29755-razgovor-s-nevozvraschentsem" target=""><img alt="Разговор с невозвращенцем " src="/storage/post/29755/post_cover_picture.jpg" title="Разговор с невозвращенцем " /></a><a href="/vrazluke" class="rubric">В разлуке</a><br /><a class="head" href="/articles/vrazluke/29755-razgovor-s-nevozvraschentsem" target="">Разговор с невозвращенцем </a><em class="overflow">&nbsp;</em>
+                <div>
+                  <p>
+                    Мария Карпенко поговорила с экономическим журналистом Денисом Касянчуком, человеком, для которого возвращение в Россию из эмиграции больше не обсуждается
+                  </p>
+                  <span class="date">20 августа 2024</span><a class="view" href="/articles/vrazluke/29755-razgovor-s-nevozvraschentsem">79391</a>
+                </div>
+              </article>
+              <article class=" ">
+                <a class="img" href="/articles/vrazluke/29752-otkuda-my-govorim" target=""><img alt="Откуда мы говорим, или О речевой геопозиции" src="/storage/post/29752/post_cover_picture.jpeg" title="Откуда мы говорим, или О речевой геопозиции" /></a><a href="/vrazluke" class="rubric">В разлуке</a><br /><a class="head" href="/articles/vrazluke/29752-otkuda-my-govorim" target="">Откуда мы говорим, или О речевой геопозиции</a><em class="overflow">&nbsp;</em>
+                <div>
+                  <p>
+                    Социолог Анна Лемиаль поговорила с поэтом Павлом Арсеньевым о поломках в коммуникации между «уехавшими» и «оставшимися», о кризисе речи и о том, зачем людям нужно слово «релокация»
+                    
+                  </p>
+                  <span class="date"> 9 августа 2024</span><a class="view" href="/articles/vrazluke/29752-otkuda-my-govorim">79255</a>
+                </div>
+              </article>
+              <article class=" ">
+                <a class="img" href="/articles/vrazluke/29751-mesto-zhitelstva-vezde" target=""><img alt="Место жительства: везде " src="/storage/post/29751/post_cover_picture.jpg" title="Место жительства: везде " /></a><a href="/vrazluke" class="rubric">В разлуке</a><br /><a class="head" href="/articles/vrazluke/29751-mesto-zhitelstva-vezde" target="">Место жительства: везде </a><em class="overflow">&nbsp;</em>
+                <div>
+                  <p>
+                    Быть в России? Жить в эмиграции? Журналист Владимир Шведов нашел для себя третий путь
+                  </p>
+                  <span class="date">15 июля 2024</span><a class="view" href="/articles/vrazluke/29751-mesto-zhitelstva-vezde">81018</a>
+                </div>
+              </article>
+            </div>
+            <aside class="main_aside">
+              <!--AdFox START-->
+              <!--colta-->
+              <!--Площадка: Colta.ru / * / *-->
+              <!--Тип баннера: 240x400js-->
+              <!--Расположение: верх страницы-->
+              <div id="adfox_166728902431588644"></div>
+              <script>
+                  window.yaContextCb.push(()=>{
+                      Ya.adfoxCode.create({
+                          ownerId: 202734,
+                          containerId: 'adfox_166728902431588644',
+                          params: {
+                              pp: 'g',
+                              ps: 'bfdj',
+                              p2: 'epcz'
+                          }
+                      })
+                  })
+              </script>
+              
+              <!--<br><p style="background-color:#000000; color:#ffffff; text-align:center; font-size:120%; font-family:ConquerorSansMedium;"><br>Подписывайтесь<br>на наши обновления!<br>&nbsp;<br></p>
+              <p style="background-color:#f6f6f6; font-size:100%; font-family:ConquerorSans;"><br>&nbsp; &nbsp; &nbsp; <a href="http://eepurl.com/gJr_Sf" target="blank">Рассылка COLTA.RU</a><br><br>
+              <a href="https://zen.yandex.ru/colta.ru" target="blank">&nbsp; &nbsp; &nbsp; Канал COLTA.RU</a> в Яндекс.Дзен<br><br></p>--><br><br>
+              
+              <!--AdFox START-->
+              <!--colta-->
+              <!--Площадка: Colta.ru / * / *-->
+              <!--Тип баннера: FullScreen-->
+              <!--Расположение: верх страницы-->
+              <div id="adfox_166728907652181547"></div>
+              <script>
+                  window.yaContextCb.push(()=>{
+                      Ya.adfoxCode.create({
+                          ownerId: 202734,
+                          containerId: 'adfox_166728907652181547',
+                          params: {
+                              pp: 'g',
+                              ps: 'bfdj',
+                              p2: 'flgr'
+                          }
+                      })
+                  })
+              </script>
+              
+              <!--AdFox START-->
+              <!--colta-->
+              <!--Площадка: Colta.ru / * / *-->
+              <!--Тип баннера: 240x400js-->
+              <!--Расположение: середина страницы-->
+              <div id="adfox_166728911927012111"></div>
+              <script>
+                  window.yaContextCb.push(()=>{
+                      Ya.adfoxCode.create({
+                          ownerId: 202734,
+                          containerId: 'adfox_166728911927012111',
+                          params: {
+                              pp: 'h',
+                              ps: 'bfdj',
+                              p2: 'epcz'
+                          }
+                      })
+                  })
+              </script>
+              
+              <div class="block club advertising" style="border:0px !important;">
+              </div>
+            </aside>
+          </div>
+        </section>
+      </section>
+      <section class="category" id="photoproject">
+        <div class="h3">
+          Фотопроекты<a class="all" href="/galleries">все фотопроекты</a><a class="b_prev" href="#"></a><a class="b_next" href="#"></a>
+        </div>
+        <div class="inner">
+          <div class="lenta">
+            <div>
+              <a href="/galleries/specials/29544-fotoproekt-katya-muha-otdeleniya"><img alt="Gallery_cover_picture" src="/storage/post/29544/gallery_cover_picture.jpg" />Отделения</a>
+            </div>
+            <div>
+              <a href="/galleries/specials/28877-fotoproekt-raul-ahmedov-lermontov-uranovyy-sled"><img alt="Gallery_cover_picture" src="/storage/post/28877/gallery_cover_picture.jpg" />Лермонтов. Урановый след</a>
+            </div>
+            <div>
+              <a href="/galleries/specials/28813-fotoproekt-artem-puchkov-vsadniki-svobody"><img alt="Gallery_cover_picture" src="/storage/post/28813/gallery_cover_picture.jpg" />Всадники Свободы</a>
+            </div>
+            <div>
+              <a href="/galleries/specials/28678-fotoproekt-evgeniy-gusarov-dokazatelstva-pamyati"><img alt="Gallery_cover_picture" src="/storage/post/28678/gallery_cover_picture.jpg" />Доказательства памяти</a>
+            </div>
+            <div>
+              <a href="/galleries/specials/28501-fotoproekt-lyubov-volkova-zsd-osobyy-put"><img alt="Gallery_cover_picture" src="/storage/post/28501/gallery_cover_picture.jpg" />ЗСД: особый путь</a>
+            </div>
+            <div>
+              <a href="/galleries/specials/28012-fotoproekt-nikita-tsitsagi-past-sobachya-i-volchya"><img alt="Gallery_cover_picture" src="/storage/post/28012/gallery_cover_picture.jpg" />Пасть собачья и волчья</a>
+            </div>
+            <div>
+              <a href="/galleries/specials/27527-fotoproekt-margarita-hatmullina-svobodnyy-chelovek"><img alt="Gallery_cover_picture" src="/storage/post/27527/gallery_cover_picture.jpg" />Свободный человек</a>
+            </div>
+            <div>
+              <a href="/galleries/specials/27180-fotoproekt-natasha-lozinskaya-yabloko-ot-yabloni"><img alt="Gallery_cover_picture" src="/storage/post/27180/gallery_cover_picture.jpg" />Яблоко от яблони</a>
+            </div>
+            <div>
+              <a href="/galleries/specials/26800-fotoproekt-madina-gadzhieva-nefor-dlya-menya-ne-oskorblenie"><img alt="Gallery_cover_picture" src="/storage/post/26800/gallery_cover_picture.jpg" />«“Нефор” для меня — не оскорбление»</a>
+            </div>
+            <div>
+              <a href="/galleries/specials/26265-fotoproekt-olga-mihalchuk-mylnaya-opera"><img alt="Gallery_cover_picture" src="/storage/post/26265/gallery_cover_picture.jpg" />Мыльная опера</a>
+            </div>
+            <div>
+              <a href="/galleries/specials/25949-fotoproekt-dmitriy-pechurin-boyatsya-nechego"><img alt="Gallery_cover_picture" src="/storage/post/25949/gallery_cover_picture.jpg" />Бояться нечего</a>
+            </div>
+            <div>
+              <a href="/galleries/specials/25532-fotoproekt-elena-liventseva-v-poiskah-moey-materi"><img alt="Gallery_cover_picture" src="/storage/post/25532/gallery_cover_picture.jpg" />В поисках моей матери</a>
+            </div>
+            <div>
+              <a href="/galleries/specials/24503-bolshoy-fotoproekt-pod-koronoy"><img alt="Gallery_cover_picture" src="/storage/post/24503/gallery_cover_picture.jpg" />Под «короной»</a>
+            </div>
+            <div>
+              <a href="/galleries/specials/23499-fotoproekt-ivan-shestov-gruz-chelovecheskiy"><img alt="Gallery_cover_picture" src="/storage/post/23499/gallery_cover_picture.jpg" />Груз человеческий</a>
+            </div>
+            <div>
+              <a href="/galleries/specials/23390-istoriya-obo-mne-i-o-moem-dedushke-pamyati-kinooperatora-i-fotografa-alekseya-kurbatova"><img alt="Gallery_cover_picture" src="/storage/post/23390/gallery_cover_picture.jpg" />Уход</a>
+            </div>
+            <div>
+              <a href="/galleries/specials/23250-fotoproekt-alexey-vasilyev-sahavud"><img alt="Gallery_cover_picture" src="/storage/post/23250/gallery_cover_picture.jpg" />Сахавуд</a>
+            </div>
+            <div>
+              <a href="/galleries/specials/23051-fotoproekt-alina-desyatnichenko-gloria-mundi"><img alt="Gallery_cover_picture" src="/storage/post/23051/gallery_cover_picture.jpg" />Gloria mundi</a>
+            </div>
+            <div>
+              <a href="/galleries/specials/22917-fotoproekt-mariya-muzalevskaya-pyataya-volna"><img alt="Gallery_cover_picture" src="/storage/post/22917/gallery_cover_picture.jpg" />Пятая волна</a>
+            </div>
+            <div>
+              <a href="/galleries/specials/22704-fotoproekt-raisa-mihaylova-co-existence"><img alt="Gallery_cover_picture" src="/storage/post/22704/gallery_cover_picture.jpg" />Co-Existence</a>
+            </div>
+            <div>
+              <a href="/galleries/specials/22367-neravnyy-brak"><img alt="Gallery_cover_picture" src="/storage/post/22367/gallery_cover_picture.jpg" />Неравный брак</a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="inner with_adfox">
+        <section class="posts">
+          <div class="inner">
+            <div class="mask left_posts">
+              <article class=" ">
+                <a class="img" href="/articles/vrazluke/29750-aleksey-titkov-ne-skatyvatsya-v-partiynyy-kritmysh" target=""><img alt="Алексей Титков: «Не скатываться в партийный “критмыш”»" src="/storage/post/29750/post_cover_picture.jpeg" title="Алексей Титков: «Не скатываться в партийный “критмыш”»" /></a><a href="/vrazluke" class="rubric">В разлуке</a><br /><a class="head" href="/articles/vrazluke/29750-aleksey-titkov-ne-skatyvatsya-v-partiynyy-kritmysh" target="">Алексей Титков: «Не скатываться в партийный “критмыш”»</a><em class="overflow">&nbsp;</em>
+                <div>
+                  <p>
+                    Как возник конфликт между «уехавшими» и «оставшимися», на какой основе он стоит и как работают «бурлящие ритуалы» соцсетей. Разговор Дмитрия Безуглова с социологом, приглашенным исследователем Манчестерского университета Алексеем Титковым
+                  </p>
+                  <span class="date"> 6 июля 2024</span><a class="view" href="/articles/vrazluke/29750-aleksey-titkov-ne-skatyvatsya-v-partiynyy-kritmysh">81848</a>
+                </div>
+              </article>
+              <article class=" ">
+                <a class="img" href="/articles/vrazluke/29749-dnevnik-vzglyad-iz-rossii-vremen-voyny" target=""><img alt="Дневник отчаявшегося: взгляд из России времен войны" src="/storage/post/29749/post_cover_picture.jpg" title="Дневник отчаявшегося: взгляд из России времен войны" /></a><a href="/vrazluke" class="rubric">В разлуке</a><br /><a class="head" href="/articles/vrazluke/29749-dnevnik-vzglyad-iz-rossii-vremen-voyny" target="">Дневник отчаявшегося: взгляд из России времен войны</a><em class="overflow">&nbsp;</em>
+                <div>
+                  <p>
+                    Философ, не покидавшая Россию с начала войны, поделилась с редакцией своим дневником за эти годы. На условиях анонимности
+                  </p>
+                  <span class="date">18 июня 2024</span><a class="view" href="/articles/vrazluke/29749-dnevnik-vzglyad-iz-rossii-vremen-voyny">88177</a>
+                </div>
+              </article>
+              <article class=" ">
+                <a class="img" href="/articles/vrazluke/29748-dolin-rodionov-poverh-granitsy" target=""><img alt="Антон Долин — Александр Родионов: разговор поверх границы" src="/storage/post/29748/post_cover_picture.jpg" title="Антон Долин — Александр Родионов: разговор поверх границы" /></a><a href="/vrazluke" class="rubric">В разлуке</a><br /><a class="head" href="/articles/vrazluke/29748-dolin-rodionov-poverh-granitsy" target="">Антон Долин — Александр Родионов: разговор поверх границы</a><em class="overflow">&nbsp;</em>
+                <div>
+                  <p>
+                    Проект Кольты «В разлуке» проводит эксперимент и предлагает публично поговорить друг с другом «уехавшим» и «оставшимся». Первый диалог — кинокритика Антона Долина и сценариста, руководителя «Театра.doc» Александра Родионова
+                  </p>
+                  <span class="date"> 7 июня 2024</span><a class="view" href="/articles/vrazluke/29748-dolin-rodionov-poverh-granitsy">86620</a>
+                </div>
+              </article>
+              <article class=" ">
+                <a class="img" href="/articles/vrazluke/29747-ivan-davydov-pismo-cheloveku-iks" target=""><img alt="Письмо человеку Икс" src="/storage/post/29747/post_cover_picture.png" title="Письмо человеку Икс" /></a><a href="/vrazluke" class="rubric">В разлуке</a><br /><a class="head" href="/articles/vrazluke/29747-ivan-davydov-pismo-cheloveku-iks" target="">Письмо человеку Икс</a><em class="overflow">&nbsp;</em>
+                <div>
+                  <p>
+                    Иван Давыдов пишет письмо другу в эмиграции, с которым ждет встречи, хотя на нее не надеется. Начало нового проекта Кольты «В разлуке»
+                  </p>
+                  <span class="date">21 мая 2024</span><a class="view" href="/articles/vrazluke/29747-ivan-davydov-pismo-cheloveku-iks">69438</a>
+                </div>
+              </article>
+              <article class=" ">
+                <a class="img" href="/articles/specials/29742-na-segodnya-olga-sedakova-podzemelie" target=""><img alt="Подземелье" src="/storage/post/29742/post_cover_picture.jpg" title="Подземелье" /></a><a href="/specials" class="rubric">Colta Specials</a><br /><a class="head" href="/articles/specials/29742-na-segodnya-olga-sedakova-podzemelie" target="">Подземелье</a><em class="overflow">&nbsp;</em>
+                <div>
+                  <p>
+                    Ольга Седакова о выходе преисподней на свет
+                  </p>
+                  <span class="date">12 декабря 2023</span><a class="view" href="/articles/specials/29742-na-segodnya-olga-sedakova-podzemelie">106592</a>
+                </div>
+              </article>
+              <article class=" ">
+                <a class="img" href="/articles/specials/29743-na-segodnya-evgeniya-vezhlyan-mezhdu-strahom-i-uzhasom" target=""><img alt="Между страхом и ужасом" src="/storage/post/29743/post_cover_picture.jpg" title="Между страхом и ужасом" /></a><a href="/specials" class="rubric">Colta Specials</a><br /><a class="head" href="/articles/specials/29743-na-segodnya-evgeniya-vezhlyan-mezhdu-strahom-i-uzhasom" target="">Между страхом и ужасом</a><em class="overflow">&nbsp;</em>
+                <div>
+                  <p>
+                    Евгения Вежлян о ложных выборах и зависимостях
+                  </p>
+                  <span class="date">12 декабря 2023</span><a class="view" href="/articles/specials/29743-na-segodnya-evgeniya-vezhlyan-mezhdu-strahom-i-uzhasom">120309</a>
+                </div>
+              </article>
+            </div>
+            <aside class="main_aside">
+              <!--AdFox START-->
+              <!--colta-->
+              <!--Площадка: Colta.ru / * / *-->
+              <!--Тип баннера: 240x400js-->
+              <!--Расположение: низ страницы-->
+              <div id="adfox_166728925024972671"></div>
+              <script>
+                  window.yaContextCb.push(()=>{
+                      Ya.adfoxCode.create({
+                          ownerId: 202734,
+                          containerId: 'adfox_166728925024972671',
+                          params: {
+                              pp: 'i',
+                              ps: 'bfdj',
+                              p2: 'epcz'
+                          }
+                      })
+                  })
+              </script>
+              <br><br>
+              
+            </aside>
+          </div>
+        </section>
+      </section>
+      <section id="most_popular">
+        <div class="h3">
+          Самое читаемое<a class="link on" href="#"></a><a class="b_prev" href="#"></a><a class="b_next" href="#"></a>
+        </div>
+        <div class="inner">
+          <div class="lenta">
+            <div>
+              <strong>1</strong><a href="/articles/vokrug_gorizontali/29718-lenivka-2" target=""><img alt="Preview_cover_picture" src="/storage/post/29718/preview_cover_picture.jpg" /><br>Встреча на Ленивке (Еще два часа)</br></a>
+              <p>
+                <a class="view" href="/articles/vokrug_gorizontali/29718-lenivka-2">170518</a>
+              </p>
+            </div>
+            <div>
+              <strong>2</strong><a href="/articles/revision/29728-dmitriy-butrin-chitatel-seychas-hochet-nepravdu" target=""><img alt="Preview_cover_picture" src="/storage/post/29728/preview_cover_picture.jpg" /><br>Дмитрий Бутрин: «Читатель сейчас хочет неправду»</br></a>
+              <p>
+                <a class="view" href="/articles/revision/29728-dmitriy-butrin-chitatel-seychas-hochet-nepravdu">164003</a>
+              </p>
+            </div>
+            <div>
+              <strong>3</strong><a href="/articles/vokrug_gorizontali/29717-lenivka-1" target=""><img alt="Preview_cover_picture" src="/storage/post/29717/preview_cover_picture.jpg" /><br>Встреча на Ленивке (Первые три часа)</br></a>
+              <p>
+                <a class="view" href="/articles/vokrug_gorizontali/29717-lenivka-1">160798</a>
+              </p>
+            </div>
+            <div>
+              <strong>4</strong><a href="/articles/vokrug_gorizontali/29704-grigory-yudin-protesty-bolshoy-razgovor" target=""><img alt="Preview_cover_picture" src="/storage/post/29704/preview_cover_picture.jpg" /><br>Григорий Юдин о прошлом и будущем протеста. Большой разговор</br></a>
+              <p>
+                <a class="view" href="/articles/vokrug_gorizontali/29704-grigory-yudin-protesty-bolshoy-razgovor">151187</a>
+              </p>
+            </div>
+            <div>
+              <strong>5</strong><a href="/articles/revision/29723-evgeniya-volunkova-privilegii-u-teh-kto-ostalsya-v-rossii" target=""><img alt="Preview_cover_picture" src="/storage/post/29723/preview_cover_picture.jpg" /><br>Евгения Волункова: «Привилегии у тех, кто остался в России» </br></a>
+              <p>
+                <a class="view" href="/articles/revision/29723-evgeniya-volunkova-privilegii-u-teh-kto-ostalsya-v-rossii">132201</a>
+              </p>
+            </div>
+            <div>
+              <strong>6</strong><a href="/articles/revision/29720-vasiliy-gatov" target=""><img alt="Preview_cover_picture" src="/storage/post/29720/preview_cover_picture.jpg" /><br>Василий Гатов: «Журналист не может забить “большой железный” на связь со страной»</br></a>
+              <p>
+                <a class="view" href="/articles/revision/29720-vasiliy-gatov">125866</a>
+              </p>
+            </div>
+            <div>
+              <strong>7</strong><a href="/articles/vokrug_gorizontali/29706-ilia-budraytskis-interview-dissidents" target=""><img alt="Preview_cover_picture" src="/storage/post/29706/preview_cover_picture.jpg" /><br>Илья Будрайтскис: «Важным в опыте диссидентов было серьезное отношение к чужим идеям»</br></a>
+              <p>
+                <a class="view" href="/articles/vokrug_gorizontali/29706-ilia-budraytskis-interview-dissidents">122434</a>
+              </p>
+            </div>
+            <div>
+              <strong>8</strong><a href="/articles/specials/29735-sergey-nevskiy-shkola-emigrantov" target=""><img alt="Preview_cover_picture" src="/storage/post/29735/preview_cover_picture.jpg" /><br>Школа эмигрантов</br></a>
+              <p>
+                <a class="view" href="/articles/specials/29735-sergey-nevskiy-shkola-emigrantov">120917</a>
+              </p>
+            </div>
+            <div>
+              <strong>9</strong><a href="/articles/specials/29743-na-segodnya-evgeniya-vezhlyan-mezhdu-strahom-i-uzhasom" target=""><img alt="Preview_cover_picture" src="/storage/post/29743/preview_cover_picture.jpg" /><br>Между страхом и ужасом</br></a>
+              <p>
+                <a class="view" href="/articles/specials/29743-na-segodnya-evgeniya-vezhlyan-mezhdu-strahom-i-uzhasom">120309</a>
+              </p>
+            </div>
+            <div>
+              <strong>10</strong><a href="/articles/specials/29740-na-segodnya-anna-narinskaya-god-kogda-rassosalas-druzhba" target=""><img alt="Preview_cover_picture" src="/storage/post/29740/preview_cover_picture.jpg" /><br>Год, когда рассосалась дружба</br></a>
+              <p>
+                <a class="view" href="/articles/specials/29740-na-segodnya-anna-narinskaya-god-kogda-rassosalas-druzhba">112635</a>
+              </p>
+            </div>
+            <div>
+              <strong>11</strong><a href="/articles/revision/29722-lola-tagaeva-redaktsiya-stala-zamenyat-gosudarstvo" target=""><img alt="Preview_cover_picture" src="/storage/post/29722/preview_cover_picture.jpg" /><br>Лола Тагаева: «Редакция в какой-то степени стала заменять государство» </br></a>
+              <p>
+                <a class="view" href="/articles/revision/29722-lola-tagaeva-redaktsiya-stala-zamenyat-gosudarstvo">111758</a>
+              </p>
+            </div>
+            <div>
+              <strong>12</strong><a href="/articles/specials/29742-na-segodnya-olga-sedakova-podzemelie" target=""><img alt="Preview_cover_picture" src="/storage/post/29742/preview_cover_picture.jpg" /><br>Подземелье</br></a>
+              <p>
+                <a class="view" href="/articles/specials/29742-na-segodnya-olga-sedakova-podzemelie">106592</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="inner">
+        <section class="posts">
+          <div class="inner">
+            <div class="mask">
+              <article class=" ">
+                <a class="img" href="/articles/specials/29739-na-segodnya-ella-rossman-priznat-simptom" target=""><img alt="Признать симптом" src="/storage/post/29739/post_cover_picture.jpg" title="Признать симптом" /></a><a href="/specials" class="rubric">Colta Specials</a><br /><a class="head" href="/articles/specials/29739-na-segodnya-ella-rossman-priznat-simptom" target="">Признать симптом</a><em class="overflow">&nbsp;</em>
+                <div>
+                  <p>
+                    Элла Россман о нашей безъязыкости
+                  </p>
+                  <span class="date">12 декабря 2023</span><a class="view" href="/articles/specials/29739-na-segodnya-ella-rossman-priznat-simptom">96006</a>
+                </div>
+              </article>
+              <article class=" ">
+                <a class="img" href="/articles/specials/29740-na-segodnya-anna-narinskaya-god-kogda-rassosalas-druzhba" target=""><img alt="Год, когда рассосалась дружба" src="/storage/post/29740/post_cover_picture.jpg" title="Год, когда рассосалась дружба" /></a><a href="/specials" class="rubric">Colta Specials</a><br /><a class="head" href="/articles/specials/29740-na-segodnya-anna-narinskaya-god-kogda-rassosalas-druzhba" target="">Год, когда рассосалась дружба</a><em class="overflow">&nbsp;</em>
+                <div>
+                  <p>
+                    Анна Наринская об оборотной стороне слова «свой»
+                  </p>
+                  <span class="date">12 декабря 2023</span><a class="view" href="/articles/specials/29740-na-segodnya-anna-narinskaya-god-kogda-rassosalas-druzhba">112635</a>
+                </div>
+              </article>
+              <article class=" ">
+                <a class="img" href="/articles/revision/29744-reviziya-i-ee-rezultaty" target=""><img alt="Ревизия и ее результаты " src="/storage/post/29744/post_cover_picture.jpg" title="Ревизия и ее результаты " /></a><a href="/revision" class="rubric">Журналистика: ревизия</a><br /><a class="head" href="/articles/revision/29744-reviziya-i-ee-rezultaty" target="">Ревизия и ее результаты </a><em class="overflow">&nbsp;</em>
+                <div>
+                  <p>
+                    Ксения Лученко подводит итог проекта «Журналистика: ревизия»
+                  </p>
+                  <span class="date"> 7 декабря 2023</span><a class="view" href="/articles/revision/29744-reviziya-i-ee-rezultaty">84178</a>
+                </div>
+              </article>
+              <article class=" hide_on_small">
+                <a class="img" href="/articles/revision/29741-elizaveta-osetinskaya-my-privykli-platit-malenkie-dengi" target=""><img alt="Елизавета Осетинская: «Мы привыкли платить и сами получать маленькие деньги, и ничего хорошего в этом нет»" src="/storage/post/29741/post_cover_picture.JPG" title="Елизавета Осетинская: «Мы привыкли платить и сами получать маленькие деньги, и ничего хорошего в этом нет»" /></a><a href="/revision" class="rubric">Журналистика: ревизия</a><br /><a class="head" href="/articles/revision/29741-elizaveta-osetinskaya-my-privykli-platit-malenkie-dengi" target="">Елизавета Осетинская: «Мы привыкли платить и сами получать маленькие деньги, и ничего хорошего в этом нет»</a><em class="overflow">&nbsp;</em>
+                <div>
+                  <p>
+                    Разговор с основательницей The Bell о журналистике «без выпученных глаз», хронической бедности в профессии и о том, как спасти все независимые медиа разом
+                  </p>
+                  <span class="date">29 ноября 2023</span><a class="view" href="/articles/revision/29741-elizaveta-osetinskaya-my-privykli-platit-malenkie-dengi">105763</a>
+                </div>
+              </article>
+            </div>
+          </div>
+        </section>
+      </section>
+      <section class="inner">
+        <section class="posts">
+          <div class="inner">
+            <div class="mask">
+              <article class=" hide_on_big">
+                <a class="img" href="/articles/revision/29741-elizaveta-osetinskaya-my-privykli-platit-malenkie-dengi" target=""><img alt="Елизавета Осетинская: «Мы привыкли платить и сами получать маленькие деньги, и ничего хорошего в этом нет»" src="/storage/post/29741/post_cover_picture.JPG" title="Елизавета Осетинская: «Мы привыкли платить и сами получать маленькие деньги, и ничего хорошего в этом нет»" /></a><a href="/revision" class="rubric">Журналистика: ревизия</a><br /><a class="head" href="/articles/revision/29741-elizaveta-osetinskaya-my-privykli-platit-malenkie-dengi" target="">Елизавета Осетинская: «Мы привыкли платить и сами получать маленькие деньги, и ничего хорошего в этом нет»</a><em class="overflow">&nbsp;</em>
+                <div>
+                  <p>
+                    Разговор с основательницей The Bell о журналистике «без выпученных глаз», хронической бедности в профессии и о том, как спасти все независимые медиа разом
+                  </p>
+                  <span class="date">29 ноября 2023</span><a class="view" href="/articles/revision/29741-elizaveta-osetinskaya-my-privykli-platit-malenkie-dengi">105763</a>
+                </div>
+              </article>
+              <article class=" ">
+                <a class="img" href="/articles/revision/29738-maksim-trudolyubov-polyarizatsiya-budet-tolko-uglublyatsya" target=""><img alt="Максим Трудолюбов: «Поляризация будет только углубляться» " src="/storage/post/29738/post_cover_picture.jpeg" title="Максим Трудолюбов: «Поляризация будет только углубляться» " /></a><a href="/revision" class="rubric">Журналистика: ревизия</a><br /><a class="head" href="/articles/revision/29738-maksim-trudolyubov-polyarizatsiya-budet-tolko-uglublyatsya" target="">Максим Трудолюбов: «Поляризация будет только углубляться» </a><em class="overflow">&nbsp;</em>
+                <div>
+                  <p>
+                    Известный публицист о проигранной борьбе за факт и о конце западноцентричной модели журналистики
+                  </p>
+                  <span class="date">17 ноября 2023</span><a class="view" href="/articles/revision/29738-maksim-trudolyubov-polyarizatsiya-budet-tolko-uglublyatsya">98993</a>
+                </div>
+              </article>
+              <article class=" ">
+                <a class="img" href="/articles/revision/29737-ekaterina-gorbunova-o-tom-kak-eto-tyazhelo" target=""><img alt="Екатерина Горбунова: «О том, как это тяжело и трагично, я подумаю потом»" src="/storage/post/29737/post_cover_picture.jpg" title="Екатерина Горбунова: «О том, как это тяжело и трагично, я подумаю потом»" /></a><a href="/revision" class="rubric">Журналистика: ревизия</a><br /><a class="head" href="/articles/revision/29737-ekaterina-gorbunova-o-tom-kak-eto-tyazhelo" target="">Екатерина Горбунова: «О том, как это тяжело и трагично, я подумаю потом»</a><em class="overflow">&nbsp;</em>
+                <div>
+                  <p>
+                    Разговор с главным редактором независимого медиа «Адвокатская улица». Точнее, два разговора: первый — пока проект, объявленный «иноагентом», работал. И второй — после того, как он не выдержал давления и закрылся
+                  </p>
+                  <span class="date">19 октября 2023</span><a class="view" href="/articles/revision/29737-ekaterina-gorbunova-o-tom-kak-eto-tyazhelo">69385</a>
+                </div>
+              </article>
+              <article class=" ">
+                <a class="img" href="/articles/revision/29736-oleg-kashin-situatsiya-vpolne-tragicheskaya" target=""><img alt="Олег Кашин: «Ситуация вполне трагическая: есть зло, а на позиции добра непонятно кто»" src="/storage/post/29736/post_cover_picture.jpg" title="Олег Кашин: «Ситуация вполне трагическая: есть зло, а на позиции добра непонятно кто»" /></a><a href="/revision" class="rubric">Журналистика: ревизия</a><br /><a class="head" href="/articles/revision/29736-oleg-kashin-situatsiya-vpolne-tragicheskaya" target="">Олег Кашин: «Ситуация вполне трагическая: есть зло, а на позиции добра непонятно кто»</a><em class="overflow">&nbsp;</em>
+                <div>
+                  <p>
+                    Ни с теми, ни с этими. Известный журналист ищет пути между медийными лагерями и обвиняет оппозиционно-эмигрантский в предвзятости
+                  </p>
+                  <span class="date">10 октября 2023</span><a class="view" href="/articles/revision/29736-oleg-kashin-situatsiya-vpolne-tragicheskaya">96384</a>
+                </div>
+              </article>
+              <article class=" ">
+                <a class="img" href="/articles/specials/29735-sergey-nevskiy-shkola-emigrantov" target=""><img alt="Школа эмигрантов" src="/storage/post/29735/post_cover_picture.jpg" title="Школа эмигрантов" /></a><a href="/specials" class="rubric">Colta Specials</a><br /><a class="head" href="/articles/specials/29735-sergey-nevskiy-shkola-emigrantov" target="">Школа эмигрантов</a><em class="overflow">&nbsp;</em>
+                <div>
+                  <p>
+                    Сергей Невский: 13 фрагментов о современной ситуации
+                  </p>
+                  <span class="date">21 сентября 2023</span><a class="view" href="/articles/specials/29735-sergey-nevskiy-shkola-emigrantov">120917</a>
+                </div>
+              </article>
+            </div>
+          </div>
+        </section>
+      </section>
+      <section class="inner">
+        <div class="category" id="pager">
+          <table id="pager" width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              
+                  <td class="prev"><a style="cursor:default; color:#999999 !important;" onclick="return false" href="#">НАЗАД</a></td>
+          
+          
+          
+                      <td><a class="on" style="cursor:default; color:#999999 !important;" onclick="return false" href="#">1</a></td>
+          
+                      <td><a href="/?page=2" rel="next">2</a></td>
+          
+                      <td><a href="/?page=3">3</a></td>
+          
+                  <td><span>...</span></td>
+                      <td><a href="/?page=429">429</a></td>
+          
+                  <td class="next"><a href="/?page=2" rel="next">ВПЕРЕД</a></td>
+          
+              
+            </tr>
+          </table>
+          
+        </div>
+      </section>
+    </section>
+    <footer>
+      <div class="inner">
+        <section>
+          <div class="big_block">
+            <img alt="Logo_scroll" src="/assets/logo_scroll-bc1e15c371294f49971ff759fdb168a2.png" />
+          </div>
+          <div class="menu">
+            <p>
+              <a href="/news">Новости</a>
+            </p>
+            <p>
+              <a href="/galleries">Фотопроекты</a>
+            </p>
+            <p>
+              <a href="http://os.colta.ru/" target="_blank">Архив OpenSpace.ru</a>
+            </p>
+            <p>
+              <a href="http://archives.colta.ru/" target="_blank">Архив COLTA.RU</a>
+            </p>
+          </div>
+          <div class="menu">
+            <p>
+              <a href="/about">О проекте</a>
+            </p>
+            <p>
+              <a href="/authors">Авторы</a>
+            </p>
+            <p>
+              <a href="/donate">Помоги сайту</a>
+            </p>
+          </div>
+          <div class="menu">
+            <p>
+              <a class="soc soc_vk" href="http://vk.com/colta_ru" target="_blank">Вконтакте</a>
+            </p>
+            <p>
+              <a class="soc soc_tg" href="https://t.me/colta_ru" target="_blank">Telegram</a>
+            </p>
+            <p>
+              <a class="soc soc_tw" href="https://twitter.com/ColtaRu" target="_blank">Twitter</a>
+            </p>
+            <p>
+              <a class="soc soc_rss" href="/feed" target="_blank">RSS</a>
+            </p>
+          </div>
+          <div class="menu specproject">
+            <p>
+              <span>Спецпроекты Colta.ru</span>
+            </p>
+            <p>
+              <a href="/revision">Журналистика: ревизия</a>
+            </p>
+            <p>
+              <a href="/vokrug_gorizontali">Вокруг горизонтали</a>
+            </p>
+            <p>
+              <a href="/molodaya_rossiya">Молодая Россия</a>
+            </p>
+            <p>
+              <a href="/mosty">Мосты</a>
+            </p>
+            <p>
+              <a href="/subjects/229">Онлайн-портреты современных немецких поэтов </a>
+            </p>
+            <p>
+              <a href="/rubrics/126">Из жизни алгоритмов</a>
+            </p>
+            <p>
+              <a href="/ecocup">Ecocup Green Talks</a>
+            </p>
+            <p>
+              <a href="/rubrics/122">Самопомощь</a>
+            </p>
+            <p>
+              <a href="/prosvetitel">Просветитель</a>
+            </p>
+            <p>
+              <a href="/rubrics/113">На рубеже</a>
+            </p>
+            <p>
+              <a href="/rubrics/74">Например, Швеция</a>
+            </p>
+            <p>
+              <a href="/rubrics/90">NEMOSKVA</a>
+            </p>
+            <p>
+              <a href="/rubrics/85">Best of Reportagen</a>
+            </p>
+            <p>
+              <a href="/rubrics/81">Европа рядом</a>
+            </p>
+            <p>
+              <a href="/peremennaya">Переменная</a>
+            </p>
+            <p>
+              <a href="/subjects/183">Написано в Америке</a>
+            </p>
+            <p>
+              <a href="/rubrics/80">Большая наука</a>
+            </p>
+            <p>
+              <a href="/swiss_made">Swiss Made</a>
+            </p>
+            <p>
+              <a href="/raznoglasiya">Разногласия</a>
+            </p>
+            <p>
+              <a href="/shkola">Школа гражданской журналистики</a>
+            </p>
+            <p>
+              <a href="/ostrov90">Остров 90-х</a>
+            </p>
+            <p>
+              <a href="/90s">Музей 90-х</a>
+            </p>
+            <p>
+              <a href="/school90">Школа 90-х</a>
+            </p>
+            <p>
+              <a href="/rubrics/8">Книгуру</a>
+            </p>
+            <p>
+              <a href="/rubrics/3">Бахрушинский музей онлайн</a>
+            </p>
+          </div>
+        </section>
+      </div>
+      <section class="copyright">
+        <div class="inner">
+          <p class="big">
+            &copy; 2012—2026 Colta.ru. Все права защищены.
+          </p>
+          <p>
+            <a href="/legal">Правовая информация</a>
+          </p>
+          <p>
+            Сделано&nbsp;в&nbsp;<a href="http://charmerstudio.com" target="_blank">Charmer</a>
+          </p>
+          <div class="liveinternet">
+            <!--LiveInternet counter--><script type="text/javascript"><!--
+            document.write("<a href='http://www.liveinternet.ru/click' "+
+                    "target=_blank><img src='//counter.yadro.ru/hit?t40.4;r"+
+                    escape(document.referrer)+((typeof(screen)=="undefined")?"":
+                    ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+                            screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+                    ";"+Math.random()+
+                    "' alt='' title='LiveInternet' "+
+                    "border='0' width='31' height='31'><\/a>")
+            //--></script><!--/LiveInternet-->
+          </div>
+        </div>
+      </section>
+    </footer>
+    <!-- счетчики мобильный -->
+    
+    
+  </body>
+</html>

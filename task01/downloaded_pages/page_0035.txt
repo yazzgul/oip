@@ -1,0 +1,2920 @@
+<!DOCTYPE html>
+<html lang='ru' prefix="og: http://ogp.me/ns#  ">
+<head>
+<title>Библиотека научно-популярных статей на «Элементах»</title>
+<noscript><meta name="viewport" content="width=device-width, initial-scale=1.0"></noscript>
+<script type='text/javascript'>if (!document.cookie.match(/\bdesktop_mode=1/)) document.write('<meta name="viewport" content="width=device-width, initial-scale=1.0">');</script>
+
+
+<META name="description" content="Статьи по физике, биологии, химии, астрономии, математике, лингвистике и другим наукам из научно-популярных журналов, газеты «Троицкий вариант», а также написанные специально для «Элементов». Интервью, расшифровки научно-популярных лекций"/>
+
+
+
+<link rel="canonical" href="https://elementy.ru/nauchno-populyarnaya_biblioteka" />
+
+
+<base href="//elementy.ru/">
+
+
+
+<meta property="og:title" content="Библиотека научно-популярных статей на «Элементах»"/>
+<meta property="og:type" content="website"/>
+<meta property="og:description" content="Статьи по физике, биологии, химии, астрономии, математике, лингвистике и другим наукам из научно-популярных журналов, газеты «Троицкий вариант», а также написанные специально для «Элементов». Интервью, расшифровки научно-популярных лекций"/>
+<meta property="og:url" content="https://elementy.ru/nauchno-populyarnaya_biblioteka"/>
+<meta property="og:image" content="https://elementy.ru/images/screenshots/biblioteka_2019_10_18.jpg"/>
+
+
+
+<meta property="og:site_name" content="«Элементы»"/>
+<meta property="og:locale" content="ru_RU"/>
+
+
+<link rel="manifest" href="/downloads/js/manifest.json?v=1.02">
+
+
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo16bw.png"  sizes="16x16"/>
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo32bw.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo48bw.png" sizes="48x48" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo64bw.png" sizes="64x64" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo128bw.png" sizes="128x128" />
+<link rel="shortcut icon" type="image/png" href="/images/eltnewdesign/logo32bw.png"/>
+
+<meta content='Элементы' name='apple-mobile-web-app-title'>
+
+<link rel="apple-touch-icon" type="image/png" href="/images/eltnewdesign/logo128bw.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/images/eltnewdesign/logo57bw.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/eltnewdesign/logo114bw.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/eltnewdesign/logo72wb.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/images/eltnewdesign/logo120bw.png" />
+
+<meta name="application-name" content="Элементы"/>
+<meta name="msapplication-TileColor" content="#001034" />
+<meta name="msapplication-TileImage" content="/images/eltnewdesign/logo128bw.png" />
+
+<meta name="yandex-tableau-widget" content="logo=https://elementy.ru/images/eltnewdesign/logo128bw.png, color=#001034" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://elementy.ru/rss"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/style2.css?v=1.125"/>
+
+<noscript>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hpad.css?v=1.26"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vpad.css?v=1.26"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-phone.css?v=1.40"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vphone.css?v=1.06"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hphone.css?v=1.06"/>
+</noscript>
+<script type='text/javascript'>
+if (!document.cookie.match(/\bdesktop_mode=1/))
+   document.write(
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hpad.css?v=1.26"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vpad.css?v=1.26"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-phone.css?v=1.40"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vphone.css?v=1.06"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hphone.css?v=1.06"/>');
+</script>
+
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-print.css?v=1.09"/>
+
+<script type="text/javascript" src="/download/mathjax_2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js" async></script>
+<script src="//yastatic.net/share2/share.js" async></script>
+<script type="text/javascript" src='/downloads/js/menu.js?v=1.10'></script>
+<script type="text/javascript" src='/downloads/js/hor.js' async></script>
+<script type='text/javascript' src='/downloads/js/request.js' async></script>
+<script type='text/javascript' src='/downloads/js/scroll.js?v=1.03'></script>
+<script type='text/javascript' src='/downloads/js/more.js?v=1.02'></script>
+<script type='text/javascript' src='/downloads/js/ttlhover.js' async></script>
+<script type='text/javascript' src='/downloads/js/rfilters.js'></script>
+
+<script type="text/javascript">
+function pict_popup(src,title) {
+        var w = window.open(src,'','channelmode=no,toolbar=no,location=no,status=no,directories=no,menubar=no,');
+        if(navigator.appName=='Microsoft Internet Explorer') w.document.write('<title>'+title+'</title><img src="'+src+'" onLoad="i=document.images[0]; window.resizeTo(i.width+50,i.height+100)">')
+        return false
+}
+</script>
+
+
+
+
+</head>
+
+<body class="xrub-nauchno-populyarnaya_biblioteka xrubpage-no">
+<div class='allarea'  id='pgarea'>
+<a id="page_top"></a>
+
+<div class='mainmenublock hmenu' id='mmenubody' >
+     <div class='mbshading' id='mshading' onclick='toggleHMenu("mmenubody")'></div> 
+     <div class='hmenu'>
+      <div class='menuarea' id='mmenuarea'>
+       <a href='/' class='close' onclick='return toggleHMenu("mmenubody")'><span class='icon close'></span><span class='hint'>Закрыть</span></a>
+       <script type='text/javascript'>
+            var desktop_mode = document.cookie.match(/\bdesktop_mode=1/); 
+            if (!desktop_mode) document.write('<div class="oldlink hide_other"><a'+(location.href.indexOf('/video')>0?' class="inactive"':' href="'+location.href.replace(/\/\/[^\/]+/,"//"+(location.href.indexOf("//elementy")>0||location.href.indexOf("//elt.host3.elementy")>0?"old.":"")+"elementy.ru")+'" target="_blank"')+'>Эта страница в старом дизайне</a></div><hr class="hide_other">');
+       </script>
+       <ul class="level0"><li class="level0 ">
+  <div><a href='/novosti_nauki'>Новости науки</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/kartinka_dnya'>Картинка дня</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/events'>Календарь событий</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/problems'>Задачи</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/email'>Детские вопросы</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/LHC'>Большой адронный коллайдер</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/LHC/novosti_BAK'>Новости LHC</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/LHC/monitory_bolshogo_adronnogo_kollajdera'>Мониторы LHC</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/LHC/LHC_results'>Результаты LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/zagadki_lhc'>Загадки LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/b_s_mu_mu'>Распад b→sμμ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptonnaya_universalnost_1'>Распад B<sup>+</sup>→K<sup>+</sup>ll</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptonnaya_universalnost_2'>Распад B→Dlν</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/b_mu_mu'>Распад B→μμ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/raspad_higgsa_na_muon_i_tau'>Распад H→μτ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/top_antitop_higgs'>Комбинация топ-антитоп-хиггс</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/zaryazhennyj_bozon_higgsa'>Заряженный бозон Хиггса</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/dvuhfotonnyj_vsplesk_pri_750_gev'>Двухфотонный всплеск 750&nbsp;ГэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptony_odnogo_znaka_na_atlas'>Лептоны одного знака на ATLAS</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/eejj-otklonenije'>eejj-отклонение</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/sobytije_2.9tev'>Событие при 2,9 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/vsplesk_pri_2_tev_atlas'>WZ-пик при 2 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/vsplesk_pri_1.8_tev_cms'>WH-пик при 1,8 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_CMS'>Поиск суперсимметрии — 1</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_ATLAS'>Поиск суперсимметрии — 2</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_iii'>Поиск суперсимметрии — 3</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_results/beyondSM'>Отклонения от Стандартной модели</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/susy_search'>Поиск суперсимметрии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/exotic_search'>Экзотические частицы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/higgs_search'>Поиск бозона Хиггса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/higgs_study'>Изучение бозона Хиггса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/top-quark'>Свойства топ-кварка</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/spectroscopy'>Адронная спектроскопия</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/hadrons'>Рождение и распады адронов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/rare_decays'>Редкие распады B-мезонов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/difraction'>Адронная дифракция</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/nuclei'>Ядерные столкновения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/astro'>Астрофизика</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/LHC_working'>LHC в работе</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/lhc/timeline'>Хронология создания и работы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_working/general_schedule'>Общее расписание</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/general_schedule/what-to-check'>Как следить за новостями с LHC</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/general_schedule/working_cycle'>Рабочий цикл коллайдера</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/initial'>Ранние этапы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2008'>2008</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/incident'>Авария 19.09.2008</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2009'>2009</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2009/results_2009'>Результаты работы LHC в&nbsp;2009&nbsp;году</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_1'>Сеанс LHC Run&nbsp;1</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2010'>2010</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2010/results_2010'>Результаты работы LHC в&nbsp;2010&nbsp;году</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2011'>2011</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2011/results_2011'>Результаты работы LHC в&nbsp;2011&nbsp;году</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2012'>2012</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/schedule_2015'>Техническая пауза LS1</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_2'>Сеанс LHC Run&nbsp;2</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2015'>2015</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2016'>2016</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2017'>2017</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2018'>2018</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_3'>Сеанс LHC Run&nbsp;3</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_3/2022'>2022</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/LHC'>Устройство и задачи LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/LHC/about'>LHC: ключевые факты</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC/accelerator'>Устройство LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/beams'>Протонные пучки</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/magnets'>Магнитная система</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/magnet_training'>Как тренируют магниты</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/detectors'>Детекторы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/ATLAS'>ATLAS</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/CMS'>CMS</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/ALICE'>ALICE</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/LHCb'>LHCb</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/TOTEM'>TOTEM</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/LHCf'>LHCf</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/MoEDAL'>MoEDAL</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/why'>Зачем нужен LHC?</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC/tasks'>Задачи LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/hadrons'>Свойства адронов</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/hadrons/spectroscopy'>Адронная спектроскопия</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/hadrons/decays'>Адронные распады</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/higgs'>Поиск бозона Хиггса</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/higgs/production_decay'>Рождение и распад</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/higgs/search_strategies'>Стратегии поиска</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/top-quark'>Топ-кварк</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/SUSY'>Поиск суперсимметрии</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/exotic'>Экзотические теории</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/nuclei'>Ядерные столкновения</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/safety'>Безопасность</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/safety/estimates'>Вероятность катастрофы</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/safety/black_holes'>Микроскопические черные дыры</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/phrases'>Толковый словарик журналистских штампов</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/HEP'>Физика элементарных частиц</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/HEP/educational'>Образовательные онлайн-ресурсы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/HEP/measures'>Величины и единицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/cross-section'>Сечение процесса</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/luminosity'>Светимость</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/invariant-mass'>Инвариантная масса</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/study'>Как изучают частицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/study/detecting'>Принципы детектирования</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/study/errors'>Погрешности</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/statistical'>Статистическая</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/systematic'>Систематическая</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/theoretical'>Теория и моделирование</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/sigma'>Сигма</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/subtleties'>Тонкости анализа</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/experiments'>Эксперименты на коллайдерах</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/quark_model'>Классификация адронов</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/partonic_densities'>Партоны</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/hadronization'>Конфайнмент и адронизация</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/rapidity-angle_diagram'>Быстрота–угол</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/analysis_methods'>Приемы анализа</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/SM'>Стандартная модель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/problems'>Трудности</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/beyondSM'>За пределами СМ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/SUSY'>Суперсимметрия</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/higgs_theory'>Хиггсовский механизм</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/explanations'>Аналогии</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/SM_Higgs'>Хиггс с&nbsp;массой 125&nbsp;ГэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/nonminimal'>Неминимальные варианты</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/gallery'>Галерея</a>
+  </div></li>
+
+  </li></ul><li class="level0 selected">
+  <div><a href='/nauchno-populyarnaya_biblioteka'>Библиотека</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly'>В популярных журналах</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/vmirenauki'>«В мире науки»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/znanijesila'>«Знание — сила»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kvant'>«Квант»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kvantik'>«Квантик»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kommersant_nauka'>«Коммерсантъ Наука»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kot_shryodingera'>«Кот Шрёдингера»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/nauka_i_zhizn'>«Наука и жизнь»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/nauka_iz_pervyh_ruk'>«Наука из первых рук»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/popularnaja_mehanika'>«Популярная механика»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/potentsial_himija_biologija_meditsina'>«Потенциал»: Химия. Биология. Медицина</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/potentsial_matematika_fizika_informatika'>«Потенциал»: Математика. Физика. Информатика</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda'>«Природа»</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/o_zhurnale'>О журнале</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/priroda_v_internete'>«Природа» в интернете</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/kak_podpisatsya'>Как подписаться</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/gazeta_troitskiy_variant'>«Троицкий вариант»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/khimiya_i_zhizn'>«Химия и жизнь»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/chto_novogo_v_nauke_i_tekhnike'>«Что нового в науке и технике»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/ecologiya_i_zhizn'>«Экология и жизнь»</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/izbrannoe'>Избранное</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/lektsii_dlya_shkolnikov'>Лекции для школьников</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/interview'>Интервью</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/vystavka_vse_v_mire_otnositelno'>Выставка «Всё в мире относительно»</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/lib/exhibition/authors'>О художниках</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/lib/exhibition/about'>О выставке</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/video'>Видеотека</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/bookclub'>Книжный клуб</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/bookclub/book'>Книги</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/author'>Авторы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/chapters'>Главы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/bookclub/chapters/knigi_opublikovannyje_polnostju'>Опубликовано полностью</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera'>Происхождение жизни</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/evolutsija_i_priroda_nauki'>Глава 1</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/svidetelstva_biologicheskoj_evolutsii'>Глава 2</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/vzglyady_kreatsionistov'>Глава 3</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/FAQ'>Заключение</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/bookclub/publisher'>Издательства</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/series'>Серии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/review'>Рецензии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/review_users'>Отзывы</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/time'>Масштабы: времена</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/time/estimating'>В помощь читателю</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-1.html'>Как оценивать типичные времена</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-2.html'>Как применять формулы&nbsp;— иллюстрация</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-3.html'>Тонкости и предостережения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-4.html'>Опорные числа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-5.html'>Колебания</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-6.html'>Гармонические колебания и их период</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-7.html'>Волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-8.html'>Закон распада</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/milli'>Миллисекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/milli/milli-1.html'>Миллисекунды в нашей жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-2.html'>Фото вместо видео</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-3.html'>Мерцающие огоньки</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-4.html'>Скрытые возможности невооруженного взгляда</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/micro'>Микросекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/micro/micro-1.html'>Остановившийся мир</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/micro/micro-2.html'>И всё-таки он движется!</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/micro/micro-3.html'>Пределы механического затвора</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/nano'>Наносекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/nano/nano-1.html'>От предметов к веществу</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-2.html'>Коллективные явления</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-3.html'>Электромагнитные колебания</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-4.html'>Информационная емкость радиоволны</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/pico'>Пикосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/pico/pico-1.html'>Атомное движение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-2.html'>Пределы звука</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-3.html'>Как начинается плавление</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-4.html'>Пределы электроники</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-5.html'>Электромагнитные волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-6.html'>Элементарные частицы</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/femto'>Фемтосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/femto/femto-1.html'>Мир электронов и света</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-2.html'>Оптические вычислительные технологии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-3.html'>Фемтохимия</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-4.html'>Фемтобиология</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/atto'>Аттосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/atto/atto-1.html'>Личная жизнь атомов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-2.html'>Самые внутренние электроны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-3.html'>Как взрезать атом</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-4.html'>Электроны на службе аттофизики</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/zepto'>Зептосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/zepto/zepto-1.html'>Жизнь атомных ядер</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/zepto/zepto-2.html'>Энергия, время и соотношение неопределенностей</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/yocto'>Йоктосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-1.html'>На границе известного</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-2.html'>Столкновение тяжелых ядер</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-3.html'>Вглубь йоктосекунды</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/year'>От секунды до года</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/year/year-1.html'>Семь с половиной порядков</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-2.html'>Искусственные спутники Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-3.html'>Эхо землетрясений</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-4.html'>Астероид-убийца</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-5.html'>Как растекается тепло</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/very-long'>Астрономические времена</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-1.html'>Солнечная система</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-2.html'>Солнечная система на больших временах</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-3.html'>Глубокий космос</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-4.html'>Межгалактические отношения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-5.html'>Танец земного климата</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-6.html'>Тектоническая жизнь Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-7.html'>Сверхдолгоживущие частицы</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/sonoluminescence'>Сонолюминесценция</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-1.html'>Свечение, порожденное звуком</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-2.html'>Поведение пузырька</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-3.html'>Последние мгновения коллапса</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/biophysics'>Фолдинг белков</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-1.html'>Физическая основа жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-2.html'>Главная и боковые цепи</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-3.html'>«Жизнь» белковой молекулы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-4.html'>Компьютерное моделирование фолдинга</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/excited'>Возбужденные атомы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-1.html'>Возбужденные атомы: кто такие и где встречаются</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-2.html'>Быстротечная жизнь возбужденных атомов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-3.html'>Миллионы безуспешных попыток</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-4.html'>Ридберговские атомы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-5.html'>Атомы-долгожители</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-6.html'>Водородная линия 21&nbsp;см</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/nuclear'>Ядерные распады</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-1.html'>«Ядерная секунда»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-2.html'>Альфа-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-3.html'>Тяжелые элементы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-4.html'>Бета-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-5.html'>Двойной бета-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-6.html'>Ядерные изомеры</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/particles'>Элементарные частицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/particles/particles-1.html'>Законы элементарных частиц</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-2.html'>Два руководящих принципа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-3.html'>Сильные распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-4.html'>Электромагнитные распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-5.html'>Слабые распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-6.html'>Повышенная жизнеспособность на&nbsp;околосветовых скоростях</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-7.html'>На переднем крае физики элементарных частиц</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/continents'>Движение континентов</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/continents/continents-1.html'>Такты тектонической жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/continents/continents-2.html'>Возраст Гималаев</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/continents/continents-3.html'>Когда задышал Северный Ледовитый океан?</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/posters'>Плакаты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/posters/moment'>Мгновение</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/posters/fractals'>Фракталы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/fractals/fractals'>Что такое фракталы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/geometric'>Геометрические</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/fractals/Koch'>Снежинка Коха</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/T-square'>Т-квадрат</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/H-fractal'>H-фрактал</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Sierpinski'>Треугольник Серпинского</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Pythagoras'>Дерево Пифагора</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Levy'>Кривая Леви</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/dragon'>Дракон</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/fractals/dynamic'>Динамические</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/fractals/Mandelbrot'>Множество Мандельброта</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Julia'>Множества Жюлиа</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Halley'>Фрактал Галлея</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Newton'>Фрактал Ньютона</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/fractals/complex_numbers'>Комплексные числа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/dimensions'>Фрактальные размерности</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/how_to_draw'>Как это рисовать</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/nature'>Фракталы в природе</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/about'>О плакате</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/collider'>Ускоритель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/collider/1'>Зачем нужен ускоритель</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/2'>Единицы измерения расстояний, энергий и масс</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/3'>Краткая история ускорителей</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/4'>Как работает ускоритель</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/5'>Детектор</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/6'>Как на ускорителе изучают свойства частиц</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/7'>Природные ускорители</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/8'>Применение ускорителей и детекторов в медицине</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/aviation'>Покорение воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/aviation/light'>Аппараты легче воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/aviation/light/balloons'>Аэростаты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/balloons/montgolfiere'>Первый аппарат легче воздуха, способный поднять человека</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/balloons/today'>Шары-монгольфьеры сегодня</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/light/dirigibles'>Дирижабли</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/france'>Типичный дирижабль конца XIX&nbsp;века рыбообразной формы</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/tsiolkovsky'>Цельнометаллический бескаркасный дирижабль с&nbsp;изменением объема в&nbsp;полете и с&nbsp;подогревом газа</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/zeppelin'>Серийный дирижабль Германии времен Первой мировой войны</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/akron'>Гелиевые дирижабли США</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/hindenburg_disaster'>Гибель «Гинденбурга» 6&nbsp;мая 1937&nbsp;года</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/today'>Дирижабли сегодня</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/aviation/heavy'>Аппараты тяжелее воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/aviation/heavy/helicopters'>Вертолеты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/sikorskys1'>Первый вертолет И.&nbsp;И.&nbsp;Сикорского</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/cagi_1-ea'>Первый летающий аппарат классической схемы</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/mi-26'>Тяжелый военно-транспортный вертолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/an-64'>Ударный вертолет</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans'>Экранопланы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/km'>Самый крупный экраноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/orlenok'>Единственный российский серийный десантный экраноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/bartini'>Экраноплан Бартини</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/lun'>Летающий госпиталь</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/planes'>Самолеты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/theory'>Теоретические основы полета аппаратов тяжелее воздуха</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mozhajskij'>Первый реализованный проект, однако достоверных сведений о полете нет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/wrights'>Первый самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/ilya_muromec'>Первый «тяжелый самолет»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/newport17'>Первый самолет с «зализанными» обводами</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/ant-6'>Тяжелый бомбардировщик-моноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/messerschmitt'>Самый массовый истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/yak-1'>Самый легкий и маневренный истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/supermarine_spitfire'>Лучший истребитель битвы за Британию в 1940&nbsp;г.</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mosquito'>Цельнодеревянный скоростной бомбардировщик «Мечта термита»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mitsubishi_a6m_reisen'>Истребитель&nbsp;— символ японской авиации</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/il-2'>Тяжелый штурмовик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mig-15'>Фронтовой истребитель, один из первых серийных реактивных самолетов</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/f-86_sabre'>Многоцелевой истребитель, противник МиГ-15 в корейской войне</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mig-21'>Выдающийся сверхзвуковой истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/lockheed'>Высотный разведывательный самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/boeing_b-52'>Стратегический бомбардировщик с велосипедным шасси</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/tu-144'>Сверхзвуковой пассажирский самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/boeing_747_jumbo'>«Реактивный слон»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/f-15_eagle'>Тактический истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/su-27'>Маневренный истребитель-перехватчик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/tu-160'>Стратегический бомбардировщик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/an-124_ruslan'>Тяжелый военно-транспортный самолет</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/terms'>Основные параметры самолетов, указанные на плакате</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/aviation/heavy/literature'>Список литературы</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/aviation/light_version'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/gravity'>Гравитация</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/gravity/1'>Парабола или прямая?</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/2'>Все дома стоят криво</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/3'>Из Москвы в&nbsp;Питер за&nbsp;полчаса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/4'>На Луну в комфортных условиях</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/5'>Скоростной спутник Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/6'>Перевернутый небоскреб</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/7'>Супернебоскреб</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/8'>Запуск спутника без затрат энергии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/9'>Раскрутим Землю</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/perpetuum'>Вечный двигатель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/first'>Вечный двигатель первого рода</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/second'>Вечный двигатель второго рода</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/third'>Вечный двигатель «третьего рода»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/1'>Колесо и&nbsp;шары</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/2'>Цепочка шаров</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/3'>«Птичка Хоттабыча»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/4'>Цепочка поплавков</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/5'>Архимедов винт</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/6'>Машина Орфиреуса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/7'>Магнит и желоба</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/8'>«Вечный водопровод»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/9'>Автоматический подзавод часов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/10'>Подъем масла по&nbsp;фитилям</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/11'>Колесо и&nbsp;грузы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/12'>Установка Потапова</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/13'>Луна и планеты</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/spectrum'>Электромагнитное излучение</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/spectrum/nature'>Природа электромагнитных волн</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/wave'>Частота и длина волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/history'>История открытия электромагнитных волн</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/union'>Великое объединение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/energy'>Энергия кванта</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/temperature'>Температура излучения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/diapasons'>Диапазоны излучения и вещество</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/about'>Что изображено на плакате</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/units'>Соотношения и единицы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/gamma'>Гамма-излучение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/roentgen'>Рентген</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/ultraviolet'>Ультрафиолет</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/visible'>Видимый диапазон</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/infrared'>Инфракрасный диапазон</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/radio'>Радиоизлучение и микроволны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/other'>За пределами спектра</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/human'>Возможности человека</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/human/muscular'>Сила</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/mind'>Мышление</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/science'>Наука</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/evolution'>Эволюционный принцип</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/factor'>Человеческий фактор</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/weight'>Поднятие тяжестей</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/flight'>Полет</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/walk'>Бег</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/swim'>Плавание</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/trefil'>200 законов мироздания</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/trefil/introduction'><i>Введение</i></a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/physics'>Физика</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/astronomy'>Астрономия</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/maths'>Математика</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/chemistry'>Химия</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/biology'>Науки о жизни</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/geo'>Науки о Земле</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/misc'>Разное</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/rvm'>Взгляд в прошлое</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/biography'><i>Биографии</i></a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/genbio'>Журнал общей биологии</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/genbio/english'>In English</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/genbio/english/all'>All Issues</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/genbio/abstracts'>All Abstracts</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/genbio/last'>Свежий выпуск</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/all'>Все выпуски</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/resume'>Статьи</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/synopsis'>Синопсисы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/about'>О журнале</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/about/rules'>Авторам</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/law'>Наука, образование и право</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/law/organ.htm'>Федеральные органы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/program.htm'>Федеральные программы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/intellectual.htm'>Интеллектуальная собственность</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/law/intellectual/international.htm'>Международное законодательство</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/russian.htm'>Законодательство РФ </a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/patent.htm'>Патентование</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/contact.htm'>Сделки и договоры</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/payment.htm'>Вознаграждение</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/law/degree.htm'>Ученые степени</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/nostr.htm'>Нострификация</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/vuz.htm'>Образование, вузы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/nii.htm'>Научные организации</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/prize.htm'>Премии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/grant.htm'>Гранты</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/work.htm'>Трудовое законодательство </a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/kodex.htm'>Конституция и кодексы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/other.htm'>Другие нормативные акты</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/all_laws.htm'>Все нормативные акты</a>
+  </div></li>
+
+  </li></ul></ul>
+       <script type='text/javascript'>
+            document.write('<hr'+(!desktop_mode?"  class='hide_main'":"")+'>');
+            document.write('<div class="oldlink hide_main"><a'+(location.href.indexOf('/video')>0?' class="inactive"':' href="'+location.href.replace(/\/\/[^\/]+/,"//"+(location.href.indexOf("//elementy")>0||location.href.indexOf("//elt.host3.elementy")>0?"old.":"")+"elementy.ru")+'" target="_blank"')+'>Эта страница в старом дизайне</a></div>');
+            if (desktop_mode )
+               document.write('<div class="chmod mob hide_main"><a href="/" onclick="return setDesktopMode(false)">Мобильная версия сайта</a></div>');
+            else
+               document.write('<div class="chmod dsk hide_main"><a href="/" onclick="return setDesktopMode(true)">Полная версия сайта</a></div>');
+       </script>
+       <hr>
+       <ul class='img'>
+        <li class='first'><a class='facebook' href='https://www.facebook.com/elementy.ru' target='_blank'></a></li>
+        <li><a class='vk' href='https://vk.com/elementy_ru' target='_blank'></a></li>
+        <li><a class='twitter' href='https://twitter.com/elementy_ru' target='_blank'></a></li>
+        <li><a class='youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank'></a></li>
+        <li><a class='instagram' href='https://www.instagram.com/elementy.ru' target='_blank'></a></li>
+        <li><a class='telegram' href='https://telegram.me/elementy_ru' target='_blank'></a></li>
+        <li><a class='zen' href='https://zen.yandex.ru/elementy.ru' target='_blank'></a></li>
+        <li><a class='rss' href='/rss/news' target='_blank'></a></li>
+       </ul>
+      </div>
+     </div>
+</div>
+
+<div class='print_logo hide_screen'><script type='text/javascript'>document.write("<img src='/images/eltnewdesign/logo_wpr.png'>");</script></div>
+
+<div class='hhead' id='pghead'>
+  <div class='hmenu'>
+    <div class='lmenu' id='hmainmenu'>
+      <a href='/' class='item' onclick='return toggleHMenu("mmenubody")'><span class='icon menu'></span><span class='hint'>Меню</span></a>
+    </div>
+    <div class='rmenu' id='rmenu'>
+       <a href='/' class='item' onclick='return toggleHMenu(this, true)'><span class='icon search'></span><span class='hint'>Поиск</span></a>
+       <a href='/' class='close' onclick='return toggleHMenu(this)'><span class='icon close2'></span><span class='hint'>Закрыть</span></a>
+       <div class='menuarea'>
+         <div class='menusearch xform'> 
+         <form action="find">
+             <input type="text" class="search" name="words" value="" placeholder="Поиск">
+             <input type="image" name="search" src="images/eltnewdesign/search_b.png">
+         </form>
+         </div> 
+       </div>
+    </div>
+    <div class='logo'><a href="/" onclick='return checkHMScroll()'><span>&nbsp;</span></a></div>
+  </div>  
+</div>
+
+
+<div class='body'  id='pgbody'>
+
+  
+   <div class='mblock chead'>
+     
+     
+   
+         <div class="mb"><h1>Библиотека</h1></div>
+     
+
+</div>
+   
+  
+
+   
+       <div class='mblock nogap'>
+<hr class='top mb hgap'>
+
+<div class='clblock publist'>
+
+<h2><a href="/nauchno-populyarnaya_biblioteka/t">Новые поступления</a></h2>
+<hr class='nogap'>
+
+
+<div class='more_container'>
+<div id='pubMoreBlock0'>
+
+
+    
+        <div class='img_block32'>
+          <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437650/Mnogorazovyy_klub_uchastniki_i_pretendenty">
+          <div class='ib_img_rs'><span><img src="images/eltpub/trv_443_mnogorazovyj-klub_390.jpg" alt=""></span></div>
+          <div class='ib_text'>
+             
+                  <div class='pretitle'>Денис Альбин</div>
+             
+             <div class='title'>Многоразовый клуб: участники и&nbsp;претенденты</div>
+          </div> 
+          </a>
+          <div class='ib_text'>
+             <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437633/Troitskiy_variant_Nauka_24_443_2_dekabrya_2025_goda">«Троицкий вариант» №24(443),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/24974/Kosmicheskie_issledovaniya">Космические исследования</a></div>
+          </div> 
+        </div>
+        <div class='cl'></div>
+       <hr>
+    
+        <div class='img_block32'>
+          <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437643/Genrikh_Manizer_Nu_vsyo_V_etom_godu_edu_v_krugosvetnoe_puteshestvie">
+          <div class='ib_img_rs'><span><img src="images/eltpub/scfh_2501_genrikh-manizer_390.jpg" alt=""></span></div>
+          <div class='ib_text'>
+             
+                  <div class='pretitle'>Елена Анненкова</div>
+             
+             <div class='title'>Генрих Манизер: «Ну, всё! В&nbsp;этом году еду в&nbsp;кругосветное путешествие!»</div>
+          </div> 
+          </a>
+          <div class='ib_text'>
+             <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437550/Nauka_iz_pervykh_ruk_1_103_2025">«Наука из первых рук» №1(103), 2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/1898183/Etnografiya">Этнография</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/437303/Geografiya">География</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/1835383/Istoriya">История</a></div>
+          </div> 
+        </div>
+        <div class='cl'></div>
+       <hr>
+    
+        <div class='img_block32'>
+          <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437649/Sverkhprovodimost_i_kvantovaya_mekhanika_ot_neytraliteta_k_soyuzu">
+          <div class='ib_img_rs'><span><img src="images/eltpub/trv_443_sverhprovodimost-i-kvantovaya-mehanika_390.jpg" alt=""></span></div>
+          <div class='ib_text'>
+             
+                  <div class='pretitle'>Алексей Левин</div>
+             
+             <div class='title'>Сверхпроводимость и&nbsp;квантовая механика: от нейтралитета к&nbsp;союзу</div>
+          </div> 
+          </a>
+          <div class='ib_text'>
+             <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437633/Troitskiy_variant_Nauka_24_443_2_dekabrya_2025_goda">«Троицкий вариант» №24(443),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/5272153/Kvantovaya_teoriya">Квантовая теория</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/2381677/Istoriya_nauki">История науки</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437649/Sverkhprovodimost_i_kvantovaya_mekhanika_ot_neytraliteta_k_soyuzu#forum">10&nbsp;комментариев</a></div>
+          </div> 
+        </div>
+        <div class='cl'></div>
+       <hr>
+    
+        <div class='img_block32'>
+          <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437623/Fotografii_kipeniya_vody">
+          <div class='ib_img_rs'><span><img src="images/eltpub/kvantik_2505_fotografii-kipeniya-vody_390.jpg" alt=""></span></div>
+          <div class='ib_text'>
+             
+                  <div class='pretitle'>Леонид Свистов</div>
+             
+             <div class='title'>Фотографии кипения воды</div>
+          </div> 
+          </a>
+          <div class='ib_text'>
+             <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437459/Kvantik_5_2025">«Квантик» №5, 2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/21093/Fizika">Физика</a></div>
+          </div> 
+        </div>
+        <div class='cl'></div>
+       <hr>
+    
+        <div class='img_block32'>
+          <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437648/Novoe_podtverzhdenie_printsipa_dopolnitelnosti">
+          <div class='ib_img_rs'><span><img src="images/eltpub/novoe-podtverzhdenie-princzipa-dopolnennosti_0_390.jpg" alt=""></span></div>
+          <div class='ib_text'>
+             
+                  <div class='pretitle'>Алексей Левин</div>
+             
+             <div class='title'>Новое подтверждение принципа дополнительности</div>
+          </div> 
+          </a>
+          <div class='ib_text'>
+             <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437634/Troitskiy_variant_Nauka_25_444_23_dekabrya_2025_goda">«Троицкий вариант» №25(444),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/5272153/Kvantovaya_teoriya">Квантовая теория</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/5271891/Lyudi_nauki">Люди науки</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437648/Novoe_podtverzhdenie_printsipa_dopolnitelnosti#forum">20&nbsp;комментариев</a></div>
+          </div> 
+        </div>
+        <div class='cl'></div>
+       <hr>
+    
+        <div class='img_block32'>
+          <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437646/Pamyati_Sergeya_Valerevicha_Markelova_17_02_197611_12_2024">
+          <div class='ib_img_rs'><span><img src="images/eltpub/trv_444_pamyati-sergeya-markelova_390.jpg" alt=""></span></div>
+          <div class='ib_text'>
+             
+                  <div class='pretitle'>Александр Буфетов</div>
+             
+             <div class='title'>Памяти Сергея Валерьевича Маркелова (17.02.1976–11.12.2024)</div>
+          </div> 
+          </a>
+          <div class='ib_text'>
+             <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437634/Troitskiy_variant_Nauka_25_444_23_dekabrya_2025_goda">«Троицкий вариант» №25(444),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/21097/Matematika">Математика</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/5271891/Lyudi_nauki">Люди науки</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437646/Pamyati_Sergeya_Valerevicha_Markelova_17_02_197611_12_2024#forum">1&nbsp;комментарий</a></div>
+          </div> 
+        </div>
+        <div class='cl'></div>
+       <hr>
+    
+        <div class='img_block32'>
+          <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437647/Zhyostkie_parkety">
+          <div class='ib_img_rs'><span><img src="images/eltpub/zhestkiye_parkety_0_390.jpg" alt=""></span></div>
+          <div class='ib_text'>
+             
+                  <div class='pretitle'>Сергей Маркелов</div>
+             
+             <div class='title'>Жёсткие паркеты</div>
+          </div> 
+          </a>
+          <div class='ib_text'>
+             <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/433664/Kvantik_7_2017">«Квантик» №7, 2017</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/3261429/Optika">Оптика</a></div>
+          </div> 
+        </div>
+        <div class='cl'></div>
+       <hr>
+    
+
+
+</div>
+<div class='cl gap'></div>
+<div class='more_buttons_noscript' id='pubMoreBlock0_buttons'>
+<span class='more_button' id='pubMoreBlock0_nextbtn'>Показать еще</span>
+</div>
+</div>
+<script type="text/javascript">moreInit('pubMoreBlock0', { "total": 4395, "pagesize": 7, "request_url": '/ajax/library', "request_params": '&page_size=7&ill_mode=4&template=library_cl1_v2&odiscuss=eltpdiscuss&pager_mode=1&genid=20499&genid=27469&genid=1658283&docfeat=bydate&docfeat=define_magazine'});</script>
+
+
+</div>
+
+
+<div class='crblock'>
+
+
+     <h2><a href="/nauchno-populyarnaya_biblioteka/izbrannoe">Избранное</a></h2>
+     <hr class='nogap'>
+
+    
+         <div class='img_block11'>
+          <a class="nohover" href="/nauchno-populyarnaya_biblioteka/izbrannoe/430463/A_A_Zaliznyak_Istina_sushchestvuet_i_tselyu_nauki_yavlyaetsya_ee_poisk">
+          <div class='ib_img'><img src="images/eltpub/solzh_a_a_zaliznyak_200.jpg" alt=""></div>
+          <div class='ib_text'>
+             <div class='title'><b>А.&nbsp;А.&nbsp;Зализняк:</b> «Истина существует, и&nbsp;целью науки является ее поиск»</div>
+             
+                  <div class='sublink'>Андрей Зализняк</div>
+             
+          </div> 
+          </a>
+        </div>
+        <div class='cl'></div>
+       <hr>
+    
+         <div class='img_block11'>
+          <a class="nohover" href="/nauchno-populyarnaya_biblioteka/izbrannoe/432371/Iz_russkogo_udareniya">
+          <div class='ib_img'><img src="images/eltpub/zaliznyak_mumi-troll_17.02.2014_fig1_200.jpg" alt=""></div>
+          <div class='ib_text'>
+             <div class='title'>Из русского ударения</div>
+             
+                  <div class='sublink'>Андрей Зализняк</div>
+             
+          </div> 
+          </a>
+        </div>
+        <div class='cl'></div>
+       <hr>
+    
+         <div class='img_block11'>
+          <a class="nohover" href="/nauchno-populyarnaya_biblioteka/izbrannoe/430962/Ledyanye_miry">
+          <div class='ib_img'><img src="images/eltpub/iceworlds_icefall_pamirs_200.jpg" alt=""></div>
+          <div class='ib_text'>
+             <div class='title'>Ледяные миры</div>
+             
+                  <div class='sublink'>Евгений Подольский</div>
+             
+          </div> 
+          </a>
+        </div>
+        <div class='cl'></div>
+       <hr>
+    
+         <div class='img_block11'>
+          <a class="nohover" href="/nauchno-populyarnaya_biblioteka/izbrannoe/431269/Teoremy_sofista_Gorgiya_i_sovremennaya_matematika">
+          <div class='ib_img'><img src="images/eltpub/fon_der_flaas_200.jpg" alt=""></div>
+          <div class='ib_text'>
+             <div class='title'>Теоремы софиста Горгия и современная математика</div>
+             
+                  <div class='sublink'>Дмитрий Фон-Дер-Флаасс</div>
+             
+          </div> 
+          </a>
+        </div>
+        <div class='cl'></div>
+       <hr>
+    
+<div class='goto'><a href="/nauchno-populyarnaya_biblioteka/izbrannoe">Все избранное</a></div>
+<div class='gap2'></div>
+
+</div>
+<div class='cl'></div>
+</div>
+
+<div class='mblock'>
+
+<hr class='top mb'>
+<div class='mb4'><h2><a href='/nauchno-populyarnaya_biblioteka/zhurnaly'>Популярные журналы</a></h2></div>
+<div class='scroll_container'>
+<div id='magScrBlock' class='slider-view fullwidth_other'><div class='slider'><div class='mb3'>
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/zhurnaly/nauka_i_zhizn">
+<div class='img book'><img src='images/eltpub/nij_oblozhka_12-25_200.jpg' alt='«Наука и жизнь» №12, 2025'></div>
+
+<div class='title'>«Наука и жизнь»</div>
+</a>
+</div><div class='mb3'>
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/zhurnaly/gazeta_troitskiy_variant">
+<div class='img book'><img src='images/eltpub/trv_25(444)_200.jpg' alt='«Троицкий вариант&nbsp;— Наука» №25(444), 23&nbsp;декабря 2025&nbsp;года'></div>
+
+<div class='title'>«Троицкий вариант»</div>
+</a>
+</div><div class='mb3'>
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/zhurnaly/khimiya_i_zhizn">
+<div class='img book'><img src='images/eltpub/hij_oblozhka_11-25_200.jpg' alt='«Химия и жизнь» №11 2025'></div>
+
+<div class='title'>«Химия и жизнь»</div>
+</a>
+</div><div class='mb3'>
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/zhurnaly/kvantik">
+<div class='img book'><img src='images/eltpub/kvantik_oblozhka_05-25_200.jpg' alt='«Квантик» №5, 2025'></div>
+
+<div class='title'>«Квантик»</div>
+</a>
+</div><div class='mb3'>
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/zhurnaly/kommersant_nauka">
+<div class='img book'><img src='images/eltpub/kom_nauka_oblozhka_18-24_200.jpg' alt='«Коммерсантъ Наука», №18(3), июль 2024'></div>
+
+<div class='title'>«Коммерсантъ Наука»</div>
+</a>
+</div><div class='mb3'>
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/zhurnaly/nauka_iz_pervyh_ruk">
+<div class='img book'><img src='images/eltpub/npr_oblozhka_01-25_200.jpg' alt='«Наука из первых рук» №1(103), 2025'></div>
+
+<div class='title'>«Наука из первых рук»</div>
+</a>
+</div><div class='mb3'>
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/zhurnaly/priroda">
+<div class='img book'><img src='images/eltpub/prir_oblozhka_05-23_200.jpg' alt='«Природа» №5, 2023'></div>
+
+<div class='title'>«Природа»</div>
+</a>
+</div><div class='mb3'>
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/zhurnaly/potentsial_matematika_fizika_informatika">
+<div class='img book'><img src='images/eltpub/potencial_mfi_05_2021_200.jpg' alt='«Потенциал»: Математика, Физика, Информатика №5, 2021'></div>
+
+<div class='title'>«Потенциал»: Математика. Физика. Информатика</div>
+</a>
+</div><div class='mb3'>
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/zhurnaly/kvant">
+<div class='img book'><img src='images/eltpub/kvant_oblozhka_11-12-21_200.jpg' alt='«Квант» №11–12, 2021'></div>
+
+<div class='title'>«Квант»</div>
+</a>
+</div><div class='mb3'>
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/zhurnaly/znanijesila">
+<div class='img book'><img src='images/eltpub/znanije_sila_oblozhka_11-21_200.jpg' alt=' «Знание&nbsp;— сила» №11, 2021'></div>
+
+<div class='title'>«Знание — сила»</div>
+</a>
+</div><div class='mb3'>
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/zhurnaly/popularnaja_mehanika">
+<div class='img book'><img src='images/eltpub/pm_oblozhka_05-06-21_200.jpg' alt='«Популярная механика» №5–6, 2021'></div>
+
+<div class='title'>«Популярная механика»</div>
+</a>
+</div><div class='mb3'>
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/zhurnaly/vmirenauki">
+<div class='img book'><img src='images/eltpub/vmn_oblozhka_01-02-21_200.jpg' alt='«В мире науки» №1–2, 2021'></div>
+
+<div class='title'>«В мире науки»</div>
+</a>
+</div><div class='mb3'>
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/zhurnaly/kot_shryodingera">
+<div class='img book'><img src='images/eltpub/kot_shred_oblozhka_01-02_18_200.jpg' alt='«Кот Шрёдингера» №1–2(39–40), 2018'></div>
+
+<div class='title'>«Кот Шрёдингера»</div>
+</a>
+</div><div class='mb3'>
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/zhurnaly/potentsial_himija_biologija_meditsina">
+<div class='img book'><img src='images/eltpub/potencial_cbm_04_2015.jpg' alt='«Потенциал»: Химия, Биология, Медицина №4, 2015'></div>
+
+<div class='title'>«Потенциал»: Химия. Биология. Медицина</div>
+</a>
+</div><div class='mb3'>
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/zhurnaly/ecologiya_i_zhizn">
+<div class='img book'><img src='images/eltpub/ecolife_oblozhka_12-12_200.jpg' alt='«Экология и жизнь» №12, 2012'></div>
+
+<div class='title'>«Экология и жизнь»</div>
+</a>
+</div><div class='mb3'>
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/zhurnaly/chto_novogo_v_nauke_i_tekhnike">
+<div class='img book'><img src='images/eltpub/cnnt_oblozhka_january06_200.jpg' alt='«Что нового в&nbsp;науке и&nbsp;технике» №1-2, 2006'></div>
+
+<div class='title'>«Что нового...»</div>
+</a>
+</div></div></div>
+<div class="cl"></div>
+<div class='scr_buttons_noscript' id='magScrBlock_buttons'>
+<span class='prev_button' id='magScrBlock_prevbtn'></span>
+
+<span class='next_button' id='magScrBlock_nextbtn'></span>
+</div>
+</div>
+<div class='cl'></div>
+<hr class="mb top">
+<script type="text/javascript">scrollInit('magScrBlock', { "mode": 'DOM-S' });</script>
+
+</div>
+
+<div class='mblock'>
+<div class='clblock publist'>
+
+<h2><a href="/nauchno-populyarnaya_biblioteka/t/21093/Fizika">Физика</a></h2>
+<hr class='nogap'>
+
+    
+          <div class='img_block32'>
+          <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437626/Vspominaya_Rubakova_Effekt_ego_imeni_barionnaya_asimmetriya_Vselennoy_i_mir_na_brane">
+          <div class='ib_img_rs'><span><img src="images/eltpub/trv_442_vspominaya-rubakova_390.jpg" alt=""></span></div>
+          <div class='ib_text'>
+             
+                   <div class='pretitle'>Интервью Бориса Штерна с&nbsp;Михаилом Шапошниковым</div>
+             
+             <div class='title'>Вспоминая Рубакова. Эффект его имени, барионная асимметрия Вселенной и&nbsp;мир на бране</div>
+          </div> 
+          </a>
+          <div class='ib_text'>
+             <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437608/Troitskiy_variant_Nauka_23_442_18_noyabrya_2025_goda">«Троицкий вариант» №23(442),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/21093/Fizika">Физика</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/5271891/Lyudi_nauki">Люди науки</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437626/Vspominaya_Rubakova_Effekt_ego_imeni_barionnaya_asimmetriya_Vselennoy_i_mir_na_brane#forum">21&nbsp;комментарий</a></div>
+          </div> 
+        </div>
+        <div class='cl'></div>
+       <hr>
+    
+
+
+
+
+
+
+<div class='more_container relm'>
+<div id='pubMoreBlock4'>
+
+
+    
+        
+         <div class='cols2'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437639/Ochki_dlya_blizorukikh">
+             
+                   <div class='pretitle'>Александр Бердников</div>
+             
+             <div class='title'>Очки для близоруких</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437428/Kvantik_4_2025">«Квантик» №4, 2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/3261429/Optika">Оптика</a></div>
+        </div>
+    
+        
+         <div class='cols2'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437620/Ervin_Shryodinger_i_ego_uravnenie_2">
+             
+                   <div class='pretitle'>Алексей Левин</div>
+             
+             <div class='title'>Эрвин Шрёдингер и&nbsp;его уравнение&nbsp;—&nbsp;2</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437606/Troitskiy_variant_Nauka_22_441_04_noyabrya_2025_goda">«Троицкий вариант» №22(441),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/5272153/Kvantovaya_teoriya">Квантовая теория</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/5271891/Lyudi_nauki">Люди науки</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437620/Ervin_Shryodinger_i_ego_uravnenie_2#forum">46&nbsp;комментариев</a></div>
+        </div>
+    
+        <div class='cl'></div>
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437612/Sfericheskie_zerkala">
+             
+                   <div class='pretitle'>Николай Андреев</div>
+             
+             <div class='title'>Сферические зеркала</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437428/Kvantik_4_2025">«Квантик» №4, 2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/21097/Matematika">Математика</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/3261429/Optika">Оптика</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437612/Sfericheskie_zerkala#forum">1&nbsp;комментарий</a></div>
+        </div>
+    
+        
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437613/Ervin_Shryodinger_i_ego_uravnenie">
+             
+                   <div class='pretitle'>Алексей Левин</div>
+             
+             <div class='title'>Эрвин Шрёдингер и&nbsp;его уравнение</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437605/Troitskiy_variant_Nauka_21_440_21_oktyabrya_2025_goda">«Троицкий вариант» №21(440),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/5272153/Kvantovaya_teoriya">Квантовая теория</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/5271891/Lyudi_nauki">Люди науки</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437613/Ervin_Shryodinger_i_ego_uravnenie#forum">27&nbsp;комментариев</a></div>
+        </div>
+    
+        <div class='cl'></div>
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437615/Fotofinish">
+             
+                   <div class='pretitle'>Татьяна Корчемкина</div>
+             
+             <div class='title'>Фотофиниш</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437427/Kvantik_3_2025">«Квантик» №3, 2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/21097/Matematika">Математика</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/3261429/Optika">Оптика</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437615/Fotofinish#forum">4&nbsp;комментария</a></div>
+        </div>
+    
+        
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437614/Vikhri_efirnye_veyut_v_pisme_Dzhoni_Gamova_tovarishchu_Stalinu_prodolzhenie">
+             
+                   <div class='pretitle'>Геннадий Горелик</div>
+             
+             <div class='title'>Вихри эфирные веют... в&nbsp;письме Джони Гамова товарищу Сталину (продолжение)</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437605/Troitskiy_variant_Nauka_21_440_21_oktyabrya_2025_goda">«Троицкий вариант» №21(440),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/21093/Fizika">Физика</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/5271891/Lyudi_nauki">Люди науки</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437614/Vikhri_efirnye_veyut_v_pisme_Dzhoni_Gamova_tovarishchu_Stalinu_prodolzhenie#forum">14&nbsp;комментариев</a></div>
+        </div>
+    
+    <div class='cl'></div>
+    
+    <div class='cl'></div>
+
+
+</div>
+<div class='cl gap hide_phone'></div>
+<div class='clblock'>
+<div class='more_buttons_noscript' id='pubMoreBlock4_buttons'>
+<hr class='nogap'>
+<span class='more_button' id='pubMoreBlock4_nextbtn'>Показать еще</span>
+</div>
+</div>
+</div>
+<script type="text/javascript">moreInit('pubMoreBlock4', { "total": 669, "pagesize": 6, "request_url": '/ajax/library', "request_params": '&ill_mode=4&template=library_cl_v2&pager_mode=1&genid=20499&genid=27469&genid=1658283&docfeat=bydate&docfeat=hide_showed&docfeat=define_magazine&page_size=6&design=S&odiscuss=eltpdiscuss&theme=21093&showed=437646&showed=432635&showed=437626&showed=436515&showed=430059&showed=435725&showed=437634&showed=437647&showed=437399&showed=437459&showed=433981&showed=437643&showed=437650&showed=437631&showed=437649&showed=436828&showed=436159&showed=436200&showed=437550&showed=431812&showed=437641&showed=437623&showed=436245&showed=437648'});</script>
+
+
+
+
+<div class='cl gap'></div>
+<hr class='top'>
+<div class='gap'></div>
+
+<h2><a href="/nauchno-populyarnaya_biblioteka/t/21095/Astronomiya">Астрономия</a></h2>
+<hr class='nogap'>
+
+    
+          <div class='img_block32'>
+          <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437622/Lunnaya_gonka_SShA_i_Kitaya_Menchzhou_protiv_Oriona">
+          <div class='ib_img_rs'><span><img src="images/eltpub/trv_441_lunnaya-gonka-usa-i-kitaya_390.jpg" alt=""></span></div>
+          <div class='ib_text'>
+             
+                   <div class='pretitle'>Интервью Алексея Огнёва с&nbsp;Александром Хохловым</div>
+             
+             <div class='title'>Лунная гонка США и Китая: «Мэнчжоу» против «Ориона»</div>
+          </div> 
+          </a>
+          <div class='ib_text'>
+             <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437606/Troitskiy_variant_Nauka_22_441_04_noyabrya_2025_goda">«Троицкий вариант» №22(441),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/125784/Kosmos">Космос</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437622/Lunnaya_gonka_SShA_i_Kitaya_Menchzhou_protiv_Oriona#forum">4&nbsp;комментария</a></div>
+          </div> 
+        </div>
+        <div class='cl'></div>
+       <hr>
+    
+
+
+
+
+
+<div class='more_container relm'>
+<div id='pubMoreBlock6'>
+
+
+    
+        
+         <div class='cols2'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437621/Nablyudaya_3I_ATLAS_ili_Poiski_zvezdnogo_strannika">
+             
+                   <div class='pretitle'>Александр Смирнов</div>
+             
+             <div class='title'>Наблюдая 3I/ATLAS, или Поиски звездного странника</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437606/Troitskiy_variant_Nauka_22_441_04_noyabrya_2025_goda">«Троицкий вариант» №22(441),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/21095/Astronomiya">Астрономия</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437621/Nablyudaya_3I_ATLAS_ili_Poiski_zvezdnogo_strannika#forum">3&nbsp;комментария</a></div>
+        </div>
+    
+        
+         <div class='cols2'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437604/Imperiya_Ilona_Maska_ili_Vsyo_ne_to_chem_kazhetsya">
+             
+                   <div class='pretitle'>Денис Альбин</div>
+             
+             <div class='title'>Империя Илона Маска, или Всё не то, чем кажется?</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437595/Troitskiy_variant_Nauka_20_439_07_oktyabrya_2025_goda">«Троицкий вариант» №20(439),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/24974/Kosmicheskie_issledovaniya">Космические исследования</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437604/Imperiya_Ilona_Maska_ili_Vsyo_ne_to_chem_kazhetsya#forum">33&nbsp;комментария</a></div>
+        </div>
+    
+        <div class='cl'></div>
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437592/Vozdushnyy_start_obmanchivaya_legkost">
+             
+                   <div class='pretitle'>Денис Альбин</div>
+             
+             <div class='title'>Воздушный старт: обманчивая легкость</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437588/Troitskiy_variant_Nauka_19_438_23_sentyabrya_2025_goda">«Троицкий вариант» №19(438),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/24974/Kosmicheskie_issledovaniya">Космические исследования</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437592/Vozdushnyy_start_obmanchivaya_legkost#forum">6&nbsp;комментариев</a></div>
+        </div>
+    
+        
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437571/Pervym_delom_narisuem_kosmoplany_Nu_a_sdelaem_A_sdelaem_potom">
+             
+                   <div class='pretitle'>Денис Альбин</div>
+             
+             <div class='title'>Первым делом нарисуем космопланы. Ну а&nbsp;сделаем? А&nbsp;сделаем&nbsp;— потом...</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437566/Troitskiy_variant_Nauka_17_436_26_avgusta_2025_goda">«Троицкий вариант» №17(436),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/24974/Kosmicheskie_issledovaniya">Космические исследования</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437571/Pervym_delom_narisuem_kosmoplany_Nu_a_sdelaem_A_sdelaem_potom#forum">23&nbsp;комментария</a></div>
+        </div>
+    
+        <div class='cl'></div>
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437565/SpinLaunch_nerimskaya_katapulta">
+             
+                   <div class='pretitle'>Денис Альбин</div>
+             
+             <div class='title'>SpinLaunch&nbsp;— неримская катапульта</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437551/Troitskiy_variant_Nauka_16_435_12_avgusta_2025_goda">«Троицкий вариант» №16(435),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/24974/Kosmicheskie_issledovaniya">Космические исследования</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437565/SpinLaunch_nerimskaya_katapulta#forum">7&nbsp;комментариев</a></div>
+        </div>
+    
+        
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437552/Abbat_Zhorzh_Lemetr_osnovatel_fizicheskoy_kosmologii">
+             
+                   <div class='pretitle'>Алексей Левин</div>
+             
+             <div class='title'>Аббат Жорж Леметр: основатель физической космологии</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437541/Troitskiy_variant_Nauka_15_434_29_iyulya_2025_goda">«Троицкий вариант» №15(434),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/3669603/Astrofizika">Астрофизика</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/21093/Fizika">Физика</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/5271891/Lyudi_nauki">Люди науки</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437552/Abbat_Zhorzh_Lemetr_osnovatel_fizicheskoy_kosmologii#forum">2&nbsp;комментария</a></div>
+        </div>
+    
+    <div class='cl'></div>
+    
+    <div class='cl'></div>
+
+
+</div>
+<div class='cl gap hide_phone'></div>
+<div class='clblock'>
+<div class='more_buttons_noscript' id='pubMoreBlock6_buttons'>
+<hr class='nogap'>
+<span class='more_button' id='pubMoreBlock6_nextbtn'>Показать еще</span>
+</div>
+</div>
+</div>
+<script type="text/javascript">moreInit('pubMoreBlock6', { "total": 626, "pagesize": 6, "request_url": '/ajax/library', "request_params": '&ill_mode=4&template=library_cl_v2&pager_mode=1&genid=20499&genid=27469&genid=1658283&docfeat=bydate&docfeat=hide_showed&docfeat=define_magazine&page_size=6&design=S&odiscuss=eltpdiscuss&theme=125784&showed=437646&showed=432635&showed=437613&showed=437626&showed=436515&showed=437612&showed=430059&showed=435725&showed=437634&showed=437647&showed=437399&showed=437639&showed=437615&showed=437459&showed=437622&showed=433981&showed=437643&showed=437650&showed=437631&showed=437649&showed=436828&showed=436159&showed=436200&showed=437550&showed=437614&showed=431812&showed=437620&showed=437641&showed=437623&showed=436245&showed=437648'});</script>
+
+
+
+<div class='cl gap'></div>
+<hr class='top'>
+<div class='gap'></div>
+
+<h2><a href="/nauchno-populyarnaya_biblioteka/t/21097/Matematika">Математика</a>, <a href="/nauchno-populyarnaya_biblioteka/t/71594/Informatsionnye_tekhnologii">информатика</a></h2>
+<hr class='nogap'>
+
+    
+          <div class='img_block32'>
+          <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437618/Dom_bez_okon_bez_dverey">
+          <div class='ib_img_rs'><span><img src="images/eltpub/kvantik_2504_dom-bez-okon-bez-dverej_390.jpg" alt=""></span></div>
+          <div class='ib_text'>
+             
+                   <div class='pretitle'>Гаянэ Панина</div>
+             
+             <div class='title'>Дом без окон, без дверей</div>
+          </div> 
+          </a>
+          <div class='ib_text'>
+             <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437428/Kvantik_4_2025">«Квантик» №4, 2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/21097/Matematika">Математика</a></div>
+          </div> 
+        </div>
+        <div class='cl'></div>
+       <hr>
+    
+
+
+
+
+
+<div class='more_container relm'>
+<div id='pubMoreBlock8'>
+
+
+    
+        
+         <div class='cols2'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437576/Pravilnyy_dvenadtsatiugolnik_i_ego_diagonali">
+             
+                   <div class='pretitle'>Николай Авилов</div>
+             
+             <div class='title'>Правильный двенадцатиугольник и его диагонали</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437425/Kvantik_2_2025">«Квантик» №2, 2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/21097/Matematika">Математика</a></div>
+        </div>
+    
+        
+         <div class='cols2'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437589/Krasota_samoopirayushchikhsya_konstruktsiy">
+             
+                   <div class='pretitle'>Александр  Поддьяков</div>
+             
+             <div class='title'>Красота самоопирающихся конструкций</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437567/Troitskiy_variant_Nauka_18_437_09_sentyabrya_2025_goda">«Троицкий вариант» №18(437),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/21097/Matematika">Математика</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/21093/Fizika">Физика</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437589/Krasota_samoopirayushchikhsya_konstruktsiy#forum">7&nbsp;комментариев</a></div>
+        </div>
+    
+        <div class='cl'></div>
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437585/Zadachi_o_chasakh">
+             
+                   <div class='pretitle'>Алексей Заславский</div>
+             
+             <div class='title'>Задачи о часах</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437425/Kvantik_2_2025">«Квантик» №2, 2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/21097/Matematika">Математика</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437585/Zadachi_o_chasakh#forum">3&nbsp;комментария</a></div>
+        </div>
+    
+        
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437582/Kvantik_na_bazare">
+             
+                   <div class='pretitle'>Борис Дружинин</div>
+             
+             <div class='title'>Квантик на базаре</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437425/Kvantik_2_2025">«Квантик» №2, 2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/21097/Matematika">Математика</a></div>
+        </div>
+    
+        <div class='cl'></div>
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437574/Zhizn_ne_nasmarku_s_Tomom_Lererom">
+             
+                   <div class='pretitle'>Владимир Миловидов</div>
+             
+             <div class='title'>Жизнь не насмарку с&nbsp;Томом Лерером</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437566/Troitskiy_variant_Nauka_17_436_26_avgusta_2025_goda">«Троицкий вариант» №17(436),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/21097/Matematika">Математика</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/5271891/Lyudi_nauki">Люди науки</a></div>
+        </div>
+    
+        
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437569/Mnogogrannye_zhenshchiny_Dzhordzha_Bulya">
+             
+                   <div class='pretitle'>Виталий Мацарский</div>
+             
+             <div class='title'>Многогранные женщины Джорджа Буля</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437566/Troitskiy_variant_Nauka_17_436_26_avgusta_2025_goda">«Троицкий вариант» №17(436),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/21097/Matematika">Математика</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/5271891/Lyudi_nauki">Люди науки</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437569/Mnogogrannye_zhenshchiny_Dzhordzha_Bulya#forum">2&nbsp;комментария</a></div>
+        </div>
+    
+    <div class='cl'></div>
+    
+    <div class='cl'></div>
+
+
+</div>
+<div class='cl gap hide_phone'></div>
+<div class='clblock'>
+<div class='more_buttons_noscript' id='pubMoreBlock8_buttons'>
+<hr class='nogap'>
+<span class='more_button' id='pubMoreBlock8_nextbtn'>Показать еще</span>
+</div>
+</div>
+</div>
+<script type="text/javascript">moreInit('pubMoreBlock8', { "total": 316, "pagesize": 6, "request_url": '/ajax/library', "request_params": '&ill_mode=4&template=library_cl_v2&pager_mode=1&genid=20499&genid=27469&genid=1658283&docfeat=bydate&docfeat=hide_showed&docfeat=define_magazine&page_size=6&design=S&odiscuss=eltpdiscuss&theme=71594&theme=21097&showed=437646&showed=432635&showed=437613&showed=437626&showed=436515&showed=437552&showed=437612&showed=437618&showed=435725&showed=437647&showed=433981&showed=437643&showed=437650&showed=437631&showed=437649&showed=437550&showed=437565&showed=437604&showed=437620&showed=437641&showed=436245&showed=437648&showed=430059&showed=437571&showed=437634&showed=437399&showed=437621&showed=437639&showed=437459&showed=437615&showed=437622&showed=436828&showed=437592&showed=436159&showed=436200&showed=437614&showed=431812&showed=437623'});</script>
+
+
+
+<div class='cl gap'></div>
+<hr class='top'>
+<div class='gap'></div>
+
+<h2><a href="/nauchno-populyarnaya_biblioteka/t/25191/Biologiya">Биология</a>, <a href="/nauchno-populyarnaya_biblioteka/t/1670290/Meditsina">медицина</a></h2>
+<hr class='nogap'>
+
+    
+          <div class='img_block32'>
+          <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437644/Aptamery_molekulyarnye_klyuchi_meditsiny">
+          <div class='ib_img_rs'><span><img src="images/eltpub/scfh_2501_aptamery-molekulyarnye-klyuchi_390.jpg" alt=""></span></div>
+          <div class='ib_text'>
+             
+                   <div class='pretitle'>Юрий Глазырин, Анна Кичкайло</div>
+             
+             <div class='title'>Аптамеры — молекулярные «ключи» медицины</div>
+          </div> 
+          </a>
+          <div class='ib_text'>
+             <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437550/Nauka_iz_pervykh_ruk_1_103_2025">«Наука из первых рук» №1(103), 2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/69870/Genetika">Генетика</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/2395410/Molekulyarnaya_biologiya">Молекулярная биология</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/5117750/Farmakologiya">Фармакология</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437644/Aptamery_molekulyarnye_klyuchi_meditsiny#forum">1&nbsp;комментарий</a></div>
+          </div> 
+        </div>
+        <div class='cl'></div>
+       <hr>
+    
+
+
+
+
+
+<div class='more_container relm'>
+<div id='pubMoreBlock10'>
+
+
+    
+        
+         <div class='cols2'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437616/O_rogatykh_drakonakh_sataninskikh_morskikh_ezhakh_i_lechenii_bivnem_mamonta">
+             
+                   <div class='pretitle'>Юрий Угольников</div>
+             
+             <div class='title'>О рогатых драконах, сатанинских морских ежах и&nbsp;лечении бивнем мамонта</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437605/Troitskiy_variant_Nauka_21_440_21_oktyabrya_2025_goda">«Троицкий вариант» №21(440),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/162677/Paleontologiya">Палеонтология</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437616/O_rogatykh_drakonakh_sataninskikh_morskikh_ezhakh_i_lechenii_bivnem_mamonta#forum">1&nbsp;комментарий</a></div>
+        </div>
+    
+        
+         <div class='cols2'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437602/O_myshakh_i_lyudyakh">
+             
+                   <div class='pretitle'>Марина Молчанова</div>
+             
+             <div class='title'>О мышах и людях</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437428/Kvantik_4_2025">«Квантик» №4, 2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/1579643/Biofizika">Биофизика</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/5271983/Akustika">Акустика</a></div>
+        </div>
+    
+        <div class='cl'></div>
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437600/Ptichya_kunstkamera">
+             
+                   <div class='pretitle'>Александра Василевская</div>
+             
+             <div class='title'>Птичья кунсткамера</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437588/Troitskiy_variant_Nauka_19_438_23_sentyabrya_2025_goda">«Троицкий вариант» №19(438),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/5271872/Ornitologiya">Орнитология</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437600/Ptichya_kunstkamera#forum">1&nbsp;комментарий</a></div>
+        </div>
+    
+        
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437599/Sam_sebe_Aybolit">
+             
+                   <div class='pretitle'>Наталья Резник</div>
+             
+             <div class='title'>Сам себе Айболит</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437479/Khimiya_i_zhizn_5_2025">«Химия и жизнь» №5, 2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/2691067/Zoologiya">Зоология</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/2638820/Etologiya">Этология</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/25195/Meditsina">Медицина</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437599/Sam_sebe_Aybolit#forum">3&nbsp;комментария</a></div>
+        </div>
+    
+        <div class='cl'></div>
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437594/Mumi_trolli_s_pribrezhiy_Oki">
+             
+                   <div class='pretitle'>Юрий Угольников</div>
+             
+             <div class='title'>Муми-тролли с прибрежий Оки</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437588/Troitskiy_variant_Nauka_19_438_23_sentyabrya_2025_goda">«Троицкий вариант» №19(438),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/2691067/Zoologiya">Зоология</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437594/Mumi_trolli_s_pribrezhiy_Oki#forum">2&nbsp;комментария</a></div>
+        </div>
+    
+        
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437593/Byt_vampirom">
+             
+                   <div class='pretitle'>Наталья Резник</div>
+             
+             <div class='title'>Быть вампиром</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437457/Khimiya_i_zhizn_4_2025">«Химия и жизнь» №4, 2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/2691067/Zoologiya">Зоология</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/26460/Ekologiya">Экология</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437593/Byt_vampirom#forum">1&nbsp;комментарий</a></div>
+        </div>
+    
+    <div class='cl'></div>
+    
+    <div class='cl'></div>
+
+
+</div>
+<div class='cl gap hide_phone'></div>
+<div class='clblock'>
+<div class='more_buttons_noscript' id='pubMoreBlock10_buttons'>
+<hr class='nogap'>
+<span class='more_button' id='pubMoreBlock10_nextbtn'>Показать еще</span>
+</div>
+</div>
+</div>
+<script type="text/javascript">moreInit('pubMoreBlock10', { "total": 1376, "pagesize": 6, "request_url": '/ajax/library', "request_params": '&ill_mode=4&template=library_cl_v2&pager_mode=1&genid=20499&genid=27469&genid=1658283&docfeat=bydate&docfeat=hide_showed&docfeat=define_magazine&page_size=6&design=S&odiscuss=eltpdiscuss&theme=1670290&theme=25191&showed=437646&showed=432635&showed=437613&showed=437626&showed=436515&showed=437552&showed=437612&showed=437618&showed=435725&showed=437647&showed=437644&showed=433981&showed=437643&showed=437650&showed=437631&showed=437649&showed=437576&showed=437550&showed=437565&showed=437574&showed=437604&showed=437620&showed=437641&showed=436245&showed=437648&showed=430059&showed=437571&showed=437634&showed=437569&showed=437399&showed=437621&showed=437639&showed=437459&showed=437615&showed=437622&showed=436828&showed=437592&showed=437582&showed=437589&showed=436159&showed=437585&showed=436200&showed=437614&showed=431812&showed=437623'});</script>
+
+
+
+<div class='cl gap'></div>
+<hr class='top'>
+<div class='gap'></div>
+
+<h2><a href="/nauchno-populyarnaya_biblioteka/t/21099/Khimiya">Химия</a></a></h2>
+<hr class='nogap'>
+
+    
+          <div class='img_block32'>
+          <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437625/Karl_Vilgelm_Sheele">
+          <div class='ib_img_rs'><span><img src="images/eltpub/kvantik_2505_carl-wilhelm-scheele_390.jpg" alt=""></span></div>
+          <div class='ib_text'>
+             
+                   <div class='pretitle'>Марина Молчанова</div>
+             
+             <div class='title'>Карл Вильгельм Шееле</div>
+          </div> 
+          </a>
+          <div class='ib_text'>
+             <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437459/Kvantik_5_2025">«Квантик» №5, 2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/21099/Khimiya">Химия</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/2381677/Istoriya_nauki">История науки</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/5271891/Lyudi_nauki">Люди науки</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437625/Karl_Vilgelm_Sheele#forum">1&nbsp;комментарий</a></div>
+          </div> 
+        </div>
+        <div class='cl'></div>
+       <hr>
+    
+
+
+
+
+
+<div class='more_container relm'>
+<div id='pubMoreBlock12'>
+
+
+    
+        
+         <div class='cols2'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437596/Sila_pustoty_ili_Putevoditel_po_dyrkam">
+             
+                   <div class='pretitle'>Вадим Кукушкин</div>
+             
+             <div class='title'>Сила пустоты, или Путеводитель по π-дыркам</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437479/Khimiya_i_zhizn_5_2025">«Химия и жизнь» №5, 2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/21099/Khimiya">Химия</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437596/Sila_pustoty_ili_Putevoditel_po_dyrkam#forum">1&nbsp;комментарий</a></div>
+        </div>
+    
+        
+         <div class='cols2'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437577/Priklyucheniya_serebra">
+             
+                   <div class='pretitle'>Григорий Идельсон</div>
+             
+             <div class='title'>Приключения серебра</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437425/Kvantik_2_2025">«Квантик» №2, 2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/21099/Khimiya">Химия</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/1835383/Istoriya">История</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437577/Priklyucheniya_serebra#forum">1&nbsp;комментарий</a></div>
+        </div>
+    
+        <div class='cl'></div>
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437562/Ipritnyy_veter_nad_Sredizemnym_morem">
+             
+                   <div class='pretitle'>Иосиф Гольдфаин</div>
+             
+             <div class='title'>Ипритный ветер над Средиземным морем</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437456/Khimiya_i_zhizn_3_2025">«Химия и жизнь» №3, 2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/21099/Khimiya">Химия</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437562/Ipritnyy_veter_nad_Sredizemnym_morem#forum">11&nbsp;комментариев</a></div>
+        </div>
+    
+        
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437559/Tonkaya_khimiya_zhizni_ili_Nekovalentnye_vzaimodeystviya">
+             
+                   <div class='pretitle'>Вадим Кукушкин</div>
+             
+             <div class='title'>Тонкая химия жизни, или Нековалентные взаимодействия</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437456/Khimiya_i_zhizn_3_2025">«Химия и жизнь» №3, 2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/21099/Khimiya">Химия</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437559/Tonkaya_khimiya_zhizni_ili_Nekovalentnye_vzaimodeystviya#forum">4&nbsp;комментария</a></div>
+        </div>
+    
+        <div class='cl'></div>
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437555/Dvenadtsat_let_v_puzyre_iz_plastika">
+             
+                   <div class='pretitle'>Елена Клещенко</div>
+             
+             <div class='title'>Двенадцать лет в&nbsp;пузыре из пластика</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437431/Khimiya_i_zhizn_2_2025">«Химия и жизнь» №2, 2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/21099/Khimiya">Химия</a></div>
+        </div>
+    
+        
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437548/Luchshee_v_khimii_2024">
+             
+                   <div class='pretitle'>Сергей Комаров</div>
+             
+             <div class='title'>Лучшее в химии&nbsp;— 2024</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437431/Khimiya_i_zhizn_2_2025">«Химия и жизнь» №2, 2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/21099/Khimiya">Химия</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437548/Luchshee_v_khimii_2024#forum">4&nbsp;комментария</a></div>
+        </div>
+    
+    <div class='cl'></div>
+    
+    <div class='cl'></div>
+
+
+</div>
+<div class='cl gap hide_phone'></div>
+<div class='clblock'>
+<div class='more_buttons_noscript' id='pubMoreBlock12_buttons'>
+<hr class='nogap'>
+<span class='more_button' id='pubMoreBlock12_nextbtn'>Показать еще</span>
+</div>
+</div>
+</div>
+<script type="text/javascript">moreInit('pubMoreBlock12', { "total": 210, "pagesize": 6, "request_url": '/ajax/library', "request_params": '&ill_mode=4&template=library_cl_v2&pager_mode=1&genid=20499&genid=27469&genid=1658283&docfeat=bydate&docfeat=hide_showed&docfeat=define_magazine&page_size=6&design=S&odiscuss=eltpdiscuss&theme=21099&showed=437646&showed=432635&showed=437613&showed=437626&showed=436515&showed=437552&showed=437612&showed=437618&showed=435725&showed=437647&showed=437644&showed=437593&showed=433981&showed=437643&showed=437602&showed=437650&showed=437631&showed=437649&showed=437576&showed=437550&showed=437565&showed=437574&showed=437604&showed=437620&showed=437641&showed=436245&showed=437625&showed=437648&showed=430059&showed=437571&showed=437600&showed=437634&showed=437569&showed=437399&showed=437621&showed=437639&showed=437459&showed=437615&showed=437622&showed=436828&showed=437592&showed=437616&showed=437582&showed=437589&showed=437599&showed=436159&showed=437585&showed=436200&showed=437614&showed=431812&showed=437594&showed=437623'});</script>
+
+
+
+<div class='cl gap'></div>
+<hr class='top'>
+<div class='gap'></div>
+
+
+<h2><a href="/nauchno-populyarnaya_biblioteka/t/21099/Khimiya"><a href="/nauchno-populyarnaya_biblioteka/t/24976/Nauki_o_Zemle">Науки о Земле</a></h2>
+<hr class='nogap'>
+
+    
+          <div class='img_block32'>
+          <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437609/Ukroshchenie_stroptivogo_kak_priruchit_tsunami">
+          <div class='ib_img_rs'><span><img src="images/eltpub/ukroshhenie-stroptivogo-kak-priruchit-tsunami_1_390.jpg" alt=""></span></div>
+          <div class='ib_text'>
+             
+                   <div class='pretitle'>Ирина Владимирова, Маргарита Тимофеева</div>
+             
+             <div class='title'>Укрощение строптивого: как «приручить» цунами</div>
+          </div> 
+          </a>
+          <div class='ib_text'>
+             <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437605/Troitskiy_variant_Nauka_21_440_21_oktyabrya_2025_goda">«Троицкий вариант» №21(440),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/5272121/Seysmologiya">Сейсмология</a></div>
+          </div> 
+        </div>
+        <div class='cl'></div>
+       <hr>
+    
+
+
+
+
+
+<div class='more_container relm'>
+<div id='pubMoreBlock14'>
+
+
+    
+        
+         <div class='cols2'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437607/Effekt_Mpemby_begstvo_energichnykh">
+             
+                   <div class='pretitle'>Александр Бутюгин</div>
+             
+             <div class='title'>Эффект Мпембы: бегство энергичных</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437542/Khimiya_i_zhizn_6_2025">«Химия и жизнь» №6, 2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/21093/Fizika">Физика</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/3835322/Kristallografiya">Кристаллография</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/5003281/Glyatsiologiya">Гляциология</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437607/Effekt_Mpemby_begstvo_energichnykh#forum">11&nbsp;комментариев</a></div>
+        </div>
+    
+        
+         <div class='cols2'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437586/Pervaya_Kamchatskaya_ekspeditsiya_komandora_Beringa">
+             
+                   <div class='pretitle'>Юрий Манаков</div>
+             
+             <div class='title'>Первая Камчатская экспедиция командора Беринга</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437550/Nauka_iz_pervykh_ruk_1_103_2025">«Наука из первых рук» №1(103), 2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/437303/Geografiya">География</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/1835383/Istoriya">История</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437586/Pervaya_Kamchatskaya_ekspeditsiya_komandora_Beringa#forum">6&nbsp;комментариев</a></div>
+        </div>
+    
+        <div class='cl'></div>
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437557/Kamchatskoe_megazemletryasenie_analiz_i_prognozirovanie">
+             
+                   <div class='pretitle'>Валерий Гаврилов<span class="comma">,</span> Маргарита Тимофеева</div>
+             
+             <div class='title'>Камчатское мегаземлетрясение: анализ и&nbsp;прогнозирование</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437551/Troitskiy_variant_Nauka_16_435_12_avgusta_2025_goda">«Троицкий вариант» №16(435),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/5272121/Seysmologiya">Сейсмология</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437557/Kamchatskoe_megazemletryasenie_analiz_i_prognozirovanie#forum">6&nbsp;комментариев</a></div>
+        </div>
+    
+        
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437546/Ne_lez_v_butylku">
+             
+                   <div class='pretitle'>Ирина Якутенко</div>
+             
+             <div class='title'>Не лезь в бутылку!</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437533/Troitskiy_variant_Nauka_14_433_15_iyulya_2025_goda">«Троицкий вариант» №14(433),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/26460/Ekologiya">Экология</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437546/Ne_lez_v_butylku#forum">3&nbsp;комментария</a></div>
+        </div>
+    
+        <div class='cl'></div>
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437490/Prichiny_geofagii_i_redkozemelnye_elementy">
+             
+                   <div class='pretitle'>Александр Паничев<span class="comma">,</span> Наталья Барановская</div>
+             
+             <div class='title'>Причины геофагии и&nbsp;редкоземельные элементы</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/436299/Priroda_11_2021">«Природа» №11, 2021</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/2691067/Zoologiya">Зоология</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/2814243/Geokhimiya">Геохимия</a></div>
+        </div>
+    
+        
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437488/Evolyutsiya_Zemli_ot_zarozhdeniya_do_poyavleniya_noosfery">
+             
+                   <div class='pretitle'>Михаил Кузьмин<span class="comma">,</span> Владимир Ярмолюк<span class="comma">,</span> Николай Горячев<span class="comma">,</span> Алексей Диденко</div>
+             
+             <div class='title'>Эволюция Земли: от зарождения до появления ноосферы</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/436299/Priroda_11_2021">«Природа» №11, 2021</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/98045/Geologiya">Геология</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437488/Evolyutsiya_Zemli_ot_zarozhdeniya_do_poyavleniya_noosfery#forum">4&nbsp;комментария</a></div>
+        </div>
+    
+    <div class='cl'></div>
+    
+    <div class='cl'></div>
+
+
+</div>
+<div class='cl gap hide_phone'></div>
+<div class='clblock'>
+<div class='more_buttons_noscript' id='pubMoreBlock14_buttons'>
+<hr class='nogap'>
+<span class='more_button' id='pubMoreBlock14_nextbtn'>Показать еще</span>
+</div>
+</div>
+</div>
+<script type="text/javascript">moreInit('pubMoreBlock14', { "total": 383, "pagesize": 6, "request_url": '/ajax/library', "request_params": '&ill_mode=4&template=library_cl_v2&pager_mode=1&genid=20499&genid=27469&genid=1658283&docfeat=bydate&docfeat=hide_showed&docfeat=define_magazine&page_size=6&design=S&odiscuss=eltpdiscuss&theme=24976&showed=437646&showed=432635&showed=437613&showed=437626&showed=436515&showed=437552&showed=437612&showed=437618&showed=435725&showed=437562&showed=437647&showed=437559&showed=437644&showed=437593&showed=433981&showed=437643&showed=437602&showed=437650&showed=437631&showed=437609&showed=437649&showed=437576&showed=437550&showed=437565&showed=437574&showed=437604&showed=437620&showed=437641&showed=436245&showed=437625&showed=437648&showed=430059&showed=437571&showed=437600&showed=437634&showed=437569&showed=437577&showed=437596&showed=437399&showed=437621&showed=437639&showed=437459&showed=437615&showed=437548&showed=437622&showed=436828&showed=437592&showed=437616&showed=437582&showed=437589&showed=437599&showed=436159&showed=437585&showed=436200&showed=437555&showed=437614&showed=431812&showed=437594&showed=437623'});</script>
+
+
+
+<div class='cl gap'></div>
+<hr class='top'>
+<div class='gap'></div>
+
+
+<h2><a href="/nauchno-populyarnaya_biblioteka/t/25197/Lingvistika">Лингвистика</a>, <a href="/nauchno-populyarnaya_biblioteka/t/5271981">науки о человеке</a>, <a href="/nauchno-populyarnaya_biblioteka/t/1835383/Istoriya_i_arkheologiya">история и археология</a>,&nbsp;...</h2>
+<hr class='nogap'>
+
+    
+          <div class='img_block32'>
+          <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437627/Strakh_i_trepet_drevnikh_khettov">
+          <div class='ib_img_rs'><span><img src="images/eltpub/trv_442_strah-i-trepet-drevnih-hittitov_390.jpg" alt=""></span></div>
+          <div class='ib_text'>
+             
+                   <div class='pretitle'>Мария Молина</div>
+             
+             <div class='title'>Страх и трепет древних хеттов</div>
+          </div> 
+          </a>
+          <div class='ib_text'>
+             <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437608/Troitskiy_variant_Nauka_23_442_18_noyabrya_2025_goda">«Троицкий вариант» №23(442),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/25197/Lingvistika">Лингвистика</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437627/Strakh_i_trepet_drevnikh_khettov#forum">1&nbsp;комментарий</a></div>
+          </div> 
+        </div>
+        <div class='cl'></div>
+       <hr>
+    
+
+
+
+
+
+<div class='more_container relm'>
+<div id='pubMoreBlock16'>
+
+
+    
+        
+         <div class='cols2'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437642/Pro_slovari">
+             
+                   <div class='pretitle'>Александр Мещеряков</div>
+             
+             <div class='title'>Про словари</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437608/Troitskiy_variant_Nauka_23_442_18_noyabrya_2025_goda">«Троицкий вариант» №23(442),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/1656614/Sotsiologiya">Социология</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/1835383/Istoriya">История</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/25197/Lingvistika">Лингвистика</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437642/Pro_slovari#forum">1&nbsp;комментарий</a></div>
+        </div>
+    
+        
+         <div class='cols2'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437624/Pro_gostepriimstvo">
+             
+                   <div class='pretitle'>Александр Мещеряков</div>
+             
+             <div class='title'>Про гостеприимство</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437606/Troitskiy_variant_Nauka_22_441_04_noyabrya_2025_goda">«Троицкий вариант» №22(441),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/1656614/Sotsiologiya">Социология</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/1835383/Istoriya">История</a></div>
+        </div>
+    
+        <div class='cl'></div>
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437619/Yalguba_zhivaya_istoriya">
+             
+                   <div class='pretitle'>Ксения Федосова, Вера Мешко</div>
+             
+             <div class='title'>Ялгуба — живая история</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437605/Troitskiy_variant_Nauka_21_440_21_oktyabrya_2025_goda">«Троицкий вариант» №21(440),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/1898183/Etnografiya">Этнография</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437619/Yalguba_zhivaya_istoriya#forum">10&nbsp;комментариев</a></div>
+        </div>
+    
+        
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437610/Pro_proshedshee_i_neproshedshee_vremya">
+             
+                   <div class='pretitle'>Александр Мещеряков</div>
+             
+             <div class='title'>Про прошедшее и&nbsp;непрошедшее время</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437605/Troitskiy_variant_Nauka_21_440_21_oktyabrya_2025_goda">«Троицкий вариант» №21(440),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/1656614/Sotsiologiya">Социология</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/1835383/Istoriya">История</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437610/Pro_proshedshee_i_neproshedshee_vremya#forum">3&nbsp;комментария</a></div>
+        </div>
+    
+        <div class='cl'></div>
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437603/Pro_kamni">
+             
+                   <div class='pretitle'>Александр Мещеряков</div>
+             
+             <div class='title'>Про камни</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437595/Troitskiy_variant_Nauka_20_439_07_oktyabrya_2025_goda">«Троицкий вариант» №20(439),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/1656614/Sotsiologiya">Социология</a><span class="comma">,</span> <a href="/nauchno-populyarnaya_biblioteka/t/1835383/Istoriya">История</a></div>
+        </div>
+    
+        
+         <div class='cols2 brtop'>
+         <a class="nohover" href="/nauchno-populyarnaya_biblioteka/437598/De_risu_scientia_Kak_Shnobelevckaya_premiya_pereizobretaet_granitsy_ratsionalnosti">
+             
+                   <div class='pretitle'>Александр Марков<span class="comma">,</span> Оксана Штайн (Братина)</div>
+             
+             <div class='title'>De risu scientia. Как Шнобелевcкая премия переизобретает границы рациональности</div>
+        </a>
+        <div class='sublink'><a href="/nauchno-populyarnaya_biblioteka/437588/Troitskiy_variant_Nauka_19_438_23_sentyabrya_2025_goda">«Троицкий вариант» №19(438),  2025</a>&nbsp;<span class='break'
+>•</span> <a href="/nauchno-populyarnaya_biblioteka/t/2775569/Kulturologiya">Культурология</a>&nbsp;<span class='break'>•</span> <a href="/nauchno-populyarnaya_biblioteka/437598/De_risu_scientia_Kak_Shnobelevckaya_premiya_pereizobretaet_granitsy_ratsionalnosti#forum">9&nbsp;комментариев</a></div>
+        </div>
+    
+    <div class='cl'></div>
+    
+    <div class='cl'></div>
+
+
+</div>
+<div class='cl gap hide_phone'></div>
+<div class='clblock'>
+<div class='more_buttons_noscript' id='pubMoreBlock16_buttons'>
+<hr class='nogap'>
+<span class='more_button' id='pubMoreBlock16_nextbtn'>Показать еще</span>
+</div>
+</div>
+</div>
+<script type="text/javascript">moreInit('pubMoreBlock16', { "total": 488, "pagesize": 6, "request_url": '/ajax/library', "request_params": '&ill_mode=4&template=library_cl_v2&pager_mode=1&genid=20499&genid=27469&genid=1658283&docfeat=bydate&docfeat=hide_showed&docfeat=define_magazine&page_size=6&design=S&odiscuss=eltpdiscuss&theme=2288234&theme=1835383&theme=25197&theme=5271981&theme=2117966&theme=1799303&showed=436515&showed=437552&showed=437618&showed=435725&showed=437562&showed=437647&showed=437559&showed=437644&showed=437593&showed=437643&showed=437602&showed=437649&showed=437576&showed=437550&showed=437565&showed=437574&showed=436245&showed=437625&showed=437648&showed=437490&showed=437600&showed=437577&showed=437399&showed=437459&showed=436828&showed=437616&showed=437582&showed=437589&showed=437599&showed=437555&showed=437594&showed=437646&showed=432635&showed=437626&showed=437613&showed=437546&showed=437627&showed=437612&showed=437557&showed=437607&showed=433981&showed=437650&showed=437631&showed=437609&showed=437488&showed=437641&showed=437620&showed=437604&showed=437586&showed=430059&showed=437571&showed=437634&showed=437569&showed=437596&showed=437621&showed=437639&showed=437615&showed=437622&showed=437548&showed=437592&showed=436159&showed=436200&showed=437585&showed=437614&showed=431812&showed=437623'});</script>
+
+
+
+<div class='cl gap'></div>
+
+<hr class='top hide_main hide_hpad'>
+<div class='gap hide_main hide_hpad'></div>
+
+</div>
+
+<div class='crblock important'>
+
+
+     <h2><a href="/bookclub/chapters">Главы из книг</a></h2>
+     <hr class='nogap'>
+
+    
+         <div class='img_block'>
+          <a class="nohover" href="/bookclub/chapters/437617/Slon_vo_Vselennoy_Glava_iz_knigi">
+          <div class='ib_img'><img src="images/bookclub/schilling_govert_slon_vo_vselennoy_200.jpg" alt=""></div>
+          <div class='ib_text'>
+             <div class='title'>Материя, но не такая, какой мы ее знаем<br>(<i>«Слон во Вселенной». Глава из книги</i>)</div>
+             
+                  <div class='sublink'>Говерт Шиллинг</div>
+             
+          </div> 
+          </a>
+        </div>
+        <div class='cl'></div>
+       <hr>
+    
+         <div class='img_block'>
+          <a class="nohover" href="/bookclub/chapters/437573/Zakonomernosti_v_prirode_samotkanyy_kover_Formy_Otryvok_iz_knigi">
+          <div class='ib_img'><img src="images/bookclub/ball_philip_zakonomernosty_forma_200.jpg" alt=""></div>
+          <div class='ib_text'>
+             <div class='title'>Формы вещей<br>(<i>«Закономерности в&nbsp;природе: самотканый ковер. Формы». Отрывок из книги</i>)</div>
+             
+                  <div class='sublink'>Филип Болл</div>
+             
+          </div> 
+          </a>
+        </div>
+        <div class='cl'></div>
+       <hr>
+    
+         <div class='img_block'>
+          <a class="nohover" href="/bookclub/chapters/437529/Pro_kabanov_bobrov_i_vykhukholey_Glavy_iz_knigi">
+          <div class='ib_img'><img src="images/bookclub/pankova_pro_kabanov_200.jpg" alt=""></div>
+          <div class='ib_text'>
+             <div class='title'>«Про кабанов, бобров и выхухолей». Главы из книги </div>
+             
+                  <div class='sublink'>Надежда Панкова</div>
+             
+          </div> 
+          </a>
+        </div>
+        <div class='cl'></div>
+       <hr>
+    
+         <div class='img_block'>
+          <a class="nohover" href="/bookclub/chapters/437464/Prognoz_pogody_na_sto_let_Glava_iz_knigi">
+          <div class='ib_img'><img src="images/bookclub/chernov_prognoz_pogody_200.jpg" alt=""></div>
+          <div class='ib_text'>
+             <div class='title'>Маленький всемирный потоп<br>(<i>«Прогноз погоды на сто лет». Глава из книги</i>)</div>
+             
+                  <div class='sublink'>Тимофей Чернов</div>
+             
+          </div> 
+          </a>
+        </div>
+        <div class='cl'></div>
+       <hr>
+    
+<div class='goto'><a href="/bookclub/chapters">Все опубликованные отрывки</a></div>
+<div class='gap2'></div>
+
+</div>
+
+</div>
+
+<div class='cl'></div>
+
+<div class='blue subscribe_block'><div class='mblock'>
+<div class='subscribe'>
+<div class='mb10'>
+<FORM TARGET=_top ACTION=https://subscribe.ru/member/quick METHOD=POST>
+<INPUT TYPE=hidden NAME=action VALUE=quick>
+<INPUT TYPE=hidden NAME=grp VALUE="science.news.elementynews">
+<span class='title'>Новостная рассылка</span>
+<span class='xinput fullwidth'><INPUT TYPE=email NAME=email SIZE=25 MAXLENGTH=100 placeholder
+="ВАШ E-MAIL"
+></span>&nbsp;<INPUT TYPE=submit VALUE="ПОДПИСАТЬСЯ">
+<INPUT TYPE=hidden NAME=src VALUE="list_science.news.elementynews">
+</FORM>
+</div>
+
+<div class='mb6'>
+<span class='title'>«Элементы» в соцсетях:&nbsp; </span>
+
+<a class='icon vk' href='https://vk.com/elementy_ru' target='_blank' title='ВКонтакте'></a>
+<a class='icon twitter' href='https://twitter.com/elementy_ru' target='_blank' title='Твиттер'></a>
+<a class='icon youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank' title='Youtube'></a>
+
+<a class='icon telegram' href='https://telegram.me/elementy_ru' target='_blank' title='Telegram'></a>
+<a class='icon zen' href='https://zen.yandex.ru/elementy.ru' target='_blank' title='Яндекс.Дзен'></a>
+</div>
+</div>
+<div class='cl'></div>
+</div></div>
+ 
+      
+             <script type="text/javascript" src="/downloads/js/linkhint.js?v=1.02"></script>
+             <script type="text/javascript">linkhint_init();</script>
+       
+   
+
+</div>
+
+
+
+<div class='hfooter'>
+<div class='mblock'>
+
+<div class='mb4 i1'><img src='images/eltnewdesign/ft_logo.png' alt='Элементы'></div>
+
+
+
+<div class='mb3 rub1'><ul>
+<li><a href='/novosti_nauki'>Новости науки</a></li>
+<li><a href='/LHC'>LHC</a></li>
+<li><a href='/kartinka_dnya'>Картинка дня</a></li>
+<li><a href='/problems'>Задачи</a></li>
+<li><a href='/nauchno-populyarnaya_biblioteka'>Библиотека</a></li>
+<li><a href='/video'>Видеотека</a></li>
+<li><a href='/bookclub'>Книжный клуб</a></li>
+</ul></div>
+<div class='mb3 rub2'><ul>
+<li><a href='/events'>Научный календарь</a></li>
+<li><a href='/email'>Детские вопросы</a></li>
+<li><a href='/time'>Масштабы: времена</a></li>
+<li><a href='/posters'>Плакаты</a></li>
+<li><a href='/trefil'>200 законов мироздания</a></li>
+<li><a href='/genbio'>Журнал общей биологии</a></li>
+<li><a href='/catalog'>Наука в Рунете</a></li>
+</ul></div>
+
+<div class='mb3 socnets'>
+<ul>
+<li><font color=gray>@elementy.ru</font></li>
+<li><a class='vk' href='https://vk.com/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>ВКонтакте</span></a></li>
+<li><a class='twitter' href='https://twitter.com/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>Twitter</span></a></li>
+<li><a class='youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank'><span class='icon'></span><span class='name'>Youtube</span></a></li>
+<li><font color=gray>@elementy.ru</font></li>
+<li><a class='telegram' href='https://telegram.me/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>Telegram</span></a></li>
+<li><a class='zen' href='https://zen.yandex.ru/elementy.ru' target='_blank'><span class='icon'></span><span class='name'>Яндекс.Дзен</span></a></li>
+<li class='hide_main hide_hpad hide_vpad'><a class='rss' href='/rss/news' target='_blank'><span class='icon'></span><span class='name'>RSS</span></a> <span class='name'>(<a href='/rss/'  target='_blank'>все ленты</a>)</span></li>
+</ul>
+</div>
+<div class='mb3 l2 zimin'>
+<div class='msg'><a href='https://basis-foundation.ru/' target="_blank">При поддержке фонда «Базис»</a></div>
+<a href='https://basis-foundation.ru/' target="_blank"><img src='images/eltnewdesign/basis2.png' alt='Фонд поддержки фундаментальной физики Базис'></a>
+</div>
+<div class='cl'></div>
+<hr>
+<div class='mb4 l2 copy'>© 2005–2026 «Элементы»</div>
+<div class='mb3 about'><a href='/about'>О проекте</a></div>
+<div class='mb3 feedback'><a href='mailto:info@elementy.ru'>Обратная связь</a></div>
+<div class='mb3 rss hide_phone'><a href='/rss/news' target='_blank'>RSS</a> (<a href='/rss/'  target='_blank'>все ленты</a>)</div>
+<div class='mb3 subscrb'><a href='https://subscribe.ru/catalog/science.news.elementynews'>Подписаться на рассылку</a></div>
+<!--<div class='mb3 l2 design'><a href='http://charmerstudio.com' target='_blank'>Дизайн: Charmer Studio</a></div>-->
+<div class='cl gap'></div>
+
+
+<div class='mb counters'>
+<!--LiveInternet counter--><script language="JavaScript"><!--
+document.write('<img src="//counter.yadro.ru/hit?r'+escape(document.referrer)+((typeof(screen)=='undefined')?'':';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+';i'+escape('Жж'+document.title.substring(0,80))+';'+Math.random()+'" width=1 height=1 alt="">')
+//-->
+</script><!--/LiveInternet-->
+<!-- Yandex.Metrika counter --><script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter31698571 = new Ya.Metrika({ id:31698571, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="https://mc.yandex.ru/watch/31698571" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+<!-- Google Analytics --><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-65855867-1', 'auto');
+  ga('send', 'pageview');
+</script><!-- // Google Analytics -->
+<!--begin of Rambler's Top100 code -->
+<script id="top100Counter" type="text/javascript" src="//counter.rambler.ru/top100.jcn?707804"></script>
+<noscript><a href="http://top100.rambler.ru/top100/"><img src="//counter.rambler.ru/top100.cnt?707804" alt="" width=1 height=1 border=0></a>
+</noscript>
+<!--end of Top100 code-->
+</div>
+
+
+</div>
+</div>
+
+</div>
+</body>
+</html>

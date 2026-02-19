@@ -1,0 +1,2409 @@
+<!DOCTYPE html>
+<html class="no-js" lang="ru" prefix="og: http://ogp.me/ns#">
+<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+	  <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+  <title>Свежие новости России и мира сегодня - лента последних новостей дня</title>
+  <meta name="description" content="Свежие новости России и мира сегодня - лента последних новостей дня. Информация из первоисточников, эксклюзивные расследования. Смотреть новости политики, культуры, общества, церкви, экономики на Царьград ТВ."/>
+
+  <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta property="og:site_name" content="Телеканал Царьград"/>
+  <meta property="og:locale" content="ru_RU"/>
+
+
+  <link rel="stylesheet" href="/fonts/fonts.css?s1"/>
+  <link rel="stylesheet" href="/css/normalize.css">
+  <link rel="stylesheet" href="/css/main.css?s34g"/>
+<script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous"></script>
+<link href="/favicon.ico?s2" rel="icon" type="image/x-icon" />
+<link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-touch-icon-57x57.png?s2"/>
+<link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-touch-icon-60x60.png?s2"/>
+<link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-touch-icon-72x72.png?s2"/>
+<link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-touch-icon-76x76.png?s2"/>
+<link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-touch-icon-114x114.png?s2"/>
+<link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-touch-icon-120x120.png?s2"/>
+<link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-touch-icon-144x144.png?s2"/>
+<link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-touch-icon-152x152.png?s2"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon-180x180.png?s2"/>
+<link rel="icon" type="image/png" href="/favicons/favicon-32x32.png?s2" sizes="32x32"/>
+<link rel="icon" type="image/png" href="/favicons/android-chrome-192x192.png?s2" sizes="192x192"/>
+<link rel="icon" type="image/png" href="/favicons/favicon-16x16.png?s2" sizes="16x16"/>
+<link rel="manifest" href="/favicons/manifest_.json"/>
+
+
+<style>.vdf-bg.vdf-rounded.adlk-time{display:none;}.vdf-bg.vdf-rounded.vdf-cls.vdf-cls-txt{display:none;}</style>
+
+<script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://vk.com/js/api/openapi.js?167",t.onload=function(){VK.Retargeting.Init("VK-RTRG-91544-2W5hB"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script>
+<noscript><img src="https://vk.com/rtrg?p=VK-RTRG-91544-2W5hB" style="position:fixed; left:-999px;" alt=""/></noscript>
+
+<script>window.yaContextCb = window.yaContextCb || []</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+
+<meta name="keywords" content="лента новостей, новости дня, новости мира, новости россии, новости россии сегодня, новости сегодня, последние новости, свежие новости">
+<meta property="og:url" content="https://spb.tsargrad.tv/news"/>
+
+<link rel="canonical" href="https://tsargrad.tv/news"/>
+<meta property="og:title" content="Свежие новости России и мира сегодня - лента последних новостей дня"/>
+				<meta property="og:image" content="https://tsargrad.tv/img/og-image-1200x630.png?s2"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+				
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@tsargradtv" />
+<meta name="twitter:title" content="" />
+<meta name="twitter:description" content="Подробнее на сайте" />
+
+
+
+</head>
+
+
+	<body >
+
+
+  <div id="wrap">
+
+						<!--adv.tsargrad-->
+<!--Площадка: Tsargrad.tv 2022 / * / *-->
+<!--Тип баннера: Fullscreen-->
+<!--Расположение: Fullscreen (расположение)-->
+<div id="adfox_16691100198012386"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 258134,
+            containerId: 'adfox_16691100198012386',
+            params: {
+                pp: 'cxyu',
+                ps: 'gcrb',
+                p2: 'hiuq'
+            }
+        })
+    })
+</script>
+
+
+<!--AdFox START-->
+<!--adv.tsargrad-->
+<!--Площадка: Tsargrad.tv 2022 / * / *-->
+<!--Тип баннера: Media banner-->
+<!--Расположение: Десктоп шапка-->
+<div id="adfox_167083891818024212"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 258134,
+            containerId: 'adfox_167083891818024212',
+            params: {
+                pp: 'czlm',
+                ps: 'gcrb',
+                p2: 'p'
+            }
+        })
+    })
+</script>			
+
+			
+
+	   
+<noscript>
+  <img src="//counter.rambler.ru/top100.cnt?pid=4479361" alt="Топ-100" />
+</noscript>
+
+
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(27738642, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/27738642" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-54899543-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-54899543-7');
+</script>
+
+
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(67862542, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/67862542" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+
+<!--LiveInternet counter--><script type="text/javascript">
+new Image().src = "//counter.yadro.ru/hit;tsargradtv?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+
+";"+Math.random();</script><!--/LiveInternet-->
+
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "2895057", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=2895057;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+
+    <header class="header">
+      <div class="header__top">
+        <div class="container">
+            <a href="/user" class="header__auth">
+            <div class="header__auth-icon">
+              <svg class="header__auth-logo">
+                <use xlink:href="#icon-logo-black"></use>
+              </svg>
+              <!-- <svg class="header__auth-user">
+                <use xlink:href="#icon-user"></use>
+              </svg> -->
+            </div>
+            <span>Авторизация</span>
+          </a>
+
+          <div class="header__location">
+            <div class="header__location-current js-location-open">
+            	<span>Санкт-Петербург</span>
+              <svg>
+                <use xlink:href="#icon-arrow-down"></use>
+              </svg>
+            </div>
+          </div>
+
+
+          <div class="header__aside">
+
+            <a href="https://music.yandex.ru/album/38934736">
+              <svg>
+                <use xlink:href="#icon-footer-other-1"></use>
+              </svg>
+            </a>
+            <a href="https://vk.com/podcasts-75679763">
+              <svg>
+                <use xlink:href="#icon-footer-other-2"></use>
+              </svg>
+            </a>
+            <a href="https://podcasts.apple.com/ru/podcast/%D1%86%D0%B0%D1%80%D1%8C%D0%B3%D1%80%D0%B0%D0%B4/id1849695780">
+              <svg>
+                <use xlink:href="#icon-footer-other-3"></use>
+              </svg>
+            </a>
+			<div class="header__aside-separ"></div>
+            <a href="#" class="link-social-zen js-open-modal-social" data-target=".social-tab-dzen">
+              <svg>
+                <use xlink:href="#icon-footer-dzen"></use>
+              </svg>
+            </a>
+            <a href="https://max.ru/tsargrad">
+              <svg>
+                <use xlink:href="#icon-max"></use>
+              </svg>
+            </a>
+            <a href="#" class="link-social-vk js-open-modal-social" data-target=".social-tab-vkontakte">
+              <svg>
+                <use xlink:href="#icon-footer-vk"></use>
+              </svg>
+            </a>
+            <a href="#" class="link-social-ok js-open-modal-social" data-target=".social-tab-odnoclassniki">
+              <svg>
+                <use xlink:href="#icon-footer-ok"></use>
+              </svg>
+            </a>
+            <a href="#" class="link-social-telegram js-open-modal-social" data-target=".social-tab-telegram">
+              <svg>
+                <use xlink:href="#icon-footer-telegram"></use>
+              </svg>
+            </a>
+			<div class="header__aside-separ"></div>
+            <div class="header__18plus">18+</div>
+          </div>
+        </div>
+      </div>
+      <div class="header__center">
+        <div class="container">
+          <a href="/" class="header__logo-text-1">
+            Первый русский
+          </a>
+
+          <a href="/" class="header__logo-text-2">
+            Царьград
+          </a>
+
+				<a href="/user?help" class="header__btn-small btn-yellow-small" onclick="yaCounter27738642.reachGoal('top_click_disable_ads');return true;">Отключить рекламу</a>
+        </div>
+      </div>
+    </header>
+    <div class="modal-social__container">
+      <div class="modal-social">
+        <button typ="button" class="modal-social__close js-close-modal-social">
+          <svg>
+            <use xlink:href="#icon-arrow-left"></use>
+          </svg>
+        </button>
+
+        <div class="modal-social__content">
+          <ul class="modal-social__list social-tab-dzen">
+            <li>
+              <a href="https://dzen.ru/tsargrad.tv" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad.png?v4" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://dzen.ru/spb.tsargrad.tv" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-spb.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Санкт-Петербург
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://dzen.ru/arh.tsargrad.tv" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Архангельск
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://dzen.ru/chita.tsargrad.tv" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-zabaikal.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Забайкалье
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://dzen.ru/tsargrad_ekb" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-ekb.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                 Екатеринбург
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://dzen.ru/nntsargradtv" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-nn.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Нижний Новгород
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://dzen.ru/kz.tsargrad.tv" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-kz.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Казахстан
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+             <li>
+              <a href="https://dzen.ru/ug.tsargrad.tv" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-ug.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  ЮГ
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://dzen.ru/mo.tsargrad.tv" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-obl.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Подмосковье
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://dzen.ru/ural.tsargrad.tv" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-ural.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Урал
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://dzen.ru/perm.tsargrad.tv" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-perm.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Пермь
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://dzen.ru/vladimir.tsargrad.tv" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-vladimir.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Владимир/Иваново
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://dzen.ru/kemerovo.tsargrad.tv" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-kemero.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Кузбасс
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://dzen.ru/am.tsargrad.tv" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-am.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Корпункт.<br>
+                  Царьград Армения
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://dzen.ru/samara.tsargrad.tv" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-samara.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Самара
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://dzen.ru/md.tsargrad.tv" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-md.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Молдавия
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://dzen.ru/tsargrad_rostov" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-rostov.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Ростов-на-Дону
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://dzen.ru/nsk.tsargrad.tv" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-nsk.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Новосибирск
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://dzen.ru/s_smysly" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-smysly.jpg" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Скрытые смыслы.<br>
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+                        <li>
+              <a href="https://dzen.ru/pronko" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-pronko.jpg" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Юрий Пронько.<br>
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+                        <li>
+              <a href="https://dzen.ru/kvmalofeev" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-kmalofeev.jpg" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Константин Малофеев.<br>
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+
+             <li>
+              <a href="https://dzen.ru/svyatayapravda" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/svataya-pravda.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Святая правда.<br>
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+
+
+
+
+
+
+
+
+
+
+
+
+          </ul>
+          <ul class="modal-social__list social-tab-telegram">
+            <li>
+              <a href="https://t.me/tsargradtv" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad.png?v4" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://t.me/tsargradspb" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-spb.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Санкт-Петербург
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://t.me/tsargrad_arhngelsk" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Архангельск
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://t.me/tsargradtransbaikalia" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-zabaikal.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Забайкалье
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://t.me/tsargradekb" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-ekb.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                 Екатеринбург
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://t.me/tsargradnn" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-nn.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Нижний Новгород
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://t.me/tsargradkazakhstan" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-kz.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Казахстан
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+             <li>
+              <a href="https://t.me/tsargradug" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-ug.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  ЮГ
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://t.me/tsargradpmsk" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-obl.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Подмосковье
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://t.me/tsargradbelarus" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-belarus.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Белоруссия
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+
+            <li>
+              <a href="https://t.me/tsargradural" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-ural.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Урал
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://t.me/tsargrad_perm" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-perm.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Пермь
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://t.me/tsargradvladimirivanovo" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-vladimir.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Владимир/Иваново
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://t.me/tsargradkzs" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-kemero.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Кузбасс
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://t.me/tsargradnewsarmenia" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-am.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Корпункт.<br>
+                  Царьград Армения
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://t.me/tsargradsmr" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-samara.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Самара
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://t.me/tsargradmoldova" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-md.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Молдавия
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://t.me/tsargradrstv" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-rostov.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Ростов-на-Дону
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://t.me/tsargradnsk" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-nsk.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Новосибирск
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://t.me/+CaSiDtCU7x0xMWJi" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-smysly.jpg" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Скрытые смыслы.<br>
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://t.me/tsarhit" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-tsarhit.jpg" alt="">
+                <h5 class="modal-social__list-item-title">
+                  ЦарьХит.<br>
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://t.me/ypronko" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-pronko.jpg" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Юрий Пронько.<br>
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://t.me/kvmalofeev" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-kmalofeev.jpg" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Константин Малофеев.<br>
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+          </ul>
+
+          <!---vkontakte -->
+          <ul class="modal-social__list social-tab-vkontakte">
+            <li>
+              <a href="https://vk.com/tsargradtv" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad.png?v4" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://vk.com/tsargrad_spb" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-spb.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Санкт-Петербург
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://vk.com/tsargrad_arhangelsk" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Архангельск
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://vk.com/tsargrad_chita" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-zabaikal.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Забайкалье
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://vk.com/tsargrad_ekb" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-ekb.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                 Екатеринбург
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://vk.com/public204667182" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-nn.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Нижний Новгород
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://vk.com/tsargrad_kzh" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-kz.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Казахстан
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+             <li>
+              <a href="https://vk.com/tsargrad_ug" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-ug.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  ЮГ
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://vk.com/tsargrad_mo" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-obl.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Подмосковье
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://vk.com/tsargrad_by" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-belarus.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Белоруссия
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+
+            <li>
+              <a href="https://vk.com/tsargrad_ural" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-ural.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Урал
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://vk.com/tsargrad_perm" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-perm.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Пермь
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://vk.com/grad3337" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-vladimir.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Владимир/Иваново
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://vk.com/tsargrad_kemerovo" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-kemero.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Кузбасс
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://vk.com/tsargrad_armenia" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-am.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Корпункт.<br>
+                  Царьград Армения
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://vk.com/tsargrad_samara" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-samara.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Самара
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://vk.com/tsargrad_md" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-md.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Молдавия
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://vk.com/rostov.tsargrad" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-rostov.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Ростов-на-Дону
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://vk.com/tsargrad_nsk" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-nsk.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Новосибирск
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://vk.com/ypronko" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-pronko.jpg" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Юрий Пронько.<br>
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+
+          </ul>
+          <!--ok -->
+          <ul class="modal-social__list social-tab-odnoclassniki">
+            <li>
+              <a href="https://ok.ru/tsargradtv" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad.png?v4" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://ok.ru/group/61038829437056" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-spb.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Санкт-Петербург
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://ok.ru/group/70000002155904" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Архангельск
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://ok.ru/group/61038876622976" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-zabaikal.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Забайкалье
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://ok.ru/group/61038852440192" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-ekb.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                 Екатеринбург
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://ok.ru/group/61038908080256" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-nn.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Нижний Новгород
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://ok.ru/group/61038882586752" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-kz.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Казахстан
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+             <li>
+              <a href="https://ok.ru/group/61038938226816" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-ug.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  ЮГ
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://ok.ru/group/61038921121920" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-obl.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Подмосковье
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://ok.ru/tsargrad.b" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-belarus.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Белоруссия
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+
+            <li>
+              <a href="https://ok.ru/group/61038944190592" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-ural.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Урал
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://ok.ru/group/70000001062016" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-perm.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Пермь
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://ok.ru/group/61038842019968" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-vladimir.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Владимир/Иваново
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://ok.ru/group/61038897332352" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-kemero.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Кузбасс
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://ok.ru/group/61038866923648" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-am.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Корпункт.<br>
+                  Царьград Армения
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://ok.ru/group/61038932394112" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-samara.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Самара
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://ok.ru/group/61038903558272" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-md.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Молдавия
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://ok.ru/group/61038927872128" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-rostov.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Ростов-на-Дону
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://ok.ru/group/61038916010112" target="_blank" class="modal-social__list-link">
+                <img src="https://img.tsargrad.tv/img/social-logo/social-logo-tsargrad-nsk.png" alt="">
+                <h5 class="modal-social__list-item-title">
+                  Царьград.<br>
+                  Новосибирск
+                </h5>
+                <div class="modal-social__list-item-arrow">
+                  <svg>
+                    <use xlink:href="#icon-arrow-lines"></use>
+                  </svg>
+                </div>
+              </a>
+            </li>
+          </ul>
+
+        </div>
+      </div>
+    </div>
+
+
+      <div class="header__bottom">
+        <div class="container">
+          <nav class="header__bottom-aside">
+            <a href="#" class="header__burger js-menu-open">
+              <svg>
+                <use xlink:href="#icon-burger"></use>
+              </svg>
+              <span>Рубрики</span></a>
+            <a href="/news" class="header__link-wide active"><span>Новости</span></a>
+            <a href="/articles/rubric/analitika" class="header__link-wide"><span>Аналитика</span></a>
+            <!--//<a href="#" onclick='window.open("https://www.litres.ru/?books22tsgr&lfrom=1052740210&utm_source=tsargrad.tv&utm_medium=cpa&utm_campaign=books22tsgr");return false;'><span>Книги</span></a>//-->
+
+          </nav>
+          <a href="/">
+            <img src="/img/logo-tsargrad_134x134.png" srcset="/img/logo-tsargrad_268x268.png 2x, /img/logo-tsargrad_402x402.png 3x" alt="Первый русский" class="header__logo-yellow">
+          </a>
+          <nav class="header__bottom-aside">
+			<!--//<a href="/petitions"><span>Петиции</span></a>//-->
+			<!--//<a href="/ourheroes"><span>Наши герои</span></a>//-->
+			<a href="/shows/rubric/last" class="link-special"><span>Эфир</span></a>
+            <!--//<a href="/fond"><span>Помочь детям</span></a>//-->
+            <!--//<a href="/polls"><span>Опросы</span></a>//-->
+            <a href="https://1rus.ru/?utm_source=media&utm_medium=tsargrad&utm_campaign=promo_april" class="header__link-wide"><span>Фильмы</span></a>
+            <a href="/investigations" class="header__link-wide "><span>Расследования</span></a>
+
+            <a href="#" class="header__search-button js-search-open">
+              <svg>
+                <use xlink:href="#icon-search"></use>
+              </svg>
+            </a>
+          </nav>
+        </div>
+      </div>
+
+
+     <div class="header__dropdown header__dropdown_menu js-location">
+      <div class="header__dropdown-content">
+        <div class="header__dropdown-close js-location-close">
+          <svg>
+            <use xlink:href="#icon-close"></use>
+          </svg>
+        </div>
+        <section class="news-group">
+          <div class="news-group__title">
+            <span>Ваш регион</span>
+          </div>
+
+          <ul class="header__menu-location">
+
+                <li><a href="https://am.tsargrad.tv/?set_region">Армения</a></li>
+                <li><a href="https://arh.tsargrad.tv/?set_region">Архангельск</a></li>
+                <li><a href="https://by.tsargrad.tv/?set_region">Белоруссия</a></li>
+                <li><a href="https://vladimir.tsargrad.tv/?set_region">Владимир/Иваново</a></li>
+                <li><a href="https://ekb.tsargrad.tv/?set_region">Екатеринбург</a></li>
+                <li><a href="https://chita.tsargrad.tv/?set_region">Забайкалье</a></li>
+                <li><a href="https://kz.tsargrad.tv/?set_region">Казахстан</a></li>
+                <li><a href="https://kemerovo.tsargrad.tv/?set_region">Кузбасс</a></li>
+                <li><a href="https://md.tsargrad.tv/?set_region">Молдавия/Приднестровье</a></li>
+                <li><a href="https://tsargrad.tv/?set_region">Москва</a></li>
+                <li><a href="https://nn.tsargrad.tv/?set_region">Нижний Новгород</a></li>
+                <li><a href="https://nsk.tsargrad.tv/?set_region">Новосибирск</a></li>
+                <li><a href="https://perm.tsargrad.tv/?set_region">Пермь</a></li>
+                <li><a href="https://mo.tsargrad.tv/?set_region">Подмосковье</a></li>
+                <li><a href="https://rostov.tsargrad.tv/?set_region">Ростов-на-Дону</a></li>
+                <li><a href="https://samara.tsargrad.tv/?set_region">Самара</a></li>
+                <li class="header__menu-location-active"><a href="https://spb.tsargrad.tv/?set_region">Санкт-Петербург</a></li>
+				<li><a href="https://ug.tsargrad.tv/?set_region">Юг</a></li>
+                <li><a href="https://ural.tsargrad.tv/?set_region">Южный Урал</a></li>
+
+          </ul>
+        </section>
+      </div>
+    </div>
+
+     <div class="header__dropdown header__dropdown_menu js-menu">
+      <div class="header__dropdown-content">
+        <div class="header__dropdown-close js-menu-close">
+          <svg>
+            <use xlink:href="#icon-close"></use>
+          </svg>
+        </div>
+
+        <ul class="header__menu-primary">
+          <li><a href="/news" class="header__menu-primary-link">Новости</a></li>
+          <li><a href="/articles" class="header__menu-primary-link">Статьи</a></li>
+          <!--//<li><a href="/experts" class="header__menu-primary-link">Мнения</a></li>//-->
+          <!--//<li><a href="/tests" class="header__menu-primary-link">Тесты</a></li>//-->
+          <!--//<li><a href="/tags/novyj-god-2021" class="link-btn link-btn_white">Новый год 2021</a></li>//-->
+          <!--//<li><a href="/polls/148" class="link-btn link-btn_yellow">Народное голосование</a></li>//-->
+          <li><a href="/special_projects" class="header__menu-primary-link">Спецпроекты</a></li>
+         <!--// <li><a href="/materials/rubric/nashi-geroi" class="header__menu-primary-link">Наши герои</a></li>//-->
+         <!--//<li><a href="/fond" class="header__menu-primary-link">Помочь детям</a></li>//-->
+         <!--//<li><a href="/rusofob_2023" class="header__menu-primary-link">Русофобы 2023</a></li>//-->
+         <!--//<li><a href="/meditsina" class="header__menu-primary-link">Правда о медицине</a></li>//-->
+         <li><a href="/materials/rubric/kultura-4" class="header__menu-primary-link">Культура</a></li>
+          <!--//<li><a href="/konkurs" class="header__menu-primary-link">Конкурс</a></li>//-->
+          <!--//<li><a href="/materials/rubric/russkij-geroj" class="header__menu-primary-link">Русский герой</a></li>//-->
+          <li><a href="/polls" class="header__menu-primary-link">Опросы</a></li>
+        </ul>
+
+
+        <div class="header__menu-tabs js-tab-list">
+          <ul class="header__menu-tabs-list js-list">
+			            <li data-tab-index="0" class="active">
+            						<a href="/materials/rubric/rassledovanija-cargrada">Расследования</a>
+            	
+            </li>
+                        <li data-tab-index="1">
+            						<a href="/onlytext/rubric/obshhestvo">Общество</a>
+            	
+            </li>
+                        <li data-tab-index="2">
+            						<a href="/onlytext/rubric/politika-2">Политика</a>
+            	
+            </li>
+                        <li data-tab-index="3">
+            						<a href="/onlytext/rubric/ideologiya">Идеология</a>
+            	
+            </li>
+                        <li data-tab-index="4">
+            						<a href="/onlytext/rubric/jekonomika">Экономика</a>
+            	
+            </li>
+            
+          </ul>
+
+          <div class="header__menu-tabs-content js-content">
+			            <div class="tab active" style="background-image: url(https://img.tsargrad.tv/cache/b/b/3_rassledovanie.jpg/w627h353fill.jpg)" data-tab-index="0">
+              <div class="tab__content">
+                Расследования Царьграда – плод совместной работы группы аналитиков и экспертов. Мы вскрываем механизм работы олигархических корпораций, анатомию подготовки цветных революций, структуру преступных этнических группировок. Мы обнажаем неприглядные факты и показываем опасные тенденции, не даём покоя прокуратуре и следственным органам, губернаторам и "авторитетам". Мы защищаем Россию не просто словом, а свидетельствами и документами.
+              </div>
+            </div>
+			            <div class="tab" style="background-image: url(https://img.tsargrad.tv/cache/b/a/obshestvo.jpg/w627h353fill.jpg)" data-tab-index="1">
+              <div class="tab__content">
+                «Люди, события, факты» - вы делаете те новости, которые происходят вокруг нас. А мы о них говорим. Это рубрика о самых актуальных событиях. Интересные сюжеты и горячие репортажи, нескучные интервью и яркие мнения.
+              </div>
+            </div>
+			            <div class="tab" style="background-image: url(https://img.tsargrad.tv/cache/1/5/politika.jpg/w627h353fill.jpg)" data-tab-index="2">
+              <div class="tab__content">
+                События внутренней, внешней и международной политики, политические интриги и тайны, невидимые рычаги принятия публичных решений, закулисье переговоров, аналитика по произошедшим событиям и прогнозы на ближайшее будущее и перспективные тенденции, публичные лица мировой политики и их "серые кардиналы", заговоры против России и разоблачения отечественной "пятой колонны" – всё это и многое вы найдёте в материалах отдела политики Царьграда.
+              </div>
+            </div>
+			            <div class="tab" style="background-image: url(https://img.tsargrad.tv/cache/b/f/ideologiya.jpg/w627h353fill.jpg)" data-tab-index="3">
+              <div class="tab__content">
+                Идеологический отдел Царьграда – это фабрика русских смыслов. Мы не раскрываем подковёрные интриги, не "изобретаем велосипеды" и не "открываем Америку". Мы возвращаем утраченные смыслы очевидным вещам. Россия – великая православная держава с тысячелетней историей. Русская Церковь – основа нашей государственности и культуры. Москва – Третий Рим. Русский – тот, кто искренне любит Россию, её историю и культуру. Семья – союз мужчины и женщины. И их дети. Желательно, много детей. Народосбережение – ключевая задача государства. Задача, которую невозможно решить без внятной идеологии.
+              </div>
+            </div>
+			            <div class="tab" style="background-image: url(https://img.tsargrad.tv/cache/0/3/economika.jpg/w627h353fill.jpg)" data-tab-index="4">
+              <div class="tab__content">
+                Экономический отдел телеканала «Царьград» является единственным среди всех крупных СМИ, который отвергает либерально-монетаристские принципы. Мы являемся противниками встраивания России в глобалисткую систему мироустройства, выступаем за экономический суверенитет и независимость нашего государства.
+              </div>
+            </div>
+			          </div>
+        </div>
+
+          </div>
+       </div>
+
+
+     <div class="header__dropdown header__dropdown_search js-search">
+      <div class="header__dropdown-content">
+        <form action="/search">
+          <div class="header__search-row">
+            <input type="text" name="q" placeholder="Поиск"/>
+            <button type="submit">Искать</button>
+            <div class="header__dropdown-close js-search-close">
+              <svg>
+                <use xlink:href="#icon-close"></use>
+              </svg>
+            </div>
+          </div>
+
+          <div class="header__search-filter">
+            <label>
+              <input type="radio" name="section" value="all" class="radio" checked>
+              <span>Все публикации</span>
+            </label>
+            <label>
+              <input type="radio" name="section" value="articles" class="radio">
+              <span>Статьи</span>
+            </label>
+                            <label>
+                <input type="radio" name="section" value="region" class="radio">
+                <span>Мой регион</span>
+              </label>
+                        </div>
+        </form>
+      </div>
+    </div>
+
+
+
+    <main class="main">
+		      <div class="container">
+        <div class="layout">
+          <div class="layout__main">
+
+		
+			            <section class="news-group">
+              <div class="news-group__title">
+                <a href="/news">Новости</a>
+              </div>
+
+			
+            <div id="moreContentnews">
+
+
+                <article class="news-item news-item_list-item">
+                  <a href="/news/zaprety-i-primety-pjatnicy-maslenicy-kak-ne-navlech-bedu-na-semju_1562720" class="news-item__link">
+                    <h4>Запреты и приметы пятницы Масленицы: как не навлечь беду на семью</h4>
+                  </a>
+
+                  <div class="news-item__description">Пятый день Масленичной недели, который в 2026 году выпадает на 20 февраля, носит особое название – "Тещины...</div>
+
+				                  <div class="news-item__category">
+                    <time>19 Февраля 18:35</time>
+                                  <a href="/news/rubric/obshhestvo" class="news-item__category-name">Общество</a>
+                
+                  </div>
+				
+                </article>
+
+              
+
+                <article class="news-item news-item_list-item">
+                  <a href="/news/russkij-muzhchina-izbit-tolpoj-migrantov-vo-vladivostoke-delo-est-no-vinovnye-na-svobode_1563176" class="news-item__link">
+                    <h4>Русский мужчина избит толпой мигрантов во Владивостоке: дело есть, но виновные на свободе</h4>
+                  </a>
+
+                  <div class="news-item__description">Русский мужчина, прилетевший в командировку, подвергся жестокому избиению группой лиц, которых очевидцы...</div>
+
+				                  <div class="news-item__category">
+                    <time>19 Февраля 17:23</time>
+                                  <a href="/news/rubric/proisshestvija" class="news-item__category-name">Происшествия</a>
+                
+                  </div>
+				
+                </article>
+
+              
+
+                <article class="news-item news-item_list-item">
+                  <a href="/news/hronika-poslednih-dnej-napominaet-svodki-s-fronta-deputaty-bjut-trevogu-izza-cheredy-tragedij-v-zhkh_1563127" class="news-item__link">
+                    <h4>&quot;Хроника последних дней напоминает сводки с фронта&quot;: депутаты бьют тревогу из‑за череды трагедий в ЖКХ</h4>
+                  </a>
+
+                  <div class="news-item__description">Депутаты требовали отчёта от Минстроя о трагедиях в ЖКХ -  но инициатива столкнулась с сопротивлением.</div>
+
+				                  <div class="news-item__category">
+                    <time>19 Февраля 17:04</time>
+                                  <a href="/news/rubric/obshhestvo" class="news-item__category-name">Общество</a>
+                
+                  </div>
+				
+                </article>
+
+              
+
+                <article class="news-item news-item_list-item">
+                  <a href="/news/proryv-v-lechenii-nasledstvennoj-slepoty-uchjonye-nashli-sposob-pochinit-dnk_1563109" class="news-item__link">
+                    <h4>Прорыв в лечении наследственной слепоты: учёные нашли способ &quot;починить&quot; ДНК</h4>
+                  </a>
+
+                  <div class="news-item__description">Исследователи сообщили об успешной разработке действенного метода, позволяющего доставлять исправный вариант...</div>
+
+				                  <div class="news-item__category">
+                    <time>19 Февраля 16:54</time>
+                                  <a href="/news/rubric/nauka-3" class="news-item__category-name">Наука</a>
+                
+                  </div>
+				
+                </article>
+
+              
+
+                <article class="news-item news-item_list-item">
+                  <a href="/news/v-lipeckoj-oblasti-ruhnula-krysha-zavoda-ljudej-ishhut-i-spasajut-iz-pod-zavalov-chto-izvestno_1563037" class="news-item__link">
+                    <h4>В Липецкой области рухнула крыша завода: людей ищут и спасают из-под завалов. Что известно</h4>
+                  </a>
+
+                  <div class="news-item__description">На предприятии "Моторинвест" в Липецкой области обрушилась крыша одного из цехов. Аварийно-спасательные работы...</div>
+
+				                  <div class="news-item__category">
+                    <time>19 Февраля 16:20</time>
+                                  <a href="/news/rubric/proisshestvija" class="news-item__category-name">Происшествия</a>
+                
+                  </div>
+				
+                </article>
+
+              				<div class="news-item news-item_article">
+<!-- Yandex.RTB R-A-230529-33 -->
+<div id="yandex_rtb_R-A-230529-33-1" style="max-height:30vh;">
+	<div style="height:30vh;"></div>
+</div>
+<script>
+  window.yaContextCb.push(()=>{
+    Ya.Context.AdvManager.render({
+                blockId: "R-A-230529-33",
+                renderTo: "yandex_rtb_R-A-230529-33-1",
+                pageNumber: 1
+    })
+  })
+</script>
+</div>              
+
+                <article class="news-item news-item_list-item">
+                  <a href="/news/rebjonok-istekal-krovju-no-skoruju-ne-vyzvali-sk-vozbudil-delo-posle-chp-v-detsadu-rossii_1562971" class="news-item__link">
+                    <h4>Ребёнок истекал кровью, но скорую не вызвали: СК возбудил дело после ЧП в детсаду России</h4>
+                  </a>
+
+                  <div class="news-item__description">Девочке предстоят операции, проверку по факту происшествия также проводит прокуратура.</div>
+
+				                  <div class="news-item__category">
+                    <time>19 Февраля 15:39</time>
+                                  <a href="/news/rubric/proisshestvija" class="news-item__category-name">Происшествия</a>
+                
+                  </div>
+				
+                </article>
+
+              
+
+                <article class="news-item news-item_list-item">
+                  <a href="/news/konec-jepohi-neprikosnovennosti-byvshij-princ-jendrju-zaderzhan-v-den-rozhdenija-po-delu-jepshtejna_1562815" class="news-item__link">
+                    <h4>Конец эпохи неприкосновенности? Бывший принц Эндрю задержан в день рождения по делу Эпштейна</h4>
+                  </a>
+
+                  <div class="news-item__description">Бывший принц Эндрю задержан по делу Эпштейна.</div>
+
+				                  <div class="news-item__category">
+                    <time>19 Февраля 14:22</time>
+                                  <a href="/news/rubric/obshhestvo" class="news-item__category-name">Общество</a>
+                
+                  </div>
+				
+                </article>
+
+              
+
+                <article class="news-item news-item_list-item">
+                  <a href="/news/jekspert-kuvshinov-raskryl-prichinu-kadrovogo-goloda-v-sfere-ii_1562793" class="news-item__link">
+                    <h4>Эксперт Кувшинов раскрыл причину кадрового голода в сфере ИИ</h4>
+                  </a>
+
+                  <div class="news-item__description">Интерес работодателей к найму ИИ-специалистов во многом, со слов эксперта, подогрет хайпом. Однако найти...</div>
+
+				                  <div class="news-item__category">
+                    <time>19 Февраля 14:09</time>
+                                  <a href="/news/rubric/obshhestvo" class="news-item__category-name">Общество</a>
+                
+                  </div>
+				
+                </article>
+
+              
+
+                <article class="news-item news-item_list-item">
+                  <a href="/news/pozirovali-na-krestah-i-pominalnyh-stolikah-sud-postavil-tochku-v-skandalnoj-fotosessii-v-peterburge_1562740" class="news-item__link">
+                    <h4>Позировали на крестах и поминальных столиках: суд поставил точку в скандальной фотосессии в Петербурге</h4>
+                  </a>
+
+                  <div class="news-item__description">Уголовные дела были возбуждены по статьям об оскорблении чувств верующих и надругательстве над местами...</div>
+
+				                  <div class="news-item__category">
+                    <time>19 Февраля 13:45</time>
+                                  <a href="/news/rubric/proisshestvija" class="news-item__category-name">Происшествия</a>
+                
+                  </div>
+				
+                </article>
+
+              
+
+                <article class="news-item news-item_list-item">
+                  <a href="/news/snesla-s-nog-i-podkinula-v-vozduh-v-pitere-voditel-na-zebre-sbila-pensionerku-kadry-s-mesta-dtp_1562710" class="news-item__link">
+                    <h4>Снесла с ног и подкинула в воздух: в Питере водитель на &quot;зебре&quot; сбила пенсионерку. Кадры с места ДТП</h4>
+                  </a>
+
+                  <div class="news-item__description">ДТП, приведшее к смерти пешехода, произошло в Санкт-Петербурге. Пенсионерка переходила дорогу по пешеходному...</div>
+
+				                  <div class="news-item__category">
+                    <time>19 Февраля 13:33</time>
+                                  <a href="/news/rubric/proisshestvija" class="news-item__category-name">Происшествия</a>
+                
+                  </div>
+				
+                </article>
+
+              
+
+                <article class="news-item news-item_list-item">
+                  <a href="/news/korrupcioner-rvjotsja-na-front-timur-ivanov-podal-v-sud-na-minoborony_1562691" class="news-item__link">
+                    <h4>Коррупционер рвётся на фронт: Тимур Иванов подал в суд на Минобороны</h4>
+                  </a>
+
+                  <div class="news-item__description">Бывший замминистра обороны Тимур Иванов подал иск к Минобороны России за отказ отправить его на СВО.</div>
+
+				                  <div class="news-item__category">
+                    <time>19 Февраля 13:23</time>
+                                  <a href="/news/rubric/obshhestvo" class="news-item__category-name">Общество</a>
+                
+                  </div>
+				
+                </article>
+
+              				<div class="news-item news-item_article">
+<!-- Yandex.RTB R-A-230529-33 -->
+<div id="yandex_rtb_R-A-230529-33-2" style="max-height:30vh;">
+	<div style="height:30vh;"></div>
+</div>
+<script>
+  window.yaContextCb.push(()=>{
+    Ya.Context.AdvManager.render({
+                blockId: "R-A-230529-33",
+                renderTo: "yandex_rtb_R-A-230529-33-2",
+                pageNumber: 2
+    })
+  })
+</script>
+</div>              
+
+                <article class="news-item news-item_list-item">
+                  <a href="/news/shema-dolinoj-dala-treshhinu-pensionerku-vpervye-priznali-vmenjaemoj-no-est-njuans_1562704" class="news-item__link">
+                    <h4>&quot;Схема Долиной&quot; дала трещину: пенсионерку впервые признали вменяемой, но есть нюанс</h4>
+                  </a>
+
+                  <div class="news-item__description">Впервые пенсионерка, воспользовавшаяся "схемой Долиной", вернёт деньги покупателям её жилья. Однако есть нюанс...</div>
+
+				                  <div class="news-item__category">
+                    <time>19 Февраля 12:45</time>
+                                  <a href="/news/rubric/obshhestvo" class="news-item__category-name">Общество</a>
+                
+                  </div>
+				
+                </article>
+
+              
+
+                <article class="news-item news-item_list-item">
+                  <a href="/news/1-mln-v-sutki-s-russkih-doch-jeks-generala-vsu-okazalas-v-centre-skandala-s-onlajn-kazino_1562598" class="news-item__link">
+                    <h4>$1 млн в сутки с русских? Дочь экс-генерала ВСУ оказалась в центре скандала с онлайн-казино</h4>
+                  </a>
+
+                  <div class="news-item__description">В публикации говорится, что предполагаемым бенефициаром проектов является Оксана Уразова, проживающая в...</div>
+
+				                  <div class="news-item__category">
+                    <time>19 Февраля 12:40</time>
+                                  <a href="/news/rubric/proisshestvija" class="news-item__category-name">Происшествия</a>
+                
+                  </div>
+				
+                </article>
+
+              
+
+                <article class="news-item news-item_list-item">
+                  <a href="/news/temperatura-zemli-rastjot-tochka-nevozvrata-vsjo-blizhe-uchjonye-rasskazali-o-neobratimyh-posledstvijah_1562565" class="news-item__link">
+                    <h4>Температура Земли растёт: &quot;точка невозврата&quot; всё ближе. Учёные рассказали о необратимых последствиях</h4>
+                  </a>
+
+                  <div class="news-item__description">Продолжающее потепление способно запустить цепную реакцию переломных процессов в системе Земли. Климат может...</div>
+
+				                  <div class="news-item__category">
+                    <time>19 Февраля 12:28</time>
+                                  <a href="/news/rubric/nauka-3" class="news-item__category-name">Наука</a>
+                
+                  </div>
+				
+                </article>
+
+              
+
+                <article class="news-item news-item_list-item">
+                  <a href="/news/jevoljucija-receptov-zapah-drevnih-mumij-pomog-uchjonym-razgadat-sekrety-balzamirovanija-v-drevnem-egipte_1562496" class="news-item__link">
+                    <h4>Эволюция рецептов: запах древних мумий помог учёным разгадать секреты бальзамирования в Древнем Египте</h4>
+                  </a>
+
+                  <div class="news-item__description">Исследователи провели анализ ароматов мумий, и смогли разгадать секреты древних египтян по бальзамированию...</div>
+
+				                  <div class="news-item__category">
+                    <time>19 Февраля 11:48</time>
+                                  <a href="/news/rubric/nauka-3" class="news-item__category-name">Наука</a>
+                
+                  </div>
+				
+                </article>
+
+              
+
+                <article class="news-item news-item_list-item">
+                  <a href="/news/gde-v-rossii-rezhe-vsego-razvodjatsja-nazvan-region-rossii-s-samymi-krepkimi-brakami_1562376" class="news-item__link">
+                    <h4>Где в России реже всего разводятся? Назван регион России с самыми крепкими браками</h4>
+                  </a>
+
+                  <div class="news-item__description">В тройку регионов с наиболее устойчивыми браками также вошли Республика Крым и Севастополь.</div>
+
+				                  <div class="news-item__category">
+                    <time>19 Февраля 10:45</time>
+                                  <a href="/news/rubric/obshhestvo" class="news-item__category-name">Общество</a>
+                
+                  </div>
+				
+                </article>
+
+              				<div class="news-item news-item_article">
+<!-- Yandex.RTB R-A-230529-33 -->
+<div id="yandex_rtb_R-A-230529-33-3" style="max-height:30vh;">
+	<div style="height:30vh;"></div>
+</div>
+<script>
+  window.yaContextCb.push(()=>{
+    Ya.Context.AdvManager.render({
+                blockId: "R-A-230529-33",
+                renderTo: "yandex_rtb_R-A-230529-33-3",
+                pageNumber: 3
+    })
+  })
+</script>
+</div>              
+
+            </div>
+
+            <div id="content-load-block" style="height:1px"></div>
+          </section>
+
+		
+
+			
+
+          </div>
+
+
+          <aside class="layout__aside">
+
+          <!--//1//-->
+
+
+						            <div class="video-aside">
+              <div class="video-aside__top-panel">
+                <div class="news-item__category">
+                  <a href="#" class="news-item__category-name">Итоги дна с Делягиным</a>
+                </div>
+
+<!--//                <div class="video-label-live">Live</div>//-->
+              </div>
+
+              <div class="video-aside__container" style="margin-bottom:31px">
+                <iframe src="https://vk.com/video_ext.php?oid=-75679763&id=456300154&hash=904e95e6b024e65e&autoplay=1" width="360" height="204" frameborder="0" scrolling="no" allowfullscreen></iframe>
+              </div>
+            </div>
+
+			<!--//2//-->
+
+                      
+			
+	<div style="margin-bottom:20px">
+    <div id="adfox_167990779160496035"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 258134,
+            containerId: 'adfox_167990779160496035',
+            params: {
+                pp: 'dfgz',
+                ps: 'gcrb',
+                p2: 'p'
+            }
+        })
+    })
+</script>
+<style>
+#adfox_167990779160496035 {display: flex;justify-content: center;}
+</style>
+<div style="height:20px"></div>
+<!-- Yandex.RTB R-A-230529-51 -->
+<div id="yandex_rtb_R-A-230529-51" style="max-height:400px;">
+	<div style="height:400px;"></div>
+</div>
+<script>
+  window.yaContextCb.push(()=>{
+    Ya.Context.AdvManager.render({
+                blockId: "R-A-230529-51",
+                renderTo: "yandex_rtb_R-A-230529-51"
+    })
+  })
+</script>
+	</div>	
+<!--//			<a href="#" class="link-more">75 новостей</a>//-->
+
+
+
+			            <section class="news-group news-group_aside">
+              <div class="news-group__title">
+                <a href="/slovo">Слово учредителя</a>
+              </div>
+
+			              <a href="/slovo/sionistskoe-okkupacionnoe-pravitelstvo_1549194" class="opinion">
+                <div class="opinion__card">
+                  <div class="opinion__card-photo">
+                    <img src="https://img.tsargrad.tv/cache/0/7/1_1111.png/w500h500.png" alt="">
+                  </div>
+                  <div class="opinion__card-content">
+                    <h4 class="opinion__card-name">Константин Малофеев</h4>
+                    <div class="opinion__card-description">Учредитель телеканала &quot;Царьград&quot;</div>
+                    <!--//<a href="/experts/author/436">Все мнения автора</a>//-->
+                  </div>
+                </div>
+                <div class="telega-item__title">Сионистское оккупационное правительство</div>
+                <div class="opinion__body">
+                  <p>Самое важное в файлах Эпштейна – даже не политическая коррупция, не &quot;медовая ловушка&quot;. Самое важное – дух. В переписках фигурантов то и дело встречается откровенно расистский глум над &quot;гоями&quot;. Для этих людей неевреи – не просто &quot;чужие&quot;. Это &quot;недолюди&quot;. Таков фундамент их мировоззрения. Они пошли намного дальше Гитлера, благо технический прогресс позволил.</p>
+                </div>
+              </a>
+
+			            </section>
+
+
+            <!--//	1//-->
+			
+
+            <!--//	1//-->
+
+			            <!--//	1//-->
+			            <div class="news-slider news-slider_aside">
+              <div class="news-slider__container">
+                <ul class="news-slider__list">
+									                  <li class="news-slider__list-item">
+                    <a href="/shows/rubric/itogi-dna-s-deljaginym" class="news-slider__link">
+                      <!--//<div class="news-item__category">
+                        <div class="news-item__category-name">Итоги дна с Делягиным</div>
+                      </div>//-->
+                      <img src="https://img.tsargrad.tv/cache/2/8/1546142297696df1_DD_16x9_1.webp/w508h286fill.webp" alt="" class="news-slider__image">
+                    </a>
+                  </li>
+                    									                  <li class="news-slider__list-item">
+                    <a href="/shows/rubric/bez-cenzury" class="news-slider__link">
+                      <!--//<div class="news-item__category">
+                        <div class="news-item__category-name">Без цензуры</div>
+                      </div>//-->
+                      <img src="https://img.tsargrad.tv/cache/3/1/TSENZURY.jpg/w508h286fill.jpg" alt="" class="news-slider__image">
+                    </a>
+                  </li>
+                    									                  <li class="news-slider__list-item">
+                    <a href="/shows/rubric/svjataja-pravda" class="news-slider__link">
+                      <!--//<div class="news-item__category">
+                        <div class="news-item__category-name">Святая Правда</div>
+                      </div>//-->
+                      <img src="https://img.tsargrad.tv/cache/b/2/2_sp.jpg/w508h286fill.jpg" alt="" class="news-slider__image">
+                    </a>
+                  </li>
+                    									                  <li class="news-slider__list-item">
+                    <a href="/shows/rubric/my-v-kurse" class="news-slider__link">
+                      <!--//<div class="news-item__category">
+                        <div class="news-item__category-name">Мы в курсе</div>
+                      </div>//-->
+                      <img src="https://img.tsargrad.tv/cache/9/7/program_name_-v-kurse.jpg/w508h286fill.jpg" alt="" class="news-slider__image">
+                    </a>
+                  </li>
+                    									                  <li class="news-slider__list-item">
+                    <a href="/shows/rubric/sila-v-pravde-2" class="news-slider__link">
+                      <!--//<div class="news-item__category">
+                        <div class="news-item__category-name">Сила в правде</div>
+                      </div>//-->
+                      <img src="https://img.tsargrad.tv/cache/a/8/Oblozhka.jpg/w508h286fill.jpg" alt="" class="news-slider__image">
+                    </a>
+                  </li>
+                    									                  <li class="news-slider__list-item">
+                    <a href="/shows/rubric/otec-andrej" class="news-slider__link">
+                      <!--//<div class="news-item__category">
+                        <div class="news-item__category-name">Отец Андрей: ответы</div>
+                      </div>//-->
+                      <img src="https://img.tsargrad.tv/cache/b/e/1068357629693c20_Otce-Andrey-Otvety_1.webp/w508h286fill.webp" alt="" class="news-slider__image">
+                    </a>
+                  </li>
+                    									                  <li class="news-slider__list-item">
+                    <a href="/shows/rubric/otdel-rassledovanij" class="news-slider__link">
+                      <!--//<div class="news-item__category">
+                        <div class="news-item__category-name">Отдел расследований</div>
+                      </div>//-->
+                      <img src="https://img.tsargrad.tv/cache/8/1/336151122693c203_Otdel-rassledovaniy_1.webp/w508h286fill.webp" alt="" class="news-slider__image">
+                    </a>
+                  </li>
+                    									                  <li class="news-slider__list-item">
+                    <a href="/shows/rubric/prjamaja-transljacija" class="news-slider__link">
+                      <!--//<div class="news-item__category">
+                        <div class="news-item__category-name">Прямая трансляция</div>
+                      </div>//-->
+                      <img src="https://img.tsargrad.tv/cache/2/d/cover-Stream.jpg/w508h286fill.jpg" alt="" class="news-slider__image">
+                    </a>
+                  </li>
+                    				               </ul>
+              </div>
+            </div>
+
+
+            <!--//	1//-->
+			<!--AdFox START-->
+<!--adv.tsargrad-->
+<!--Площадка: Tsargrad.tv 2022 / * / *-->
+<!--Тип баннера: Media banner-->
+<!--Расположение: Правая колонка desktop-->
+<div id="adfox_166921092229497156"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 258134,
+            containerId: 'adfox_166921092229497156',
+            params: {
+                pp: 'cyar',
+                ps: 'gcrb',
+                p2: 'p'
+            }
+        })
+    })
+</script>
+<div style="height:20px"></div>
+<!--AdFox START-->
+<!--adv.tsargrad-->
+<!--Площадка: Tsargrad.tv 2022 / * / *-->
+<!--Тип баннера: Media banner-->
+<!--Расположение: Правая колонка desktop 2ое место-->
+<div id="adfox_167878420636015120"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 258134,
+            containerId: 'adfox_167878420636015120',
+            params: {
+                pp: 'deqm',
+                ps: 'gcrb',
+                p2: 'p'
+            }
+        })
+    })
+</script>
+<div style="height:20px"></div>
+			<!--//старый блок//-->
+			
+		
+
+					<div id="id-342425-1"></div>
+		
+
+
+			<!--//старый блок//-->
+			
+				             <div class="aside__fly">
+
+                <div class="aside-banner">
+
+
+
+<!-- Yandex.RTB R-A-230529-19 -->
+<div id="yandex_rtb_R-A-230529-19" style="max-height:80vh;margin-top:8px">
+	<div style="height:80vh;"></div>
+</div>
+<script>
+  window.yaContextCb.push(()=>{
+    Ya.Context.AdvManager.render({
+                blockId: "R-A-230529-19",
+                renderTo: "yandex_rtb_R-A-230529-19"
+    })
+  })
+</script>
+                </div>
+            </div>			
+
+
+          </aside>
+
+        </div>
+      </div>
+	    </main>
+
+
+
+    	<footer class="footer footer_hidden">
+      <a href="/" class="footer-toggle js-footer-toggle"></a>
+      <div class="footer__container">
+      	
+      <div class="footer__bottom">
+        <div class="container">
+          <div class="footer__social">
+            <a href="https://vk.com/tsargradtv" class="link-social-vk" target="_blank">
+              <svg>
+                <use xlink:href="#icon-footer-vk"></use>
+              </svg>
+            </a>
+            <a href="https://t.me/+qt3mteY-BkViNDZi" class="link-social-telegram" target="_blank">
+              <svg>
+                <use xlink:href="#icon-footer-telegram"></use>
+              </svg>
+            </a>
+            <a href="http://www.ok.ru/tsargradtv" class="link-social-ok" target="_blank">
+              <svg>
+                <use xlink:href="#icon-footer-ok"></use>
+              </svg>
+            </a>
+            <a href="https://dzen.ru/tsargrad.tv" class="link-social-zen" target="_blank">
+              <svg>
+                <use xlink:href="#icon-footer-dzen"></use>
+              </svg>
+            </a>
+                        <a href="https://music.yandex.ru/album/38934736">
+              <svg>
+                <use xlink:href="#icon-footer-other-1"></use>
+              </svg>
+            </a>
+            <a href="https://vk.com/podcasts-75679763">
+              <svg>
+                <use xlink:href="#icon-footer-other-2"></use>
+              </svg>
+            </a>
+            <a href="https://podcasts.apple.com/ru/podcast/%D1%86%D0%B0%D1%80%D1%8C%D0%B3%D1%80%D0%B0%D0%B4/id1849695780">
+              <svg>
+                <use xlink:href="#icon-footer-other-3"></use>
+              </svg>
+            </a>
+          </div>
+
+          <div class="footer__useful-links">
+            <a href="/contacts">Контакты</a>
+            <a href="/advertisers">Рекламодателям</a>
+            <a href="/about">О телеканале</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer__content">
+        <div class="container">
+          <div class="footer__aside">
+            <img src="/img/logo-tsargrad2.png" alt="Первый русский" class="footer__logo-yellow">
+            <img src="/img/first-russian.png" alt="Первый русский" class="footer__logo-name">
+
+              <address>
+                115093, г. Москва, переулок Партийный, д.1, к.57, стр.3, эт.1, пом.I, ком.45<br>
+                Тел.: <a href="tel:+74953747773">+7 (495) 374-77-73</a><br/>
+                <a href="mailto:info@tsargrad.tv">info@tsargrad.tv</a>
+                <br/>Адрес для пресс-релизов <a href="mailto:press@tsargrad.tv">press@tsargrad.tv</a>
+              </address>
+          </div>
+
+          <div class="footer__description">
+            <p>Средство массовой информации сетевое издание &laquo;Царьград/Tsargrad&raquo; зарегистрировано Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций. Регистрационный номер и дата принятия решения о регистрации СМИ: серия Эл  № ФС77-81359 от 30 июня 2021 г.</p>
+                <p>
+                  Главный редактор &mdash; Токарева Д.И.<br>
+                  Учредитель &mdash; НАО &laquo;Царьград медиа&raquo;<br>
+                  Адрес редакции &mdash; 115093, г. Москва, переулок Партийный, д.1, к.57, стр.3, эт.1, пом.I, ком.45
+                </p>
+                <p>Копирование и использование полных материалов запрещено, частичное цитирование возможно только при условии гиперссылки на сайт tsargrad.tv. Гиперссылка должна размещаться непосредственно в тексте, воспроизводящем оригинальный материал tsargrad.tv. Редакция не несет ответственности за информацию и мнения, высказанные в комментариях читателей и новостных материалах, составленных на основе сообщений читателей.</p>
+                <p>&copy; 2026, все права защищены. НАО &laquo;Царьград медиа&raquo;.</p>
+                 <p>
+                  На информационном ресурсе применяются рекомендательные технологии (информационные технологии предоставления информации на основе сбора, систематизации и анализа сведений, относящихся к предпочтениям пользователей сети "Интернет", находящихся на территории Российской Федерации).<br>
+                  <a href="/privacy_policy_rules.docx" target="_blank" style="color:#8A8A8A">Правила</a>
+                </p>
+                <p>
+                   
+                </p>
+                <p>
+                  <a href="/privacy_policy.docx" style="color:#8A8A8A"  target="_blank">Политика обработки персональных данных</a><!--//<br/>
+                  <a href="/agitation">Прайс-лист на размещение агитационных материалов, 2020 год</a>//-->
+
+                </p>
+          </div>
+        </div>
+      </div>
+
+
+		      </div>
+		
+    </footer>
+
+  </div>
+
+  <button class="page-up js-page-up">наверх</button>
+
+<!--//	  <a href="/news" class="page-close js-page-close show"></a>
+	//-->
+
+	<!--//popup, сейчас в эфире//-->
+    <div class="sticky-bottom">
+    <div class="container sticky-bottom__container">
+      <button type="button" class="sticky-bottom__close">
+        <span onclick="yaCounter27738642.reachGoal('click_close');return true;">Закрыть</span>
+        <svg>
+          <use xlink:href="#icon-close-black"></use>
+        </svg>
+      </button>
+
+      <h4 class="sticky-bottom__title">У вас есть возможность бесплатно отключить рекламу</h4>
+      <div class="sticky-bottom__description">
+        <a href="/user?help" class="btn-dark-small" onclick="yaCounter27738642.reachGoal('click_disable_ads');return true;">Отключить рекламу</a>
+        <p>Ознакомиться с условиями отключения рекламы можно <a href="/user?help">здесь</a></p>
+      </div>
+    </div>
+  </div>
+		
+  <script src="/js/svg.js?s13"></script>
+  <script src="/js/vendor/modernizr-3.11.2.min.js"></script>
+  <script src="/js/vendor/jquery.js"></script>
+  <script src="/js/plugins.js"></script>
+  <script src="/js/main.js?s42f"></script>
+
+			<script src="/js/tsargrad.js?s4"></script>
+	
+	
+<script async src="https://an.yandex.ru/system/widget.js"></script>
+<script>
+    (yaads = window.yaads || []).push({
+        id: "342425-1",
+        render: "#id-342425-1"
+    });
+</script>
+
+
+	
+   <script src="/js/header.js?s2"></script>
+   <script src="/js/fly-news.js?s4"></script>
+   <script src="/js/textError.js"></script>
+	</body>
+
+</html>

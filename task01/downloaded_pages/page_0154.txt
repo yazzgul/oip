@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html lang="ru-RU" xml:lang="ru-RU" >
+<head>
+    <title>Актуальные новости недвижимости Санкт-Петербурга - газета BN.ru</title>
+    <meta name="description" content="Последние новости о новостройках СПб, а также объектах вторичной недвижимости. Свежие обзоры и ситуация со строительством нового жилья в регионе.">
+<link href="/assets/minify/f72c7b7b3cc17bc3b82b650c4202aa81117d1c6b.css?v=1770837189" rel="stylesheet">
+<link href="/assets/minify/c0c732137f41386d9252872a8b5c7b536982aa4f.css?v=1770837189" rel="stylesheet">
+<link href="/assets/minify/7c569d585bbc06bef9696887d4a6ed595e82a9d9.css?v=1770837189" rel="stylesheet">
+<link href="/assets/minify/57e3de2f8d62c84b66354bcad4c0f3fa40c92ea0.css?v=1770837189" rel="stylesheet">
+<link href="/assets/minify/733a27b2f864b626e98d0e460fe0fe79802eb4fa.css?v=1770837189" rel="stylesheet">
+<link href="/assets/minify/acf78ea6361239df2129ccb5519dbd68de5ce413.css?v=1770837189" rel="stylesheet">
+<link href="/assets/minify/d150501355ebf9ad41b53826c1478ec2db408c63.css?v=1770837189" rel="stylesheet">
+<link href="/assets/minify/25e05e0b02a63c011ac01f7a0c8f8900a348037c.css?v=1770837189" rel="stylesheet">
+<link href="/assets/minify/a396b44486fac0ff5221f9404460f8e490936c3b.css?v=1770837189" rel="stylesheet">
+<link href="/assets/minify/37792ec16beab530f80ce3e40a61878dd2bd07e7.css?v=1770837191" rel="stylesheet">
+<link href="/assets/minify/d97a2432659c762a534483d4dd0e1c6193900241.css?v=1770837191" rel="stylesheet">
+<link href="/assets/minify/737d0efc28046e4ba5e9d0b3022f056a8d8adff4.css?v=1770837191" rel="stylesheet">
+<link href="/assets/minify/b892d5e0750a8af766473bd482d985416bd75c2c.css?v=1770837191" rel="stylesheet">
+<link href="/assets/minify/59a92c2c93b1e3fe14786da7a1fd0e1fe461655b.css?v=1770837189" rel="stylesheet">
+<link href="/assets/minify/7b503f67f87d27da2c10d8661ac21e0104300203.css?v=1770837189" rel="stylesheet">
+<script src="/assets/bc3df612/jquery.min.js?v=1770837189"></script>
+<script src="/assets/cb804777/js/popup.202208.js?v=1770837189"></script>    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=0">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/5d37cbd7/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/assets/5d37cbd7/favicon/android-chrome-192x192.png">
+    <link rel="icon" type="image/png" href="/assets/5d37cbd7/favicon/favicon.ico" />
+    <link rel="manifest" href="/assets/5d37cbd7/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#809513">
+    <meta name="msapplication-TileImage" content="/assets/5d37cbd7/favicon/mstile-144x144.png">
+    <meta name="theme-color" content="#666666">
+    <meta name="verify-admitad" content="aeb404cc2d" />
+    <meta name="csrf-param" content="_csrf-frontend">
+<meta name="csrf-token" content="vIKMSxigj82Ke798QB57EQDOQLT8oxJA8tkLZK8peHuI2-4dIOL7oecr5Rh2UwpQQ74Zg4X3fG23rHILl3YgGg==">
+    <link rel="manifest" href="/assets/5d37cbd7/onesignal/manifest.json" />
+    </head>
+<body>
+<div class="wrapper">
+    <div class="page-container">
+        <div class="bn-page__header-top">
+    <div class="bn-page__block bn-page__block-top">
+        <div class="bn-page__block-top-left">
+            <div class="bn-page__block-top-left-container">
+                <a href="/" class="bn-page__logo"></a>
+                <div class="bn-page__city"><a href="#" class="bn-menu-city-toggle">Санкт-Петербург</a></div>
+            </div>
+            <nav class="menu-main bn-menu-main">
+                <a href="/kvartiry-vtorichka/" data-section="kupit">Купить</a>
+                <a href="/arenda-kvartiry/" data-section="snyat">Снять</a>
+                <a href="/kvartiry-novostroiki/" data-section="novostroyki">Новостройки</a>
+                <a href="/kommercheskaya/" data-section="kommercheskaya">Коммерческая</a>
+                <a href="https://prian.ru/" target="_blank" data-section="prian">Зарубежная</a>
+                <a href="/gazeta/" data-section="gazeta">BN Газета</a>
+                <a href="/analytics/" target="_blank" data-section="ocenka">Аналитика</a>
+                <a href="#" data-section="eshe">Ещё</a>
+            </nav>
+        </div>
+        <div class="bn-page__block-top-right">
+            <a href="//lk.bn.ru/" target="_blank" class="bn-page__block-top-href-add">Подать объявление</a>
+            <a href="//lk.bn.ru/" target="_blank" class="bn-page__block-top-href-lk">Войти</a>
+        </div>
+    </div>
+</div>
+<div class="bn-page__header-search-menu-city-container">
+    <div class="bn-page__header-search-menu-city bn-menu-city">
+        <nav>
+            <a href="//moskva.bn.ru/">Москва</a>
+            <a href="//50.bn.ru/">Московская область</a>
+            <a href="//23.bn.ru/krasnodar/">Краснодар</a>
+            <a href="//23.bn.ru/sochi/">Сочи</a>
+            <a href="//66.bn.ru/ekaterinburg/">Екатеринбург</a>
+            <a href="//39.bn.ru/kaliningrad/">Калининград</a>
+            <a href="//52.bn.ru/nnov/">Нижний Новгород</a>
+            <a href="//36.bn.ru/voronezh/">Воронеж</a>
+            <a href="//63.bn.ru/samara/">Самара</a>
+            <a href="//61.bn.ru/rostov/">Ростов-на-Дону</a>
+            <a href="//bn.ru/portal">Все регионы</a>
+        </nav>
+    </div>
+</div>
+<div class="bn-page__header-search-menu-sub">
+    <div class="bn-page__menu-sub bn-menu-main-sub" data-section="kupit">
+        <div class="bn-page__menu-sub-column-container">
+            <div class="bn-page__menu-sub-column">
+                <div><a href="/kvartiry-vtorichka/">Квартиру на вторичке</a></div>
+                <div><a href="/kvartiry-novostroiki/">Квартиру в новостройке</a></div>
+            </div>
+            <div class="bn-page__menu-sub-column">
+                <div><a href="/komnaty-vtorichka/">Комнату</a></div>
+                <div><a href="/zagorodnaya/">Дома и участки</a></div>
+            </div>
+            <div class="bn-page__menu-sub-column">
+                <div><a href="/kommercheskaya/">Коммерческую недвижимость</a></div>
+                <div><a href="/apartamenty/">Апартаменты</a></div>
+            </div>
+        </div>
+    </div>
+    <div class="bn-page__menu-sub bn-menu-main-sub" data-section="snyat">
+        <div class="bn-page__menu-sub-column-container">
+            <div class="bn-page__menu-sub-column">
+                <div><a href="/arenda-kvartiry/">Квартиру</a></div>
+                <div><a href="/arenda-komnaty/">Комнату</a></div>
+            </div>
+            <div class="bn-page__menu-sub-column">
+                <div><a href="/arenda-zagorodnaya/">Дом или коттедж</a></div>
+                <div><a href="/arenda-kommercheskaya/">Коммерческую недвижимость</a></div>
+            </div>
+        </div>
+    </div>
+    <div class="bn-page__menu-sub bn-menu-main-sub" data-section="novostroyki">
+        <div class="bn-page__menu-sub-column-container">
+            <div class="bn-page__menu-sub-column">
+                <div><a href="/kvartiry-novostroiki/">Квартиры в новостройках</a></div>
+                <div><a href="/novostroyki-zhk/">Каталог ЖК</a></div>
+            </div>
+            <div class="bn-page__menu-sub-column">
+                <div><a href="/sales/">Акции и скидки</a></div>
+            </div>
+        </div>
+    </div>
+    <div class="bn-page__menu-sub bn-menu-main-sub" data-section="kommercheskaya">
+        <div class="bn-page__menu-sub-column-container">
+            <div class="bn-page__menu-sub-column">
+                <div><a href="/ofisy/">Купить офис</a></div>
+                <div><a href="/arenda-ofisa/">Снять офис</a></div>
+            </div>
+            <div class="bn-page__menu-sub-column">
+                <div><a href="/torgovye-pomeshcheniya/">Купить торговую площадь</a></div>
+                <div><a href="/arenda-torgovyh-pomeshcheniy/">Снять торговую площадь</a></div>
+            </div>
+            <div class="bn-page__menu-sub-column">
+                <div><a href="/kommercheskaya-zemlya/">Купить коммерческую землю</a></div>
+                <div><a href="/arenda-zemelnogo-uchastka/">Снять коммерческую землю</a></div>
+            </div>
+        </div>
+    </div>
+    <div class="bn-page__menu-sub bn-menu-main-sub" data-section="gazeta">
+        <div class="bn-page__menu-sub-column-container">
+            <div class="bn-page__menu-sub-column">
+                <div><a href="/gazeta/news/">Новости</a></div>
+                <div><a href="/gazeta/articles/">Статьи</a></div>
+            </div>
+            <div class="bn-page__menu-sub-column">
+                <div><a href="/gazeta/">Главное сегодня</a></div>
+                <div><a href="/gazeta/market/">Рынок жилья</a></div>
+            </div>
+            <div class="bn-page__menu-sub-column">
+                <div><a href="/gazeta/leaders/">Лидеры мнений</a></div>
+                <div><a href="/gazeta/mortgage/">Ипотека и финансы</a></div>
+            </div>
+            <div class="bn-page__menu-sub-column">
+                <div><a href="/gazeta/country/">Загородная недвижимость</a></div>
+                <div><a href="/gazeta/business-property/">Инвестиции в недвижимость</a></div>
+            </div>
+            <div class="bn-page__menu-sub-column">
+                <div><a href="/gazeta/press-release/">Пресс-релизы</a></div>
+                <div><a href="/gazeta/city/">Среда обитания</a></div>
+            </div>
+            <div class="bn-page__menu-sub-column">
+                <div><a href="/gazeta/story/">Сюжеты</a></div>
+                <div><a href="/gazeta/video/">Видео</a></div>
+            </div>
+        </div>
+    </div>
+    <div class="bn-page__menu-sub bn-menu-main-sub" data-section="eshe">
+        <div class="bn-page__menu-sub-column-container">
+            <div class="bn-page__menu-sub-column">
+                <div><a href="/calendar/">Мероприятия</a></div>
+                <div><a href="/wiki/">База знаний</a></div>
+            </div>
+            <div class="bn-page__menu-sub-column">
+                <div><a href="/partners/">Партнеры</a></div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- Index second page -->
+    <div class="page--index-new" id="page--index">
+    <div class="search-on-secondary__container"><!--noindex-->
+<div class="search-on-main__container" id="bn-form-search-main" data-type="desktop"></div>
+<form id="filter" action="/kvartiry-vtorichka/" method="get"><div class="popup-box-new">
+    <div class="popup-bg"></div>
+    <div class="popup-wraper district" data-buttonclassopen=".district">
+        <div class="popup-close"></div>
+        <div class="popup-head">
+            <div class="popup-head--item">
+                <div class="name">Центр</div>
+                <div class="obl">Санкт-Петербург</div>
+            </div>
+            <div class="popup-head--item">
+                <div class="name">Без центра</div>
+                <div class="obl">Санкт-Петербург</div>
+            </div>
+            <div class="popup-head--item">
+                <div class="name">Пригороды</div>
+                <div class="obl">Санкт-Петербург</div>
+            </div>
+            <div class="popup-head--item">
+                <div class="name">Отдаленные районы</div>
+                <div class="obl">Ленинградская область</div>
+            </div>
+        </div>
+        <div class="popup-scroll">
+            <div class="popup-content">
+                                                    <div class="popup-content--item">
+                        <div class="select-all">Выбрать все</div>
+                        <div class="checkboxes" data-house-type="brick_type">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+                            
+<div id="searchformonmain-district"><div class="checkbox"><input type="checkbox" name="district[]" value="1" id="SearchFormOnMain[district][]1" ><label for="SearchFormOnMain[district][]1"><span class="check"></span><span class="name">Адмиралтейский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="2" id="SearchFormOnMain[district][]2" ><label for="SearchFormOnMain[district][]2"><span class="check"></span><span class="name">Василеостровский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="10" id="SearchFormOnMain[district][]10" ><label for="SearchFormOnMain[district][]10"><span class="check"></span><span class="name">Петроградский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="13" id="SearchFormOnMain[district][]13" ><label for="SearchFormOnMain[district][]13"><span class="check"></span><span class="name">Центральный</span></label></div></div>
+                        </div>
+                    </div>
+                                    <div class="popup-content--item">
+                        <div class="select-all">Выбрать все</div>
+                        <div class="checkboxes" data-house-type="brick_type">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                            
+<div id="searchformonmain-district"><div class="checkbox"><input type="checkbox" name="district[]" value="3" id="SearchFormOnMain[district][]3" ><label for="SearchFormOnMain[district][]3"><span class="check"></span><span class="name">Выборгский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="4" id="SearchFormOnMain[district][]4" ><label for="SearchFormOnMain[district][]4"><span class="check"></span><span class="name">Кировский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="5" id="SearchFormOnMain[district][]5" ><label for="SearchFormOnMain[district][]5"><span class="check"></span><span class="name">Калининский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="6" id="SearchFormOnMain[district][]6" ><label for="SearchFormOnMain[district][]6"><span class="check"></span><span class="name">Красногвардейский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="7" id="SearchFormOnMain[district][]7" ><label for="SearchFormOnMain[district][]7"><span class="check"></span><span class="name">Красносельский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="8" id="SearchFormOnMain[district][]8" ><label for="SearchFormOnMain[district][]8"><span class="check"></span><span class="name">Московский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="9" id="SearchFormOnMain[district][]9" ><label for="SearchFormOnMain[district][]9"><span class="check"></span><span class="name">Невский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="11" id="SearchFormOnMain[district][]11" ><label for="SearchFormOnMain[district][]11"><span class="check"></span><span class="name">Приморский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="12" id="SearchFormOnMain[district][]12" ><label for="SearchFormOnMain[district][]12"><span class="check"></span><span class="name">Фрунзенский</span></label></div></div>
+                        </div>
+                    </div>
+                                    <div class="popup-content--item">
+                        <div class="select-all">Выбрать все</div>
+                        <div class="checkboxes" data-house-type="brick_type">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                            
+<div id="searchformonmain-district"><div class="checkbox"><input type="checkbox" name="district[]" value="15" id="SearchFormOnMain[district][]15" ><label for="SearchFormOnMain[district][]15"><span class="check"></span><span class="name">Кронштадтский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="16" id="SearchFormOnMain[district][]16" ><label for="SearchFormOnMain[district][]16"><span class="check"></span><span class="name">Колпинский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="17" id="SearchFormOnMain[district][]17" ><label for="SearchFormOnMain[district][]17"><span class="check"></span><span class="name">Курортный</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="19" id="SearchFormOnMain[district][]19" ><label for="SearchFormOnMain[district][]19"><span class="check"></span><span class="name">Петродворцовый</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="20" id="SearchFormOnMain[district][]20" ><label for="SearchFormOnMain[district][]20"><span class="check"></span><span class="name">Пушкинский</span></label></div></div>
+                        </div>
+                    </div>
+                                    <div class="popup-content--item">
+                        <div class="select-all">Выбрать все</div>
+                        <div class="checkboxes" data-house-type="brick_type">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                            
+<div id="searchformonmain-district"><div class="checkbox"><input type="checkbox" name="district[]" value="21" id="SearchFormOnMain[district][]21" ><label for="SearchFormOnMain[district][]21"><span class="check"></span><span class="name">Бокситогорский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="22" id="SearchFormOnMain[district][]22" ><label for="SearchFormOnMain[district][]22"><span class="check"></span><span class="name">Волосовский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="23" id="SearchFormOnMain[district][]23" ><label for="SearchFormOnMain[district][]23"><span class="check"></span><span class="name">Волховский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="24" id="SearchFormOnMain[district][]24" ><label for="SearchFormOnMain[district][]24"><span class="check"></span><span class="name">Всеволожский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="25" id="SearchFormOnMain[district][]25" ><label for="SearchFormOnMain[district][]25"><span class="check"></span><span class="name">Выборгский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="26" id="SearchFormOnMain[district][]26" ><label for="SearchFormOnMain[district][]26"><span class="check"></span><span class="name">Гатчинский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="27" id="SearchFormOnMain[district][]27" ><label for="SearchFormOnMain[district][]27"><span class="check"></span><span class="name">Кингисеппский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="28" id="SearchFormOnMain[district][]28" ><label for="SearchFormOnMain[district][]28"><span class="check"></span><span class="name">Киришский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="29" id="SearchFormOnMain[district][]29" ><label for="SearchFormOnMain[district][]29"><span class="check"></span><span class="name">Кировский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="30" id="SearchFormOnMain[district][]30" ><label for="SearchFormOnMain[district][]30"><span class="check"></span><span class="name">Лодейнопольский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="31" id="SearchFormOnMain[district][]31" ><label for="SearchFormOnMain[district][]31"><span class="check"></span><span class="name">Ломоносовский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="32" id="SearchFormOnMain[district][]32" ><label for="SearchFormOnMain[district][]32"><span class="check"></span><span class="name">Лужский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="33" id="SearchFormOnMain[district][]33" ><label for="SearchFormOnMain[district][]33"><span class="check"></span><span class="name">Подпорожский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="34" id="SearchFormOnMain[district][]34" ><label for="SearchFormOnMain[district][]34"><span class="check"></span><span class="name">Приозерский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="35" id="SearchFormOnMain[district][]35" ><label for="SearchFormOnMain[district][]35"><span class="check"></span><span class="name">Сланцевский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="36" id="SearchFormOnMain[district][]36" ><label for="SearchFormOnMain[district][]36"><span class="check"></span><span class="name">Тихвинский</span></label></div>
+<div class="checkbox"><input type="checkbox" name="district[]" value="37" id="SearchFormOnMain[district][]37" ><label for="SearchFormOnMain[district][]37"><span class="check"></span><span class="name">Тосненский</span></label></div></div>
+                        </div>
+                    </div>
+                            </div>
+        </div>
+        <div class="popup-button--save">
+            <div data-field="district" class="btn popup-button--select">Применить</div>
+            <a href="#" data-field="district" class="popup-button--clear">Очистить</a>
+        </div>
+    </div>
+    <div class="popup-wraper metro" data-buttonclassopen=".metro">
+        <div class="popup-close"></div>
+        <div class="popup-head">
+            <div class="popup-head--item flex">
+                <div class="icon-metro line-1"></div>
+                <div class="name">Линия 1</div>
+            </div>
+            <div class="popup-head--item flex">
+                <div class="icon-metro line-2"></div>
+                <div class="name">Линия 2</div>
+            </div>
+            <div class="popup-head--item flex">
+                <div class="icon-metro line-3"></div>
+                <div class="name">Линия 3</div>
+            </div>
+            <div class="popup-head--item flex">
+                <div class="icon-metro line-4"></div>
+                <div class="name">Линия 4</div>
+            </div>
+            <div class="popup-head--item flex">
+                <div class="icon-metro line-5"></div>
+                <div class="name">Линия 5</div>
+            </div>
+        </div>
+        <div class="popup-scroll">
+            <div class="popup-content">
+                                                    <div class="popup-content--item line-1">
+                        <div class="select-all">Выбрать все</div>
+                        <div class="checkboxes" data-house-type="brick_type">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+<div id="searchformonmain-metro"><div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="620" id="SearchFormOnMain[metro][]620" ><label for="SearchFormOnMain[metro][]620"><span class="check"></span><span class="name">Девяткино</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="610" id="SearchFormOnMain[metro][]610" ><label for="SearchFormOnMain[metro][]610"><span class="check"></span><span class="name">Гражданский  проспект</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="510" id="SearchFormOnMain[metro][]510" ><label for="SearchFormOnMain[metro][]510"><span class="check"></span><span class="name">Академическая</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="870" id="SearchFormOnMain[metro][]870" ><label for="SearchFormOnMain[metro][]870"><span class="check"></span><span class="name">Политехническая</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="780" id="SearchFormOnMain[metro][]780" ><label for="SearchFormOnMain[metro][]780"><span class="check"></span><span class="name">Площадь Мужества</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="720" id="SearchFormOnMain[metro][]720" ><label for="SearchFormOnMain[metro][]720"><span class="check"></span><span class="name">Лесная</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="580" id="SearchFormOnMain[metro][]580" ><label for="SearchFormOnMain[metro][]580"><span class="check"></span><span class="name">Выборгская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="700" id="SearchFormOnMain[metro][]700" ><label for="SearchFormOnMain[metro][]700"><span class="check"></span><span class="name">Площадь Ленина</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="1010" id="SearchFormOnMain[metro][]1010" ><label for="SearchFormOnMain[metro][]1010"><span class="check"></span><span class="name">Чернышевская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="570" id="SearchFormOnMain[metro][]570" ><label for="SearchFormOnMain[metro][]570"><span class="check"></span><span class="name">Площадь Восстания</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="560" id="SearchFormOnMain[metro][]560" ><label for="SearchFormOnMain[metro][]560"><span class="check"></span><span class="name">Владимирская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="910" id="SearchFormOnMain[metro][]910" ><label for="SearchFormOnMain[metro][]910"><span class="check"></span><span class="name">Пушкинская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="520" id="SearchFormOnMain[metro][]520" ><label for="SearchFormOnMain[metro][]520"><span class="check"></span><span class="name">Балтийская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="790" id="SearchFormOnMain[metro][]790" ><label for="SearchFormOnMain[metro][]790"><span class="check"></span><span class="name">Нарвская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="670" id="SearchFormOnMain[metro][]670" ><label for="SearchFormOnMain[metro][]670"><span class="check"></span><span class="name">Кировский завод</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="500" id="SearchFormOnMain[metro][]500" ><label for="SearchFormOnMain[metro][]500"><span class="check"></span><span class="name">Автово</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="710" id="SearchFormOnMain[metro][]710" ><label for="SearchFormOnMain[metro][]710"><span class="check"></span><span class="name">Ленинский  проспект</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="550" id="SearchFormOnMain[metro][]550" ><label for="SearchFormOnMain[metro][]550"><span class="check"></span><span class="name">Проспект Ветеранов</span></label></div></div>
+                        </div>
+                    </div>
+                                    <div class="popup-content--item line-2">
+                        <div class="select-all">Выбрать все</div>
+                        <div class="checkboxes" data-house-type="brick_type">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+<div id="searchformonmain-metro"><div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="1140" id="SearchFormOnMain[metro][]1140" ><label for="SearchFormOnMain[metro][]1140"><span class="check"></span><span class="name">Парнас</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="900" id="SearchFormOnMain[metro][]900" ><label for="SearchFormOnMain[metro][]900"><span class="check"></span><span class="name">Проспект Просвещения</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="830" id="SearchFormOnMain[metro][]830" ><label for="SearchFormOnMain[metro][]830"><span class="check"></span><span class="name">Озерки</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="980" id="SearchFormOnMain[metro][]980" ><label for="SearchFormOnMain[metro][]980"><span class="check"></span><span class="name">Удельная</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="860" id="SearchFormOnMain[metro][]860" ><label for="SearchFormOnMain[metro][]860"><span class="check"></span><span class="name">Пионерская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="1000" id="SearchFormOnMain[metro][]1000" ><label for="SearchFormOnMain[metro][]1000"><span class="check"></span><span class="name">Черная речка</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="850" id="SearchFormOnMain[metro][]850" ><label for="SearchFormOnMain[metro][]850"><span class="check"></span><span class="name">Петроградская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="590" id="SearchFormOnMain[metro][]590" ><label for="SearchFormOnMain[metro][]590"><span class="check"></span><span class="name">Горьковская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="800" id="SearchFormOnMain[metro][]800" ><label for="SearchFormOnMain[metro][]800"><span class="check"></span><span class="name">Невский проспект</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="940" id="SearchFormOnMain[metro][]940" ><label for="SearchFormOnMain[metro][]940"><span class="check"></span><span class="name">Сенная площадь</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="970" id="SearchFormOnMain[metro][]970" ><label for="SearchFormOnMain[metro][]970"><span class="check"></span><span class="name">Технологический институт</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="990" id="SearchFormOnMain[metro][]990" ><label for="SearchFormOnMain[metro][]990"><span class="check"></span><span class="name">Фрунзенская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="770" id="SearchFormOnMain[metro][]770" ><label for="SearchFormOnMain[metro][]770"><span class="check"></span><span class="name">Московские ворота</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="1030" id="SearchFormOnMain[metro][]1030" ><label for="SearchFormOnMain[metro][]1030"><span class="check"></span><span class="name">Электросила</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="840" id="SearchFormOnMain[metro][]840" ><label for="SearchFormOnMain[metro][]840"><span class="check"></span><span class="name">Парк Победы</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="760" id="SearchFormOnMain[metro][]760" ><label for="SearchFormOnMain[metro][]760"><span class="check"></span><span class="name">Московская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="660" id="SearchFormOnMain[metro][]660" ><label for="SearchFormOnMain[metro][]660"><span class="check"></span><span class="name">Звездная</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="680" id="SearchFormOnMain[metro][]680" ><label for="SearchFormOnMain[metro][]680"><span class="check"></span><span class="name">Купчино</span></label></div></div>
+                        </div>
+                    </div>
+                                    <div class="popup-content--item line-3">
+                        <div class="select-all">Выбрать все</div>
+                        <div class="checkboxes" data-house-type="brick_type">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+<div id="searchformonmain-metro"><div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="1230" id="SearchFormOnMain[metro][]1230" ><label for="SearchFormOnMain[metro][]1230"><span class="check"></span><span class="name">Беговая</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="1220" id="SearchFormOnMain[metro][]1220" ><label for="SearchFormOnMain[metro][]1220"><span class="check"></span><span class="name">Зенит</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="880" id="SearchFormOnMain[metro][]880" ><label for="SearchFormOnMain[metro][]880"><span class="check"></span><span class="name">Приморская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="540" id="SearchFormOnMain[metro][]540" ><label for="SearchFormOnMain[metro][]540"><span class="check"></span><span class="name">Василеостровская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="600" id="SearchFormOnMain[metro][]600" ><label for="SearchFormOnMain[metro][]600"><span class="check"></span><span class="name">Гостиный Двор</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="750" id="SearchFormOnMain[metro][]750" ><label for="SearchFormOnMain[metro][]750"><span class="check"></span><span class="name">Маяковская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="490" id="SearchFormOnMain[metro][]490" ><label for="SearchFormOnMain[metro][]490"><span class="check"></span><span class="name">Площадь Александра Невского</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="650" id="SearchFormOnMain[metro][]650" ><label for="SearchFormOnMain[metro][]650"><span class="check"></span><span class="name">Елизаровская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="740" id="SearchFormOnMain[metro][]740" ><label for="SearchFormOnMain[metro][]740"><span class="check"></span><span class="name">Ломоносовская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="890" id="SearchFormOnMain[metro][]890" ><label for="SearchFormOnMain[metro][]890"><span class="check"></span><span class="name">Пролетарская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="820" id="SearchFormOnMain[metro][]820" ><label for="SearchFormOnMain[metro][]820"><span class="check"></span><span class="name">Обухово</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="920" id="SearchFormOnMain[metro][]920" ><label for="SearchFormOnMain[metro][]920"><span class="check"></span><span class="name">Рыбацкое</span></label></div></div>
+                        </div>
+                    </div>
+                                    <div class="popup-content--item line-4">
+                        <div class="select-all">Выбрать все</div>
+                        <div class="checkboxes" data-house-type="brick_type">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+<div id="searchformonmain-metro"><div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="1270" id="SearchFormOnMain[metro][]1270" ><label for="SearchFormOnMain[metro][]1270"><span class="check"></span><span class="name">Горный институт</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="1170" id="SearchFormOnMain[metro][]1170" ><label for="SearchFormOnMain[metro][]1170"><span class="check"></span><span class="name">Спасская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="630" id="SearchFormOnMain[metro][]630" ><label for="SearchFormOnMain[metro][]630"><span class="check"></span><span class="name">Достоевская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="730" id="SearchFormOnMain[metro][]730" ><label for="SearchFormOnMain[metro][]730"><span class="check"></span><span class="name">Лиговский  проспект</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="810" id="SearchFormOnMain[metro][]810" ><label for="SearchFormOnMain[metro][]810"><span class="check"></span><span class="name">Новочеркасская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="690" id="SearchFormOnMain[metro][]690" ><label for="SearchFormOnMain[metro][]690"><span class="check"></span><span class="name">Ладожская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="530" id="SearchFormOnMain[metro][]530" ><label for="SearchFormOnMain[metro][]530"><span class="check"></span><span class="name">Проспект Большевиков</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="640" id="SearchFormOnMain[metro][]640" ><label for="SearchFormOnMain[metro][]640"><span class="check"></span><span class="name">Улица Дыбенко</span></label></div></div>
+                        </div>
+                    </div>
+                                    <div class="popup-content--item line-5">
+                        <div class="select-all">Выбрать все</div>
+                        <div class="checkboxes" data-house-type="brick_type">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+<div id="searchformonmain-metro"><div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="1120" id="SearchFormOnMain[metro][]1120" ><label for="SearchFormOnMain[metro][]1120"><span class="check"></span><span class="name">Комендантский  проспект</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="960" id="SearchFormOnMain[metro][]960" ><label for="SearchFormOnMain[metro][]960"><span class="check"></span><span class="name">Старая Деревня</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="1110" id="SearchFormOnMain[metro][]1110" ><label for="SearchFormOnMain[metro][]1110"><span class="check"></span><span class="name">Крестовский остров</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="1020" id="SearchFormOnMain[metro][]1020" ><label for="SearchFormOnMain[metro][]1020"><span class="check"></span><span class="name">Чкаловская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="950" id="SearchFormOnMain[metro][]950" ><label for="SearchFormOnMain[metro][]950"><span class="check"></span><span class="name">Спортивная</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="1190" id="SearchFormOnMain[metro][]1190" ><label for="SearchFormOnMain[metro][]1190"><span class="check"></span><span class="name">Адмиралтейская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="930" id="SearchFormOnMain[metro][]930" ><label for="SearchFormOnMain[metro][]930"><span class="check"></span><span class="name">Садовая</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="1160" id="SearchFormOnMain[metro][]1160" ><label for="SearchFormOnMain[metro][]1160"><span class="check"></span><span class="name">Звенигородская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="1180" id="SearchFormOnMain[metro][]1180" ><label for="SearchFormOnMain[metro][]1180"><span class="check"></span><span class="name">Обводный канал</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="1150" id="SearchFormOnMain[metro][]1150" ><label for="SearchFormOnMain[metro][]1150"><span class="check"></span><span class="name">Волковская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="1210" id="SearchFormOnMain[metro][]1210" ><label for="SearchFormOnMain[metro][]1210"><span class="check"></span><span class="name">Бухарестская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="1200" id="SearchFormOnMain[metro][]1200" ><label for="SearchFormOnMain[metro][]1200"><span class="check"></span><span class="name">Международная</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="1240" id="SearchFormOnMain[metro][]1240" ><label for="SearchFormOnMain[metro][]1240"><span class="check"></span><span class="name">Проспект Славы</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="1250" id="SearchFormOnMain[metro][]1250" ><label for="SearchFormOnMain[metro][]1250"><span class="check"></span><span class="name">Дунайская</span></label></div>
+<div class="checkbox"><input type="checkbox" name="SearchFormOnMain[metro][]" value="1260" id="SearchFormOnMain[metro][]1260" ><label for="SearchFormOnMain[metro][]1260"><span class="check"></span><span class="name">Шушары</span></label></div></div>
+                        </div>
+                    </div>
+                            </div>
+        </div>
+        <div class="popup-button--save">
+            <div data-field="metro" class="btn popup-button--select">Применить</div>
+            <a href="#" data-field="metro" class="popup-button--clear">Очистить</a>
+        </div>
+    </div>
+    <div class="popup-wraper type_id" data-buttonclassopen=".type_id">
+        <div class="popup-close"></div>
+        <div class="popup-head">
+            <div class="popup-head--item">
+                <div class="name">Помещение</div>
+                <div class="obl"></div>
+            </div>
+            <div class="popup-head--item">
+                <div class="name">Здание</div>
+                <div class="obl"></div>
+            </div>
+            <div class="popup-head--item">
+                <div class="name">Земля</div>
+                <div class="obl"></div>
+            </div>
+        </div>
+        <div class="popup-scroll">
+            <div class="popup-content">
+
+                <!-- помещение -->
+                <div class="popup-content--item popup-content--item-type_id">
+                    <div class="select-all">Выбрать все</div>
+                    <div class="checkboxes">
+                        
+<div id="searchformonmain-type_id"><div class='checkbox'><input type='checkbox' name='SearchFormOnMain[type_id][]' value='2' id='SearchFormOnMain[type_id][]2'  data-label='офис' /><label for='SearchFormOnMain[type_id][]2'><span class='check'></span><span class='SearchFormOnMain[type_id][]' data-type='type_id' data-value='2'>офис</span></label></div>
+<div class='checkbox'><input type='checkbox' name='SearchFormOnMain[type_id][]' value='4' id='SearchFormOnMain[type_id][]4'  data-label='торговля' /><label for='SearchFormOnMain[type_id][]4'><span class='check'></span><span class='SearchFormOnMain[type_id][]' data-type='type_id' data-value='4'>торговля</span></label></div>
+<div class='checkbox'><input type='checkbox' name='SearchFormOnMain[type_id][]' value='5' id='SearchFormOnMain[type_id][]5'  data-label='разное' /><label for='SearchFormOnMain[type_id][]5'><span class='check'></span><span class='SearchFormOnMain[type_id][]' data-type='type_id' data-value='5'>разное</span></label></div>
+<div class='checkbox'><input type='checkbox' name='SearchFormOnMain[type_id][]' value='34' id='SearchFormOnMain[type_id][]34'  data-label='сфера услуг' /><label for='SearchFormOnMain[type_id][]34'><span class='check'></span><span class='SearchFormOnMain[type_id][]' data-type='type_id' data-value='34'>сфера услуг</span></label></div>
+<div class='checkbox'><input type='checkbox' name='SearchFormOnMain[type_id][]' value='37' id='SearchFormOnMain[type_id][]37'  data-label='строящееся помещение' /><label for='SearchFormOnMain[type_id][]37'><span class='check'></span><span class='SearchFormOnMain[type_id][]' data-type='type_id' data-value='37'>строящееся помещение</span></label></div></div>
+                    </div>
+                </div>
+
+                <!-- здание -->
+                <div class="popup-content--item popup-content--item-type_id">
+                    <div class="select-all">Выбрать все</div>
+                    <div class="checkboxes">
+                        
+<div id="searchformonmain-type_id"><div class='checkbox'><input type='checkbox' name='SearchFormOnMain[type_id][]' value='3' id='SearchFormOnMain[type_id][]3'  data-label='производство' /><label for='SearchFormOnMain[type_id][]3'><span class='check'></span><span class='SearchFormOnMain[type_id][]' data-type='type_id' data-value='3'>производство</span></label></div>
+<div class='checkbox'><input type='checkbox' name='SearchFormOnMain[type_id][]' value='6' id='SearchFormOnMain[type_id][]6'  data-label='здание' /><label for='SearchFormOnMain[type_id][]6'><span class='check'></span><span class='SearchFormOnMain[type_id][]' data-type='type_id' data-value='6'>здание</span></label></div></div>
+                    </div>
+                </div>
+
+                <!-- здание -->
+                <div class="popup-content--item popup-content--item-type_id">
+                    <div class="select-all">Выбрать все</div>
+                    <div class="checkboxes">
+                        
+<div id="searchformonmain-igs"><div class='checkbox'><input type='checkbox' name='SearchFormOnMain[igs][]' value='6' id='SearchFormOnMain[igs][]6'  data-label='Дачное некоммерческое партнерство' /><label for='SearchFormOnMain[igs][]6'><span class='check'></span><span class='SearchFormOnMain[igs][]' data-type='igs' data-value='6'>Дачное некоммерческое партнерство</span></label></div>
+<div class='checkbox'><input type='checkbox' name='SearchFormOnMain[igs][]' value='11' id='SearchFormOnMain[igs][]11'  data-label='Земли в долгосрочной аренде' /><label for='SearchFormOnMain[igs][]11'><span class='check'></span><span class='SearchFormOnMain[igs][]' data-type='igs' data-value='11'>Земли в долгосрочной аренде</span></label></div>
+<div class='checkbox'><input type='checkbox' name='SearchFormOnMain[igs][]' value='9' id='SearchFormOnMain[igs][]9'  data-label='Земли водного фонда' /><label for='SearchFormOnMain[igs][]9'><span class='check'></span><span class='SearchFormOnMain[igs][]' data-type='igs' data-value='9'>Земли водного фонда</span></label></div>
+<div class='checkbox'><input type='checkbox' name='SearchFormOnMain[igs][]' value='10' id='SearchFormOnMain[igs][]10'  data-label='Земли лесного фонда' /><label for='SearchFormOnMain[igs][]10'><span class='check'></span><span class='SearchFormOnMain[igs][]' data-type='igs' data-value='10'>Земли лесного фонда</span></label></div>
+<div class='checkbox'><input type='checkbox' name='SearchFormOnMain[igs][]' value='12' id='SearchFormOnMain[igs][]12'  data-label='Земли населенных пунктов' /><label for='SearchFormOnMain[igs][]12'><span class='check'></span><span class='SearchFormOnMain[igs][]' data-type='igs' data-value='12'>Земли населенных пунктов</span></label></div>
+<div class='checkbox'><input type='checkbox' name='SearchFormOnMain[igs][]' value='13' id='SearchFormOnMain[igs][]13'  data-label='Земли особоохраняемые' /><label for='SearchFormOnMain[igs][]13'><span class='check'></span><span class='SearchFormOnMain[igs][]' data-type='igs' data-value='13'>Земли особоохраняемые</span></label></div>
+<div class='checkbox'><input type='checkbox' name='SearchFormOnMain[igs][]' value='14' id='SearchFormOnMain[igs][]14'  data-label='Земли промышленные' /><label for='SearchFormOnMain[igs][]14'><span class='check'></span><span class='SearchFormOnMain[igs][]' data-type='igs' data-value='14'>Земли промышленные</span></label></div>
+<div class='checkbox'><input type='checkbox' name='SearchFormOnMain[igs][]' value='8' id='SearchFormOnMain[igs][]8'  data-label='Земли С/Х назначения' /><label for='SearchFormOnMain[igs][]8'><span class='check'></span><span class='SearchFormOnMain[igs][]' data-type='igs' data-value='8'>Земли С/Х назначения</span></label></div>
+<div class='checkbox'><input type='checkbox' name='SearchFormOnMain[igs][]' value='1' id='SearchFormOnMain[igs][]1'  data-label='Индивидуальное жилищное строительство' /><label for='SearchFormOnMain[igs][]1'><span class='check'></span><span class='SearchFormOnMain[igs][]' data-type='igs' data-value='1'>Индивидуальное жилищное строительство</span></label></div>
+<div class='checkbox'><input type='checkbox' name='SearchFormOnMain[igs][]' value='3' id='SearchFormOnMain[igs][]3'  data-label='Личное подсобное хозяйство' /><label for='SearchFormOnMain[igs][]3'><span class='check'></span><span class='SearchFormOnMain[igs][]' data-type='igs' data-value='3'>Личное подсобное хозяйство</span></label></div>
+<div class='checkbox'><input type='checkbox' name='SearchFormOnMain[igs][]' value='15' id='SearchFormOnMain[igs][]15'  data-label='Рекреационная зона' /><label for='SearchFormOnMain[igs][]15'><span class='check'></span><span class='SearchFormOnMain[igs][]' data-type='igs' data-value='15'>Рекреационная зона</span></label></div>
+<div class='checkbox'><input type='checkbox' name='SearchFormOnMain[igs][]' value='2' id='SearchFormOnMain[igs][]2'  data-label='Садоводство' /><label for='SearchFormOnMain[igs][]2'><span class='check'></span><span class='SearchFormOnMain[igs][]' data-type='igs' data-value='2'>Садоводство</span></label></div>
+<div class='checkbox'><input type='checkbox' name='SearchFormOnMain[igs][]' value='7' id='SearchFormOnMain[igs][]7'  data-label='Садоводческое некоммерческое партнерство' /><label for='SearchFormOnMain[igs][]7'><span class='check'></span><span class='SearchFormOnMain[igs][]' data-type='igs' data-value='7'>Садоводческое некоммерческое партнерство</span></label></div>
+<div class='checkbox'><input type='checkbox' name='SearchFormOnMain[igs][]' value='5' id='SearchFormOnMain[igs][]5'  data-label='Садоводческое некоммерческое товарищество' /><label for='SearchFormOnMain[igs][]5'><span class='check'></span><span class='SearchFormOnMain[igs][]' data-type='igs' data-value='5'>Садоводческое некоммерческое товарищество</span></label></div>
+<div class='checkbox'><input type='checkbox' name='SearchFormOnMain[igs][]' value='4' id='SearchFormOnMain[igs][]4'  data-label='Фермерское хозяйство' /><label for='SearchFormOnMain[igs][]4'><span class='check'></span><span class='SearchFormOnMain[igs][]' data-type='igs' data-value='4'>Фермерское хозяйство</span></label></div></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="popup-button--save">
+            <div data-field="type_id" class="btn popup-button--select">Применить</div>
+            <a href="#" data-field="type_id" class="popup-button--clear">Очистить</a>
+        </div>
+    </div>
+</div>
+</form><!--/noindex--></div>
+
+        <div class="page--index-new_main">
+            <div class="container">
+                <div class="container container--h1 new_breadcrumbs_block">
+                    <div class="page--index-new_breadcrumbs">
+                                                    <a href="/">Недвижимость Санкт-Петербурга</a> <span class="page--index-new_breadcrumbs--separator"> > </span> <a href="/gazeta/">BN Газета</a> <span class="page--index-new_breadcrumbs--separator"> > </span> <a href="/gazeta/news/">Новости</a>
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": "1",
+"name": "Недвижимость Санкт-Петербурга",
+"item": "https://www.bn.ru/"
+},
+{
+"@type": "ListItem",
+"position": "2",
+"name": "BN Газета",
+"item": "https://www.bn.ru/gazeta/"
+},
+{
+"@type": "ListItem",
+"position": "3",
+"name": "Новости",
+"item": "https://www.bn.ru/gazeta/news/"
+}
+]
+}
+</script>
+                                            </div>
+                </div>
+
+                
+                <div class="page--index-new_center--content_newspaper">
+                    <div class="page--index-new_center--content_gazeta">
+                        <h1>Новости</h1>
+
+                                                <div class="page--index-new_center--content_gazeta--description"><p>В данном разделе – самая актуальная и интересная информация из мира строительства и недвижимости. Новинки федерального законодательства, свежие строительные и инфраструктурные проекты на территории Санкт-Петербурга и Ленинградской области, комментарии экспертов, новости ипотеки и многое другое</p></div>
+                        
+                        <ul class="page--index-new_center--content_gazeta--list_links">
+                                                    <li><a href="/gazeta/news/285080/" class="news"><span class="date_">сегодня | 19:00</span><br/>Главные новости на рынке недвижимости за 18 февраля</a></li>
+                                                    <li><a href="/gazeta/news/285079/" class="news"><span class="date_">сегодня | 18:10</span><br/>В госпрограмму «Строительство» включены новые проекты</a></li>
+                                                    <li><a href="/gazeta/news/285075/" class="news"><span class="date_">сегодня | 17:20</span><br/>В спросе на дорогую загородную недвижимость лидируют земельные участки</a></li>
+                                                    <li><a href="/gazeta/news/285074/" class="news"><span class="date_">сегодня | 16:25</span><br/>На рынке офисов в Петербурге усиливается влияние «фактора Газпрома»</a></li>
+                                                    <li><a href="/gazeta/news/285073/" class="news"><span class="date_">сегодня | 15:10</span><br/>В Ленобласти утверждены льготные тарифы на электроэнергию</a></li>
+                                                    <li><a href="/gazeta/news/285072/" class="news"><span class="date_">сегодня | 14:00</span><br/>Из структуры предложения новостроек вымываются малогабаритные квартиры</a></li>
+                                                    <li><a href="/gazeta/news/285071/" class="news"><span class="date_">сегодня | 12:55</span><br/>По программам модернизации ЖКХ в 2026 году введут в эксплуатацию 180 объектов</a></li>
+                                                    <li><a href="/gazeta/news/285070/" class="news"><span class="date_">сегодня | 11:40</span><br/>Цены на вторичное жилье в Петербурге за год выросли на 14%</a></li>
+                                                    <li><a href="/gazeta/news/285069/" class="news"><span class="date_">сегодня | 10:15</span><br/>Гаражную амнистию предлагают продлить на пять лет</a></li>
+                                                    <li><a href="/gazeta/news/285068/" class="news"><span class="date_">сегодня | 09:00</span><br/>Новый стандарт отделки квартир в новостройках вступит в силу с 1 марта</a></li>
+                                                </ul>
+
+						<div class="catalog-top-navigation_item">
+                            <ul class="pagination"><li class="active disabled"><span>1</span></li>
+<li><a href="/gazeta/news/page/2/" data-page="1">2</a></li>
+<li><a href="/gazeta/news/page/3/" data-page="2">3</a></li>
+<li><a href="/gazeta/news/page/4/" data-page="3">4</a></li>
+<li><a href="/gazeta/news/page/5/" data-page="4">5</a></li>
+<li><a href="/gazeta/news/page/6/" data-page="5">6</a></li>
+<li><a href="/gazeta/news/page/7/" data-page="6">7</a></li>
+<li><a href="/gazeta/news/page/8/" data-page="7">8</a></li>
+<li><a href="/gazeta/news/page/9/" data-page="8">9</a></li>
+<li><a href="/gazeta/news/page/10/" data-page="9">10</a></li></ul>						</div>
+
+                                                <div class="page--index-new_center--content_gazeta--description"><p>Мы следим за тенденциями рынка и призываем вас тоже быть в курсе. Для этого нужно всего лишь читать ленту новостей БН, которая в максимальном объеме освещает происходящее на рынке недвижимости.</p></div>
+                                            </div>
+
+                    <!-- BNRU-3204 -->
+
+                </div>
+
+                <div class="page--index-new_right--newspaper">
+
+                    <div class="page--index-new_right--newspaper--must_reading">
+    <h4>Поиск</h4>
+    <form name="form-search" method="get" action="/gazeta/search/">
+        <div class="gazeta-search-form-small">
+            <input type="text" name="query" class="gazeta-search-form-small__field" placeholder="текст запроса..." />
+            <button class="gazeta-search-form-small__button"></button>
+        </div>
+    </form>
+</div>
+                    <div class="page--index-new_right--newspaper--must_reading">
+                        <h4>Самое читаемое</h4>
+                        <ul>
+                                                            <li>
+                                    <a href="/gazeta/articles/284840/">Что изменится в семейной ипотеке в 2026 году</a>
+                                    <span class="page--index-new_right--newspaper--must_reading--viewings">3276</span>
+                                </li>
+                                                            <li>
+                                    <a href="/gazeta/articles/284902/">Налоговые изменения для собственников недвижимости в 2026 году</a>
+                                    <span class="page--index-new_right--newspaper--must_reading--viewings">3195</span>
+                                </li>
+                                                            <li>
+                                    <a href="/gazeta/articles/284889/">Оптимизм перед охлаждением. Кто больше?</a>
+                                    <span class="page--index-new_right--newspaper--must_reading--viewings">2821</span>
+                                </li>
+                                                            <li>
+                                    <a href="/gazeta/articles/284901/">Буря перед затишьем</a>
+                                    <span class="page--index-new_right--newspaper--must_reading--viewings">2507</span>
+                                </li>
+                                                            <li>
+                                    <a href="/gazeta/articles/284951/">Январский максимум: новостройки не прекращают стартовать</a>
+                                    <span class="page--index-new_right--newspaper--must_reading--viewings">2117</span>
+                                </li>
+                                                    </ul>
+                    </div>
+
+                    
+            <a href="/detail/newbuild/4165968/" class="object--today main"
+           title="Студия, Руднева ул., строение 1, 15 за 10 500 тыс. руб.">
+            <div class="object--today_img">
+                <div class="object--today_stick top">Продажа</div>
+                <div class="object--today_stick bottom"><span>10 500</span> тыс.р.</div>
+                <img src="//static.bn.ru/s/400x400/images/photo/2025_12/feed-image-9278079_sb.jpg"
+                     alt="Студия, Руднева ул., строение 1, 15 за 10 500 тыс. руб."
+                     title="Студия, Руднева ул., строение 1, 15 за 10 500 тыс. руб."/>
+            </div>
+            <div class="object--today_content">
+                <div class="object--today_content--top">
+                    <div class="object--today_name">
+                        <span>Студия<br/><span class="object--today_area_span">32.80</span> м<sup>2</sup></span></div>
+                </div>
+                <div class="object--today_address">
+                    <span class="metro blue">Проспект Просвещения</span><br><span class="object--today_address_span">Руднева ул., строение 1, 15 </span>
+                </div>
+            </div>
+        </a>
+        <a class="objday_link" href="/objday/" target="_blank">что это?</a>
+    
+                    <div class="adfox_right_banner">
+                        <div id="adfox_152785388441175877"
+                             class="af-item"
+                             data-owner-id="271186"
+                             data-container-id="adfox_152785388441175877"
+                             data-pp="nnc"
+                             data-ps="cthm"
+                             data-p2="fyrm"></div>
+                        <div id="adfox_152785388441175878"
+                             class="af-item"
+                             data-owner-id="271186"
+                             data-container-id="adfox_152785388441175878"
+                             data-pp="nnc"
+                             data-ps="cthm"
+                             data-p2="fyrm"></div>
+                    </div>
+
+                    <div id="adfox_152464810083398987"
+                         class="af-item adfox_right_banner--tgb"
+                         data-owner-id="271186"
+                         data-container-id="adfox_152464810083398987"
+                         data-pp="ncs"
+                         data-ps="cthm"
+                         data-p2="fwmh"></div>
+                    <div id="adfox_152464810083398988"
+                         class="af-item adfox_right_banner--tgb"
+                         data-owner-id="271186"
+                         data-container-id="adfox_152464810083398988"
+                         data-pp="ncs"
+                         data-ps="cthm"
+                         data-p2="fwmh"></div>
+                    <div id="adfox_152464810083398989"
+                         class="af-item adfox_right_banner--tgb"
+                         data-owner-id="271186"
+                         data-container-id="adfox_152464810083398989"
+                         data-pp="ncs"
+                         data-ps="cthm"
+                         data-p2="fwmh"></div>
+
+                </div>
+                <div class="clear"></div>
+            </div>
+
+
+            <!-- Список ссылок -->
+            <div class="index--block-links">
+                <div class="container block-links">
+                    <div class="block-links--left">
+                        <h3>Купить квартиру</h3>
+                        <ul>
+                            <li><a href="/odnokomnatnye-kvartiry-vtorichka/" title="купить 1-комнатную квартиры">1-комнатные квартиры</a></li>
+                            <li><a href="/dvuhkomnatnye-kvartiry-vtorichka/" title="купить 2-комнатную квартиры">2-комнатные квартиры</a></li>
+                            <li><a href="/trehkomnatnye-kvartiry-vtorichka/" title="купить 3-комнатную квартиры">3-комнатные квартиры</a></li>
+                            <li><a href="/komnaty-vtorichka/" title="купить комнату">купить комнату</a></li>
+                        </ul>
+                    </div>
+                    <div class="block-links--middle">
+                        <h3>Снять квартиру</h3>
+                        <ul>
+                            <li><a href="/arenda-odnokomnatnoy-kvartiry/" title="снять 1-комнатную квартиры">1-комнатные квартиры</a></li>
+                            <li><a href="/arenda-dvuhkomnatnoy-kvartiry/" title="снять 2-комнатную квартиры">2-комнатные квартиры</a></li>
+                            <li><a href="/arenda-trehkomnatnoy-kvartiry/" title="снять 3-комнатную квартиры">3-комнатные квартиры</a></li>
+                            <li><a href="/arenda-komnaty/" title="снять комнату">снять комнату в квартире</a></li>
+                        </ul>
+                    </div>
+                    <div class="block-links--right">
+                        <h3>Загородная недвижимость</h3>
+                        <ul>
+                            <li><a href="/doma-leningradskaya-oblast/" title="купить дом">купить дом</a></li>
+                            <li><a href="/kottedzhi-leningradskaya-oblast/" title="купить коттедж">купить коттедж</a></li>
+                            <li><a href="/zemelnye-uchastki-leningradskaya-oblast/" title="купить участок">купить участок</a></li>
+                            <li><a href="/arenda-doma-leningradskaya-oblast/" title="снять дом">снять дом</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+        </div>
+
+<footer>
+    <div class="bn-page__block-footer-background">
+        <div class="bn-page__block-footer-container">
+            <div class="bn-page__footer-1">
+                <div>
+                    <div class="bn-page__footer-1-header">Недвижимость</div>
+                    <nav>
+                        <a href="/kvartiry-vtorichka/">Продажа квартир</a>
+                        <a href="/komnaty-vtorichka/">Продажа комнат</a>
+                        <a href="/arenda-kvartiry/">Аренда квартир</a>
+                        <a href="/arenda-komnaty/">Аренда комнат</a>
+                        <a href="/elitnie-kvartiry/">Элитная недвижимость</a>
+                        <a href="/zagorodnaya/">Загородная недвижимость</a>
+                        <a href="/arenda-kommercheskaya/">Коммерческая недвижимость</a>
+                    </nav>
+                </div>
+                <div>
+                    <div class="bn-page__footer-1-header">Бюллетень недвижимости</div>
+                    <nav>
+                        <a href="/copyright/#main">Правила перепечатки</a>
+                        <a href="/personal_data/">Политика конфиденциальности BN.ru</a>
+                        <a href="/polzovatelskoe-soglashenie/">Пользовательское соглашение</a>
+                        <a href="/soglasie-na-rasprostranenie-personalnyh-dannyh/">Согласие на распространение персональных данных</a>
+                        <a href="/footmap.phtml">Карта сайта</a>
+                        <a href="/static-assets/files/bn.ru-mediakit.pdf">Медийная реклама</a>
+                        <a href="/static-assets/files/bn.ru-prkit.pdf">PR продвижение</a>
+                    </nav>
+                </div>
+                <div>
+                    <div class="bn-page__footer-1-header">Информация</div>
+                    <nav>
+                        <a href="/graphs/report.php">Аналитика недвижимости</a>
+                        <a href="/companies/">Каталог компаний</a>
+                        <a href="/partners/">Партнеры</a>
+                        <a href="/calendar/">Календарь мероприятий</a>
+                    </nav>
+                </div>
+                <div>
+                    <div class="bn-page__footer-1-header">Возникли вопросы</div>
+                    <nav>
+                        <a href="//forum.bn.ru/" rel="nofollow">Форум</a>
+                        <a href="/contact/">Контакты</a>
+                        <a href="/urist.phtml" rel="nofollow">Юридическая консультация</a>
+                        <a href="//lk.bn.ru/feedback/" class="feedback_footer-button" rel="nofollow">Обратная связь</a>
+                    </nav>
+                </div>
+            </div>
+            <div class="bn-page__footer-2">
+                <div>
+                    Учредитель - Общество с ограниченной ответственностью "Управляющая компания "Бюллетень недвижимости"
+                </div>
+                <div>
+                </div>
+            </div>
+            <div class="bn-page__footer-3">16+</div>
+            <div class="bn-page__footer-4">
+                <div>© 2005 – 2026, ООО «УК «БН»</div>
+                <div>8 (812) 331-93-56</div>
+                <div>196105, Санкт-Петербург, пр. Юрия Гагарина, 1</div>
+                <div><a href="mailto:reklama@bn.ru">reklama@bn.ru</a></div>
+                <div class="social_footer">
+                    <a href="//ok.ru/group/53036794511582" title="Одноклассники" target="_blank" class="social_element social-odnoklasniki" rel="nofollow"></a>
+                    <a href="https://vk.com/bnruspb" title="Вконтакте" target="_blank" class="social_element social-vk" rel="nofollow"></a>
+                    <a href="//www.youtube.com/user/TheBnVideo" title="YouTube" target="_blank" class="social_element social-youtube" rel="nofollow"></a>
+                    <a href="//twitter.com/BN_ru" title="Twitter" target="_blank" class="social_element social-twitter" rel="nofollow"></a>
+                    <a href="//t.me/bnruspb" title="Telegram" target="_blank" class="social_element social-telegram" rel="nofollow"></a>
+                    <a href="//yarus.ru/f/1097" title="Ярус" target="_blank" class="social_element social-yarus" rel="nofollow"></a>
+                </div>
+                <div id="counter-li"></div>
+            </div>
+        </div>
+    </div>
+</footer>    </div>
+</div>
+<!-- pcw -->
+    <div class="cookie--form">
+        <div class="cookie--container">
+            <p>
+                Сайт bn.ru использует файлы «cookie» и системы аналитики для персонализации сервисов и повышения
+                удобства пользования веб-сайтом. Продолжая просмотр сайта, вы разрешаете их использование и соглашаетесь
+                на обработку обезличенных персональных данных.
+            </p>
+            <div class="cookie--success" id="cookie--success" onclick="setPopupCookie()">Хорошо</div>
+        </div>
+    </div>
+<script src="/assets/minify/17b77a0125533b1e5b980b0e04e210a3c98127b2.js?v=1770837191"></script>
+<script src="/assets/minify/de66accb3b368a1c1ca5780396371a7a11cb15ab.js?v=1770837191"></script>
+<script src="/assets/minify/426a71aeb130e0cc7dab1fc7f737aa5e0c414ee4.js?v=1770837191"></script>
+<script src="/assets/minify/6e9c0dc44784f8b69fcbb2be055f23d77ac35d2d.js?v=1770837191"></script>
+<script src="/assets/minify/4b4c684dfe66eed77fc1706b828fbeaedd90a8fa.js?v=1770837191"></script>
+<script src="/assets/minify/3a2479c1bc2c7c11b66219ead4756e9c31381c88.js?v=1770837191"></script>
+<script src="/assets/minify/b211abb71310daa77a64a57a62129e97c18bba1a.js?v=1770837191"></script>
+<script src="/assets/minify/d66ab6c199a92be29cddec44d3f1a64099d04f51.js?v=1770837191"></script>
+<script src="/assets/minify/c03e5f066c34f76fa4c7c2c6728b73b41d4937c6.js?v=1770837191"></script>
+<script src="/assets/minify/7891ae0b4d5f33a70a3d8d1226a7b4d63be4fcf7.js?v=1770837189"></script>
+<script>jQuery(function ($) {
+jQuery('#filter').yiiActiveForm([], []);
+});</script></body>
+</html>

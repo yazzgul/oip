@@ -1,0 +1,1565 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7" xml:lang="ru" lang="ru"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie10 lt-ie9 lt-ie8" xml:lang="ru" lang="ru"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie10 lt-ie9" xml:lang="ru" lang="ru"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js lt-ie10" xml:lang="ru" lang="ru"> <![endif]-->
+<!--[if false]> --><html class="no-js" xml:lang="ru" lang="ru">  <!-- <![endif]-->
+<head>
+<meta name="zen-verification" content="CokQDk8bqTdJ3zyNgxhgoJSOwLoUNSVq0T9lMKTk20cWnajkIOEaClQLg1JlkOw0" />
+<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
+<title>ИА «НТА Приволжье» Новости Нижнего Новгорода | «НТА Приволжье» Новости Н. Новгорода</title>
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><!<![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="description" content="Нижегородское телекоммуникационное агентство - Новости Нижнего Новгорода и Приволжского Федерального округа." />
+<link rel="canonical" href="https://nta-pfo.ru/" />
+<script data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Windows/i.test(ua)){cl += ' bx-win';}else if (/Macintosh/i.test(ua)){cl += " bx-mac";}else if (/Linux/i.test(ua) && !/Android/i.test(ua)){cl += " bx-linux";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Firefox/.test(ua)){cl += " bx-firefox";}ht.className = htc ? htc + " " + cl : cl;})(window, document, navigator);</script>
+
+
+<link href="/bitrix/cache/css/s1/nta/page_5466abab4ec2fa2e97f9cd623ae8de8d/page_5466abab4ec2fa2e97f9cd623ae8de8d_v1.css?176882579011748" type="text/css" rel="stylesheet"/>
+<link href="/bitrix/cache/css/s1/nta/template_6249e67eef835978d83d97a690469473/template_6249e67eef835978d83d97a690469473_v1.css?1770215522183630" type="text/css" rel="stylesheet" data-template-style="true"/>
+
+
+
+
+
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/upload/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/upload/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/upload/icons/favicon-16x16.png">
+<link rel="manifest" href="/upload/icons/site.webmanifest">
+<link rel="mask-icon" href="/upload/icons/safari-pinned-tab.svg" color="#154c8a">
+<link rel="shortcut icon" href="/upload/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-config" content="/upload/icons/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<meta name="yandex-verification" content="9d696260769dcb7e" />
+
+</head>
+
+<body class=" ">
+<!-- Top.Mail.Ru counter -->
+<noscript><div><img src="https://top-fwz1.mail.ru/counter?id=3380340;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru" /></div></noscript>
+<!-- /Top.Mail.Ru counter -->
+
+<!-- Yandex.Metrika counter --> <script type="text/javascript" data-skip-moving="true"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter5016466 = new Ya.Metrika({ id:5016466, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/5016466" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+<noscript><div><img src="https://mc.yandex.ru/watch/5016466" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Yandex.RTB R-A-2342442-41 -->
+<div class="panel"></div>
+<div class="container">
+
+        
+<!-- HEADER --> 
+<header class="header">
+	<div class="nta-banner nta-banner-horizontal">
+<!--'start_frame_cache_y0XwfU'--><div id="adfox_167419668094482941" class="banner-desktop"></div>
+<div id="adfox_16758825142543295" class="banner-mobile"></div>
+
+
+
+<!--'end_frame_cache_y0XwfU'--></div>
+
+</header>
+
+<!-- MAIN -->
+<main class="main">
+<div class="main-inner">
+<article><section class="nta-block-main">
+	<article class="nta-day-line main-col-x2-1">
+		<h6 class="h1 donthyphenate"><a href="/news/">Новость дня</a></h6>
+			<a href="/news/society/2026/news_733802/" class="nta-day-first-news hyphenate" id="bx_3853977180_733802">
+		<div class="news-head">
+							<span class="prw">
+				<img  src="/upload/iblock/eb6/fknuu2j51dtg9qy9vofoj3tpw8z9c301.jpg" alt="Нижегородская епархия не будет поднимать вопрос открытия Сарова для паломников" title="Нижегородская епархия не будет поднимать вопрос открытия Сарова для паломников"/>
+            </span>
+				<span class="ttl">Нижегородская епархия не будет поднимать вопрос открытия Сарова для паломников</span>
+		</div>
+		<div class="anons"></div>
+					<time class="news-date-time" datetime="2026-02-19T15:51:00+03:00">19.02.2026 — 15:51</time>
+		                    <span class="region">Регион: Нижний Новгород</span>
+        	</a>
+	</article>
+
+
+    <div class="main-col-x2-2">
+        		<h6 class="h1 donthyphenate">Новости региона</h6>
+		<div class="nta-simple-news">
+						<a href="/news/society/2026/news_733835/" class="news-item" id="bx_2092849126_733835">
+				                    <span class="ttl">Электронные журналы и дневники будут временно недоступны в Нижегородской области</span>
+													<time class="news-date-time" datetime="2026-02-19T20:44:00+03:00">19.02.2026 — 20:44</time>
+				                				    <span class="region">Регион: Нижний Новгород</span>
+                			</a>
+						<a href="/news/society/2026/news_733832/" class="news-item" id="bx_2092849126_733832">
+				                    <span class="ttl">Нижегородская область вышла в лидеры по поддержке многодетных семей</span>
+													<time class="news-date-time" datetime="2026-02-19T19:57:00+03:00">19.02.2026 — 19:57</time>
+				                				    <span class="region">Регион: Нижний Новгород</span>
+                			</a>
+						<a href="/news/society/2026/news_733831/" class="news-item" id="bx_2092849126_733831">
+				                    <span class="ttl">Детский экзоскелет стал доступен в Университетской клинике ПИМУ</span>
+													<time class="news-date-time" datetime="2026-02-19T19:53:00+03:00">19.02.2026 — 19:53</time>
+				                				    <span class="region">Регион: Нижний Новгород</span>
+                			</a>
+					</div>
+
+		<div class="banners_220">
+		<!--'start_frame_cache_2DJmFo'--><div class="nta-banner nta-banner-left"><div id="adfox_167154355422661844" class="banner-desktop"></div>
+
+</div>
+<!--'end_frame_cache_2DJmFo'-->		<!--'start_frame_cache_ALOAcH'--><div class="nta-banner nta-banner-left"><div id="adfox_167154359459982290" class="banner-desktop"></div>
+</div>
+<!--'end_frame_cache_ALOAcH'-->		</div>
+	</div>
+</section>
+
+<div class="nta-banner nta-banner-horizontal">
+<!--'start_frame_cache_Zg1Ab0'--><div id="adfox_167419693016822300" class="banner-desktop"></div>
+<div id="adfox_167588261706045592" class="banner-mobile"></div>
+
+
+
+<!--'end_frame_cache_Zg1Ab0'--></div>
+
+
+
+
+<div class="nta-block-main">
+<section class="nta-section-line main-col-1 news-day-sections">
+<!--'start_frame_cache_QMtA2y'--><h6 class="h1 donthyphenate"><a href="/news/">Лента новостей</a></h6>
+<div class="nta-section-news">
+			<a href="/news/society/2026/news_733835/" class="news-item" id="bx_196700016_733835">
+		
+						<span class="ttl">Электронные журналы и дневники будут временно недоступны в Нижегородской области</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T20:44:00+03:00">19.02.2026 — 20:44</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+		<a href="/news/jkh/2026/news_733834/" class="news-item" id="bx_196700016_733834">
+		
+						<span class="ttl">Еще ₽20 млн выделят на ремонт дорог Марксовского района Саратовской области</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T20:32:00+03:00">19.02.2026 — 20:32</time>
+            
+                            <span class="region">Регион: Саратов</span>
+            		</div>
+
+	</a>
+		<a href="/news/society/2026/news_733833/" class="news-item" id="bx_196700016_733833">
+		
+						<span class="ttl">Трассу в Оренбуржье перекроют для следственного эксперимента</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T20:19:00+03:00">19.02.2026 — 20:19</time>
+            
+                            <span class="region">Регион: Оренбург</span>
+            		</div>
+
+	</a>
+		<a href="/news/society/2026/news_733832/" class="news-item" id="bx_196700016_733832">
+		
+						<span class="ttl">Нижегородская область вышла в лидеры по поддержке многодетных семей</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T19:57:00+03:00">19.02.2026 — 19:57</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+		<a href="/news/society/2026/news_733831/" class="news-item" id="bx_196700016_733831">
+		
+						<span class="ttl">Детский экзоскелет стал доступен в Университетской клинике ПИМУ</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T19:53:00+03:00">19.02.2026 — 19:53</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+		<a href="/news/economy/2026/news_733830/" class="news-item" id="bx_196700016_733830">
+		
+						<span class="ttl">Возможности трудоустроустройства в Нижегородской области назвали лучшими в РФ</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T19:13:00+03:00">19.02.2026 — 19:13</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+		<a href="/news/accidents/2026/news_733829/" class="news-item" id="bx_196700016_733829">
+		
+						<span class="ttl">Директор ООО &quot;Нижавтодорстрой&quot; арестован за дачу взятки экс-главе ГУММИД</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T19:11:00+03:00">19.02.2026 — 19:11</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+		<a href="/news/society/2026/news_733828/" class="news-item" id="bx_196700016_733828">
+		
+						<span class="ttl">Нижегородцы больше всех в РФ довольны соцподдержкой в регионе</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T18:44:00+03:00">19.02.2026 — 18:44</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+		<a href="/news/society/2026/news_733827/" class="news-item" id="bx_196700016_733827">
+		
+						<span class="ttl">Нижегородская область стала лучшей по качеству школьного питания в РФ</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T18:26:00+03:00">19.02.2026 — 18:26</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+		<a href="/news/society/2026/news_733825/" class="news-item" id="bx_196700016_733825">
+		
+						<span class="ttl">Поддержку участников СВО и их семей обсудили в Нижнем Новгороде</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T18:15:00+03:00">19.02.2026 — 18:15</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+		<a href="/news/region52/2026/news_733826/" class="news-item" id="bx_196700016_733826">
+		
+						<span class="ttl">В Нижнем Новгороде открыли Корпоративную спортивную лигу</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T18:11:20+03:00">19.02.2026 — 18:11</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+		<a href="/news/economy/2026/news_733824/" class="news-item" id="bx_196700016_733824">
+		
+						<span class="ttl">ВТБ предложил механизм решения споров между банками при обмене данными</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T18:10:00+03:00">19.02.2026 — 18:10</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+</div>
+<p class="all-news"><a href="/news/">Все новости</a></p>
+<!--'end_frame_cache_QMtA2y'--></section>
+
+<div class="main-col-2">
+<h6 class="h1 donthyphenate"><a href="/conf/">Конференции</a></h6>
+<div class="nta-news-list news-line-x1 line-conference">
+			<a href="/conf/446/" class="news-item hyphenate" id="bx_1222852682_446">
+					<span class="prw">
+				<img  src="/upload/iblock/dee/cru8ue096yf2pqlcja9brp3xrwi7a1cs.jpg" alt="Интернет-конференция председателя ЗС НО Евгения Люлина" title="Интернет-конференция председателя ЗС НО Евгения Люлина"/>
+            </span>
+				            <span class="ttl">Интернет-конференция председателя ЗС НО Евгения Люлина</span>
+		    </a>
+</div>
+
+
+
+
+<!--'start_frame_cache_MoecjV'--><div class="nta-banner nta-banner-left"><div id="adfox_167154361874853288" class="banner-desktop"></div>
+</div>
+<!--'end_frame_cache_MoecjV'-->
+<!--'start_frame_cache_vhh5NV'--><div class="nta-banner nta-banner-left"><div id="adfox_167154364010319205" class="banner-desktop"></div>
+</div>
+<!--'end_frame_cache_vhh5NV'-->	
+<!--'start_frame_cache_SyEEG1'--><div class="nta-banner nta-banner-left"><div id="adfox_167154366791211282" class="banner-desktop"></div>
+</div>
+<!--'end_frame_cache_SyEEG1'--></div>	
+</div>
+
+<div class="nta-banner nta-banner-horizontal">
+<!--'start_frame_cache_pVYwEG'--><div id="adfox_16741967744805476" class="banner-desktop"></div>
+<!--'end_frame_cache_pVYwEG'--></div>
+
+
+
+
+
+<div class="nta-block-main">
+
+<section class="nta-section-line main-col-1 news-day-sections">
+<!--'start_frame_cache_Ed1HRj'--><h6 class="h1 donthyphenate"><a href="/news/politics/">Политика и власть</a></h6>
+<a href="/news/politics/2026/news_733728/" class="nta-section-first-news hyphenate" id="bx_2514350803_733728">
+				<span class="prw">
+			<img  src="/upload/iblock/15b/hy5vvm21vufb4k7baifh5nmljdcnyd51.jpeg" alt="Задержана министр культуры Башкирии Амина Шафикова" title="Задержана министр культуры Башкирии Амина Шафикова"/>
+		</span>
+		    <b class="ttl">Задержана министр культуры Башкирии Амина Шафикова</b>
+	<div class="anons"></div>
+	
+	<div class="info">
+                    <time class="news-date-time" datetime="2026-02-18T09:48:00+03:00">18.02.2026 — 09:48</time>
+        
+                    <span class="region">Регион: Башкирия</span>
+        	</div>	
+</a>
+<div class="nta-section-news">
+			<a href="/news/politics/2026/news_733813/" class="news-item" id="bx_2514350803_733813">
+		
+						<span class="ttl">Председатель нижегородской Гордумы Евгений Чинцов завел канал в MAX</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T17:22:00+03:00">19.02.2026 — 17:22</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+		<a href="/news/politics/2026/news_733787/" class="news-item" id="bx_2514350803_733787">
+		
+						<span class="ttl">Олег Николаев прокомментировал возбуждение дела в отношении главы округа Чувашии</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T10:54:00+03:00">19.02.2026 — 10:54</time>
+            
+                            <span class="region">Регион: Чувашия</span>
+            		</div>
+
+	</a>
+		<a href="/news/politics/2026/news_733785/" class="news-item" id="bx_2514350803_733785">
+		
+						<span class="ttl">Наила Родионова возглавила нижегородское ТУ Росимущества</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T10:45:00+03:00">19.02.2026 — 10:45</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+		<a href="/news/politics/2026/news_733759/" class="news-item" id="bx_2514350803_733759">
+		
+						<span class="ttl">Елена Носкова сохранит пост замглавы Городецкого района и куратора Заволжья</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-18T16:54:00+03:00">18.02.2026 — 16:54</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+</div>
+<!--'end_frame_cache_Ed1HRj'--></section>
+
+<div class="main-col-2">
+<section class="nta-exclisive-line">
+<h6 class="h1 donthyphenate"><a href="/analitika/">Аналитика</a></h6>
+<div class="nta-exclusive-news">
+			<a href="/analitika/732907/" id="bx_4665576_732907" class="news-item">
+						<span class="prw">
+				<img src="/upload/iblock/38a/rz4781aug00gnhj5lodvzde1tdnxfmb3.jpg" alt="Парламенты ПФО сохраняют общее лидерство в рейтинге открытости" />
+            </span>
+						
+			<span class="ttl">Парламенты ПФО сохраняют общее лидерство в рейтинге открытости</span>
+		</a>
+	</div>
+</section>
+
+<!--'start_frame_cache_uMP05O'--><div class="nta-banner nta-banner-left"><div id="adfox_167154369370977980" class="banner-desktop"></div>
+</div>
+<!--'end_frame_cache_uMP05O'-->
+<!--'start_frame_cache_hG8wzQ'--><div class="nta-banner nta-banner-left"><div id="adfox_167154371583389367" class="banner-desktop"></div>
+</div>
+<!--'end_frame_cache_hG8wzQ'-->		
+
+</div>	
+</div>
+
+
+
+<div class="nta-banner nta-banner-horizontal">
+<!--'start_frame_cache_bB3l5w'--><div id="adfox_167419701071198809" class="banner-desktop"></div>
+<div id="adfox_167588281217693382" class="banner-mobile"></div>
+
+
+
+<!--'end_frame_cache_bB3l5w'--></div>
+
+
+<div class="nta-block-main">
+<section class="nta-section-line main-col-1 news-day-sections">
+<!--'start_frame_cache_R7QtGU'--><h6 class="h1 donthyphenate"><a href="/news/society/">Общество</a></h6>
+<a href="/news/society/2026/news_733724/" class="nta-section-first-news hyphenate" id="bx_3805987397_733724">
+				<span class="prw">
+			<img  src="/upload/iblock/e84/aon4jfksug5zsu6voj0bsgd1584dc1m7.jpg" alt="Саратов получит почти 1 млрд рублей на досрочное строительство двух школ" title="Саратов получит почти 1 млрд рублей на досрочное строительство двух школ"/>
+		</span>
+		    <b class="ttl">Саратов получит почти 1 млрд рублей на досрочное строительство двух школ</b>
+	<div class="anons"></div>
+	
+	<div class="info">
+                    <time class="news-date-time" datetime="2026-02-18T09:16:00+03:00">18.02.2026 — 09:16</time>
+        
+                    <span class="region">Регион: Саратов</span>
+        	</div>	
+</a>
+<div class="nta-section-news">
+			<a href="/news/society/2026/news_733835/" class="news-item" id="bx_3805987397_733835">
+		
+						<span class="ttl">Электронные журналы и дневники будут временно недоступны в Нижегородской области</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T20:44:00+03:00">19.02.2026 — 20:44</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+		<a href="/news/society/2026/news_733833/" class="news-item" id="bx_3805987397_733833">
+		
+						<span class="ttl">Трассу в Оренбуржье перекроют для следственного эксперимента</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T20:19:00+03:00">19.02.2026 — 20:19</time>
+            
+                            <span class="region">Регион: Оренбург</span>
+            		</div>
+
+	</a>
+		<a href="/news/society/2026/news_733832/" class="news-item" id="bx_3805987397_733832">
+		
+						<span class="ttl">Нижегородская область вышла в лидеры по поддержке многодетных семей</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T19:57:00+03:00">19.02.2026 — 19:57</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+		<a href="/news/society/2026/news_733831/" class="news-item" id="bx_3805987397_733831">
+		
+						<span class="ttl">Детский экзоскелет стал доступен в Университетской клинике ПИМУ</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T19:53:00+03:00">19.02.2026 — 19:53</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+</div>
+<!--'end_frame_cache_R7QtGU'--></section>
+<div class="main-col-2">
+<section class="nta-exclisive-line">
+<h6 class="h1 donthyphenate"><a href="/exclusive/">Интeрвью</a></h6>
+<div class="nta-exclusive-news">
+			<a href="/exclusive/731873/" id="bx_2572050770_731873" class="news-item">
+						<span class="prw">
+				<img src="/upload/iblock/50b/i3ybpszjw9zg59h4rkgk422bnqn2crbr.png" alt="&quot;Человек уникален, поэтому подсчёт калорий позволяет настроить рацион&quot;" />
+            </span>
+									    <b class="person">Наталья Савицкая </b>
+			
+			<span class="ttl">&quot;Человек уникален, поэтому подсчёт калорий позволяет настроить рацион&quot;</span>
+		</a>
+	</div>
+</section>	
+
+<!--'start_frame_cache_3edcRS'--><div class="nta-banner nta-banner-left"><div id="adfox_167154373649646789" class="banner-desktop"></div>
+</div>
+<!--'end_frame_cache_3edcRS'-->
+<!--'start_frame_cache_d6Rxiu'--><div class="nta-banner nta-banner-left"><div id="adfox_167239046175944644" class="banner-desktop"></div>
+</div>
+<!--'end_frame_cache_d6Rxiu'-->		
+</div>	
+</div>
+
+
+<!--'start_frame_cache_PNqYMS'--><section class="nta-section-line main-photo">
+<h6 class="h1 donthyphenate"><a href="/photo/">Фоторепортажи</a></h6>
+<div class="nta-news-list news-line-photo">
+			<div class="news-item photo-item-1" id="bx_2077463551_732701">
+		
+							<a href="/photo/732701/" class="prw">
+				<img  src="/upload/iblock/032/fq8yf4l2sh98t7na2ig8poutw9newbke.jpg" alt="&quot;АРТ МИР-2026&quot; стартовал на Нижегородской ярмарке" title="&quot;АРТ МИР-2026&quot; стартовал на Нижегородской ярмарке"/>
+			</a>
+				
+
+						<a href="/photo/732701/" class="ttl">&quot;АРТ МИР-2026&quot; стартовал на Нижегородской ярмарке</a>
+		
+					<time class="news-date-time" datetime="2026-02-01T19:05:00+03:00">01.02.2026 — 19:05</time>
+		
+		
+	</div>
+		<div class="news-item photo-item-2" id="bx_2077463551_732256">
+		
+		
+
+						<a href="/photo/732256/" class="ttl">ДК Ленина снесён в Нижнем Новгороде</a>
+		
+					<time class="news-date-time" datetime="2026-01-23T22:00:00+03:00">23.01.2026 — 22:00</time>
+		
+							<a href="/photo/732256/" class="prw prw-down">
+				<img  src="/upload/iblock/021/n62hoietn82lq6758f75wxvli2u1mqti.JPG" alt="ДК Ленина снесён в Нижнем Новгороде" title="ДК Ленина снесён в Нижнем Новгороде"/>
+			</a>
+				
+	</div>
+		<div class="news-item photo-item-3" id="bx_2077463551_731334">
+		
+							<a href="/photo/731334/" class="prw">
+				<img  src="/upload/iblock/ccf/d4s2nx7q7zl4x5m02i92qey0a4c220s1.jpg" alt="&quot;Рождественская фиеста - 2026&quot; прошла в Нижнем Новгороде" title="&quot;Рождественская фиеста - 2026&quot; прошла в Нижнем Новгороде"/>
+			</a>
+				
+
+						<a href="/photo/731334/" class="ttl">&quot;Рождественская фиеста - 2026&quot; прошла в Нижнем Новгороде</a>
+		
+					<time class="news-date-time" datetime="2026-01-07T11:44:00+03:00">07.01.2026 — 11:44</time>
+		
+		
+	</div>
+		<div class="news-item photo-item-4" id="bx_2077463551_729374">
+		
+		
+
+						<a href="/photo/729374/" class="ttl">Двухэтажный поезд «Буревестник» начал курсировать между Нижним Новгородом и Москвой</a>
+		
+					<time class="news-date-time" datetime="2025-12-03T17:58:00+03:00">03.12.2025 — 17:58</time>
+		
+							<a href="/photo/729374/" class="prw prw-down">
+				<img  src="/upload/iblock/5ec/eqg7bj4gs2wa1i4b8fm9baxzr0dzmx7m.jpg" alt="Двухэтажный поезд «Буревестник» начал курсировать между Нижним Новгородом и Москвой" title="Двухэтажный поезд «Буревестник» начал курсировать между Нижним Новгородом и Москвой"/>
+			</a>
+				
+	</div>
+		<div class="news-item photo-item-5" id="bx_2077463551_729210">
+		
+							<a href="/photo/729210/" class="prw">
+				<img  src="/upload/iblock/5b5/37s8y7t2pu5usfmhx2ddqmmuchymp3ng.jpg" alt="Пресс-тур на курорты Ставрополья в межсезонье " title="Пресс-тур на курорты Ставрополья в межсезонье "/>
+			</a>
+				
+
+						<a href="/photo/729210/" class="ttl">Пресс-тур на курорты Ставрополья в межсезонье </a>
+		
+					<time class="news-date-time" datetime="2025-12-01T15:28:00+03:00">01.12.2025 — 15:28</time>
+		
+		
+	</div>
+		<div class="news-item photo-item-6" id="bx_2077463551_728690">
+		
+		
+
+						<a href="/photo/728690/" class="ttl">&quot;Техномесса&quot; состоялась в Нижнем Новгороде</a>
+		
+					<time class="news-date-time" datetime="2025-11-21T20:50:00+03:00">21.11.2025 — 20:50</time>
+		
+							<a href="/photo/728690/" class="prw prw-down">
+				<img  src="/upload/iblock/a09/t2fxe3hkyzld9z1wht5m12hh8tuc4105.jpg" alt="&quot;Техномесса&quot; состоялась в Нижнем Новгороде" title="&quot;Техномесса&quot; состоялась в Нижнем Новгороде"/>
+			</a>
+				
+	</div>
+		<div class="news-item photo-item-7" id="bx_2077463551_728555">
+		
+							<a href="/photo/728555/" class="prw">
+				<img  src="/upload/iblock/b46/1v9q9ee43fw0oe0s8oc0zxp83lukq3b1.jpg" alt="Концерт Lumen & Orchestra состоялся в Нижнем Новгороде" title="Концерт Lumen & Orchestra состоялся в Нижнем Новгороде"/>
+			</a>
+				
+
+						<a href="/photo/728555/" class="ttl">Концерт Lumen & Orchestra состоялся в Нижнем Новгороде</a>
+		
+					<time class="news-date-time" datetime="2025-11-19T10:55:00+03:00">19.11.2025 — 10:55</time>
+		
+		
+	</div>
+</div>
+</section>
+<!--'end_frame_cache_PNqYMS'-->
+
+<div class="nta-banner nta-banner-horizontal">
+<!--'start_frame_cache_nR5jbp'--><div id="adfox_167419699114019752" class="banner-desktop"></div>
+<div id="adfox_167588290837267146" class="banner-mobile"></div>
+
+
+
+<!--'end_frame_cache_nR5jbp'--></div>
+
+
+<div class="nta-block-main">
+<section class="nta-section-line main-col-1 news-day-sections">
+<!--'start_frame_cache_LPNVAr'--><h6 class="h1 donthyphenate"><a href="/news/economy/">Экономика и бизнес</a></h6>
+<a href="/news/economy/2026/news_733212/" class="nta-section-first-news hyphenate" id="bx_215262057_733212">
+				<span class="prw">
+			<img  src="/upload/iblock/9a0/b0pznw3668lo43qow4snb8o3tzqalnta.jpg" alt=" Ульяновская область рассматривает возможности логистики для саудовских компаний" title=" Ульяновская область рассматривает возможности логистики для саудовских компаний"/>
+		</span>
+		    <b class="ttl"> Ульяновская область рассматривает возможности логистики для саудовских компаний</b>
+	<div class="anons"></div>
+	
+	<div class="info">
+                    <time class="news-date-time" datetime="2026-02-10T10:37:00+03:00">10.02.2026 — 10:37</time>
+        
+                    <span class="region">Регион: Ульяновск</span>
+        	</div>	
+</a>
+<div class="nta-section-news">
+			<a href="/news/economy/2026/news_733830/" class="news-item" id="bx_215262057_733830">
+		
+						<span class="ttl">Возможности трудоустроустройства в Нижегородской области назвали лучшими в РФ</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T19:13:00+03:00">19.02.2026 — 19:13</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+		<a href="/news/economy/2026/news_733824/" class="news-item" id="bx_215262057_733824">
+		
+						<span class="ttl">ВТБ предложил механизм решения споров между банками при обмене данными</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T18:10:00+03:00">19.02.2026 — 18:10</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+		<a href="/news/economy/2026/news_733823/" class="news-item" id="bx_215262057_733823">
+		
+						<span class="ttl">ВТБ: спрос на онлайн-регистрацию бизнеса вырос в 1,5 раза</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T18:03:00+03:00">19.02.2026 — 18:03</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+		<a href="/news/economy/2026/news_733792/" class="news-item" id="bx_215262057_733792">
+		
+						<span class="ttl">Прямое авиасообщение Самара — Ургенч запустят 3 апреля</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T11:51:00+03:00">19.02.2026 — 11:51</time>
+            
+                            <span class="region">Регион: Самара</span>
+            		</div>
+
+	</a>
+</div>
+<!--'end_frame_cache_LPNVAr'--></section>
+<div class="main-col-2">
+<section class="nta-comments-line">
+<h6 class="h1 donthyphenate"><a href="/comments/">Комментарии</a></h6>
+<div class="nta-news-list news-line-x1 line-conference">
+			<a href="/comments/733484/" id="bx_3997782468_733484" class="news-item hyphenate">
+						<span class="prw">
+				<img  src="/upload/iblock/179/ri890qp0wl42vw54quhu4128633owqoe.jpg" alt="&quot;ЦБ продолжит снижение ставки более быстрыми темпами&quot;" title="&quot;ЦБ продолжит снижение ставки более быстрыми темпами&quot;"/>
+			</span>
+						
+						<b class="person">Анатолий Аксаков</b>
+			
+			<span class="ttl">&quot;ЦБ продолжит снижение ставки более быстрыми темпами&quot;</span>
+		</a>
+	</div>
+</section>	
+<!--'start_frame_cache_juIq9Z'--><div class="nta-banner nta-banner-left"><div id="adfox_167239152229321053" class="banner-desktop"></div>
+</div>
+<!--'end_frame_cache_juIq9Z'--><!--'start_frame_cache_aNSweR'--><div class="nta-banner nta-banner-left"><div id="adfox_167239163882477642" class="banner-desktop"></div>
+</div>
+<!--'end_frame_cache_aNSweR'-->		
+</div>	
+</div>
+
+
+<div class="nta-banner nta-banner-horizontal">
+<!--'start_frame_cache_Z7EH0q'--><div id="adfox_167419696424679217" class="banner-desktop"></div>
+<!--'end_frame_cache_Z7EH0q'--></div>
+
+
+<div class="nta-block-main">
+<section class="nta-section-line main-col-1 news-day-sections">
+<!--'start_frame_cache_Pz6xLj'--><h6 class="h1 donthyphenate"><a href="/news/industry/">Промышленность</a></h6>
+<a href="/news/industry/2026/news_733604/" class="nta-section-first-news hyphenate" id="bx_2624306936_733604">
+				<span class="prw">
+			<img  src="/upload/iblock/942/rsc3h4hsocu9aenxfe610hp4l103i04s.jpg" alt="КамАЗ при участии ФРП открыл в Татарстане новый завод мостов" title="КамАЗ при участии ФРП открыл в Татарстане новый завод мостов"/>
+		</span>
+		    <b class="ttl">КамАЗ при участии ФРП открыл в Татарстане новый завод мостов</b>
+	<div class="anons"></div>
+	
+	<div class="info">
+                    <time class="news-date-time" datetime="2026-02-16T14:06:00+03:00">16.02.2026 — 14:06</time>
+        
+                    <span class="region">Регион: Татарстан</span>
+        	</div>	
+</a>
+<div class="nta-section-news">
+			<a href="/news/industry/2026/news_733806/" class="news-item" id="bx_2624306936_733806">
+		
+						<span class="ttl">VOLGA планируют пустить в серию в Нижнем Новгороде во II квартале 2026 года</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T16:32:00+03:00">19.02.2026 — 16:32</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+		<a href="/news/industry/2026/news_733781/" class="news-item" id="bx_2624306936_733781">
+		
+						<span class="ttl">Четыре изготовленных на КВЗ вертолета Ми-38ПС передали МЧС для работы в Арктике</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T09:58:00+03:00">19.02.2026 — 09:58</time>
+            
+                            <span class="region">Регион: Татарстан</span>
+            		</div>
+
+	</a>
+		<a href="/news/industry/2026/news_733761/" class="news-item" id="bx_2624306936_733761">
+		
+						<span class="ttl">Два проекта с иностранными инвесторами реализуют на ОЭЗ &quot;Кулибин&quot;</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-18T17:24:00+03:00">18.02.2026 — 17:24</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+		<a href="/news/industry/2026/news_733736/" class="news-item" id="bx_2624306936_733736">
+		
+						<span class="ttl">&quot;Синтез Ока&quot; в Дзержинске начала выпуск пеногасителей на основе блок-сополимеров</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-18T11:32:00+03:00">18.02.2026 — 11:32</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+</div>
+<!--'end_frame_cache_Pz6xLj'--></section>
+
+<div class="main-col-2">
+<br />
+<!--'start_frame_cache_5et2uo'--><div class="nta-banner nta-banner-left"><div id="adfox_167419631536394665" class="banner-desktop"></div>
+</div>
+<!--'end_frame_cache_5et2uo'--><!--'start_frame_cache_ECX5Oh'--><div class="nta-banner nta-banner-left"><div id="adfox_167419639637775747" class="banner-desktop"></div>
+</div>
+<!--'end_frame_cache_ECX5Oh'-->
+<!--'start_frame_cache_Q9kx6f'--><div class="nta-banner nta-banner-left"><div id="adfox_167419643651356608" class="banner-desktop"></div>
+</div>
+<!--'end_frame_cache_Q9kx6f'-->	
+</div>	
+</div>
+
+
+
+<div class="nta-block-main">
+<section class="nta-section-line main-col-1 news-day-sections">
+<!--'start_frame_cache_QLdSFS'--><h6 class="h1 donthyphenate"><a href="/news/jkh/">Городское хозяйство. ЖКХ</a></h6>
+<a href="/news/jkh/2026/news_733446/" class="nta-section-first-news hyphenate" id="bx_3949760110_733446">
+				<span class="prw">
+			<img  src="/upload/iblock/687/2ytaed1qkrv04x1qdxq56u4no8nv55q6.jpg" alt="Централизация системы питания в учреждениях образования планируется в Перми" title="Централизация системы питания в учреждениях образования планируется в Перми"/>
+		</span>
+		    <b class="ttl">Централизация системы питания в учреждениях образования планируется в Перми</b>
+	<div class="anons"></div>
+	
+	<div class="info">
+                    <time class="news-date-time" datetime="2026-02-12T19:43:00+03:00">12.02.2026 — 19:43</time>
+        
+                    <span class="region">Регион: Пермь</span>
+        	</div>	
+</a>
+<div class="nta-section-news">
+			<a href="/news/jkh/2026/news_733834/" class="news-item" id="bx_3949760110_733834">
+		
+						<span class="ttl">Еще ₽20 млн выделят на ремонт дорог Марксовского района Саратовской области</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T20:32:00+03:00">19.02.2026 — 20:32</time>
+            
+                            <span class="region">Регион: Саратов</span>
+            		</div>
+
+	</a>
+		<a href="/news/jkh/2026/news_733820/" class="news-item" id="bx_3949760110_733820">
+		
+						<span class="ttl">Три полосы Мызинского моста в Нижнем Новгороде перекроют на одну ночь</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T17:49:00+03:00">19.02.2026 — 17:49</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+		<a href="/news/jkh/2026/news_733801/" class="news-item" id="bx_3949760110_733801">
+		
+						<span class="ttl">Нижегородские службы готовятся к сильнейшему снегопаду зимы</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T15:23:00+03:00">19.02.2026 — 15:23</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+		<a href="/news/jkh/2026/news_733800/" class="news-item" id="bx_3949760110_733800">
+		
+						<span class="ttl">&quot;Гаражную амнистию&quot; в России предлагается продлить до 2031 года</span>
+		
+		<div class="info">
+                            <time class="news-date-time" datetime="2026-02-19T15:18:00+03:00">19.02.2026 — 15:18</time>
+            
+                            <span class="region">Регион: Нижний Новгород</span>
+            		</div>
+
+	</a>
+</div>
+<!--'end_frame_cache_QLdSFS'--></section>
+<div class="main-col-2">
+<br />
+<!--'start_frame_cache_Cddrqk'--><div class="nta-banner nta-banner-left"><div id="adfox_1674196490713235" class="banner-desktop"></div>
+</div>
+<!--'end_frame_cache_Cddrqk'--><!--'start_frame_cache_WflGws'--><div class="nta-banner nta-banner-left"><div id="adfox_167419646745892933" class="banner-desktop"></div>
+</div>
+<!--'end_frame_cache_WflGws'-->
+<!--'start_frame_cache_0TcH7Q'--><div class="nta-banner nta-banner-left"><div id="adfox_167419652797254440" class="banner-desktop"></div>
+</div>
+<!--'end_frame_cache_0TcH7Q'-->		
+</div>	
+</div>
+
+
+
+<div class="nta-block-main-x3">
+<section class="nta-vertical-line">
+<!--'start_frame_cache_8xu33v'--><h6 class="h1 donthyphenate"><a href="/news/culture/">Культура</a></h6>
+<a class="nta-vertical-first-news hyphenate" href="/news/culture/2026/news_733605/" id="bx_2531489272_733605">
+				<figure class="prw">
+			<img  src="/upload/iblock/0bd/84eo8evnvob1cbjgr4b9khhxj7akp2hl.jpg" alt="Саратовский областной театр оперетты отремонтируют к 2028 году" title="Саратовский областной театр оперетты отремонтируют к 2028 году"/>
+		</figure>
+		<span class="ttl">Саратовский областной театр оперетты отремонтируют к 2028 году</span>
+			<time class="news-date-time" datetime="2026-02-16T14:19:00+03:00">16.02.2026 — 14:19</time>
+	</a>
+<div class="nta-vertical-news">
+			<a class="news-item" href="/news/culture/2026/news_733822/" id="bx_2531489272_733822">
+		
+		            <span class="ttl">Госсовет обсудил расширение включенных в &quot;Пушкинскую карту&quot; маршрутов</span>
+		
+					<time class="news-date-time" datetime="2026-02-19T17:54:00+03:00">19.02.2026 — 17:54</time>
+		
+                    <span class="region">Регион: Нижний Новгород</span>
+        
+	</a>
+		<a class="news-item" href="/news/culture/2026/news_733730/" id="bx_2531489272_733730">
+		
+		            <span class="ttl">Новая интерактивная панель от ЛУКОЙЛа</span>
+		
+					<time class="news-date-time" datetime="2026-02-18T10:16:00+03:00">18.02.2026 — 10:16</time>
+		
+                    <span class="region">Регион: Нижний Новгород</span>
+        
+	</a>
+		<a class="news-item" href="/news/culture/2026/news_733691/" id="bx_2531489272_733691">
+		
+		            <span class="ttl">Юрий Станкевич посетил Большеболдинский округ с рабочим визитом</span>
+		
+					<time class="news-date-time" datetime="2026-02-17T16:32:00+03:00">17.02.2026 — 16:32</time>
+		
+                    <span class="region">Регион: Нижний Новгород</span>
+        
+	</a>
+		<a class="news-item" href="/news/culture/2026/news_733653/" id="bx_2531489272_733653">
+		
+		            <span class="ttl">Траты нижегородцев по Пушкинской карте могут превысить 700 млн рублей — ВТБ</span>
+		
+					<time class="news-date-time" datetime="2026-02-17T11:00:00+03:00">17.02.2026 — 11:00</time>
+		
+                    <span class="region">Регион: Нижний Новгород</span>
+        
+	</a>
+</div>
+<!--'end_frame_cache_8xu33v'--></section>
+<section class="nta-vertical-line">
+<!--'start_frame_cache_c8uc0d'--><h6 class="h1 donthyphenate"><a href="/news/sport/">Спорт</a></h6>
+<a class="nta-vertical-first-news hyphenate" href="/news/sport/2026/news_733782/" id="bx_3789833582_733782">
+				<figure class="prw">
+			<img  src="/upload/iblock/553/x1djh3nc84dzlhfukmahg5183dem6qd5.jpg" alt="Нижегородское &quot;Торпедо&quot; досрочно вышло в плей-офф КХЛ" title="Нижегородское &quot;Торпедо&quot; досрочно вышло в плей-офф КХЛ"/>
+		</figure>
+		<span class="ttl">Нижегородское &quot;Торпедо&quot; досрочно вышло в плей-офф КХЛ</span>
+			<time class="news-date-time" datetime="2026-02-19T10:03:00+03:00">19.02.2026 — 10:03</time>
+	</a>
+<div class="nta-vertical-news">
+			<a class="news-item" href="/news/sport/2026/news_733692/" id="bx_3789833582_733692">
+		
+		            <span class="ttl">Т2 запускает геймерскую мультиподписку MiXX Play Pro</span>
+		
+					<time class="news-date-time" datetime="2026-02-17T16:36:00+03:00">17.02.2026 — 16:36</time>
+		
+                    <span class="region">Регион: Нижний Новгород</span>
+        
+	</a>
+		<a class="news-item" href="/news/sport/2026/news_733625/" id="bx_3789833582_733625">
+		
+		            <span class="ttl">Нижегородцы забрали восемь медалей на чемпионате России по муайтай</span>
+		
+					<time class="news-date-time" datetime="2026-02-16T17:14:00+03:00">16.02.2026 — 17:14</time>
+		
+                    <span class="region">Регион: Нижний Новгород</span>
+        
+	</a>
+		<a class="news-item" href="/news/sport/2026/news_733589/" id="bx_3789833582_733589">
+		
+		            <span class="ttl">Более 20 тыс. жителей Татарстана вышли на &quot;Лыжню России-2026&quot;</span>
+		
+					<time class="news-date-time" datetime="2026-02-16T10:26:00+03:00">16.02.2026 — 10:26</time>
+		
+                    <span class="region">Регион: Татарстан</span>
+        
+	</a>
+		<a class="news-item" href="/news/sport/2026/news_733543/" id="bx_3789833582_733543">
+		
+		            <span class="ttl">&quot;Лыжня России&quot; прошла в Оренбуржье</span>
+		
+					<time class="news-date-time" datetime="2026-02-14T11:25:00+03:00">14.02.2026 — 11:25</time>
+		
+                    <span class="region">Регион: Оренбург</span>
+        
+	</a>
+</div>
+<!--'end_frame_cache_c8uc0d'--></section>
+
+<section class="nta-vertical-line">
+<!--'start_frame_cache_f1psqu'--><h6 class="h1 donthyphenate"><a href="/news/accidents/">Криминал</a></h6>
+<a class="nta-vertical-first-news hyphenate" href="/news/accidents/2026/news_733829/" id="bx_2028803284_733829">
+				<figure class="prw">
+			<img  src="/upload/iblock/0b2/nkpq5f8qo84wyaryjw2mnzw1z2w1bjpn.jpg" alt="Директор ООО &quot;Нижавтодорстрой&quot; арестован за дачу взятки экс-главе ГУММИД" title="Директор ООО &quot;Нижавтодорстрой&quot; арестован за дачу взятки экс-главе ГУММИД"/>
+		</figure>
+		<span class="ttl">Директор ООО &quot;Нижавтодорстрой&quot; арестован за дачу взятки экс-главе ГУММИД</span>
+			<time class="news-date-time" datetime="2026-02-19T19:11:00+03:00">19.02.2026 — 19:11</time>
+	</a>
+<div class="nta-vertical-news">
+			<a class="news-item" href="/news/accidents/2026/news_733777/" id="bx_2028803284_733777">
+		
+		            <span class="ttl">Уголовное дело возбуждено по факту покушения на убийство школьника в Прикамье</span>
+		
+					<time class="news-date-time" datetime="2026-02-19T09:16:00+03:00">19.02.2026 — 09:16</time>
+		
+                    <span class="region">Регион: Пермь</span>
+        
+	</a>
+		<a class="news-item" href="/news/accidents/2026/news_733773/" id="bx_2028803284_733773">
+		
+		            <span class="ttl">Семиклассник ранил сверстника ножом в СОШ №1 Александровска Прикамья</span>
+		
+					<time class="news-date-time" datetime="2026-02-19T08:19:00+03:00">19.02.2026 — 08:19</time>
+		
+                    <span class="region">Регион: Пермь</span>
+        
+	</a>
+		<a class="news-item" href="/news/accidents/2026/news_733771/" id="bx_2028803284_733771">
+		
+		            <span class="ttl">Банковский работник в Перми оформил на клиентов кредиты на 10 млн рублей</span>
+		
+					<time class="news-date-time" datetime="2026-02-18T18:48:00+03:00">18.02.2026 — 18:48</time>
+		
+                    <span class="region">Регион: Пермь</span>
+        
+	</a>
+		<a class="news-item" href="/news/accidents/2026/news_733762/" id="bx_2028803284_733762">
+		
+		            <span class="ttl">Уголовное дело экс-гендиректора &quot;Саратовгорэлектротранс&quot; передано в суд</span>
+		
+					<time class="news-date-time" datetime="2026-02-18T17:27:00+03:00">18.02.2026 — 17:27</time>
+		
+                    <span class="region">Регион: Саратов</span>
+        
+	</a>
+</div>
+<!--'end_frame_cache_f1psqu'--></section>
+</div>
+
+
+<div class="nta-banner nta-banner-horizontal">
+<!--'start_frame_cache_xTYh8o'--><div id="adfox_16741969458563773" class="banner-desktop"></div>
+<!--'end_frame_cache_xTYh8o'--></div>
+
+
+
+
+
+
+<!--'start_frame_cache_BaBFMq'--><!--'end_frame_cache_BaBFMq'--></article>
+</div>
+</main>
+<!-- LEFT -->
+<div class="left" id="leftPanel">
+	<a href="/"  class="logo" data-tel="+7 (831) 2960-920">ИА «НТА Приволжье»</a>
+    
+
+<div class="nta-region-change">
+    <div class="nx_region_list nx-region-popup">
+        <div class='current_office' data-id="14">
+            <!--'start_frame_cache_u'-->            <u>Нижний Новгород</u>
+            <!--'end_frame_cache_u'-->        </div>
+        <select name="nx_rid" id="nx_current_office" class="s-hidden">
+                            <option value="14" selected="selected">Нижний Новгород</option>
+                            <option value="13" >Башкирия</option>
+                            <option value="9" >Киров</option>
+                            <option value="12" >Марий Эл</option>
+                            <option value="1" >Мордовия</option>
+                            <option value="3" >Оренбург</option>
+                            <option value="6" >Пенза</option>
+                            <option value="7" >Пермь</option>
+                            <option value="5" >Самара</option>
+                            <option value="10" >Саратов</option>
+                            <option value="4" >Татарстан</option>
+                            <option value="8" >Удмуртия</option>
+                            <option value="11" >Ульяновск</option>
+                            <option value="2" >Чувашия</option>
+                            <option value="" ></option>
+                    </select>
+    </div>
+</div>
+
+	<div class="menu-block">
+
+	<nav class="navigation nx-rubrics to-nx-nav">
+	<ul class="left-menu">
+		<li><a href="/news/" class="newsline">Лента новостей</a></li>
+	</ul>
+	<ul class="left-menu">
+			<li><a href="/news/politics/" class="politics">Политика и власть</a></li>
+				<li><a href="/news/society/" class="society">Общество</a></li>
+				<li><a href="/news/economy/" class="economy">Экономика и бизнес</a></li>
+				<li><a href="/news/industry/" class="industry">Промышленность</a></li>
+				<li><a href="/news/jkh/" class="jkh">ЖКХ</a></li>
+				<li><a href="/news/culture/" class="culture">Культура</a></li>
+				<li><a href="/news/sport/" class="sport">Спорт</a></li>
+				<li><a href="/news/accidents/" class="accidents">Криминал</a></li>
+				<li><a href="/news/region52/" class="region52">Регион 52</a></li>
+	</ul>
+    </nav>
+    <nav class="navigation to-nx-nav">
+	<ul class="left-menu">
+			<li><a href="/comments/" class="">Комментарии</a></li>
+				<li><a href="/rating/" class="">Рейтинги</a></li>
+				<li><a href="/exclusive/" class="">Интервью</a></li>
+				<li><a href="/analitika/" class="">Аналитика</a></li>
+				<li><a href="/photo/" class="">Фоторепортажи</a></li>
+				<li><a href="/conf/" class="">Конференции</a></li>
+	</ul>
+    </nav>
+
+    
+    <nav class="navigation nx-redaction to-nx-nav">
+	<ul class="left-menu">
+			<li><a href="/about/" class="">О редакции</a></li>
+				<li><a href="/advertising/" class="">Реклама</a></li>
+				<li><a href="/politika/" class="">Политика конфиденциальности</a></li>
+				<li><a href="/agreement/" class="">Согласие на обработку персональных данных</a></li>
+	</ul>
+    </nav>
+	</div>
+
+    <div class="to-nx-info">
+        <div class="noic">
+            <a href="https://xn--h1ajd7a.xn--p1ai/" target="_blank" rel="nofollow">
+                <div class="header-bottom__info"></div>
+            </a>
+            <span id="infoMenu" class="header-bottom__icon header-bottom__btn"></span>
+        </div>
+
+        <div id="infoMenuWrapper" class="header-bottom__modalinfo">
+            <div class="header-bottom__newspapers">
+                <a class="header-newspapers header-newspapers__old" href="https://pravda-nn.ru/editions/" target="_blank" rel="nofollow"></a>
+                <a class="header-newspapers header-newspapers__com" href="https://www.nnov.kp.ru/" target="_blank" rel="nofollow"></a>
+                <a class="header-newspapers header-newspapers__nia" href="https://www.niann.ru/" target="_blank" rel="nofollow"></a>
+                <a class="header-newspapers header-newspapers__nta" href="https://nta-pfo.ru/" target="_blank"></a>
+                                <a class="header-newspapers header-newspapers__new" href="https://pravda-nn.ru/" target="_blank" rel="nofollow"></a>
+                <a class="header-newspapers header-newspapers__case" href="https://pravda-nn.ru/delonn/" target="_blank" rel="nofollow"></a>
+                <a class="header-newspapers header-newspapers__sport" href="https://pravda-nn.ru/sport/" target="_blank" rel="nofollow"></a>
+                <a class="header-newspapers header-newspapers__news" href="https://www.nnews.nnov.ru/" target="_blank" rel="nofollow"></a>
+                <a class="header-newspapers header-newspapers__earth" href="https://zem-nn.ru/" target="_blank" rel="nofollow"></a>
+            </div>
+        </div>
+    </div>
+
+	<div class="search-form">
+	<form action="/search/index.php" id="NXsearchForm">
+		<input type="text"   name="q"   class="sinpt" placeholder="Поиск по сайту"  value="">
+		<input type="submit" name="s"   class="sbtn" value="Поиск">
+	</form>
+	</div>	
+
+	<span class="toggle-menu"></span>
+	
+</div>
+
+
+
+
+<!-- RIGHT -->
+</div>
+
+	
+
+<!-- FOOTER -->
+<footer class="footer" itemscope itemtype="http://schema.org/Organization">
+	<div class="container-footer">
+	<p>Copyright © ГАУ НО «НОИЦ»<br />
+        Сетевое издание «Новое телеграфное агентство Приволжье» (<span itemprop="name">«НТА-Приволжье»</span>)  |  <span class="copy-data">2002</span>
+	</p>
+		<p>Учредитель — Государственное автономное учреждение Нижегородской области</br>«Нижегородский областной информационный центр»</br>
+	Главный редактор — Колотушкина Оксана Григорьевна</br>
+    Телефон: <span itemprop="telephone">(831) 233-94-53</span></br>
+    E-mail: <a href="mailto:info@nta-nn.ru" rel="nofollow" itemprop="email">info@nta-nn.ru</a></br>
+    Адрес: 603006, Нижегородская область, г. Нижний Новгород. ул. М.Горького, д.151Б, пом. 5</p>
+	<div class="copy">
+		<div class="counters">
+		<!-- Yandex.Metrika informer --><a href="https://metrika.yandex.ru/stat/?id=5016466&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/5016466/3_0_FFFFFFFF_E6E6FAFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="5016466" data-lang="ru" /></a> <!-- /Yandex.Metrika informer -->
+		</div>
+		<p>
+            Реестровая  запись СМИ ЭЛ № ФС 77 - 80120 от 31.12.2020 г.<br />
+			Выдана Федеральной службой по надзору в сфере связи,<br />
+		   информационных технологий и массовых коммуникаций (РОСКОМНАДЗОР)
+		</p>
+		<p>При любом использовании материалов сайта гиперссылка (hyperlink) на «НТА-Приволжье» обязательна.</p>
+	</div>
+	</div>
+</footer>
+<div class="social-bar">
+	<div class="container-footer">
+	<nav class="nav-social to-social-nav">
+				<a class="tg" title="Телеграмм" href="https://t.me/ntapfo" target="_blank">Телеграмм</a>
+		<a class="vk" title="Мы ВКонтакте" href="https://vk.ru/nta_nn" target="_blank">ВКонтакте</a>
+        <a class="dz" title="Мы в Дзене" href="https://dzen.ru/ntapforu" target="_blank">Дзен</a>
+		<a class="rss" title="Подписаться на RSS" href="/rss/" target="_blank">RSS</a>
+	</nav>
+	<a href="http://www.imageprom.com" target="_blank" class="ip">Разработка сайта <strong>РА «Имиджпром»</strong></a>
+	</div>
+</div> 
+<span class="nx_today">19 февраля <span id="NxCTime"></span></span>
+<!--'start_frame_cache_my_dynamic'--><!--'end_frame_cache_my_dynamic'-->
+
+
+<div class="block-cookie nx-flex-row-c-c">
+	<div class="text-cookie">
+        Используя сайт nta-pfo.ru, Вы соглашаетесь с использованием файлов cookie, которые указаны в
+	<a href="/politika/">Политике обработки персональных данных</a></div>
+	<button class="btn btn-green">OK</button>
+</div>
+
+<script>if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script>(window.BX||top.BX).message({"JS_CORE_LOADING":"Загрузка...","JS_CORE_NO_DATA":"- Нет данных -","JS_CORE_WINDOW_CLOSE":"Закрыть","JS_CORE_WINDOW_EXPAND":"Развернуть","JS_CORE_WINDOW_NARROW":"Свернуть в окно","JS_CORE_WINDOW_SAVE":"Сохранить","JS_CORE_WINDOW_CANCEL":"Отменить","JS_CORE_WINDOW_CONTINUE":"Продолжить","JS_CORE_H":"ч","JS_CORE_M":"м","JS_CORE_S":"с","JSADM_AI_HIDE_EXTRA":"Скрыть лишние","JSADM_AI_ALL_NOTIF":"Показать все","JSADM_AUTH_REQ":"Требуется авторизация!","JS_CORE_WINDOW_AUTH":"Войти","JS_CORE_IMAGE_FULL":"Полный размер"});</script><script src="/bitrix/js/main/core/core.min.js?1768823092242882"></script><script>BX.Runtime.registerExtension({"name":"main.core","namespace":"BX","loaded":true});</script>
+<script>BX.setJSList(["\/bitrix\/js\/main\/core\/core_ajax.js","\/bitrix\/js\/main\/core\/core_promise.js","\/bitrix\/js\/main\/polyfill\/promise\/js\/promise.js","\/bitrix\/js\/main\/loadext\/loadext.js","\/bitrix\/js\/main\/loadext\/extension.js","\/bitrix\/js\/main\/polyfill\/promise\/js\/promise.js","\/bitrix\/js\/main\/polyfill\/find\/js\/find.js","\/bitrix\/js\/main\/polyfill\/includes\/js\/includes.js","\/bitrix\/js\/main\/polyfill\/matches\/js\/matches.js","\/bitrix\/js\/ui\/polyfill\/closest\/js\/closest.js","\/bitrix\/js\/main\/polyfill\/fill\/main.polyfill.fill.js","\/bitrix\/js\/main\/polyfill\/find\/js\/find.js","\/bitrix\/js\/main\/polyfill\/matches\/js\/matches.js","\/bitrix\/js\/main\/polyfill\/core\/dist\/polyfill.bundle.js","\/bitrix\/js\/main\/core\/core.js","\/bitrix\/js\/main\/polyfill\/intersectionobserver\/js\/intersectionobserver.js","\/bitrix\/js\/main\/lazyload\/dist\/lazyload.bundle.js","\/bitrix\/js\/main\/polyfill\/core\/dist\/polyfill.bundle.js","\/bitrix\/js\/main\/parambag\/dist\/parambag.bundle.js"]);
+</script>
+<script>BX.Runtime.registerExtension({"name":"ui.dexie","namespace":"BX.DexieExport","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"fc","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"pull.protobuf","namespace":"BX","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"rest.client","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"pull_server_enabled":"N","pull_config_timestamp":0,"shared_worker_allowed":"Y","pull_guest_mode":"N","pull_guest_user_id":0,"pull_worker_mtime":1746025132});(window.BX||top.BX).message({"PULL_OLD_REVISION":"Для продолжения корректной работы с сайтом необходимо перезагрузить страницу."});</script>
+<script>BX.Runtime.registerExtension({"name":"pull.client","namespace":"BX","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"pull","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"LANGUAGE_ID":"ru","FORMAT_DATE":"DD.MM.YYYY","FORMAT_DATETIME":"DD.MM.YYYY HH:MI:SS","COOKIE_PREFIX":"BITRIX_SM","SERVER_TZ_OFFSET":"10800","UTF_MODE":"Y","SITE_ID":"s1","SITE_DIR":"\/","USER_ID":"","SERVER_TIME":1771524915,"USER_TZ_OFFSET":0,"USER_TZ_AUTO":"Y","bitrix_sessid":"95b474f6c825e9d765c8a1b15049a9c0"});</script><script src="/bitrix/js/ui/dexie/dist/dexie.bundle.min.js?1750674774102530"></script>
+<script src="/bitrix/js/main/core/core_frame_cache.min.js?176882309210214"></script>
+<script src="/bitrix/js/pull/protobuf/protobuf.js?1604405331274055"></script>
+<script src="/bitrix/js/pull/protobuf/model.min.js?160440533114190"></script>
+<script src="/bitrix/js/rest/client/rest.client.min.js?16044053609240"></script>
+<script src="/bitrix/js/pull/client/pull.client.min.js?174602513349849"></script>
+<script>BX.setJSList(["\/local\/templates\/nta\/jquery-1.12.0.min.js","\/local\/templates\/nta\/jquery-migrate-1.2.1.min.js","\/local\/templates\/nta\/jquery-ui-1.12.1.custom.min.js","\/local\/templates\/nta\/modernizr.js","\/local\/templates\/nta\/jquery.fitvids.js","\/local\/templates\/nta\/nx_plugins.js","\/local\/templates\/nta\/hyphenate.js","\/local\/templates\/nta\/jquery.mCustomScrollbar.concat.min.js","\/local\/templates\/.default\/components\/ip\/mailform_4.8\/nta_ajax\/script.js","\/local\/templates\/.default\/components\/ip\/nx_gallery_3.7\/.default\/script.js","\/local\/components\/ip\/nx_gallery_3.7\/jquery.fancybox.min.js","\/local\/templates\/.default\/components\/ip\/nx_region\/nta_1.0\/script.js","\/local\/templates\/.default\/components\/bitrix\/advertising.banner\/nta-head\/script.js","\/local\/templates\/.default\/components\/ip\/nx.plugin\/nta_1.0_cookie_1.0\/script.js"]);</script>
+<script>BX.setCSSList(["\/local\/templates\/.default\/components\/ip\/nx.hib.news\/nta-news-of-the-day_2.0\/style.css","\/local\/templates\/.default\/components\/ip\/nx.hib.news\/nta-news-list-simple\/style.css","\/local\/templates\/.default\/components\/bitrix\/advertising.banner\/nta-left\/style.css","\/local\/templates\/.default\/components\/ip\/nx.hib.news\/nta-day_2.0\/style.css","\/local\/templates\/.default\/components\/ip\/nx.section.line\/nta-conf_2.0\/style.css","\/local\/templates\/.default\/components\/bitrix\/news.line\/nta-exclusive_2.0\/style.css","\/local\/templates\/.default\/components\/ip\/nx.hib.news\/nta-photo\/style.css","\/local\/templates\/.default\/components\/bitrix\/news.line\/nta-comments_2.0\/style.css","\/local\/templates\/.default\/components\/ip\/nx.hib.news\/nta-main-vertical_2.0\/style.css","\/local\/templates\/.default\/components\/ip\/mailform_4.8\/nta_ajax\/style.css","\/local\/templates\/nta\/jquery-ui.min.css","\/local\/templates\/nta\/jquery-ui.theme.min.css","\/local\/templates\/nta\/jquery.mCustomScrollbar.css","\/local\/templates\/.default\/components\/ip\/nx_gallery_3.7\/.default\/style.css","\/local\/components\/ip\/nx_gallery_3.7\/jquery.fancybox.css","\/local\/templates\/.default\/components\/ip\/nx_region\/nta_1.0\/style.css","\/local\/templates\/.default\/components\/bitrix\/advertising.banner\/nta-head\/style.css","\/local\/templates\/.default\/components\/bitrix\/menu\/nta\/style.css","\/local\/templates\/.default\/components\/ip\/nx.plugin\/nta_1.0_cookie_1.0\/style.css","\/local\/templates\/nta\/styles.css","\/local\/templates\/nta\/template_styles.css"]);</script>
+<script>
+					(function () {
+						"use strict";
+
+						var counter = function ()
+						{
+							var cookie = (function (name) {
+								var parts = ("; " + document.cookie).split("; " + name + "=");
+								if (parts.length == 2) {
+									try {return JSON.parse(decodeURIComponent(parts.pop().split(";").shift()));}
+									catch (e) {}
+								}
+							})("BITRIX_CONVERSION_CONTEXT_s1");
+
+							if (cookie && cookie.EXPIRE >= BX.message("SERVER_TIME"))
+								return;
+
+							var request = new XMLHttpRequest();
+							request.open("POST", "/bitrix/tools/conversion/ajax_counter.php", true);
+							request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+							request.send(
+								"SITE_ID="+encodeURIComponent("s1")+
+								"&sessid="+encodeURIComponent(BX.bitrix_sessid())+
+								"&HTTP_REFERER="+encodeURIComponent(document.referrer)
+							);
+						};
+
+						if (window.frameRequestStart === true)
+							BX.addCustomEvent("onFrameDataReceived", counter);
+						else
+							BX.ready(counter);
+					})();
+				</script>
+
+
+
+<script  src="/bitrix/cache/js/s1/nta/template_e04cd286a42c089d7d2bd9334e8f0ddb/template_e04cd286a42c089d7d2bd9334e8f0ddb_v1.js?1768825786550946"></script>
+
+
+<script>window.yaContextCb = window.yaContextCb || []</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.Context.AdvManager.render({
+            "blockId": "R-A-2342442-22",
+            "type": "floorAd"
+        })
+    })
+</script>
+
+<script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "3380340", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+        ts.src = "https://top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "tmr-code");
+</script>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.Context.AdvManager.render({
+            'blockId': 'R-A-2342442-41',
+            'type': 'fullscreen',
+            'platform': 'touch'
+        })
+    })
+</script>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_167419668094482941',
+            params: {
+                p1: 'cwylu',
+                p2: 'iapk'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_16758825142543295',
+            params: {
+                p1: 'cxfhs',
+                p2: 'ibnx'
+            }
+        })
+    })
+</script><script defer type='text/javascript' src="/local/templates/nta/createjs-2015.11.26.min.js"></script>
+<script type='text/javascript' src='/upload/js/pfrf.js'></script>
+
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_167154355422661844',
+            params: {
+                p1: 'cwsia',
+                p2: 'hzfb'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_167154359459982290',
+            params: {
+                p1: 'cwsib',
+                p2: 'hzfb'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_167419693016822300',
+            params: {
+                p1: 'cwyma',
+                p2: 'iapl'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_167588261706045592',
+            params: {
+                p1: 'cxfht',
+                p2: 'ibny'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_167154361874853288',
+            params: {
+                p1: 'cwsic',
+                p2: 'hzfb'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_167154364010319205',
+            params: {
+                p1: 'cwsid',
+                p2: 'hzfb'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_167154366791211282',
+            params: {
+                p1: 'cwsie',
+                p2: 'hzfb'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_16741967744805476',
+            params: {
+                p1: 'cwylv',
+                p2: 'iapm'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_167154369370977980',
+            params: {
+                p1: 'cwsif',
+                p2: 'hzfb'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_167154371583389367',
+            params: {
+                p1: 'cwsig',
+                p2: 'hzfb'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_167419701071198809',
+            params: {
+                p1: 'cwylw',
+                p2: 'iapn'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_167588281217693382',
+            params: {
+                p1: 'cxfhu',
+                p2: 'ibnz'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_167154373649646789',
+            params: {
+                p1: 'cwsih',
+                p2: 'hzfb'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_167239046175944644',
+            params: {
+                p1: 'cwuli',
+                p2: 'hzfb'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_167419699114019752',
+            params: {
+                p1: 'cwylx',
+                p2: 'iapo'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_167588290837267146',
+            params: {
+                p1: 'cxfhv',
+                p2: 'iboa'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_167239152229321053',
+            params: {
+                p1: 'cwulk',
+                p2: 'hzfb'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_167239163882477642',
+            params: {
+                p1: 'cwull',
+                p2: 'hzfb'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_167419696424679217',
+            params: {
+                p1: 'cwyly',
+                p2: 'iapp'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_167419631536394665',
+            params: {
+                p1: 'cwulm',
+                p2: 'hzfb'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_167419639637775747',
+            params: {
+                p1: 'cwuln',
+                p2: 'hzfb'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_167419643651356608',
+            params: {
+                p1: 'cwulo',
+                p2: 'hzfb'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_1674196490713235',
+            params: {
+                p1: 'cwulq',
+                p2: 'hzfb'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_167419646745892933',
+            params: {
+                p1: 'cwulp',
+                p2: 'hzfb'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_167419652797254440',
+            params: {
+                p1: 'cwulr',
+                p2: 'hzfb'
+            }
+        })
+    })
+</script><script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 711924,
+            containerId: 'adfox_16741969458563773',
+            params: {
+                p1: 'cwylz',
+                p2: 'iapq'
+            }
+        })
+    })
+</script></body></html>
+

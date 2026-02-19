@@ -1,0 +1,2008 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1240">
+    <title>Пятый канал - Главные новости России и мира сегодня</title>
+    <link href="https://img5tv.cdnvideo.ru/shared/fonts/ptsans.css?fc2ed9540cb99128ad5c7da3a5332fc20029db8e" rel="stylesheet">
+    <meta name="description" content="Один из лидеров информационного вещания и поставщик качественного сериального контента. Успешные форматы и проекты канала информируют, развлекают и помогают миллионам телезрителей."/>
+    <meta name="keywords" content="пятый канал след программы расписание онлайн прямая трансляция"/>
+    <meta name="adriverOptions" content="autoLoad:1">
+    <meta name=“zen-verification” content=“zRVsSUparZRzxVewY0suLPuyGs8i55QtGcRCX0oZjlyq6flkqnngwAv9SQ1q9K70” />
+            <link rel="canonical" href="https://www.5-tv.ru/">
+        <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.5-tv.ru/">
+        <link rel="preconnect" href="https://lentainform-sync.rutarget.ru">
+<link rel="preconnect" href="https://ysa-static.passport.yandex.ru">
+<link rel="preconnect" href="https://yastatic.net">
+<link rel="preconnect" href="https://www.gstatic.com">
+    <link rel="preconnect" href="https://gum.criteo.com">
+    <link rel="preconnect" href="https://matchid.adfox.yandex.ru">
+    <link rel="preconnect" href="https://ads.adfox.ru">
+    <link rel="preconnect" href="https://ssp.adriver.ru">
+    <link rel="preconnect" href="https://banner.hpmdnetwork.ru">
+    <link rel="preconnect" href="https://ad.mail.ru">
+    <link rel="preconnect" href="https://pb.adriver.ru">
+
+    <link rel="stylesheet" type="text/css" href="https://img5tv.cdnvideo.ru/shared/minify.php?fc2ed9540cb99128ad5c7da3a5332fc20029db8e&amp;files=/shared/css/styles.css,/shared/js/fe/jquery-ui/jquery-ui.css,/shared/css/fancybox/jquery.fancybox.css,/shared/css/magic.css" />        <script>
+        dataLayer = [];
+    </script>
+            <meta property="fb:pages" content="792124924206675"/>            <meta property="og:site_name" content="Пятый канал - Главные новости России и мира сегодня"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:image" content="https://img5tv.cdnvideo.ru/shared/files/201703/2807_459832.png"/>
+        <meta name="twitter:image" content="https://img5tv.cdnvideo.ru/shared/files/201703/2807_459832.png">
+        <meta property="og:url" content="https://www.5-tv.ru/"/>
+        <meta name='Petal-Search-site-verification' content='3cfd0f4b82'/>
+    <meta name="twitter:description" content="">
+            <link rel="shortcut icon" href="https://img5tv.cdnvideo.ru/shared/img/favicon_24.png">
+    <meta name="theme-color" content="#c10027">
+
+    
+                                <meta name="yandex-verification" content="ee46f4c96d4d9d6c" />                <!-- yandex -->
+    <script type="text/javascript" charset="utf-8" src="https://yandex.ru/ads/system/adsdk.js"></script>
+
+    <script type="text/javascript" src="https://vk.com/js/api/openapi.js?158"></script>
+    <script type="text/javascript">!function () {
+            var t = document.createElement("script");
+            t.type = "text/javascript", t.async = !0, t.src = "https://vk.com/js/api/openapi.js?160", t.onload = function () {
+                VK.Retargeting.Init("VK-RTRG-310991-8mCGm"), VK.Retargeting.Hit()
+            }, document.head.appendChild(t)
+        }();</script>
+    <noscript><img src="https://vk.com/rtrg?p=VK-RTRG-310991-8mCGm" style="position:fixed; left:-999px;" alt=""/></noscript>
+    <style>
+            .fp-twitter:before {
+              content: "\e00c";
+              color: transparent;
+              background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M20 7.539a6.56 6.56 0 0 1-1.885.517 3.294 3.294 0 0 0 1.443-1.816 6.575 6.575 0 0 1-2.085.796 3.283 3.283 0 0 0-5.593 2.994A9.32 9.32 0 0 1 5.114 6.6a3.28 3.28 0 0 0 1.016 4.382 3.274 3.274 0 0 1-1.487-.41v.041a3.285 3.285 0 0 0 2.633 3.218 3.305 3.305 0 0 1-1.482.056 3.286 3.286 0 0 0 3.066 2.28A6.585 6.585 0 0 1 4 17.524 9.291 9.291 0 0 0 9.032 19c6.038 0 9.34-5 9.34-9.337 0-.143-.004-.285-.01-.425A6.672 6.672 0 0 0 20 7.538z' fill='%23FFF' fill-rule='evenodd'/%3E%3C/svg%3E");
+            }
+
+            .fp-facebook:before {
+              content: "\e00a";
+              color: transparent;
+              background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M13.423 20v-7.298h2.464l.369-2.845h-2.832V8.042c0-.824.23-1.385 1.417-1.385h1.515V4.111A20.255 20.255 0 0 0 14.148 4c-2.183 0-3.678 1.326-3.678 3.76v2.097H8v2.845h2.47V20h2.953z' fill='%23FFF' fill-rule='evenodd'/%3E%3C/svg%3E");
+            }
+
+            .fp-vk:before {
+              content: "\e00c";
+              color: transparent;
+              background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12.878 17.304c-5.411 0-8.695-3.755-8.823-9.994h2.74c.086 4.583 2.171 6.528 3.77 6.925V7.31h2.627v3.954c1.542-.17 3.155-1.97 3.698-3.954h2.584c-.414 2.441-2.17 4.24-3.412 4.983 1.242.6 3.24 2.17 4.011 5.01h-2.84c-.6-1.898-2.07-3.369-4.04-3.569v3.57h-.315Z' fill='%23fff'/%3E%3C/svg%3E");
+            }
+
+            .fp-ok:before {
+              content: "\e00c";
+              color: transparent;
+              background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11.674 6.536a1.69 1.69 0 00-1.688 1.688c0 .93.757 1.687 1.688 1.687a1.69 1.69 0 001.688-1.687 1.69 1.69 0 00-1.688-1.688zm0 5.763a4.08 4.08 0 01-4.076-4.075 4.08 4.08 0 014.076-4.077 4.08 4.08 0 014.077 4.077 4.08 4.08 0 01-4.077 4.075zm-1.649 3.325a7.633 7.633 0 01-2.367-.98 1.194 1.194 0 011.272-2.022 5.175 5.175 0 005.489 0 1.194 1.194 0 111.272 2.022 7.647 7.647 0 01-2.367.98l2.279 2.28a1.194 1.194 0 01-1.69 1.688l-2.238-2.24-2.24 2.24a1.193 1.193 0 11-1.689-1.689l2.279-2.279' fill='%23FFF' fill-rule='evenodd'/%3E%3C/svg%3E");
+            }
+
+            .fp-tg:before {
+              content: "\e00c";
+              color: transparent;
+              background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M18.92 6.089L4.747 11.555c-.967.388-.962.928-.176 1.168l3.534 1.104 1.353 4.146c.164.454.083.634.56.634.368 0 .53-.168.736-.368.13-.127.903-.88 1.767-1.719l3.677 2.717c.676.373 1.165.18 1.333-.628l2.414-11.374c.247-.99-.378-1.44-1.025-1.146zM8.66 13.573l7.967-5.026c.398-.242.763-.112.463.154l-6.822 6.155-.265 2.833-1.343-4.116z' fill='%23FFF' fill-rule='evenodd'/%3E%3C/svg%3E");
+            }
+
+            .flowplayerInsideShare .shareIcon._vk {
+              background-color: #07f;
+              background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12.878 17.304c-5.411 0-8.695-3.755-8.823-9.994h2.74c.086 4.583 2.171 6.528 3.77 6.925V7.31h2.627v3.954c1.542-.17 3.155-1.97 3.698-3.954h2.584c-.414 2.441-2.17 4.24-3.412 4.983 1.242.6 3.24 2.17 4.011 5.01h-2.84c-.6-1.898-2.07-3.369-4.04-3.569v3.57h-.315Z' fill='%23fff'/%3E%3C/svg%3E");
+            }
+            .flowplayerInsideShare .shareIcon._tg {
+              background-color: #64a9dc;
+              background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M18.92 6.089L4.747 11.555c-.967.388-.962.928-.176 1.168l3.534 1.104 1.353 4.146c.164.454.083.634.56.634.368 0 .53-.168.736-.368.13-.127.903-.88 1.767-1.719l3.677 2.717c.676.373 1.165.18 1.333-.628l2.414-11.374c.247-.99-.378-1.44-1.025-1.146zM8.66 13.573l7.967-5.026c.398-.242.763-.112.463.154l-6.822 6.155-.265 2.833-1.343-4.116z' fill='%23FFF' fill-rule='evenodd'/%3E%3C/svg%3E");
+            }
+            .flowplayerInsideShare .shareIcon._ok {
+              background-color: #eb722e;
+              background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11.674 6.536a1.69 1.69 0 00-1.688 1.688c0 .93.757 1.687 1.688 1.687a1.69 1.69 0 001.688-1.687 1.69 1.69 0 00-1.688-1.688zm0 5.763a4.08 4.08 0 01-4.076-4.075 4.08 4.08 0 014.076-4.077 4.08 4.08 0 014.077 4.077 4.08 4.08 0 01-4.077 4.075zm-1.649 3.325a7.633 7.633 0 01-2.367-.98 1.194 1.194 0 011.272-2.022 5.175 5.175 0 005.489 0 1.194 1.194 0 111.272 2.022 7.647 7.647 0 01-2.367.98l2.279 2.28a1.194 1.194 0 01-1.69 1.688l-2.238-2.24-2.24 2.24a1.193 1.193 0 11-1.689-1.689l2.279-2.279' fill='%23FFF' fill-rule='evenodd'/%3E%3C/svg%3E");
+            }
+            .flowplayerInsideShare .shareIcon._tw {
+              background-color: #00aced;
+              background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M20 7.539a6.56 6.56 0 0 1-1.885.517 3.294 3.294 0 0 0 1.443-1.816 6.575 6.575 0 0 1-2.085.796 3.283 3.283 0 0 0-5.593 2.994A9.32 9.32 0 0 1 5.114 6.6a3.28 3.28 0 0 0 1.016 4.382 3.274 3.274 0 0 1-1.487-.41v.041a3.285 3.285 0 0 0 2.633 3.218 3.305 3.305 0 0 1-1.482.056 3.286 3.286 0 0 0 3.066 2.28A6.585 6.585 0 0 1 4 17.524 9.291 9.291 0 0 0 9.032 19c6.038 0 9.34-5 9.34-9.337 0-.143-.004-.285-.01-.425A6.672 6.672 0 0 0 20 7.538z' fill='%23FFF' fill-rule='evenodd'/%3E%3C/svg%3E");
+            }
+            .fixedMpBlock.is_stuck>.marginTopDoubleBase {
+                margin-top: 6rem !important;
+            }
+        </style>
+            <link rel="preload" href="//static.criteo.net/js/ld/publishertag.js" as="script" crossorigin="anonymous">
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    var adfoxBiddersMap = {
+        "adriver": "807287",
+        "adfox_adsmart": "1368588",
+        "sape": "2372133",
+        "bidvol": "1755591",
+        "hybrid": "2979094"
+    };
+    var adUnits = [
+        {
+            "code": "adfox_151870552923786315",
+            "bids": [
+                {"bidder": "adriver", "params": {"placementId": "30:5-tv_240x400"}},
+                {"bidder": "bidvol", "params": {"placementId": "37200"}},
+                {"bidder": "sape", "params": {"placementId": "836034"}},
+                {"bidder": "hybrid", "params": {"placementId": "6602ab137bc72f23c0325b20"}},
+                {"bidder": "adfox_adsmart", "params": {
+                        "p1": "cqgux",
+                        "p2": "hhrn"
+                    }}
+            ],
+            "sizes": [[240,400],[300,600]]
+        },
+        {
+            "code": "adfox_151870369628995072",
+            "bids": [
+                {"bidder": "adriver", "params": {"placementId": "30:5-tv_970x250_top"}},
+                {"bidder": "bidvol", "params": {"placementId": "37198"}},
+                {"bidder": "sape", "params": {"placementId": "836030"}},
+                {"bidder": "hybrid", "params": {"placementId": "6602ab137bc72f23c0325b21"}}
+            ],
+            "sizes": [[970,250],[728,250],[728,90],[990,90],[990,250]]
+        },
+        {
+            "code": "adfox_151870545996149227",
+            "bids": [
+                {"bidder": "adriver", "params": {"placementId": "30:5-tv_970x250_mid"}},
+                {"bidder": "bidvol", "params": {"placementId": "37199"}},
+                {"bidder": "sape", "params": {"placementId": "836033"}},
+                {"bidder": "hybrid", "params": {"placementId": "6602ab137bc72f23c0325b22"}},
+                {"bidder": "adfox_adsmart", "params": {
+                        "pp": "h",
+                        "ps": "czbm",
+                        "p2": "ul",
+                        "puid20": ""
+                    }}
+            ],
+            "sizes": [[970,250],[728,250],[728,90],[990,90],[990,250]]
+        },
+        {
+            "code": "adfox_161243445457797",
+            "codeType": "inpage",
+            "bids": [
+                {"bidder": "sape", "params": {"placementId": "836042"}},
+                {"bidder": "bidvol", "params": {"placementId": "37201"}}
+            ]
+        }
+
+    ];
+    var syncPixels = [{
+        bidder: "hybrid",
+        pixels: [
+            "https://www.tns-counter.ru/V13a****idsh_ad/ru/CP1251/tmsec=idsh_dis/",
+            "https://www.tns-counter.ru/V13a****idsh_vid/ru/CP1251/tmsec=idsh_5tvru-hbrdis/",
+            "https://mc.yandex.ru/watch/66716692?page-url=5tvru%3Futm_source=dis_hybrid_default%26utm_medium=%26utm_campaign=%26utm_content=%26utm_term=&page-ref="+window.location.href
+        ]
+    }];
+
+
+
+    var userTimeout = 2000;
+    window.YaHeaderBiddingSettings = {
+        biddersMap: adfoxBiddersMap,
+        adUnits: adUnits,
+        timeout: userTimeout,
+        syncPixels: syncPixels
+    };
+</script>
+<script>window.yaContextCb = window.yaContextCb || []</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>    
+    <script>
+        var adcm_config ={
+          id: 7154,
+          init: function () {
+			window.adcm.call();
+		}
+        };
+    </script>
+    <script src='https://tag.digitaltarget.ru/adcm.js' async></script>
+</head>
+
+<body class="">
+<script>var root = 'https://www.5-tv.ru/';
+    var vfsPath = 'https://img5tv.cdnvideo.ru/shared/files/';</script>
+                <div class="wrapper wrapperTypeNew">
+            
+            <div id="adbanner1">
+            <!--AdFox START-->
+<!--newctc-->
+<!--Площадка: BANNER web/mobile web / 5-tv.ru / 100%x250-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: Перетяжка-->
+<div id="adfox_151870369628995072"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 264443,
+        containerId: 'adfox_151870369628995072',
+            params: {puid21: '1',
+            p1: 'bzirv',
+            p2: 'fulf',
+            puid12: '186109',
+            puid4: '5-tv.ru'
+            }
+        }, ['desktop', 'tablet', 'phone'], {
+            tabletWidth: 830,
+            phoneWidth: 480,
+            isAutoReloads: false
+        })
+    })
+</script>        </div>
+    
+
+
+
+
+
+
+
+
+
+
+<div class="headerTypeNew2 headerFixer">
+    <header role="banner" class="header">
+        <nav role="navigation" class="nav" style="">
+        <div class="container" style="">
+                <div class="headerLogo">
+                    <div><a href="https://www.5-tv.ru/" data-dlevent="header-logo"><img src="https://img5tv.cdnvideo.ru/shared/img/logo_2023.svg" width="80" height="80" alt="Пятый канал"></a></div>
+                </div>
+                <div class="headerSide">
+                    <noindex>
+                        <p class="_links">
+                            <a href="https://dzen.ru/5-tv.ru?invite=true" target="_blank" rel="nofollow">
+                                <img src="https://img5tv.cdnvideo.ru/shared/img/icn_dz.svg?v=2" width="20" height="20" alt="Дзен">
+                            </a>
+                            <a href="http://vk.com/tv5" target="_blank" rel="nofollow" data-dlevent="header-social">
+                                <img src="https://img5tv.cdnvideo.ru/shared/img/icn_vk.svg?v=2" width="25" height="20" alt="ВКонтакте">
+                            </a>
+                            <a href="https://t.me/tv5ru" target="_blank" rel="nofollow">
+                                <img src="https://img5tv.cdnvideo.ru/shared/img/icn_tg.svg?v=2" width="20" height="20" alt="Телеграм">
+                            </a>
+                            <a href="https://rutube.ru/channel/23874664/" target="_blank" rel="nofollow">
+                                <img src="https://img5tv.cdnvideo.ru/shared/img/icn_rutube_new.svg" width="20" height="20" alt="Rutube">
+                            </a>
+                        </p>
+                    </noindex>
+                </div>
+                <div class="inputSearch"><a href="https://www.5-tv.ru/search/" rel="nofollow" title="Поиск"></a></div>
+                <div class="headerLive"><a href="https://www.5-tv.ru/live/" rel="tag" data-dlevent="header-live">Прямой эфир</a></div>
+                                    <div id="headerButton"><span></span></div>
+                                <ul class="mainNav" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+                                            
+                                                                                <li >
+                                <a href="https://www.5-tv.ru/news/"
+                                   target="_self"
+                                   rel="tag"
+                                   title="Новости"
+                                   itemprop="url"
+                                                                            data-dlevent="header-news"
+                                    >
+                                    <span itemprop="name">Новости</span>
+                                </a>
+                            </li>
+                                                                                <li >
+                                <a href="https://www.5-tv.ru/tabloid/"
+                                   target="_self"
+                                   rel="tag"
+                                   title="Таблоид"
+                                   itemprop="url"
+                                                                            data-dlevent="header-tabloid"
+                                    >
+                                    <span itemprop="name">Таблоид</span>
+                                </a>
+                            </li>
+                                                                                <li >
+                                <a href="https://www.5-tv.ru/ddd/"
+                                   target="_self"
+                                   rel="tag"
+                                   title="День добрых дел"
+                                   itemprop="url"
+                                    >
+                                    <span itemprop="name">День добрых дел</span>
+                                </a>
+                            </li>
+                                                                                <li >
+                                <a href="https://www.5-tv.ru/about/"
+                                   target="_self"
+                                   rel="tag"
+                                   title="О канале"
+                                   itemprop="url"
+                                    >
+                                    <span itemprop="name">О канале</span>
+                                </a>
+                            </li>
+                                                                                <li >
+                                <a href="https://www.5-tv.ru/projects/"
+                                   target="_self"
+                                   rel="tag"
+                                   title="Проекты"
+                                   itemprop="url"
+                                                                            data-dlevent="header-projects"
+                                    >
+                                    <span itemprop="name">Проекты</span>
+                                </a>
+                            </li>
+                                                                                <li >
+                                <a href="https://www.5-tv.ru/schedule/"
+                                   target="_self"
+                                   rel="tag"
+                                   title="Телепрограмма"
+                                   itemprop="url"
+                                                                            data-dlevent="header-teleprogramma"
+                                    >
+                                    <span itemprop="name">Телепрограмма</span>
+                                </a>
+                            </li>
+                                                            </ul>
+            </div>
+        </nav>
+    </header>
+    <div class="inputSearchDropdown">
+        <form action="https://www.5-tv.ru/search/">
+            <input type="text" name="q">
+            <button type="submit"></button>
+        </form>
+    </div>
+            <div class="mainMenuDropdown" style="display: none;">
+            <div class="container">
+                <div class="row">
+                                                                <div class="col3">
+                                                            
+                                    <h4><a class="cBack" href="/projects/">Проекты</a></h4>
+                                    <ul class="flatList antiTopHalfBase">
+                                                                                    <li><a href="https://www.5-tv.ru/projects/1000152/otlicnaa-zizn/" title="">ОтЛичная жизнь</a></li>
+                                                                                    <li><a href="https://www.5-tv.ru/projects/1000102/alye-parusa/" title="">Алые паруса</a></li>
+                                                                                    <li><a href="https://www.5-tv.ru/projects/1000094/izvestia/" title="">Известия</a></li>
+                                                                                    <li><a href="https://www.5-tv.ru/projects/1000095/izvestia-glavnoe/" title="">Известия. Главное</a></li>
+                                                                                    <li><a href="https://www.5-tv.ru/projects/1000097/den-dobryh-del/" title="">День добрых дел</a></li>
+                                                                                    <li><a href="https://www.5-tv.ru/projects/1000096/den-angela/" title="">День ангела</a></li>
+                                                                                    <li><a href="https://www.5-tv.ru/projects/1000154/oni-potrasli-mir/" title="">Они потрясли мир</a></li>
+                                                                                    <li><a href="https://www.5-tv.ru/projects/1000098/svetskaa-hronika/" title="">Светская хроника</a></li>
+                                                                                    <li><a href="https://www.5-tv.ru/projects/1000148/znanie-sila/" title="">Знание-сила</a></li>
+                                                                                    <li><a href="https://www.5-tv.ru/projects/1000100/moe-rodnoe/" title="">Моё родное</a></li>
+                                                                            </ul>
+                                                                                            
+                                    <h4><a class="cBack" href="/about/">О канале</a></h4>
+                                    <ul class="flatList antiTopHalfBase">
+                                                                                    <li><a href="https://www.5-tv.ru/about/today/" title="">Пятый сегодня</a></li>
+                                                                                    <li><a href="https://www.5-tv.ru/news/channel-news/" title="">Новости канала</a></li>
+                                                                                    <li><a href="https://www.5-tv.ru/about/press/" title="">Пресса о канале</a></li>
+                                                                                    <li><a href="https://www.5-tv.ru/about/rss/" title="">RSS-потоки</a></li>
+                                                                                    <li><a href="https://m.5-tv.ru/" title="">Мобильная версия</a></li>
+                                                                                    <li><a href="https://mbs.media/ " title="">Вещание в России и за рубежом</a></li>
+                                                                            </ul>
+                                                                                    </div>
+                                            <div class="col3">
+                                                            
+                                    <h4><a class="cBack" href="/films/">Кино и сериалы</a></h4>
+                                    <ul class="flatList antiTopHalfBase">
+                                                                                    <li><a href="https://www.5-tv.ru/projects/1000117/sled/" title="">След</a></li>
+                                                                                    <li><a href="https://www.5-tv.ru/projects/1000115/uslovnyj-ment/" title="">Условный мент</a></li>
+                                                                                    <li><a href="https://www.5-tv.ru/projects/1000112/bars/" title="">Барс</a></li>
+                                                                                    <li><a href="https://www.5-tv.ru/projects/1000113/velikolepnaa-paterka/" title="">Великолепная пятерка</a></li>
+                                                                                    <li><a href="https://www.5-tv.ru/projects/1000109/strazi/" title="">Стражи Отчизны</a></li>
+                                                                                    <li><a href="https://www.5-tv.ru/projects/1000114/est-nuansy/" title="">Есть нюансы</a></li>
+                                                                                    <li><a href="https://www.5-tv.ru/projects/1000111/svoi/" title="">Свои</a></li>
+                                                                                    <li><a href="#" title=""></a></li>
+                                                                            </ul>
+                                                                                            
+                                    <h4><a class="cBack" href="/about/b2b/">Для рекламодателей</a></h4>
+                                    <ul class="flatList antiTopHalfBase">
+                                                                                    <li><a href="https://www.5-tv.ru/about/numbers/" title="">Цифры дня</a></li>
+                                                                                    <li><a href="#" title=""></a></li>
+                                                                                    <li><a href="https://www.5-tv.ru/about/b2b/" title="">Новости для рекламодателей</a></li>
+                                                                            </ul>
+                                                                                    </div>
+                                            <div class="col3">
+                                                            
+                                    <h4><a class="cBack" href="#">Прямой эфир</a></h4>
+                                    <ul class="flatList antiTopHalfBase">
+                                                                                    <li><a href="https://www.5-tv.ru/live/" title="">Пятый канал</a></li>
+                                                                                    <li><a href="https://www.5-tv.ru/radio/" title="">Радио «Петербург»</a></li>
+                                                                            </ul>
+                                                                                            
+                                    <h4><a class="cBack" href="/all-videos/">Видеобанк</a></h4>
+                                    <ul class="flatList antiTopHalfBase">
+                                                                            </ul>
+                                                                                    </div>
+                                            <div class="col3">
+                                                            
+                                    <h4><a class="cBack" href="https://www.5-tv.ru/innfopovod/">Обратная связь</a></h4>
+                                    <ul class="flatList antiTopHalfBase">
+                                                                            </ul>
+                                                                                    </div>
+                                                                <noindex>
+                            <div class="col3">
+                                <p class="h6">Подключайся!</p>
+                                <p class="marginBottomBase"><a
+                                        href="http://vk.com/tv5" rel="nofollow" target="_blank" class="marginRightHalfBase"><img src="https://img5tv.cdnvideo.ru/shared/files/202203/2831_1489139.png"
+                                                                                                                              alt="ВКонтакте"></a><a
+                                        href="https://zen.yandex.ru/5-tv.ru" rel="nofollow" target="_blank" class="marginRightHalfBase"><img src="https://img5tv.cdnvideo.ru/shared/files/202203/2831_1485948.png"
+                                                                                                                              alt="Яндекс Дзен"></a><a
+                                        href="https://rutube.ru/channel/23874664/" rel="nofollow" target="_blank" class="marginRightHalfBase"><img src="https://img5tv.cdnvideo.ru/shared/files/202306/3146_1732155.png"
+                                                                                                                              alt="Rutube"></a><a
+                                        href="https://ok.ru/ok5tv" rel="nofollow" target="_blank" class="marginRightHalfBase"><img src="https://img5tv.cdnvideo.ru/shared/files/201703/2831_459788.png"
+                                                                                                                              alt="Одноклассники"></a><a
+                                        href="https://t.me/tv5ru" rel="nofollow" target="_blank" class="marginRightHalfBase"><img src="https://img5tv.cdnvideo.ru/shared/files/202007/2831_1143621.png"
+                                                                                                                              alt="Телеграм"></a>                                    </p>                            </div>
+                        </noindex>
+                                    </div>
+            </div>
+        </div>
+    </div>            <main role="main" class="main">
+        <div class="container">
+        <div class="row">
+            <div class="col8">
+                        <div class="weatherscope cont ">
+                    <div class="_weather">
+                <span title="Москва" style="background-image: url(https://img5tv.cdnvideo.ru/shared/img/weather/43.png)"
+                      class="_temp">-7°</span>
+                <span class="_tempMore"><img src="https://img5tv.cdnvideo.ru/shared/img/weather/icn_barometer.png"
+                                             alt="Атмосферное давление" title="Атмосферное давление"> 753 мм рт. ст.<br><img
+                        src="https://img5tv.cdnvideo.ru/shared/img/weather/icn_vlazhnost.png"
+                        alt="Относительная влажность" title="Относительная влажность"> 86%</span>
+            </div>
+                <div class="_rate">
+            <span class="_us"><a href="https://www.5-tv.ru/news/rubl/">76.64</a> <br> <span class="cSucc">0.49</span></span>
+            <span class="_eu"><a href="https://www.5-tv.ru/news/rubl/">90.17</a> <br> <span class="cWarn">-0.10</span></span>
+        </div>
+                                <div class="_horoscope">
+                <span>
+                    <a href="/news/5056216/goroskop-nasegodna-10fevrala-dla-vseh-znakov-zodiaka/?from=weather" data-dlevent="news-pogoda-horoscope">
+                        🧙‍♀ Гороскоп на сегодня, 19 февраля, для всех знаков зодиака                    </a>
+                </span>
+            </div>
+            </div>
+
+                                
+                <a href="https://www.5-tv.ru/news/5057527/voima-spravedlivosti-kak-proslo-vystuplenie-putina-nasovesanii-sudej/" class="linkBlock">
+                                            <div class="promoImage _alt2 warningOnImage imageZoomOnHover">
+                            <div class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2489961.jpg" alt="Во имя справедливости: как прошло выступление Путина на совещании судей">
+                                </picture>
+                            </div>
+                                                        <h3>
+                                <span class="labl">18:24</span>
+                                                                    <span class="iconVideo"></span>
+                                                                <br>
+                                <span class="link"></span>
+                                Во имя справедливости: как прошло выступление Путина на совещании судей                            </h3>
+                        </div>
+                                    </a>
+
+                <div class="cont">
+                    <h1>Главные новости на Пятом канале</h1>
+                                            <div class="row marginTopHalfBase">
+                                                            <div class="col2" style="width: 226px;">
+                                    <a href="https://www.5-tv.ru/news/5057505/vlianie-ciklona-kogda-vmoskve-zakoncitsa-snegopad/" class="linkBlock ">
+                                        <span class="image">
+                                            <picture>
+                                                <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2489865.jpg" alt="«Влияние циклона»: когда в Москве закончится снегопад">
+                                            </picture>
+                                        </span>
+                                        <p class="link">«Влияние циклона»: когда в Москве закончится снегопад</p>
+                                    </a>
+                                </div>
+                                                            <div class="col2" style="width: 226px;">
+                                    <a href="https://www.5-tv.ru/news/5057530/vladimir-putin-nazval-madagaskar-odnim-izglavnyh-partnerov-rossii-vafrike/" class="linkBlock  linkListVideo">
+                                        <span class="image">
+                                            <picture>
+                                                <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2489976.jpg" alt="Владимир Путин назвал Мадагаскар одним из главных партнеров России в Африке">
+                                            </picture>
+                                        </span>
+                                        <p class="link"><span class="iconVideo"></span>Владимир Путин назвал Мадагаскар одним из главных партнеров России в Африке</p>
+                                    </a>
+                                </div>
+                                                            <div class="col2" style="width: 226px;">
+                                    <a href="https://www.5-tv.ru/news/5057424/napatom-kanale-akcia-den-dobryh-del-dla-11letnej-kariny/" class="linkBlock  linkListVideo">
+                                        <span class="image">
+                                            <picture>
+                                                <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2489210.jpg" alt="На Пятом канале акция «День добрых дел» для 11-летней Карины">
+                                            </picture>
+                                        </span>
+                                        <p class="link"><span class="iconVideo"></span>На Пятом канале акция «День добрых дел» для 11-летней Карины</p>
+                                    </a>
+                                </div>
+                                                    </div>
+                                            <div class="row marginTopHalfBase">
+                                                            <div class="col2" style="width: 226px;">
+                                    <a href="https://www.5-tv.ru/news/5057535/hocu-skazat-spasibo-filippov-poblagodaril-otca-zato-cto-onprivel-ego-vskialpinizm/" class="linkBlock  linkListVideo">
+                                        <span class="image">
+                                            <picture>
+                                                <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2490033.jpg" alt="«Хочу сказать спасибо»: Филиппов поблагодарил отца за то, что он привел его в ски-альпинизм">
+                                            </picture>
+                                        </span>
+                                        <p class="link"><span class="iconVideo"></span>«Хочу сказать спасибо»: Филиппов поблагодарил отца за то, что он привел его <span class="noWrap">в ски-альпинизм</span></p>
+                                    </a>
+                                </div>
+                                                            <div class="col2" style="width: 226px;">
+                                    <a href="https://www.5-tv.ru/news/5057499/necego-stesnatsa-tatana-kurtukova-ispolnila-pesnu-olhu-alomala/" class="linkBlock ">
+                                        <span class="image">
+                                            <picture>
+                                                <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2489837.jpg" alt="«Нечего стесняться»: Татьяна Куртукова исполнила песню «Ольху я ломала»">
+                                            </picture>
+                                        </span>
+                                        <p class="link">«Нечего стесняться»: Татьяна Куртукова исполнила песню «Ольху я ломала»</p>
+                                    </a>
+                                </div>
+                                                            <div class="col2" style="width: 226px;">
+                                    <a href="https://www.5-tv.ru/news/5057533/nabajkale-mizulina-pokazala-cto-nasamom-dele-lizal-shaman/" class="linkBlock  linkListVideo">
+                                        <span class="image">
+                                            <picture>
+                                                <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2490043.jpg" alt="«На Байкале»: Мизулина показала, что на самом деле лизал SHAMAN">
+                                            </picture>
+                                        </span>
+                                        <p class="link"><span class="iconVideo"></span>«На Байкале»: Мизулина показала, что на самом деле лизал SHAMAN</p>
+                                    </a>
+                                </div>
+                                                    </div>
+                                    </div>
+            </div>
+            <div class="col4 _borderLeft">
+                                                        <figure class="weatherscopeCounterpart cont">
+                        <p><strong>Сейчас в эфире</strong><br>
+                            <a href="https://www.5-tv.ru/projects/film/1516345/">«След. Приходи ко мне на пляж»</a>
+                        </p>
+                    </figure>
+                                                
+
+
+
+
+
+
+
+
+
+   <div><div class="alignCenter" ><a target="_blank" href="https://www.5-tv.ru/projects/1000111/svoi/" ><img src="https://www.5-tv.ru/shared/files/202509/3001_2363023.jpg" alt=""></a></div></div>
+
+                <div class="clear marginTopAlt">
+                    <p class="floatRight"><a href="https://www.5-tv.ru/news/list/" class="button _med fsSmall"><b>ВСЕ НОВОСТИ</b></a></p>
+                    <h2 class="flat">Новости сейчас</h2>
+                </div>
+                                            <div class="timeListConceal _right _scroll scrollingVert">
+    <div class="scrollingVertWrap">
+        <div class="scrollingVertBody">
+                            <a href="https://www.5-tv.ru/news/5057478/stagivaut-sily-ssa-gotovatsa-udarit-poiranu/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>20:49</dt>
+                        <dd class="link"><span class="iconVideo"></span>Стягивают силы: США готовятся ударить по Ирану</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057451/netolko-novyj-status-psiholog-nazval-osnovnoj-minus-grazdanskogo-braka/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>20:45</dt>
+                        <dd class="link">Не только новый статус: психолог назвал основной минус отношений без регистрации</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057536/tolko-utazelit-cemodan-cto-nestoit-brat-vputesestvie-aii/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>20:38</dt>
+                        <dd class="link">Только утяжелит чемодан: что не стоит брать в путешествие</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057540/vzglad-izkosmosa-roskosmos-pokazal-kak-ciklon-valli-nakryval-moskvu/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>20:26</dt>
+                        <dd class="link"><span class="iconVideo"></span>Взгляд из космоса: «Роскосмос» показал, как циклон «Валли» накрывал Москву</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057525/padenie-korony-kakuu-rol-sygral-vasington-vzaderzanii-eksprinca-endru/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>20:21</dt>
+                        <dd class="link"><span class="iconVideo"></span>Падение короны: какую роль сыграл Вашингтон в задержании экс-принца Эндрю</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057510/tainstvennaa-papka-vrukah-oficera-policia-provela-obysk-vdome-princa-endru-aii/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>20:12</dt>
+                        <dd class="link">Таинственная папка в руках офицера: полиция провела обыск в доме принца Эндрю</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057542/ego-sluni-prodau-skolko-stoit-kusok-lda-kotoryj-liznul-shaman/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>19:56</dt>
+                        <dd class="link">«Его слюни продаю»: сколько стоит кусок льда, который лизнул SHAMAN</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057457/dvigatel-bolse-nezavedetsa-ekonomisty-opovysenii-nalogov-vgermanii/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>19:45</dt>
+                        <dd class="link">Двигатель больше не заведется: экономисты о повышении налогов в Германии</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057541/biznesmen-baturin-resil-popravit-zdorove-posle-osvobozdenia-izturmy/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>19:37</dt>
+                        <dd class="link"><span class="iconVideo"></span>Бизнесмен Батурин решил поправить здоровье после освобождения из тюрьмы</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057505/vlianie-ciklona-kogda-vmoskve-zakoncitsa-snegopad/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>19:21</dt>
+                        <dd class="link">«Влияние циклона»: когда в Москве закончится снегопад</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/tabloid/5057522/led-bajkala-gnev-samanov-iugroza-gepatita-cem-obernetsa-ledanaa-vyhodka-shaman/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>19:18</dt>
+                        <dd class="link">Лед Байкала, гнев шаманов и угроза гепатита: чем обернется ледяная выходка SHAMAN</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057538/osuzdennyj-podelu-oprodaze-kvartiry-dolinoj-nameren-osporit-prigovor/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>19:15</dt>
+                        <dd class="link">Осужденный по делу о продаже квартиры Долиной намерен оспорить приговор</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057526/ugodili-vcarskuu-imperiu-kak-iskali-popavsih-vsektu-sester-marinu-iirinu/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>19:10</dt>
+                        <dd class="link"><span class="iconVideo"></span>Угодили в «Царскую империю»: как искали попавших в секту сестер Марину и Ирину</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057539/edinaa-rossia-nacala-sbor-idej-grazdan-dla-obnovlenia-narodnoj-programmy/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>19:00</dt>
+                        <dd class="link">«Единая Россия» начала сбор идей граждан для обновления народной программы</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057535/hocu-skazat-spasibo-filippov-poblagodaril-otca-zato-cto-onprivel-ego-vskialpinizm/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>18:52</dt>
+                        <dd class="link"><span class="iconVideo"></span>«Хочу сказать спасибо»: Филиппов поблагодарил отца за то, что он привел его <span class="noWrap">в ски-альпинизм</span></dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057533/nabajkale-mizulina-pokazala-cto-nasamom-dele-lizal-shaman/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>18:48</dt>
+                        <dd class="link"><span class="iconVideo"></span>«На Байкале»: Мизулина показала, что на самом деле лизал SHAMAN</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057485/otkladyval-pohod-kvracu-rossianin-sutki-prohodil-spulej-vmozge-aii/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>18:40</dt>
+                        <dd class="link">Откладывал поход к врачу: россиянин сутки проходил с пулей в мозге</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057527/voima-spravedlivosti-kak-proslo-vystuplenie-putina-nasovesanii-sudej/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>18:24</dt>
+                        <dd class="link"><span class="iconVideo"></span>Во имя справедливости: как прошло выступление Путина на совещании судей</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057529/muzik-skazal-muzik-sdelal-nikita-filippov-oserebre-olimpiady2026/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>18:19</dt>
+                        <dd class="link"><span class="iconVideo"></span>«Мужик сказал — мужик сделал»: Никита Филиппов о серебре <span class="noWrap">Олимпиады-2026</span></dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057524/ocen-byl-nacelen-namedal-prohorova-oserebre-filippova-naoi2026/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>18:07</dt>
+                        <dd class="link"><span class="iconVideo"></span>«Очень был нацелен на медаль»: Прохорова о серебре Филиппова <span class="noWrap">на ОИ-2026</span></dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057465/zensina-dala-rabotu-ubijce-sobstvennoj-materi-ipoplatilas-ziznu-aii/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>18:01</dt>
+                        <dd class="link">Женщина дала работу убийце собственной матери и поплатилась жизнью</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057534/vstolice-nacalsa-otbor-vbolsuu-arkticeskuu-ekspediciu/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>17:55</dt>
+                        <dd class="link">В столице начался отбор в Большую арктическую экспедицию</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057528/ocen-rekomenduu-shaman-prizval-neperezivat-zaego-zdorove-posle-pocelua-sbajkalom-aii/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>17:47</dt>
+                        <dd class="link">«Очень рекомендую»: SHAMAN призвал не переживать за его здоровье после «поцелуя» с Байкалом</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057479/kak-poterat-svoi-dengi-vrossii-aktivizirovalis-cernye-brokery/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>17:44</dt>
+                        <dd class="link"><span class="iconVideo"></span>Как потерять свои деньги: в России активизировались «черные» брокеры</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057530/vladimir-putin-nazval-madagaskar-odnim-izglavnyh-partnerov-rossii-vafrike/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>17:41</dt>
+                        <dd class="link"><span class="iconVideo"></span>Владимир Путин назвал Мадагаскар одним из главных партнеров России в Африке</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057520/lucse-lubogo-gendirektora-glava-openai-oskorom-poavlenii-sverhintellekta/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>17:39</dt>
+                        <dd class="link">Лучше любого гендиректора: глава OpenAI о скором появлении сверхинтеллекта</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057480/dialog-cerez-kosmos-40-let-nazad-prosel-telemost-leningradsietl/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>17:36</dt>
+                        <dd class="link"><span class="iconVideo"></span>Диалог через космос: 40 лет назад прошел телемост <span class="noWrap">Ленинград-Сиэтл</span></dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057512/opalnogo-princa-endru-posle-aresta-uvezli-vneizvestnom-napravlenii-aii/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>17:31</dt>
+                        <dd class="link">Опального принца Эндрю после ареста увезли в неизвестном направлении</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057455/v-akutii-muzcina-iznasiloval-zensinu-ubil-eeispratal-telo-vsugrobe-aii/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>17:25</dt>
+                        <dd class="link">В Якутии мужчина изнасиловал женщину, убил ее и спрятал тело в сугробе</dd>
+                    </dl>
+                </a>
+                            <a href="https://www.5-tv.ru/news/5057514/spasateli-izvlekli-sestogo-postradavsego-izpod-zavalov-vlipeckoj-oblasti/" class="linkBlock">
+                    <dl class="timeList">
+                        <dt>17:22</dt>
+                        <dd class="link"><span class="iconVideo"></span>Спасатели извлекли шестого пострадавшего из-под завалов в Липецкой области</dd>
+                    </dl>
+                </a>
+                        <p class="alignCenter marginBottomBase"><a href="https://www.5-tv.ru/news/list/" class="button _med fsSmall"><b>ВСЕ НОВОСТИ</b></a>
+            </p>
+        </div>
+    </div>
+</div>            
+            </div>
+        </div>
+    </div>
+
+            <div class="bcBackFade">
+            <hr class="flatTop">
+                <div class="container">
+        <div class="row marginTopAlt">
+                            <div class="col3">
+                    <a href="https://www.5-tv.ru/tabloid/5057341/smert-vdovy-batalova-obrastaet-tajnami-otkuda-sinaki-naeetele-ikto-uspel-propisatsa-vkvartire/" class="linkBlock">
+                        <span class="image">
+                            <picture>
+                                <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2488703.jpg" alt="Смерть вдовы Баталова обрастает тайнами: откуда синяки на ее теле и кто успел прописаться в квартире">
+                            </picture>
+                            <span class="labl _onImgTop fsSmall">Про звезд</span>
+                        </span>
+                        <p class="fsText">
+                            <strong class="link">Смерть вдовы Баталова обрастает тайнами: откуда синяки на ее теле и кто успел прописаться в квартире</strong>
+                        </p>
+                    </a>
+                </div>
+                            <div class="col3">
+                    <a href="https://www.5-tv.ru/tabloid/5057318/skandalnyj-razryv-grigoria-lepsa-iavrory-kiby-cto-stalo-poslednej-kaplej-dla-pevca/" class="linkBlock">
+                        <span class="image">
+                            <picture>
+                                <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2488725.jpg" alt="Скандальный разрыв Григория Лепса и Авроры Кибы: что стало последней каплей для певца">
+                            </picture>
+                            <span class="labl _onImgTop fsSmall">Про звезд</span>
+                        </span>
+                        <p class="fsText">
+                            <strong class="link">Скандальный разрыв Григория Лепса и Авроры Кибы: что стало последней каплей для певца</strong>
+                        </p>
+                    </a>
+                </div>
+                            <div class="col3">
+                    <a href="https://www.5-tv.ru/tabloid/5057310/zavist-vsoubiznese-kto-stroil-kozni-anite-coj-ivynudil-pet-vniznem-bele/" class="linkBlock">
+                        <span class="image">
+                            <picture>
+                                <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2489472.jpg" alt="Зависть в шоу-бизнесе: кто строил козни Аните Цой и вынудил петь в нижнем белье">
+                            </picture>
+                            <span class="labl _onImgTop fsSmall">Про звезд</span>
+                        </span>
+                        <p class="fsText">
+                            <strong class="link">Зависть в шоу-бизнесе: кто строил козни Аните Цой и вынудил петь в нижнем белье</strong>
+                        </p>
+                    </a>
+                </div>
+                            <div class="col3">
+                    <a href="https://www.5-tv.ru/tabloid/5057342/milaa-netoropis-kak-novyj-muzcina-perevernul-zizn-aleksandry-bortic/" class="linkBlock">
+                        <span class="image">
+                            <picture>
+                                <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2488697.jpg" alt="«Милая, не торопись»: как новый мужчина перевернул жизнь Александры Бортич">
+                            </picture>
+                            <span class="labl _onImgTop fsSmall">Про звезд</span>
+                        </span>
+                        <p class="fsText">
+                            <strong class="link">«Милая, не торопись»: как новый мужчина перевернул жизнь Александры Бортич</strong>
+                        </p>
+                    </a>
+                </div>
+                    </div>
+    </div>
+        </div>
+    
+        
+
+            <hr class="flat">
+        <div class="container cont">
+        <!--AdFox START-->
+<!--newctc-->
+<!--Площадка: BANNER web/mobile web / 5-tv.ru / 100%x250 bottom-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: Перетяжка-->
+<div id="adfox_151870545996149227"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 264443,
+        containerId: 'adfox_151870545996149227',
+        lazyLoad: true,
+            params: {puid21: '1',
+            p1: 'bzopy',
+            p2: 'fulf',
+            puid12: '186109',
+            puid4: '5-tv.ru'
+            }
+        }, ['desktop', 'tablet', 'phone'], {
+            tabletWidth: 830,
+            phoneWidth: 480,
+            isAutoReloads: false
+        })
+    })
+</script>    </div>
+
+
+
+
+
+
+
+
+
+
+    <hr class="flatTop">
+            <div class="container">
+            <h2><a href="https://www.5-tv.ru/tabloid/">Таблоид</a>
+                            </h2>
+            <div class="row">
+                                    <div class="col6">
+                        <a href="https://www.5-tv.ru/tabloid/5057522/led-bajkala-gnev-samanov-iugroza-gepatita-cem-obernetsa-ledanaa-vyhodka-shaman/" class="linkBlock">
+                            <div class="promoImage  _alt2 imageZoomOnHover">
+                                <div class="image">
+                                    <picture>
+                                        <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2489949.jpg" alt="Лед Байкала, гнев шаманов и угроза гепатита: чем обернется ледяная выходка SHAMAN">
+                                    </picture>
+                                </div>
+                                <h3 class="link">Лед Байкала, гнев шаманов и угроза гепатита: чем обернется ледяная выходка SHAMAN</h3>
+                            </div>
+                        </a>
+                    </div>
+                                    <div class="col6">
+                        <a href="https://www.5-tv.ru/tabloid/5057496/mracnye-tajny-opalnogo-brata-karla-iii-kak-princ-endru-poplatilsa-zadruzbu-sepstejnom/" class="linkBlock">
+                            <div class="promoImage  _alt2 imageZoomOnHover">
+                                <div class="image">
+                                    <picture>
+                                        <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2489786.jpg" alt="Мрачные тайны опального брата Карла III: как принц Эндрю поплатился за дружбу с Эпштейном">
+                                    </picture>
+                                </div>
+                                <h3 class="link">Мрачные тайны опального брата Карла III: как принц Эндрю поплатился за дружбу с Эпштейном</h3>
+                            </div>
+                        </a>
+                    </div>
+                            </div>
+            <div class="row marginTopDoubleBase">
+                                    <div class="col3"><a href="https://www.5-tv.ru/tabloid/247390/ramadan-smysl-ipravila-svasennogo-mesaca/" class="linkBlock">
+                    <span class="image">
+                        <picture>
+                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2487685.jpg" alt="Священный месяц Рамадан 2026: что можно и нельзя делать, правила поста, расписание намазов">
+                        </picture>
+                        <span class="labl _onImgTop fsSmall">10:10</span>
+                    </span>
+                            <p class="fsText"><strong class="link">Священный месяц Рамадан 2026: что можно и нельзя делать, правила поста, расписание намазов</strong></p>
+                        </a>
+                    </div>
+                                    <div class="col3"><a href="https://www.5-tv.ru/tabloid/5056706/leopardovye-zelenye-rozovye-recepty-dieticeskih-ivkusnyh-blinov-namaslenicu/" class="linkBlock linkListVideo">
+                    <span class="image">
+                        <picture>
+                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2486399.jpg" alt="Леопардовые, зеленые, розовые: рецепты диетических и вкусных блинов на Масленицу">
+                        </picture>
+                        <span class="labl _onImgTop fsSmall">8:00</span>
+                    </span>
+                            <p class="fsText"><strong class="link">Леопардовые, зеленые, розовые: рецепты диетических и вкусных блинов на Масленицу</strong></p>
+                        </a>
+                    </div>
+                                    <div class="col3"><a href="https://www.5-tv.ru/tabloid/5053930/testo-kisloe-avmesto-nacinki-rassol-kakie-bliny-eli-vrusskoj-glubinke-namaslenicu/" class="linkBlock">
+                    <span class="image">
+                        <picture>
+                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202601/1_2467219.jpg" alt="Тесто кислое, а вместо начинки — рассол: какие блины ели в русской глубинке на Масленицу">
+                        </picture>
+                        <span class="labl _onImgTop fsSmall">18 фев</span>
+                    </span>
+                            <p class="fsText"><strong class="link">Тесто кислое, а вместо начинки — рассол: какие блины ели в русской глубинке на Масленицу</strong></p>
+                        </a>
+                    </div>
+                                    <div class="col3"><a href="https://www.5-tv.ru/tabloid/5054693/stoat-ili-sidet-kak-pravilno-molitsa-ivesti-seba-nasluzbe-vhrame/" class="linkBlock linkListVideo">
+                    <span class="image">
+                        <picture>
+                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2473314.jpg" alt="Стоять или сидеть: как правильно молиться и вести себя на службе в храме">
+                        </picture>
+                        <span class="labl _onImgTop fsSmall">8:00</span>
+                    </span>
+                            <p class="fsText"><strong class="link">Стоять или сидеть: как правильно молиться и вести себя на службе в храме</strong></p>
+                        </a>
+                    </div>
+                            </div>
+        </div>
+        <hr>
+                <div class="container">
+            <h2><a href="https://www.5-tv.ru/news/goroskop/">Гороскоп</a>
+            </h2>
+            <div class="row">
+                                    <div class="col6">
+                        <a href="https://www.5-tv.ru/news/5056216/goroskop-nasegodna-10fevrala-dla-vseh-znakov-zodiaka/" class="linkBlock">
+                            <div class="promoImage  _alt2 imageZoomOnHover">
+                                <div class="image">
+                                    <picture>
+                                        <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2484427.jpg" alt="🧙‍♀ Гороскоп на сегодня, 19 февраля, для всех знаков зодиака">
+                                    </picture>
+                                </div>
+                                <h3 class="link">🧙‍♀ Гороскоп на сегодня, 19 февраля, для всех знаков зодиака</h3>
+                            </div>
+                        </a>
+                    </div>
+                                    <div class="col6">
+                        <a href="https://www.5-tv.ru/news/5057391/ese-bez-novogo-video-astrologiceskij-prognoz-dla-vseh-znakov-zodiaka-nanedelu-s23fevrala-po1marta/" class="linkBlock">
+                            <div class="promoImage  _alt2 imageZoomOnHover">
+                                <div class="image">
+                                    <picture>
+                                        <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2489043.jpg" alt="Астрологический прогноз для всех знаков зодиака на неделю с 23 февраля по 1 марта">
+                                    </picture>
+                                </div>
+                                <h3 class="link">Астрологический прогноз для всех знаков зодиака на неделю с 23 февраля по 1 марта</h3>
+                            </div>
+                        </a>
+                    </div>
+                            </div>
+            <div class="row marginTopDoubleBase">
+                                    <div class="col3"><a href="https://www.5-tv.ru/news/5057392/ese-bez-novogo-video-neborites-sburej-kitajskij-goroskop-nanedelu-s23fevrala-po1marta/" class="linkBlock linkListVideo">
+                    <span class="image">
+                        <picture>
+                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2482467.jpg" alt="Не боритесь с бурей: китайский гороскоп на неделю с 23 февраля по 1 марта">
+                        </picture>
+                        <span class="labl _onImgTop fsSmall">4:00</span>
+                    </span>
+                            <p class="fsText"><strong class="link">Не боритесь с бурей: китайский гороскоп на неделю с 23 февраля по 1 марта</strong></p>
+                        </a>
+                    </div>
+                                    <div class="col3"><a href="https://www.5-tv.ru/news/5056215/goroskop-nasegodna-18fevrala-dla-vseh-znakov-zodiaka/" class="linkBlock linkListVideo">
+                    <span class="image">
+                        <picture>
+                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2484420.jpg" alt="🧙‍♀ Гороскоп на сегодня, 18 февраля, для всех знаков зодиака">
+                        </picture>
+                        <span class="labl _onImgTop fsSmall">18 фев</span>
+                    </span>
+                            <p class="fsText"><strong class="link">🧙‍♀ Гороскоп на сегодня, 18 февраля, для всех знаков зодиака</strong></p>
+                        </a>
+                    </div>
+                                    <div class="col3"><a href="https://www.5-tv.ru/tabloid/5057055/obrucennoe-slunoj-cego-zdat-otkolcevogo-solnecnogo-zatmenia-17fevrala-2026-znakam-zodiaka/" class="linkBlock">
+                    <span class="image">
+                        <picture>
+                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2486600.jpg" alt="Обрученное с Луной: чего ждать от кольцевого солнечного затмения 17 февраля знакам зодиака">
+                        </picture>
+                        <span class="labl _onImgTop fsSmall">17 фев</span>
+                    </span>
+                            <p class="fsText"><strong class="link">Обрученное с Луной: чего ждать от кольцевого солнечного затмения 17 февраля знакам зодиака</strong></p>
+                        </a>
+                    </div>
+                                    <div class="col3"><a href="https://www.5-tv.ru/news/5056209/goroskop-nasegodna-17fevrala-dla-vseh-znakov-zodiaka/" class="linkBlock linkListVideo">
+                    <span class="image">
+                        <picture>
+                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2484409.jpg" alt="🧙‍♀ Гороскоп на сегодня, 17 февраля, для всех знаков зодиака">
+                        </picture>
+                        <span class="labl _onImgTop fsSmall">17 фев</span>
+                    </span>
+                            <p class="fsText"><strong class="link">🧙‍♀ Гороскоп на сегодня, 17 февраля, для всех знаков зодиака</strong></p>
+                        </a>
+                    </div>
+                            </div>
+        </div>
+        <hr class="flatTop">
+        <div class="container">
+        <h2><a href="/shorts/">Ролики</a></h2>
+        <div data-gallery-frames-per-page="6" class="cont gallery _withControls">
+            <div class="galleryWrap">
+                <div class="row">
+                                            <div class="col2">
+                            <a href="/shorts/4001002/"
+                               style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2488565.jpg)"
+                               class="listShorts">
+                                <span class="head">Фестиваль китайского Нового года в Ботаническом саду МГУ</span>
+                            </a>
+                        </div>
+                                            <div class="col2">
+                            <a href="/shorts/4001001/"
+                               style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2488561.jpg)"
+                               class="listShorts">
+                                <span class="head">Массовая гонка «Лыжня России — 2026» в Мурманске</span>
+                            </a>
+                        </div>
+                                            <div class="col2">
+                            <a href="/shorts/4001000/"
+                               style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2488552.jpg)"
+                               class="listShorts">
+                                <span class="head">Захарова и посол КНР поздравили москвичей с китайским Новым годом</span>
+                            </a>
+                        </div>
+                                            <div class="col2">
+                            <a href="/shorts/4000989/"
+                               style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2484518.jpg)"
+                               class="listShorts">
+                                <span class="head">Гороскоп на 19 февраля</span>
+                            </a>
+                        </div>
+                                            <div class="col2">
+                            <a href="/shorts/4000999/"
+                               style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2487203.jpg)"
+                               class="listShorts">
+                                <span class="head">Волонтеры развозят питьевую воду жителям ДНР</span>
+                            </a>
+                        </div>
+                                            <div class="col2">
+                            <a href="/shorts/4000998/"
+                               style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2487199.jpg)"
+                               class="listShorts">
+                                <span class="head">Туристы об отпуске на Кубе на фоне энергетической блокады США</span>
+                            </a>
+                        </div>
+                                            <div class="col2">
+                            <a href="/shorts/4000997/"
+                               style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2487195.jpg)"
+                               class="listShorts">
+                                <span class="head">Массовая гонка «Лыжня России» прошла в Санкт-Петербурге </span>
+                            </a>
+                        </div>
+                                            <div class="col2">
+                            <a href="/shorts/4000996/"
+                               style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2487187.jpg)"
+                               class="listShorts">
+                                <span class="head">Фестиваль «Масленица» стартовал в Москве</span>
+                            </a>
+                        </div>
+                                            <div class="col2">
+                            <a href="/shorts/4000988/"
+                               style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2484514.jpg)"
+                               class="listShorts">
+                                <span class="head">Гороскоп на 18 февраля</span>
+                            </a>
+                        </div>
+                                            <div class="col2">
+                            <a href="/shorts/4000994/"
+                               style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2486176.jpg)"
+                               class="listShorts">
+                                <span class="head">Пересильд призвала беречь душу в сложное время</span>
+                            </a>
+                        </div>
+                                            <div class="col2">
+                            <a href="/shorts/4000993/"
+                               style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2486172.jpg)"
+                               class="listShorts">
+                                <span class="head">Владимир Канухин о любви к животным</span>
+                            </a>
+                        </div>
+                                            <div class="col2">
+                            <a href="/shorts/4000992/"
+                               style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2486168.jpg)"
+                               class="listShorts">
+                                <span class="head">Стася Милославская восхищена работниками Ленинградского зоосада</span>
+                            </a>
+                        </div>
+                                    </div>
+            </div>
+            <div class="galleryControlLeft"></div>
+            <div class="galleryControlRight"></div>
+        </div>
+    </div>
+            <hr class="flatBottom">
+        <div class="container">
+            <h2>Самое популярное</h2>
+            <div data-gallery-frames-per-page="6" class="gallery _withControls _forSmallImages">
+                <div class="galleryWrap">
+                    <div class="row fsMedium">
+                                                    <div class="col2">
+                                <a href="https://www.5-tv.ru/tabloid/418899/maslenica-2023-tradicii-podnam-nedeli-gadania-zagovory-nabliny/" class="linkBlock">
+                                    <span class="image">
+                                        <picture>
+                                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2487130.jpg" alt="Блины-предсказатели: масленичные гадания на судьбу и заговоры на деньги и любовь">
+                                        </picture>
+                                        <span class="labl _onImg fsSmall">Про общество</span>
+                                    </span>
+                                    <p class="fsText">
+                                        <strong class="link">Блины-предсказатели: масленичные гадания на судьбу и заговоры на деньги и любовь</strong> </p>
+                                </a>
+                                <p class="antiTopQuartBase"></p>
+                            </div>
+                                                    <div class="col2">
+                                <a href="https://www.5-tv.ru/news/5056802/tyzahvatil-moe-serdce-belyj-dom-opublikoval-valentinki-sgrenlandiej-imaduro/" class="linkBlock">
+                                    <span class="image">
+                                        <picture>
+                                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2484917.jpg" alt="«Захватил мое сердце»: Белый дом опубликовал валентинки с Гренландией и Мадуро">
+                                        </picture>
+                                        <span class="labl _onImg fsSmall">Политика</span>
+                                    </span>
+                                    <p class="fsText">
+                                        <strong class="link">«Захватил мое сердце»: Белый дом опубликовал валентинки с Гренландией и Мадуро</strong> </p>
+                                </a>
+                                <p class="antiTopQuartBase"></p>
+                            </div>
+                                                    <div class="col2">
+                                <a href="https://www.5-tv.ru/news/5057052/putin-vklucil-sobanina-vsostav-kollegii-voennopromyslennoj-komissii-rf/" class="linkBlock">
+                                    <span class="image">
+                                        <picture>
+                                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2486574.jpg" alt="Путин включил Собянина в состав коллегии Военно-промышленной комиссии РФ">
+                                        </picture>
+                                        <span class="labl _onImg fsSmall">Политика</span>
+                                    </span>
+                                    <p class="fsText">
+                                        <strong class="link">Путин включил Собянина в состав коллегии Военно-промышленной комиссии РФ</strong> </p>
+                                </a>
+                                <p class="antiTopQuartBase"></p>
+                            </div>
+                                                    <div class="col2">
+                                <a href="https://www.5-tv.ru/news/5056697/mikrobov-nebous-glava-minzdrava-ssa-priznalsa-vupotreblenii-kokaina-ssidenij-unitazov-aii/" class="linkBlock">
+                                    <span class="image">
+                                        <picture>
+                                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2484040.jpg" alt="«Микробов не боюсь»: глава Минздрава США признался в употреблении кокаина с сидений унитазов">
+                                        </picture>
+                                        <span class="labl _onImg fsSmall">Общество</span>
+                                    </span>
+                                    <p class="fsText">
+                                        <strong class="link">«Микробов не боюсь»: глава Минздрава США признался в употреблении кокаина с сидений унитазов</strong> </p>
+                                </a>
+                                <p class="antiTopQuartBase"></p>
+                            </div>
+                                                    <div class="col2">
+                                <a href="https://www.5-tv.ru/news/5057391/ese-bez-novogo-video-astrologiceskij-prognoz-dla-vseh-znakov-zodiaka-nanedelu-s23fevrala-po1marta/" class="linkBlock">
+                                    <span class="image">
+                                        <picture>
+                                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2489043.jpg" alt="Астрологический прогноз для всех знаков зодиака на неделю с 23 февраля по 1 марта">
+                                        </picture>
+                                        <span class="labl _onImg fsSmall">Общество</span>
+                                    </span>
+                                    <p class="fsText">
+                                        <strong class="link">Астрологический прогноз для всех знаков зодиака на неделю с 23 февраля по 1 марта</strong> </p>
+                                </a>
+                                <p class="antiTopQuartBase"></p>
+                            </div>
+                                                    <div class="col2">
+                                <a href="https://www.5-tv.ru/news/5056132/sbezala-izofisa-zensina-brosila-kareru-radi-zizni-naneobitaemom-ostrove-aii/" class="linkBlock">
+                                    <span class="image">
+                                        <picture>
+                                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2480115.jpg" alt="«Сбежала из офиса»: женщина бросила карьеру ради жизни на необитаемом острове">
+                                        </picture>
+                                        <span class="labl _onImg fsSmall">Общество</span>
+                                    </span>
+                                    <p class="fsText">
+                                        <strong class="link">«Сбежала из офиса»: женщина бросила карьеру ради жизни на необитаемом острове</strong> </p>
+                                </a>
+                                <p class="antiTopQuartBase"></p>
+                            </div>
+                                                    <div class="col2">
+                                <a href="https://www.5-tv.ru/news/5056870/poka-zamuz-nesobiraus-kakoj-muzcina-smozet-pokorit-serdce-kati-lel/" class="linkBlock">
+                                    <span class="image">
+                                        <picture>
+                                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2486332.jpg" alt="«Пока замуж не собираюсь»: какой мужчина сможет покорить сердце Кати Лель">
+                                        </picture>
+                                        <span class="labl _onImg fsSmall">Шоу-бизнес</span>
+                                    </span>
+                                    <p class="fsText">
+                                        <strong class="link">«Пока замуж не собираюсь»: какой мужчина сможет покорить сердце Кати Лель</strong> </p>
+                                </a>
+                                <p class="antiTopQuartBase"></p>
+                            </div>
+                                                    <div class="col2">
+                                <a href="https://www.5-tv.ru/news/5056725/da-konecno-pavel-derevanko-gotov-snova-stat-otcom/" class="linkBlock">
+                                    <span class="image">
+                                        <picture>
+                                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2484257.jpg" alt="«Да, конечно»: Павел Деревянко готов снова стать отцом">
+                                        </picture>
+                                        <span class="labl _onImg fsSmall">Шоу-бизнес</span>
+                                    </span>
+                                    <p class="fsText">
+                                        <strong class="link">«Да, конечно»: Павел Деревянко готов снова стать отцом</strong> </p>
+                                </a>
+                                <p class="antiTopQuartBase"></p>
+                            </div>
+                                                    <div class="col2">
+                                <a href="https://www.5-tv.ru/news/5056565/seks-pered-snom-pomogaet-krepce-spat-aii/" class="linkBlock">
+                                    <span class="image">
+                                        <picture>
+                                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2483137.jpg" alt="«Похоже на алкоголь»: секс перед сном помогает крепче спать">
+                                        </picture>
+                                        <span class="labl _onImg fsSmall">Здоровье</span>
+                                    </span>
+                                    <p class="fsText">
+                                        <strong class="link">«Похоже на алкоголь»: секс перед сном помогает крепче спать</strong> </p>
+                                </a>
+                                <p class="antiTopQuartBase"></p>
+                            </div>
+                                                    <div class="col2">
+                                <a href="https://www.5-tv.ru/news/5057004/vsrfosvobodili-minkovku-vdnr-ipokrovku-vsumskoj-oblasti/" class="linkBlock">
+                                    <span class="image">
+                                        <picture>
+                                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2486219.jpg" alt="ВС РФ освободили Миньковку в ДНР и Покровку в Сумской области">
+                                        </picture>
+                                        <span class="labl _onImg fsSmall">В России</span>
+                                    </span>
+                                    <p class="fsText">
+                                        <strong class="link">ВС РФ освободили Миньковку в ДНР и Покровку в Сумской области</strong> </p>
+                                </a>
+                                <p class="antiTopQuartBase"></p>
+                            </div>
+                                                    <div class="col2">
+                                <a href="https://www.5-tv.ru/news/5056563/needinstvennyj-ucenye-vyasnili-skolko-raz-celovek-vlublaetsa-zazizn-aii/" class="linkBlock">
+                                    <span class="image">
+                                        <picture>
+                                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2483113.jpg" alt="Не единственный: ученые выяснили, сколько раз человек влюбляется за жизнь">
+                                        </picture>
+                                        <span class="labl _onImg fsSmall">Общество</span>
+                                    </span>
+                                    <p class="fsText">
+                                        <strong class="link">Не единственный: ученые выяснили, сколько раз человек влюбляется за жизнь</strong> </p>
+                                </a>
+                                <p class="antiTopQuartBase"></p>
+                            </div>
+                                                    <div class="col2">
+                                <a href="https://www.5-tv.ru/news/5056665/imena-nasli-vfajlah-cto-svazyvaet-epstejna-ipropavsih-usolcevyh-aii/" class="linkBlock">
+                                    <span class="image">
+                                        <picture>
+                                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2483808.jpg" alt="Имена нашли в файлах? Что связывает Эпштейна и пропавших Усольцевых">
+                                        </picture>
+                                        <span class="labl _onImg fsSmall">Происшествия</span>
+                                    </span>
+                                    <p class="fsText">
+                                        <strong class="link">Имена нашли в файлах? Что связывает Эпштейна и пропавших Усольцевых</strong> </p>
+                                </a>
+                                <p class="antiTopQuartBase"></p>
+                            </div>
+                                                    <div class="col2">
+                                <a href="https://www.5-tv.ru/news/5056910/telo-permskogo-biznesmena-nasli-naldu-kamy/" class="linkBlock">
+                                    <span class="image">
+                                        <picture>
+                                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2485536.jpg" alt="Тело пермского бизнесмена нашли на льду Камы">
+                                        </picture>
+                                        <span class="labl _onImg fsSmall">Происшествия</span>
+                                    </span>
+                                    <p class="fsText">
+                                        <strong class="link">Тело пермского бизнесмена нашли на льду Камы</strong> </p>
+                                </a>
+                                <p class="antiTopQuartBase"></p>
+                            </div>
+                                                    <div class="col2">
+                                <a href="https://www.5-tv.ru/news/5057047/tri-kota-idve-sobaki-vladimir-kanuhin-olubvi-kzivotnym-aii/" class="linkBlock">
+                                    <span class="image">
+                                        <picture>
+                                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2486521.jpg" alt="«Три кота и две собаки»: Владимир Канухин о любви к животным">
+                                        </picture>
+                                        <span class="labl _onImg fsSmall">Общество</span>
+                                    </span>
+                                    <p class="fsText">
+                                        <strong class="link">«Три кота и две собаки»: Владимир Канухин о любви к животным</strong> </p>
+                                </a>
+                                <p class="antiTopQuartBase"></p>
+                            </div>
+                                                    <div class="col2">
+                                <a href="https://www.5-tv.ru/news/5056892/muzcina-izrezal-nozom-dvuh-prihozan-vhrame-vcelabinske/" class="linkBlock">
+                                    <span class="image">
+                                        <picture>
+                                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2485443.jpg" alt="Мужчина ранил ножом двух прихожан в храме в Челябинске">
+                                        </picture>
+                                        <span class="labl _onImg fsSmall">Происшествия</span>
+                                    </span>
+                                    <p class="fsText">
+                                        <strong class="link">Мужчина ранил ножом двух прихожан в храме в Челябинске</strong> </p>
+                                </a>
+                                <p class="antiTopQuartBase"></p>
+                            </div>
+                                                    <div class="col2">
+                                <a href="https://www.5-tv.ru/news/5057101/daze-status-vsocsetah-anfisa-cehova-smenila-familiu-posle-svadby-aii/" class="linkBlock">
+                                    <span class="image">
+                                        <picture>
+                                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2486964.jpg" alt="«Даже статус в соцсетях»: Анфиса Чехова сменила фамилию после свадьбы">
+                                        </picture>
+                                        <span class="labl _onImg fsSmall">Шоу-бизнес</span>
+                                    </span>
+                                    <p class="fsText">
+                                        <strong class="link">«Даже статус в соцсетях»: Анфиса Чехова сменила фамилию после свадьбы</strong> </p>
+                                </a>
+                                <p class="antiTopQuartBase"></p>
+                            </div>
+                                                    <div class="col2">
+                                <a href="https://www.5-tv.ru/news/5057395/prosnulis-bez-steny-avtomobil-vzletel-na30-metrov-ivrezalsa-vdom-aii/" class="linkBlock">
+                                    <span class="image">
+                                        <picture>
+                                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2489017.jpg" alt="Проснулись без стены: автомобиль взлетел на 30 метров и врезался в дом">
+                                        </picture>
+                                        <span class="labl _onImg fsSmall">Происшествия</span>
+                                    </span>
+                                    <p class="fsText">
+                                        <strong class="link">Проснулись без стены: автомобиль взлетел на 30 метров и врезался в дом</strong> </p>
+                                </a>
+                                <p class="antiTopQuartBase"></p>
+                            </div>
+                                                    <div class="col2">
+                                <a href="https://www.5-tv.ru/news/5056691/flag-nalune-ili-vpavilone-pocemu-spor-ovysadke-amerikancev-nasputnik-zemli-neutihaet-dosih-por-aii/" class="linkBlock">
+                                    <span class="image">
+                                        <picture>
+                                            <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/1_2483972.jpg" alt="Флаг на Луне или в павильоне? Почему спор о высадке американцев на спутник Земли не утихает до сих пор">
+                                        </picture>
+                                        <span class="labl _onImg fsSmall">Наука</span>
+                                    </span>
+                                    <p class="fsText">
+                                        <strong class="link">Флаг на Луне или в павильоне? Почему спор о высадке американцев на спутник Земли не утихает до сих пор</strong> </p>
+                                </a>
+                                <p class="antiTopQuartBase"></p>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+                <hr>
+                <div class="container">
+            <div class="clear">
+                                                            <a style="width: 560px" href="https://www.5-tv.ru/projects/film/1516345/" class="floatLeft">
+                            <span style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202412/2597_2172138.jpg)" class="image">
+                                <span class="labl _onImgTop fsHeader">20:40</span>
+                            </span>
+                        </a>
+                                        <h2 class="flat">Сейчас в эфире</h2>
+                    <p class="fsBig"><a href="https://www.5-tv.ru/projects/film/1516345/"><strong>«След. Приходи ко мне на пляж»</strong></a></p>
+                    <p>Во время турнира по пляжному волейболу среди девушек сразу три десятка участниц получили сильные химические ожоги. Следствие устанавливает, что соучастником преступления выступило само Солнце.</p>
+                    <a href="https://www.5-tv.ru/projects/1000117/sled/" class="labl fsSmall">След</a>                            </div>
+        </div>
+        <div class="container">
+            <h2>Сегодня далее</h2><a href="/schedule/" class="floatRight fwBold">Вся телепрограмма</a>
+            <div data-gallery-frames-per-page="4" class="gallery _withControls _forMediumImages">
+                <div class="galleryWrap">
+                    <div class="row fsMedium">
+                                                    <div class="col3">
+                                                                    <a href="https://www.5-tv.ru/projects/film/1517114/" class="linkBlock">
+                                            <span style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202602/2597_2481731.jpg)" class="image">
+                                                <span class="labl _onImg fsMedium">21:25</span>
+                                            </span>
+                                        <p class="fsBig link"><strong>«След. Психолог по жизни»</strong></p>
+                                    </a>
+                                                            </div>
+                                                    <div class="col3">
+                                                                    <a href="https://www.5-tv.ru/projects/film/1517117/" class="linkBlock">
+                                            <span style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202602/2976_2479943.jpg)" class="image">
+                                                <span class="labl _onImg fsMedium">22:20</span>
+                                            </span>
+                                        <p class="fsBig link"><strong>«Свои-7. Роковой портрет»</strong></p>
+                                    </a>
+                                                            </div>
+                                                    <div class="col3">
+                                                                    <a href="https://www.5-tv.ru/projects/film/1514402/" class="linkBlock">
+                                            <span style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202205/2976_1520785.jpg)" class="image">
+                                                <span class="labl _onImg fsMedium">23:10</span>
+                                            </span>
+                                        <p class="fsBig link"><strong>«Свои-4. Бусы короля Мгваны»</strong></p>
+                                    </a>
+                                                            </div>
+                                                    <div class="col3">
+                                                                    <a href="https://www.5-tv.ru/projects/1000094/izvestia/" class="linkBlock">
+                                            <span style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202507/3021_2305343.jpg)" class="image">
+                                                <span class="labl _onImg fsMedium">00:00</span>
+                                            </span>
+                                        <p class="fsBig link"><strong>Известия</strong></p>
+                                    </a>
+                                                            </div>
+                                                    <div class="col3">
+                                                                    <a href="https://www.5-tv.ru/projects/1000096/den-angela/" class="linkBlock">
+                                            <span style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202208/3021_1562189.jpg)" class="image">
+                                                <span class="labl _onImg fsMedium">00:30</span>
+                                            </span>
+                                        <p class="fsBig link"><strong>День ангела</strong></p>
+                                    </a>
+                                                            </div>
+                                                    <div class="col3">
+                                                                    <a href="https://www.5-tv.ru/projects/film/1514492/" class="linkBlock">
+                                            <span style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202410/1_2112865.jpg)" class="image">
+                                                <span class="labl _onImg fsMedium">00:55</span>
+                                            </span>
+                                        <p class="fsBig link"><strong>«Свои-5. Второй лишний»</strong></p>
+                                    </a>
+                                                            </div>
+                                                    <div class="col3">
+                                                                    <a href="https://www.5-tv.ru/projects/film/1517021/" class="linkBlock">
+                                            <span style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202512/2976_2423591.jpg)" class="image">
+                                                <span class="labl _onImg fsMedium">01:40</span>
+                                            </span>
+                                        <p class="fsBig link"><strong>«Свои-7. Книгофилы»</strong></p>
+                                    </a>
+                                                            </div>
+                                                    <div class="col3">
+                                                                    <a href="https://www.5-tv.ru/projects/film/1515552/" class="linkBlock">
+                                            <span style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202312/2597_1861757.jpg)" class="image">
+                                                <span class="labl _onImg fsMedium">02:25</span>
+                                            </span>
+                                        <p class="fsBig link"><strong>«След. Школа мужества»</strong></p>
+                                    </a>
+                                                            </div>
+                                                    <div class="col3">
+                                                                    <a href="https://www.5-tv.ru/projects/film/1516797/" class="linkBlock">
+                                            <span style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202509/2597_2364423.jpg)" class="image">
+                                                <span class="labl _onImg fsMedium">03:10</span>
+                                            </span>
+                                        <p class="fsBig link"><strong>«След. Фамм Фаталити»</strong></p>
+                                    </a>
+                                                            </div>
+                                                    <div class="col3">
+                                                                    <a href="https://www.5-tv.ru/projects/film/1517111/" class="linkBlock">
+                                            <span style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202602/2597_2481732.jpg)" class="image">
+                                                <span class="labl _onImg fsMedium">03:45</span>
+                                            </span>
+                                        <p class="fsBig link"><strong>«След. Называйте меня Верой»</strong></p>
+                                    </a>
+                                                            </div>
+                                                    <div class="col3">
+                                                                    <a href="https://www.5-tv.ru/projects/film/1517112/" class="linkBlock">
+                                            <span style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202602/2597_2481733.jpg)" class="image">
+                                                <span class="labl _onImg fsMedium">04:25</span>
+                                            </span>
+                                        <p class="fsBig link"><strong>«След. Гробовые»</strong></p>
+                                    </a>
+                                                            </div>
+                                                    <div class="col3">
+                                                                    <p class="fsBig"><strong>04:56</strong></p>
+                                    <p class="fsBig"><strong>Окончание эфира</strong></p>
+                                                            </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    
+    <hr class="flatTop">
+            <div class="container">
+            <h2>Проекты канала</h2>
+            <div data-gallery-frames-per-page="4" class="gallery _withControls _forMediumImages">
+                <div class="galleryWrap">
+                    <div class="row fsMedium">
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000097/den-dobryh-del/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202006/3021_1116451.jpg" alt="День добрых дел">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>День добрых дел</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">«Завтра будет поздно. Помогите сейчас!» — под этим призывом каждый четверг в эфире Пятого канала проходит акция «День добрых дел». Еженедельно мы рассказываем историю ребёнка, остро нуждающегося в лечении.</p>
+                            </div>
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000102/alye-parusa/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202507/1_2296866.jpg" alt="Алые паруса">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>Алые паруса</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">«Алые паруса» — праздник выпускников ленинградских школ, появление которого в конце 60-х навеяла невероятная популярность одноименного фильма по повести Александра Грина. Первый праздник состоялся 27 июня 1968 года. В этот день ленинградские школьники впервые увидели на Неве бригантину под алыми парусами, ставшую впоследствии эмблемой праздника.</p>
+                            </div>
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000098/svetskaa-hronika/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202310/3021_1825702.jpg" alt="Светская хроника">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>Светская хроника</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">Еженедельная информационно-развлекательная программа для тех, кто хочет самым первым узнавать новости из мира шоу-бизнеса. Захватывающие истории из жизни кумиров, настоящие расследования, эксклюзивные интервью, уникальные кадры, мнения экспертов из различных сфер.</p>
+                            </div>
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000152/otlicnaa-zizn/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202112/3021_1443656.jpg" alt="ОтЛичная жизнь">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>ОтЛичная жизнь</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">Что вы знаете о звездах? Их жизнь отлична от других или такая же, как у нас? Что скрывается за образом известной всем личности? Поклонники уверены, что дома их любимцы такие же, как и на сцене или телеэкране, а выросли они с золотой ложкой в зубах. Откровенный разговор тет-а-тет в спецпроекте «ОтЛичная жизнь».</p>
+                            </div>
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000150/detskaa-stranicka/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202107/3083_1359328.jpg" alt="Детская страничка">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>Детская страничка</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">В «Детской страничке» собраны любимые волшебные истории, записанные много лет назад. Только здесь эксклюзивно представлены записи любимой многими поколениями советских детей Марии Григорьевны Петровой.</p>
+                            </div>
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000149/zvucasaa-biblioteka/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202107/3083_1359326.jpg" alt="Звучащая библиотека">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>Звучащая библиотека</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">«Звучащая библиотека» — это подборка лучших литературных записей, сделанных в разные годы в студиях Ленинградского радио.</p>
+                            </div>
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000143/radio-peterburg/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202412/3021_2170444.jpeg" alt="Радио Петербург">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>Радио Петербург</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">Радио «Петербург» — старейший вещатель России с вековой историей. Сегодня его трансляции звучат 19 часов в сутки на частоте 69,47 МГц, и найти их можно на третьем канале городской и областной радиотрансляционной сети.</p>
+                            </div>
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000128/improvizacia-napatom-kanale/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202104/3080_1299859.jpg" alt="Импровизация на Пятом канале">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>Импровизация на Пятом канале</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">Как стать душой коллектива? Уроки от профессиональных актёров и тренеров по коммуникационной импровизации c европейским опытом научат логическому и нестандартному мышлению, смелости на публичных выступлениях, а также помогут развить социальную адаптивность.</p>
+                            </div>
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000153/poety-nasego-vremeni/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202202/3021_1465053.jpg" alt="Поэты нашего времени">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>Поэты нашего времени</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">Совместный проект Радио «Петербург», Пятого канала и сообщества «Поэзия — Экология Души», направленный на популяризацию поэзии и предоставляющий возможность молодым поэтам выступить в эфире старейшего радио страны.</p>
+                            </div>
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000129/priklucenceskie-kvesty/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202104/3080_1299990.jpg" alt="Приключенческие квесты">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>Приключенческие квесты</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">Уникальный симбиоз занимательного квеста и экскурсии по съемочным павильонам Пятого канала. Участие в роли актера настоящего сериала, головоломки и запутанные истории, в ходе которых вы сможете примерить на себя роль криминалиста и настоящего эксперта.</p>
+                            </div>
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000132/tvorceskoe-prostranstvo-muze-familu/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202104/3080_1302811.jpg" alt="Творческое пространство Muze Familу">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>Творческое пространство Muze Familу</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">Творческое пространство на Пятом канале, объединяющее людей разных возрастов и профессий, дарящее свободу и полное раскрепощение личности.</p>
+                            </div>
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000130/cikl-zanatij-dla-detej-skola-televidenia/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202108/3080_1368107.jpg" alt="Цикл занятий для детей «Школа телевидения»">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>Цикл занятий для детей «Школа телевидения»</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">Школа телевидения на Пятом канале поможет раскрыть талант будущих звёзд больших экранов. Профессиональные ведущие проведут самые реалистичные мастер-классы с погружением в настоящий съёмочный процесс!</p>
+                            </div>
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000145/ekskursii-napatyj-kanal-dla-vzroslyh/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202106/3080_1339882.jpg" alt="Экскурсии на Пятый канал для взрослых">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>Экскурсии на Пятый канал для взрослых</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">Почувствуйте жизнь по ту сторону экрана! Испытайте на себе самые передовые технологии дополненной реальности! Всё это — в историческом телецентре, где зарождалось отечественное телевидение. Прикоснитесь к истории и загляните в будущее!</p>
+                            </div>
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000144/ekskursii-napatyj-kanal-dla-detej-kruto-typopal-natv/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202106/3080_1339885.jpg" alt="Экскурсии на Пятый канал для детей — «Круто ты попал на ТВ!»">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>Экскурсии на Пятый канал для детей — «Круто ты попал на ТВ!»</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">Всегда мечтали побывать по ту сторону экрана? Пятый канал дарит уникальную возможность погрузиться в неповторимую атмосферу телевизионного «зазеркалья»! В рамках увлекательной экскурсии можно попробовать себя в роли операторов, звукорежиссёров и даже ведущих!</p>
+                            </div>
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000117/sled/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202506/3021_2280841.jpg" alt="След">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>След</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">Один из самых успешных российских криминальных сериалов — это не просто набор увлекательных детективных историй. Все они объединены основной идеей — идеальных преступлений не существует. Как бы не старался злоумышленник, он всё равно оставит след, по которому его замысел будет раскрыт.</p>
+                            </div>
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000246/sled-novye-legavye/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202511/3021_2408384.jpg" alt="След. Новые легавые">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>След. Новые легавые</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">Легендарный следователь ФЭС майор Николай Круглов оставляет службу и возвращается в родной город, где собирается спокойно встретить старость. Но идиллия, царящая на малой родине, оказывается обманчивой.</p>
+                            </div>
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000113/velikolepnaa-paterka/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202507/3021_2303599.jpg" alt="Великолепная Пятерка">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>Великолепная Пятерка</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">Детективный сериал о буднях оперов «убойного» отдела Петровского РОВД Петербурга. Пятерка — потому что оперов пять. Пять разных характеров, которые сплотил их командир, человек с большим юмором и богатым прошлым.</p>
+                            </div>
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000194/piligrim/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202601/3021_2461842.jpg" alt="Пилигрим">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>Пилигрим</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">Пилигрим — оперативный псевдоним агента секретного подразделения Олега Рубцова. В результате предательства он лишается всего — работы, друзей, близких — и теперь вынужден постоянно менять имя и место жительства. Но избавиться от багажа старой жизни ему так и не удается — в каждом следующем городе Рубцова ждут новые опасности и приключения.</p>
+                            </div>
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000111/svoi/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202004/3021_1088554.jpg" alt="Свои">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>Свои</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">«Свои» — это команда лучших экспертов из разных структур, которые объединились, чтобы разгадывать самые нетривиальные детективные загадки. У каждого из них свой характер и свои суперспособности. Но при этом они обыкновенные живые люди. Они «Свои».</p>
+                            </div>
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000115/uslovnyj-ment/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202004/3021_1088556.jpg" alt="Условный мент">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>Условный мент</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">Честная и принципиальная капитан полиции Арина Гордеева вступает в непримиримую борьбу с преступностью и коррупционерами во вверенном ей районе. В этом ей помогает бывший оперативник Дмитрий Рыжов. Он тоже не терпит несправедливости, а еще ему нравится капитан Гордеева…</p>
+                            </div>
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000146/filin/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202303/3021_1675363.jpg" alt="Филин">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>Филин</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">Врач-травматолог городской больницы Алексей Филиппов по прозвищу Филин открывает в себе талант сыщика-любителя. С помощью своей команды медработников и полицейских Филин раскрывает преступление за преступлением, ведь в сутках ему доступны все 24 часа.</p>
+                            </div>
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000148/znanie-sila/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202211/3021_1606896.jpg" alt="Знание-сила">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>Знание-сила</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">Мир меняется стремительно и в нем есть место для вещей, о существовании которых еще вчера мы даже не догадывались. В проекте «Знание-сила» появилась уникальная возможность стать свидетелем любопытных открытий, заглянуть на производство и узнать о самых громких достижениях науки и техники!</p>
+                            </div>
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000159/izgoj/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202303/3021_1680035.jpg" alt="Изгой">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>Изгой</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">Бывший офицер полиции Георгий Белоног пять лет назад потерял самых близких людей: без вести пропал его отец, а любимая девушка уехала в столицу. Жора замыкается в себе. Единственный, с кем он может разделить свою боль — верный пёс Каспер. Их пристанище теперь — вагончик на берегу Финского залива. Но прошлое находит Жору и здесь.</p>
+                            </div>
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000196/strana-sovetov/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202309/3021_1802319.jpg" alt="Страна советов">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>Страна советов</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">Цикл передач о товарах народного потребления и услугах, которые жители нашей страны получают ежедневно. Экспертные заключения специалистов различных лабораторий и НИИ, расследования на волнующие каждого зрителя темы, советы по разумному потреблению.</p>
+                            </div>
+                                                    <div class="col3">
+                                <a href="https://www.5-tv.ru/projects/1000201/firmennyj-recept-semelanenko/" class="linkBlock">
+                            <span class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202405/3021_2012630.jpg" alt="Фирменный рецепт с Емельяненко">
+                                </picture>
+                            </span>
+                                    <p class="fsBig link"><strong>Фирменный рецепт с Емельяненко</strong></p>
+                                </a>
+                                <p class="antiTopQuartBase">Самая аппетитная и пикантная программа о еде. Известный шеф-повар Василий Емельяненко устраивает настоящий кулинарный поединок для российских знаменитостей и выясняет, кто из них готовит круче.</p>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    
+    <hr>
+    <img style="position:absolute; left:-9999px;" src="//ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=637596&bt=21&pid=2616748&bid=5210417&bn=5210417&rnd=1261709662"  />
+
+<div class="container">
+    <div class="row">
+                                    <div class="col3">
+            <div class="plate colPlate">
+                <div class="fsMedium">
+                                        <h3><a href="https://www.5-tv.ru/about/numbers/">Цифры дня</a></h3><a href="https://www.5-tv.ru/about/numbers/5057316/darim-nadezdu-vmeste/" class="linkBlock">
+                        <p>
+                            <span style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202602/2826_2488379.jpg)" class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/2826_2488379.jpg">
+                                </picture>
+                            </span>
+                        </p>
+                        <p class="fsText link"><b>Дарим надежду вместе!</b></p></a>
+                    <p>12 февраля программа «День ангела» подарила не только душевный вечер, но и первое место Пятому каналу среди всех национальных вещателей. Доля проекта в тайм-слоте 00:28–00:54 составила 11,6%, и этот результат — заслуга чутких и неравнодушных телезрительниц от 25 до 59 лет. </p>
+                    <p><a href="https://www.5-tv.ru/about/numbers/" class="labl fsSmall">Для рекламодателей</a></p>
+                                    </div>
+            </div>
+        </div>
+                                        <div class="col3">
+            <div class="plate colPlate">
+                <div class="fsMedium">
+                                        <h3><a href="https://www.5-tv.ru/news/channel-news/">Новости канала</a></h3><a href="https://www.5-tv.ru/news/5057475/patyj-kanal-nacal-semki-vtorogo-sezona-seriala-elbrus/" class="linkBlock">
+                        <p>
+                            <span style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202602/114_2489569.jpg)" class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202602/114_2489569.jpg">
+                                </picture>
+                            </span>
+                        </p>
+                        <p class="fsText link"><b>Пятый канал начал съемки второго сезона сериала «Эльбрус»</b></p></a>
+                    <p>Начались съемки продолжения популярного сериала с Иваном Оганесяном в главной роли. Новый туристический сезон обещает стать жарким во всех смыслах: команда спасателей во главе с Виктором Костровым опять выходит на тропу войны с преступностью.</p>
+                    <p><a href="https://www.5-tv.ru/news/list/portal/" class="labl fsSmall">5-tv.ru </a></p>
+                                    </div>
+            </div>
+        </div>
+                                        <div class="col3">
+            <div class="plate colPlate">
+                <div class="fsMedium">
+                                        <h3><a href="https://www.5-tv.ru/about/press/">Пресса о компании</a></h3><a href="https://www.5-tv.ru/about/press/5052808/patyj-kanal-opredelil-trendy-telesezona-cem-zapomnilsa-uhodasijgod/" class="linkBlock">
+                        <p>
+                            <span style="background-image: url(https://img5tv.cdnvideo.ru/webp/shared/files/202212/3006_1636082.jpg)" class="image">
+                                <picture>
+                                    <img loading="lazy" src="https://img5tv.cdnvideo.ru/webp/shared/files/202212/3006_1636082.jpg">
+                                </picture>
+                            </span>
+                        </p>
+                        <p class="fsText link"><b>Пятый канал определил тренды телесезона. Чем запомнился уходящий год?</b></p></a>
+                    <p>Как сообщает Lenta.ru, 2025 год стал для Пятого канала годом стратегического результата. Телеканал завершает его с полной контентной независимостью, устойчивыми позициями в ТОП федерального эфира, расширенной линейкой собственных детективов и абсолютным рекордом главного выпускного страны.</p>
+                    <p><a href="https://www.5-tv.ru/about/press/" class="labl fsSmall">5-tv.ru </a></p>
+                                    </div>
+            </div>
+        </div>
+                                                
+
+
+    <div class="col3 positionRelative"><span style="z-index:10" class="tag positionAbsolute">Реклама</span>
+        <div class="plate colPlate">
+            <!--AdFox START-->
+<!--newctc-->
+<!--Площадка: BANNER web/mobile web / 5-tv.ru / 240x400-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: 240x400/300x600-->
+<div id="adfox_151870552923786315" style="margin: 4.4rem auto 0 -10px"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 264443,
+        containerId: 'adfox_151870552923786315',
+            params: {puid21: '1',
+            p1: 'bzirn',
+            p2: 'fulg',
+            puid12: '186109',
+            puid4: '5-tv.ru'
+            }
+        }, ['desktop', 'tablet', 'phone'], {
+            tabletWidth: 830,
+            phoneWidth: 480,
+            isAutoReloads: false
+        })
+    })
+</script>        </div>
+    </div>
+
+
+
+
+
+
+    <img style="position:absolute; left:-9999px;"
+         src="//ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=637596&bt=21&pid=2616748&bid=5210417&bn=5210417&rnd=1261709662"/>
+
+
+                </div>
+</div>
+
+        <hr class="flatBottom">
+    </main>
+
+
+
+
+
+
+
+
+
+
+
+
+<footer role="contentinfo" class="footer">
+    <div class="container">
+                        <div class="row cont">
+            <div class="col6"><img width="27" height="27" src="https://img5tv.cdnvideo.ru/shared/img/logo_small.png?v=2023" alt="" class="blockFloatIcon">
+                <div>
+                    <p>&copy; АО Телерадиокомпания «Петербург», 1998—2026. Все права защищены.</p>
+                                            <ul class="metaList _nosep fsSmall antiTopHalfBase">
+                                                            <li><a href="https://www.5-tv.ru/about/site/">Правовая информация</a></li>
+                                                            <li><a href="https://www.5-tv.ru/policy/">Политика конфиденциальности</a></li>
+                                                            <li><a href="https://www.5-tv.ru/about/address/">Контакты</a></li>
+                                                            <li><a href="https://www.5-tv.ru/innfopovod/">Обратная связь</a></li>
+                                                    </ul>
+                                    </div>
+            </div>
+            <div class="col3">
+                <p class="fsSmall cFade">Используя настоящий сайт, Вы тем самым обязуетесь выполнять условия <a class='cBack' href="/about/agreement/">Соглашения</a>
+                    и&nbsp;учитывать информацию, содержащуюся в <a class='cBack' href="/about/notification/">Уведомлении</a>.</p>
+            </div>
+            <div class="col3"><img width="29" height="28" src="https://img5tv.cdnvideo.ru/shared/img/18.png" alt="18+" class="blockFloatIcon">
+                <div>
+                    <p class="fsSmall cFade">Внимание! Отдельные видеоматериалы, размещенные на&nbsp;настоящем сайте, могут содержать информацию, предназначен&shy;ную
+                        для лиц, достигших 18&nbsp;лет.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row cont">
+            <div class="col6">
+                <p class="flatTop fsSmall cFade">Наименование издания: СМИ сетевое издание 5-tv.ru<br> Учредитель: АО «Телерадиокомпания «Петербург»<br> Главный
+                    редактор: Н. В. Ильина<br> Зарегистрировано Федеральной службой по&nbsp;надзору в&nbsp;сфере связи, информационных технологий и&nbsp;массовых
+                    коммуникаций. Свидетельство о&nbsp;регистрации ЭЛ&nbsp;№&nbsp;ФС77-69216 от&nbsp;29&nbsp;марта 2017&nbsp;года. <br><a
+                            href="https://www.5-tv.ru/about/address/">Адрес и телефон редакции</a></p>
+            </div>
+            <div class="col3">
+                <a href="https://nmg.ru/holdings/pyatyy-kanal/" target="_blank" class="displayInlineBlock antiTopHalfBase"><img src="https://img5tv.cdnvideo.ru/shared/img/nmg.png"
+                                                                                                                                alt=""></a> <a
+                        href="http://iz.ru" target="_blank" class="displayInlineBlock marginLeftBase"><img src="https://img5tv.cdnvideo.ru/shared/img/izru.png" alt=""></a>
+                <div id="cMail" class="displayInlineBlock marginRightHalfBase">
+                </div>
+            </div>
+            <div class="col3"><a href="https://www.sogaz.ru" target="_blank" class="linkBlock footerSogaz"><span>— <span
+                                class="link">Партнер Пятого канала</span></span></a></div>
+        </div>
+    </div>
+</footer>
+</div>
+<script type="text/javascript" src="https://img5tv.cdnvideo.ru/shared/minify.php?fc2ed9540cb99128ad5c7da3a5332fc20029db8e&amp;files=/shared/js/fe/jquery.js,/shared/js/fe/jquery-ui/jquery-ui.min.js,/shared/js/fe/jquery-ui/jquery.ui.datepicker-ru.js,/shared/js/fe/jquery.easing.js,/shared/js/fe/jquery.mobile.custom.min.js,/shared/js/fe/jquery.fancybox.js,/shared/js/ext/jquery.plugins/jquery.jsonrpc.js,/shared/js/fe/jquery.sticky-kit.min.js,/shared/js/ext/jquery.plugins/jquery.hotkeys.js,/shared/js/fe/magic.js,/shared/js/fe/a.core.2.js,/shared/js/fe/scripts.js,/shared/js/fe/last-news.js"></script><!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(24254335, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+    });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/24254335" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!--LiveInternet counter--><script type="text/javascript">
+        new Image().src = "//counter.yadro.ru/hit;mic_izvestia?r"+
+            escape(document.referrer)+((typeof(screen)=="undefined")?"":
+                ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+                screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+            ";"+Math.random();</script><!--/LiveInternet-->
+
+<img style="position:absolute; left:-9999px;" src="//ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=637596&bt=21&pid=2616747&bid=5210246&bn=5210246&rnd=1380730780"  />
+
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "1622896", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+        ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+</script><noscript><div>
+        <img src="//top-fwz1.mail.ru/counter?id=1622896;js=na" style="border:0;position:absolute;left:-9999px;" alt="" />
+    </div></noscript>
+<!-- //Rating@Mail.ru counter -->
+<!-- tns-counter.ru -->
+<script type="text/javascript">
+    (function(win, doc, cb){
+        (win[cb] = win[cb] || []).push(function() {
+            try {
+                tnsCountereverest_ru = new TNS.TnsCounter({
+                    'account':'everest_ru',
+                    'tmsec': 'everest_network'
+                });
+            } catch(e){}
+        });
+
+        var tnsscript = doc.createElement('script');
+        tnsscript.type = 'text/javascript';
+        tnsscript.async = true;
+        tnsscript.src = ('https:' == doc.location.protocol ? 'https:' : 'http:') +
+            '//www.tns-counter.ru/tcounter.js';
+        var s = doc.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(tnsscript, s);
+    })(window, this.document,'tnscounter_callback');
+</script>
+<script>
+    ((counterHostname) => {
+        window.MSCounter = {
+            counterHostname: counterHostname
+        };
+        window.mscounterCallbacks = window.mscounterCallbacks || [];
+        window.mscounterCallbacks.push(() => {
+            msCounterExampleCom = new MSCounter.counter({
+                'account':'5_tv',
+                'tmsec': '5_tv',
+                'autohit' : true
+            });
+        });
+
+        const newScript = document.createElement('script');
+        newScript.async = true;
+        newScript.src = `${counterHostname}/ncc/counter.js`;
+
+        const referenceNode = document.querySelector('script');
+        if (referenceNode) {
+            referenceNode.parentNode.insertBefore(newScript, referenceNode);
+        } else {
+            document.firstElementChild.appendChild(newScript);
+        }
+    })('https://tns-counter.ru/');
+</script>
+<noscript>
+    <img src="//www.tns-counter.ru/V13a****everest_ru/ru/UTF-8/tmsec=everest_network/1277239" width="0" height="0" alt="" />
+</noscript>
+<!--/ tns-counter.ru --><iframe class="relap-runtime-iframe" style="position:absolute;top:-9999px;left:-9999px;visibility:hidden;" srcdoc="<script src='https://relap.io/v7/relap.js' data-relap-token='4ZnhdvJ2YjjFvcbD'></script>"></iframe>
+    <div id="Zakon" style="z-index: 10101; position: fixed; bottom: 5px; left: 5px; border: 1px solid #FFF; padding: 15px 135px 15px 20px; font-size: 14px; color: #FFF; background: #2E3541">
+        <p style="margin: 0">На нашем сайте используются cookie-файлы. Продолжая пользоваться данным сайтом, вы подтверждаете свое согласие<br>на использование файлов cookie в соответствии с настоящим уведомлением и <a href="https://www.5-tv.ru/policy/" style="color: #FFF; text-decoration: underline">Политикой конфиденциальности</a></p>        <button id="ZakonB" type="button" style="position: absolute; right: 20px; top: 18px; padding: 0 15px; height: 30px; line-height: 30px; font-weight: bold; border-radius: 4px">
+            ПОНЯТНО
+        </button>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const zakonButton = document.getElementById('ZakonB');
+            const zakon = document.getElementById('Zakon');
+
+            zakonButton.addEventListener('click', () => {
+                zakon.style.display = 'none';
+                (function (name, value, days) {
+                    const date = new Date();
+                    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                    const expires = "expires=" + date.toUTCString();
+                    document.cookie = name + "=" + value + ";" + expires + ";path=/";
+                })('cookie_bar_shown', 'true', 30);
+            });
+        });
+    </script>
+</body>
+</html>

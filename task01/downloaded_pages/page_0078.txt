@@ -1,0 +1,1332 @@
+
+<!DOCTYPE html>
+<html lang="ru" prefix="article: https://ogp.me/ns/article">
+<head>
+	<title>В России - Новости Интерфакс</title>
+	<link rel="shortcut icon" href="https://www.interfax.ru/favicon.ico" type="image/x-icon">
+	<link rel="icon" sizes="120x120" href="https://www.interfax.ru/touch-icon-iphone-retina.png" />
+	<link rel="apple-touch-icon" href="https://www.interfax.ru/touch-icon-iphone.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="https://www.interfax.ru/touch-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="https://www.interfax.ru/touch-icon-iphone-retina.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="https://www.interfax.ru/touch-icon-ipad-retina.png">
+	<link rel="manifest" href="/manifest.json">
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="application-name" content="Интерфакс" />
+	<meta name="apple-mobile-web-app-title" content="Интерфакс">
+	<meta name="theme-color" content="#009cab">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	<meta name="msapplication-tooltip" content="Интерфакс Новости" />
+	<meta name="msapplication-navbutton-color" content="#009cab" />
+	<meta name="msapplication-starturl" content="./" />
+	<meta name="msapplication-config" content="browserconfig.xml" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+	<meta name="description" content="Новости в России" />
+	
+	<link rel="stylesheet" href="/css/default.css?v=ut8OAIuYYyzqiPE1XS4UtkBB8S9M_4lkxeMslH_BI0Q">
+	<link rel="stylesheet" href="/css/mobile.css?v=VvUOpfcVv4s_1xI0FJIcsTFEOnzNNbLwDYsxordUnVk" media="only screen and (max-width:759px)">
+	<link rel="stylesheet" href="/css/desktop.css?v=QN0maPLZ65vnLmBxvNJty6JXIOfZygphK-z4LWbqTqw" media="only screen and (min-width:760px)">
+	<link rel="alternate" type="application/rss+xml" title="Интерфакс новости" href="https://www.interfax.ru/rss">
+	
+	<meta property="og:url" content="https://www.interfax.ru/russia/" />
+	<meta property="og:description" content="Новости в России" />
+	<meta property="og:site_name" content="Interfax.ru" />
+	<meta property="og:locale" content="ru_RU" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="В России - Новости Интерфакс" />
+	<meta property="og:image" content="https://www.interfax.ru/img/interfax_icon_300.png" />
+
+	<link rel="canonical" href="https://www.interfax.ru/russia/" />
+
+</head>
+<body data-pagetype="txtind_1448">
+	<script>
+		window.yaContextCb = window.yaContextCb || []
+	</script>
+	<script type="text/javascript">
+		var cntimg = document.createElement("IMG");
+		cntimg.src = "/cnt/" + cntParseReferer();
+		function cntParseReferer() {
+		var re = new RegExp("(http(s)?\\:\\/\\/)?([\\.\\-_0-9A-Za-z]{1,})(.*)");
+		var m = re.exec(document.referrer);
+		if (!m) return "";
+		return encodeURI(m[3]).replace(/'/g, "%27") + "?" + encodeURI(m[4]).replace(/'/g, "%27");
+		}
+		var deferLoadJS_timer = []; function deferLoadJS(e, r, d) { d = d || 200; r = 'timer_' + Math.random(); deferLoadJS_timer[r] = setInterval(function () { !0 === window.interfax_scriptjs_loaded && (clearInterval(deferLoadJS_timer[r]), e()) }, d) }
+		if (!Element.prototype.matches) { Element.prototype.matches = Element.prototype.msMatchesSelector || Element.prototype.webkitMatchesSelector; }
+		Element.prototype.parents = function (e) { for (var t = [], n = this, o = void 0 !== e; null !== (n = n.parentElement);)n.nodeType === Node.ELEMENT_NODE && (o && !n.matches(e) || t.push(n)); return t };
+	</script>
+	<script>
+		if (document.cookie.indexOf('showCovid=0') >= 0 && document.querySelector('[data-pagetype="defaultpage"]')) document.querySelector('html').classList.add('hideTimeline');
+	</script>
+
+<div id="pl420_ban110" data-content="webR"><div id="background"></div></div><div id="pl421_ban2370" data-content="webR"><style>
+        #m_top  yatag {min-width:auto!important; }
+        .height_up_ban > div {
+            height: 250px; /*desktop*/
+        }
+        .height_up_ban_mob > div {
+          display: none;
+        }
+        /*ширина страницы до которой применяется стиль*/
+        @media only screen and (max-width:1023px) { 
+            .height_up_ban  > div {
+            display: none; /*пространство между*/
+          }
+        }
+        /*ширина страницы до которой применяется стиль*/
+        @media only screen and (max-width:639px) { 
+            .height_up_ban_mob > div {
+            display:block;
+            height: 250px; /*mobile*/
+          }
+        }</style>
+        
+        <div class="mgrNo i_mobile_only  height_up_ban_mob">
+        <!--AdFox START-->
+        <!--roden-media-->
+        <!--Площадка: Interfax / Сквозной / Перетяжка смартфоны-->
+        <!--Категория: <не задана>-->
+        <!--Тип баннера: Перетяжка 100%-->
+        <div id="m_top" align="center"></div>
+        <script>
+         if (!document.querySelector('[data-pagetype = "nonchronicle"]')) {
+            window.yaContextCb.push(()=>{
+                Ya.adfoxCode.create({
+        
+                    ownerId: 173858,
+                    containerId: 'm_top',
+                    params: {
+                        p1: 'cnxxu',
+                            p2: 'hbts'
+                },
+        onStub: function() {console.log("Не пришел код мобильной перетяжки"); }
+            }, ['phone'], {
+                tabletWidth: 1023,
+                phoneWidth: 639,
+                isAutoReloads: true
+          });
+        });
+        }
+        </script>
+        </div>
+        
+        <div class="i_desktop_only wr__fix height_up_ban"   style="margin: 0px auto;" >
+        <!--AdFox START-->
+        <!--roden-media-->
+        <!--Площадка: Interfax / Сквозной / Перетяжка_декстоп-->
+        <!--Категория: <не задана>-->
+        <!--Тип баннера: Перетяжка 100%-->
+            <div id="billboard" style="overflow-x:hidden;"></div>
+            <script>
+        
+                window.yaContextCb.push(()=>{
+                    var addClass = (function () {
+                            if ('classList' in document.createElement('p')) {
+                                return function (e, n) {
+                                    e.classList.add(n)
+                                }
+                            }
+                            return function (e, n) {
+                                if (e.className.indexOf(n) !== -1) {
+                                    return
+                                }
+                                n += ' ';
+                                e.className += n;
+                            }
+                        })(),
+                        fixBody = function () {
+                            addClass(document.body, 'fix')
+                        },
+                        callBg = function () {
+        
+                        window.yaContextCb.push(()=>{
+                                Ya.adfoxCode.createAdaptive({
+                                ownerId: 173858,
+                                containerId: 'background',
+                                params: { p1: 'bscqd', p2: 'epdp' },
+                                onRender: fixBody
+                            }, ['desktop'], {
+                                                                tabletWidth: 1399,
+                                                                phoneWidth: 639,
+                                                                isAutoReloads: true
+                                                              });
+                        });
+                        }  
+                    Ya.adfoxCode.createAdaptive({
+                        ownerId: 173858,
+                        containerId: 'billboard',
+                        params: { p1: 'btpkl', p2: 'y' },
+                        onError: callBg,
+                        onStub: callBg,
+                           onRender: function () { addClass(document.querySelector('[id*=_ban2370]'), 'wr__fix'); },
+                        onLoad: function (d) {
+                            if (d && d.bundleName === 'banner.background') {
+                                fixBody()
+                            } else {
+                                callBg()
+                            }
+                        }
+                    }, ['desktop'], {
+                    tabletWidth: 1006,
+                    phoneWidth: 639,
+                    isAutoReloads: true
+                });
+            },
+                );                
+            </script>
+        </div>
+        
+</div>
+	<header>
+		<div class="topmenu">
+			<nav class="topmenu__links">
+				<!--noindex--><a rel="nofollow" href="https://m.interfax.ru/">Мобильная версия</a><!--/noindex-->
+				<!--noindex--><a rel="nofollow" href="https://group.interfax.ru/" target="_blank">Об "Интерфаксе"</a><!--/noindex-->
+				<!--noindex--><a rel="nofollow" href="https://www.interfax.com/" target="_blank">Interfax.com</a><!--/noindex-->
+				<!--noindex--><a rel="nofollow" href="https://www.interfax-russia.ru/" target="_blank">Интерфакс-Россия</a><!--/noindex-->
+				<!--noindex--><a rel="nofollow" href="https://www.finmarket.ru/" target="_blank">Финмаркет</a><!--/noindex-->
+				<span class="links__more">
+					<span>Еще...</span>
+					<span class="links__submenu">
+						<!--noindex--><a rel="nofollow" href="https://www.interfax-russia.ru/tourism/" target="_blank">Туризм</a><!--/noindex-->
+						<!--noindex--><a rel="nofollow" href="https://www.interfax-russia.ru/realty/" target="_blank">Недвижимость</a><!--/noindex-->
+						<!--noindex--><a rel="nofollow" href="https://www.interfax-russia.ru/academia/" target="_blank">Образование</a><!--/noindex-->
+						<a href="/events/">Мероприятия</a>
+					</span>
+				</span>
+			</nav>
+			<div class="topmenu__soc">
+				<!--noindex--><a rel="nofollow" href="https://dzen.ru/interfax?favid=1114" target="_blank" class="topmenu__ya"></a><!--/noindex-->  <!--noindex--><a rel="nofollow" href="tg://resolve?domain=interfaxonline" target="_blank" class="topmenu__tg"></a><!--/noindex-->  <!--noindex--><a rel="nofollow" href="https://twitter.com/interfax_news" target="_blank" class="topmenu__tw"></a><!--/noindex-->  <!--noindex--><!--<a rel="nofollow" href="https://www.facebook.com/interfaxonline" target="_blank" class="topmenu__fb"></a>--><!--/noindex-->  <!--noindex--><a rel="nofollow" href="https://vkontakte.ru/interfaxru" target="_blank" class="topmenu__vk"></a><!--/noindex-->  <!--noindex--><a rel="nofollow" href="https://max.ru/interfax" target="_blank" class="topmenu__mx"></a><!--/noindex-->  <!--noindex--><a rel="nofollow" href="/rss" target="_blank" class="topmenu__rss"></a><!--/noindex-->
+			</div>
+		</div>
+		<div class="toplogo">
+			<div class="toplogo__left-column">
+				<div onclick="smartMenu()" id="smartMenuLink" class="hbut__menu"><div><span></span></div></div>
+				<a href="/search/" class="hbut__search"></a>
+			</div>
+			<div>
+				<div class="logo"><a href="/" title="Новости Интерфакс">Интерфакс</a></div>
+				<img src="/img/printlogo.png" alt="Новости Интерфакс" class="logo__print">
+			</div>
+			<div>
+				<div class="header__soc" data-type="socialbar" data-title="В России - Новости Интерфакс" data-url="https://www.interfax.ru/russia/">
+					<span class="soc__tg" onclick="Social('tg',this)" title="Telegram"></span>
+					<span class="soc__vk" onclick="Social('vk',this,true)" title="ВКонтакте"></span>
+					<span class="soc__tw desktop_inline-block" onclick="Social('tw',this,true)" title="Twitter"></span>
+					<div class="soc_nomore" onclick="this.className='soc_more';this.closest('.toplogo').classList.add('show-soc-more')">&bull;&bull;&bull;</div>
+					<div class="soc_row">
+						<span class="soc__tw mobile_inline-block" onclick="Social('tw',this,true)" title="Twitter"></span>
+						<span class="soc__ok" onclick="Social('ok',this,true)" title="Одноклассники"></span>
+						<span class="soc__wa" onclick="Social('wa',this)" title="WhatsApp"></span>
+						<span class="soc__vb" onclick="Social('vb',this)" title="Viber"></span>
+						<span class="soc__em" onclick="Social('em',this)" title="E-Mail"></span>
+					</div>
+				</div>
+				<a href="https://www.ifax.ru/" class="but__enter"><span>Вход для подписчиков</span></a>
+			</div>
+		</div>
+		<div class="toplinks">
+			<nav>
+				<ul>
+		<li>
+			<a href="/" title="Главные новости" tabindex="1" >Главное</a>
+		</li>
+		<li>
+			<a href="/russia/" title="Новости в России" tabindex="2"  class="activeg">В России</a>
+		</li>
+		<li>
+			<a href="/world/" title="Новости в мире" tabindex="2" >В мире</a>
+		</li>
+		<li>
+			<a href="/business/" title="Новости экономики" tabindex="2" >Экономика</a>
+		</li>
+		<li>
+			<a href="https://www.sport-interfax.ru/" title="Новости спорта" tabindex="2" >Спорт</a>
+		</li>
+		<li>
+			<a href="/culture/" title="Новости культуры" tabindex="2" >Культура</a>
+		</li>
+						<li><div></div></li>
+		<li>
+			<a href="/moscow/" title="Новости Москвы" tabindex="2" >Москва</a>
+		</li>
+		<li>
+			<a href="/digital/" title="Digital" tabindex="2" >Digital</a>
+		</li>
+		<li>
+			<a href="/news/" title="Все новости Интерфакс" tabindex="2" >Новости</a>
+		</li>
+		<li>
+			<a href="/story/" title="Новостные сюжеты" tabindex="2" ><span>Все</span> Сюжеты</a>
+		</li>
+		<li>
+			<a href="/photo/" title="Фотогалереи" tabindex="2" ><span>Все</span> Фото</a>
+		</li>
+					<li>
+						<!--noindex-->
+						<a href="https://ifx.ru/ru/showcase?utm_source=interfax.ru" target="_blank" class="i_mobile_only">Подписка</a>
+						<!--/noindex-->
+					</li>
+				</ul>
+
+			</nav>
+			<div class="searchSmall" onclick="this.className='search';setTimeout('document.search.phrase.focus()',300)">
+				<form name="search" action="/search/">
+					<input type="text" name="phrase" value="" autocomplete="off" onclick="if (document.getElementById('searchText').className == 'sTextShow') document.getElementById('searchText').className = 'sTextHide'" onkeydown="if(document.getElementById('searchText').className == 'sTextShow')document.getElementById('searchText').className = 'sTextHide'" onblur="if(this.value=='')document.getElementById('searchText').className = 'sTextShow';setTimeout('document.querySelector(\'.search\').className=\'searchSmall\'',300)">
+					<input type="submit" value="" onclick="if (document.querySelector('header .search')) document.search.submit(); return false;">
+					<span id="searchText" class="sTextShow">Поиск</span>
+				</form>
+			</div>
+		</div>
+
+	</header>
+
+
+		<main>
+		<div class="mainblock">
+			<div class="leftside">
+				<h1 class="title__v3">В России</h1>
+				<div class="timeline">
+									<div class="timeline__group">
+					<div class="">
+						<time datetime="2026-02-19T21:05">21:05</time>
+						<a href="/russia/1073761" title="Россия и Китай готовят соглашение о 2-м ж/д пути на переходе Забайкальск - Маньчжурия" tabindex="5"><h3>Россия и Китай готовят соглашение о 2-м ж/д пути на переходе Забайкальск - Маньчжурия</h3></a>
+					</div>
+				</div>
+					<div class="timeline__photo timeline__text-large">
+						<time datetime="2026-02-19T20:44">20:44</time>
+						<a href="/world/1073759" title="Трамп продлил на год ряд санкций против России" tabindex="5"><h3>Трамп продлил на год ряд санкций против России</h3></a>
+						<a href="/world/1073759" class="timeline_photo"><img src="https://www.interfax.ru/ftproot/textphotos/2026/02/19/dt700.jpg" alt="Трамп продлил на год ряд санкций против России" loading="lazy"></a>
+					</div>
+				<div class="timeline__group">
+					<div class="">
+						<time datetime="2026-02-19T20:43">20:43</time>
+						<a href="/russia/1073758" title="Белоусов обсудил с министром ВС Мадагаскара сотрудничество в сфере обороны" tabindex="5"><h3>Белоусов обсудил с министром ВС Мадагаскара сотрудничество в сфере обороны</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T20:35">20:35</time>
+						<a href="/russia/1073757" title="Минобороны России сообщило о нейтрализации 34 БПЛА за 4 часа" tabindex="5"><h3>Минобороны России сообщило о нейтрализации 34 БПЛА за 4 часа</h3></a>
+					</div>
+						</div>
+					<div class="no__dot"><div id="pl571_ban224" data-content="webR"><div class="i_mobile_only  wr__timeline" align="center">
+        <!--AdFox START-->
+        <!--roden-media-->
+        <!--Площадка: Interfax / * / *-->
+        <!--Тип баннера: 240х400 середина-->
+        <!--Расположение: <верх страницы>-->
+        <div id="adfox_preid" data-type="webrwrap"></div>
+        <script>
+              window.yaContextCb.push(()=>{
+                    var bancont = document.querySelector('[id*=_ban224] #adfox_preid'); // контейнер, в который будет добавлен баннер
+                    var randname = Math.random(); // случайное число
+                    bancont.setAttribute('id', 'adfox_' + randname);  // установка нового ID контейнеру
+                    var temp = document.querySelector('[id="adfox_'+randname +'"]').parents('[id*=_ban224]');
+                    Ya.adfoxCode.createAdaptive({
+                        ownerId: 173858,
+                        containerId: 'adfox_' + randname, /* новый ID контейнера */
+                        params: {
+                            p1: 'csljp',
+                            p2: 'hjrx',
+                            puid1: '',
+                            puid2: '',
+                            puid3: ''
+                        },
+                    onStub: function () {
+                        if (temp[0]) temp[0].setAttribute('style','display:none');},
+                    onRender: function()   {
+                        if  (temp[0]) { temp[0].setAttribute('style','display:block;'); temp[0].querySelector('.i_mobile_only').classList.add('wr__border');  setTimeout(function() {if ( temp[0].offsetHeight < 60) temp[0].setAttribute('style','display:none;');}, 1000);}
+                        }
+                }, ['phone'], {
+                    tabletWidth: 1023,
+                    phoneWidth: 760,
+                    isAutoReloads: false
+            });
+        });	
+        </script>
+    </div>
+</div></div>
+					<div class="timeline__text timeline__text-large">
+						<time datetime="2026-02-19T20:30">20:30</time>
+						<a href="/russia/1073745" title="Что произошло за день: четверг, 19 февраля" tabindex="5"><h3>Что произошло за день: четверг, 19 февраля</h3></a>
+					</div>
+				<div class="timeline__group">
+					<div class="">
+						<time datetime="2026-02-19T20:14">20:14</time>
+						<a href="/russia/1073753" title="Дмитрий Медведев считает слухи о кадровом кризисе сильно преувеличенными" tabindex="5"><h3>Дмитрий Медведев считает слухи о кадровом кризисе сильно преувеличенными</h3></a>
+					</div>
+						</div>
+					<div class="no__dot"><div id="pl471_ban217" data-content="webR"><div class="i_desktop_only  wr__timeline">
+<!--AdFox START-->
+<!--roden-media-->
+<!--Площадка: Interfax / * / *-->
+<!--Тип баннера: 100%х240 середина-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_preid"></div>
+<script>
+        window.yaContextCb.push(()=>{
+            var bancont = document.querySelector('[id*=_ban217] #adfox_preid'); // контейнер, в который будет добавлен баннер
+            var randname = Math.random(); // случайное число
+            bancont.setAttribute('id', 'adfox_' + randname);  // установка нового ID контейнеру
+            var temp = document.querySelector('[id="adfox_'+randname +'"]').parents('[id*=_ban217]');
+            if (bancont != null) {
+                   Ya.adfoxCode.createAdaptive({
+                    ownerId: 173858,
+                    containerId: 'adfox_' + randname, /* новый ID контейнера */
+                    params: {
+                        p1: 'bsqgf',
+                        p2: 'etsw',
+                        puid1: '',
+                        puid2: '',
+                        puid3: ''
+                    },
+                    onStub: function()   {
+                        if  (temp[0]) temp[0].setAttribute('style','display:none;');
+                    },
+                    onRender: function()   {
+                        if  (temp[0]) { temp[0].setAttribute('style','display:block;'); temp[0].querySelector('.i_desktop_only').classList.add('wr__border'); setTimeout(function()  { if ( temp[0].offsetHeight < 60) temp[0].setAttribute('style','display:none;');}, 1000);}
+                    }
+                }, ['desktop', 'tablet'], {
+                    tabletWidth: 1023,
+                    phoneWidth: 760,
+                    isAutoReloads: true
+                });
+            }	
+        });   
+    </script>
+    </div>
+
+<div class="i_mobile_only   wr__timeline">
+<!--AdFox START-->
+<!--roden-media-->
+<!--Площадка: Interfax / * / *-->
+<!--Тип баннера: 100%х240 середина-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_preid"></div>
+<script>
+        window.yaContextCb.push(()=>{
+            var bancont = document.querySelector('[id*=_ban217] #adfox_preid'); // контейнер, в который будет добавлен баннер
+            var randname = Math.random(); // случайное число
+            bancont.setAttribute('id', 'adfox_' + randname);  // установка нового ID контейнеру
+            var temp = document.querySelector('[id="adfox_'+randname +'"]').parents('[id*=_ban217]');
+            if (bancont != null) {
+                   Ya.adfoxCode.createAdaptive({
+                    ownerId: 173858,
+                    containerId: 'adfox_' + randname, /* новый ID контейнера */
+                    params: {
+                        p1: 'bzakf',
+                        p2: 'etsw',
+                        puid1: '',
+                        puid2: '',
+                        puid3: ''
+                    },
+                onStub: function()   {
+                    if (temp[0]) temp[0].setAttribute('style','display:none;'); 
+                },
+                onRender: function()   {
+                    if  (temp[0]) { temp[0].setAttribute('style','display:block;'); temp[0].querySelector('.i_mobile_only').classList.add('wr__border');  setTimeout(function() {if ( temp[0].offsetHeight < 60) temp[0].setAttribute('style','display:none;');}, 500);}
+                }
+            }, ['phone'], {
+                tabletWidth: 1023,
+                phoneWidth: 760,
+                isAutoReloads: true
+            });
+        }	
+    });   
+</script>
+</div></div></div>
+					<div class="timeline__text">
+						<time datetime="2026-02-19T20:08">20:08</time>
+						<a href="/business/1073752" title="&quot;Интерфакс&quot; объявил победителя премии &quot;За активную корпоративную политику в сфере раскрытия информации&quot; за 2025 г." tabindex="5"><h3>&quot;Интерфакс&quot; объявил победителя премии &quot;За активную корпоративную политику в сфере раскрытия информации&quot; за 2025 г.</h3></a>
+					</div>
+				<div class="timeline__group">
+					<div class="">
+						<time datetime="2026-02-19T20:04">20:04</time>
+						<a href="/russia/1073750" title="Срок внесения нелегальных игровых сайтов в реестр запрещенных предложено сократить до 2 дней" tabindex="5"><h3>Срок внесения нелегальных игровых сайтов в реестр запрещенных предложено сократить до 2 дней</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T19:50">19:50</time>
+						<a href="/russia/1073747" title="В Архызе на месте схода лавины завершились поисковые работы" tabindex="5"><h3>В Архызе на месте схода лавины завершились поисковые работы</h3></a>
+					</div>
+				</div>
+					<div class="timeline__photo">
+						<time datetime="2026-02-19T19:33">19:33</time>
+						<a href="/business/1073746" title="Продавцов детских товаров обяжут дополнительно подтверждать право на льготный НДС" tabindex="5"><h3>Продавцов детских товаров обяжут дополнительно подтверждать право на льготный НДС</h3></a>
+						<a href="/business/1073746" class="timeline_photo"><img src="https://www.interfax.ru/ftproot/textphotos/2026/02/19/sch700.jpg" alt="Продавцов детских товаров обяжут дополнительно подтверждать право на льготный НДС" loading="lazy"></a>
+					</div>
+					<div class="no__dot"><div id="pl572_ban211" data-content="webR"><div class="i_mobile_only  wr__timeline">
+<!--AdFox START-->
+<!--roden-media-->
+<!--Площадка: Interfax / Сквозной / Native 1 mobile-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: ТГБ 3 ИФ под новстью мобильные-->
+    <div id="adfox_preid"  align="center"  data-type="webrwrap"></div>
+
+    <script>
+          window.yaContextCb.push(()=>{
+                var bancont = document.querySelector('[id*=_ban211] #adfox_preid'); // контейнер, в который будет добавлен баннер
+                var randname = Math.random(); // случайное число
+                bancont.setAttribute('id', 'adfox_' + randname);  // установка нового ID контейнеру
+		var temp = document.querySelector('[id="adfox_'+randname +'"]').parents('[id*=_ban211]');
+                if (bancont != null) {
+                       Ya.adfoxCode.createAdaptive({
+                        ownerId: 173858,
+                        containerId: 'adfox_' + randname, /* новый ID контейнера */
+                        params: {
+		            p1: 'cejan',
+		            p2: 'froi',
+		            puid1: '',
+		            puid2: '',
+		            puid3: ''
+		        },
+			onStub: function () { document.querySelector('[id="adfox_'+randname +'"]').setAttribute('style','display:none');
+			 if  (temp[0]) temp[0].setAttribute('style','display:none;');
+			},
+		       onRender: function()   {
+		        if  (temp[0]) { temp[0].setAttribute('style','display:block;'); temp[0].querySelector('.i_mobile_only').classList.add('wr__border'); setTimeout(function()  {  if ( temp[0].offsetHeight < 60) temp[0].setAttribute('style','display:none;');}, 500);} 
+			}
+		   }, ['phone'], {
+			tabletWidth: 1023,
+		        phoneWidth: 760,
+		        isAutoReloads: false
+	    });
+	}
+	});	
+</script>
+</div>
+</div></div>
+				<div class="timeline__group">
+					<div class="">
+						<time datetime="2026-02-19T19:15">19:15</time>
+						<a href="/business/1073743" title="Рубль на &quot;Мосбирже&quot; подорожал к юаню на фоне дорожающей нефти" tabindex="5"><h3>Рубль на &quot;Мосбирже&quot; подорожал к юаню на фоне дорожающей нефти</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T19:04">19:04</time>
+						<a href="/business/1073741" title="Индекс МосБиржи  опустился к 2770 пунктам в отсутствие свежих драйверов роста" tabindex="5"><h3>Индекс МосБиржи  опустился к 2770 пунктам в отсутствие свежих драйверов роста</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T19:01">19:01</time>
+						<a href="/russia/1073740" title="На Великолукской нефтебазе полностью потушили пожар после ночной атаки БПЛА" tabindex="5"><h3>На Великолукской нефтебазе полностью потушили пожар после ночной атаки БПЛА</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T18:55">18:55</time>
+						<a href="/russia/1073738" title="Авария на теплосетях оставила без тепла 29 домов в центре Калуги" tabindex="5"><h3>Авария на теплосетях оставила без тепла 29 домов в центре Калуги</h3></a>
+					</div>
+						</div>
+					<div class="no__dot"></div>
+				<div class="timeline__group">
+					<div class="">
+						<time datetime="2026-02-19T18:50">18:50</time>
+						<a href="/business/1073737" title="Банк России отметил в январе сезонное ослабление активности на кредитном рынке" tabindex="5"><h3>Банк России отметил в январе сезонное ослабление активности на кредитном рынке</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T18:46">18:46</time>
+						<a href="/russia/1073734" title="Суд рассмотрит вопрос о передаче государству 272 картин Святослава Рериха" tabindex="5"><h3>Суд рассмотрит вопрос о передаче государству 272 картин Святослава Рериха</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T18:35">18:35</time>
+						<a href="/business/1073730" title="Дерипаска предупредил о миллиардных потерях бюджета в случае реструктуризации &quot;Самолета&quot;" tabindex="5"><h3>Дерипаска предупредил о миллиардных потерях бюджета в случае реструктуризации &quot;Самолета&quot;</h3></a>
+					</div>
+						</div>
+					<div class="no__dot"></div>
+				<div class="timeline__group">
+					<div class="">
+						<time datetime="2026-02-19T18:27">18:27</time>
+						<a href="/russia/1073729" title="Аэропорт Краснодара временно не обслуживает рейсы" tabindex="5"><h3>Аэропорт Краснодара временно не обслуживает рейсы</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T18:25">18:25</time>
+						<a href="/russia/1073728" title="Суд оставил в силе приговор и.о. вице-премьера Башкирии Марзаеву" tabindex="5"><h3>Суд оставил в силе приговор и.о. вице-премьера Башкирии Марзаеву</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T18:08">18:08</time>
+						<a href="/russia/1073725" title="На курорте Архыз восстановили энергоснабжение" tabindex="5"><h3>На курорте Архыз восстановили энергоснабжение</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T17:54">17:54</time>
+						<a href="/russia/1073719" title="После обрушения крыши цеха &quot;Моторинвеста&quot; есть пострадавшие в тяжелом состоянии" tabindex="5"><h3>После обрушения крыши цеха &quot;Моторинвеста&quot; есть пострадавшие в тяжелом состоянии</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T17:48">17:48</time>
+						<a href="/russia/1073718" title="Ил-114 в рамках испытаний приземлился в Красноярске" tabindex="5"><h3>Ил-114 в рамках испытаний приземлился в Красноярске</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T17:45">17:45</time>
+						<a href="/russia/1073717" title="Мантуров ждет принятия законопроекта о &quot;российской полке&quot; в весеннюю сессию" tabindex="5"><h3>Мантуров ждет принятия законопроекта о &quot;российской полке&quot; в весеннюю сессию</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T17:27">17:27</time>
+						<a href="/russia/1073713" title="Россия и Саудовская Аравия расширят авиасообщение в 2026 году" tabindex="5"><h3>Россия и Саудовская Аравия расширят авиасообщение в 2026 году</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T17:24">17:24</time>
+						<a href="/moscow/1073712" title="В московских аэропортах из-за метели 29 рейсов отменены и 25 задержаны" tabindex="5"><h3>В московских аэропортах из-за метели 29 рейсов отменены и 25 задержаны</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T17:14">17:14</time>
+						<a href="/russia/1073710" title="Безвизовый режим с Саудовской Аравией введут к началу летнего сезона" tabindex="5"><h3>Безвизовый режим с Саудовской Аравией введут к началу летнего сезона</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T17:08">17:08</time>
+						<a href="/russia/1073709" title="Банк России обсуждает с другими странами возможность обмена данными о мошенниках" tabindex="5"><h3>Банк России обсуждает с другими странами возможность обмена данными о мошенниках</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T16:54">16:54</time>
+						<a href="/russia/1073705" title="Из Госдумы отозвали поправки о продлении СПИК для тульского завода Great Wall" tabindex="5"><h3>Из Госдумы отозвали поправки о продлении СПИК для тульского завода Great Wall</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T16:44">16:44</time>
+						<a href="/russia/1073701" title="Песков заявил, что европейцев нет за столом переговоров по Украине, их позиции не помогают урегулированию" tabindex="5"><h3>Песков заявил, что европейцев нет за столом переговоров по Украине, их позиции не помогают урегулированию</h3></a>
+					</div>
+				</div>
+					<div class="timeline__photo">
+						<time datetime="2026-02-19T16:43">16:43</time>
+							<a href="/chronicle/stavka-cb-rf.html" class="timeline_link">Ставка ЦБ РФ</a>
+						<a href="/business/1073702" title="Шохин назвал шаг снижения ставки ЦБ в 0,5 п.п. недостаточным для возобновления инвестиций" tabindex="5"><h3>Шохин назвал шаг снижения ставки ЦБ в 0,5 п.п. недостаточным для возобновления инвестиций</h3></a>
+						<a href="/business/1073702" class="timeline_photo"><img src="https://www.interfax.ru/ftproot/textphotos/2026/02/19/sho700.jpg" alt="Шохин назвал шаг снижения ставки ЦБ в 0,5 п.п. недостаточным для возобновления инвестиций" loading="lazy"></a>
+					</div>
+				<div class="timeline__group">
+					<div class="">
+						<time datetime="2026-02-19T16:40">16:40</time>
+						<a href="/russia/1073703" title="Еще двоих извлекли из-под завалов после обрушения крыши на липецком &quot;Моторинвесте&quot;" tabindex="5"><h3>Еще двоих извлекли из-под завалов после обрушения крыши на липецком &quot;Моторинвесте&quot;</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T16:38">16:38</time>
+						<a href="/russia/1073700" title="Мантуров ожидает, что АПК до 2030 года получит 25 образцов роботизированной техники" tabindex="5"><h3>Мантуров ожидает, что АПК до 2030 года получит 25 образцов роботизированной техники</h3></a>
+					</div>
+				</div>
+					<div class="timeline__smalltext">
+						<time datetime="2026-02-19T16:36">16:36</time>
+							<a href="/chronicle/gibel-mladenczev-v-novokuzneczkoj-bolnicze.html" class="timeline_link">Гибель младенцев в новокузнецкой больнице</a>
+						<a href="/russia/1073697" title="В Кузбассе завершилась проверка всех роддомов" tabindex="5"><h3>В Кузбассе завершилась проверка всех роддомов</h3></a>
+					</div>
+				<div class="timeline__group">
+					<div class="">
+						<time datetime="2026-02-19T16:29">16:29</time>
+						<a href="/russia/1073699" title="Развертывание Российской орбитальной станции планируется начать с 2028 года" tabindex="5"><h3>Развертывание Российской орбитальной станции планируется начать с 2028 года</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T16:28">16:28</time>
+						<a href="/russia/1073698" title="&quot;Росатом&quot; сообщил о готовности РФ принять обогащенный уран из Ирана при наличии договоренностей" tabindex="5"><h3>&quot;Росатом&quot; сообщил о готовности РФ принять обогащенный уран из Ирана при наличии договоренностей</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T16:25">16:25</time>
+						<a href="/russia/1073694" title="В Думе предложили запретить использовать ИИ-образы" tabindex="5"><h3>В Думе предложили запретить использовать ИИ-образы</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T16:25">16:25</time>
+						<a href="/russia/1073696" title="ЦБ обсуждает введение антифрод-мер при выдаче наличных в кассах банков" tabindex="5"><h3>ЦБ обсуждает введение антифрод-мер при выдаче наличных в кассах банков</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T16:20">16:20</time>
+						<a href="/russia/1073693" title="В Кремле заявили об отсутствии контактов с США после переговоров в Женеве" tabindex="5"><h3>В Кремле заявили об отсутствии контактов с США после переговоров в Женеве</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T16:17">16:17</time>
+						<a href="/russia/1073692" title="Мантуров заявил, что в армии доля современных вооружений стабильно превышает 70%" tabindex="5"><h3>Мантуров заявил, что в армии доля современных вооружений стабильно превышает 70%</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T16:11">16:11</time>
+						<a href="/russia/1073691" title="В Калуге в пятницу не будут работать школьные автобусы" tabindex="5"><h3>В Калуге в пятницу не будут работать школьные автобусы</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T16:07">16:07</time>
+						<a href="/russia/1073689" title="&quot;Моторинвест&quot; назвал аномальные осадки причиной обрушения крыши цеха на 1,5 тыс. кв. м" tabindex="5"><h3>&quot;Моторинвест&quot; назвал аномальные осадки причиной обрушения крыши цеха на 1,5 тыс. кв. м</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T16:03">16:03</time>
+						<a href="/business/1073690" title="Международные резервы России с 6 по 13 февраля увеличились на $8,6 млрд" tabindex="5"><h3>Международные резервы России с 6 по 13 февраля увеличились на $8,6 млрд</h3></a>
+					</div>
+				</div>
+					<div class="timeline__photo">
+						<time datetime="2026-02-19T15:54">15:54</time>
+						<a href="/russia/1073684" title="Минздрав считает возможной продажу ряда лекарств через &quot;Почту&quot; при отсутствии альтернатив" tabindex="5"><h3>Минздрав считает возможной продажу ряда лекарств через &quot;Почту&quot; при отсутствии альтернатив</h3></a>
+						<a href="/russia/1073684" class="timeline_photo"><img src="https://www.interfax.ru/ftproot/textphotos/2026/02/19/ue700.jpg" alt="Минздрав считает возможной продажу ряда лекарств через &quot;Почту&quot; при отсутствии альтернатив" loading="lazy"></a>
+					</div>
+				<div class="timeline__group">
+					<div class="">
+						<time datetime="2026-02-19T15:21">15:21</time>
+						<a href="/russia/1073679" title="В Архызе лавина повредила четыре гостевых дома и хозпостройку" tabindex="5"><h3>В Архызе лавина повредила четыре гостевых дома и хозпостройку</h3></a>
+					</div>
+				</div>
+					<div class="timeline__photo">
+						<time datetime="2026-02-19T15:18">15:18</time>
+						<a href="/russia/1073678" title="Министр культуры Башкирии Шафикова арестована в Москве" tabindex="5"><h3>Министр культуры Башкирии Шафикова арестована в Москве</h3></a>
+						<a href="/russia/1073678" class="timeline_photo"><img src="https://www.interfax.ru/ftproot/textphotos/2026/02/19/sha700.jpg" alt="Министр культуры Башкирии Шафикова арестована в Москве" loading="lazy"></a>
+					</div>
+				<div class="timeline__group">
+					<div class="">
+						<time datetime="2026-02-19T15:10">15:10</time>
+						<a href="/world/1073677" title="Авиакомпании вывезли с Кубы почти всех организованных российских туристов" tabindex="5"><h3>Авиакомпании вывезли с Кубы почти всех организованных российских туристов</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T14:47">14:47</time>
+						<a href="/business/1073673" title="В Москве Рижский вокзал выставят на торги по стартовой цене 4 млрд рублей" tabindex="5"><h3>В Москве Рижский вокзал выставят на торги по стартовой цене 4 млрд рублей</h3></a>
+					</div>
+					<div class="">
+						<time datetime="2026-02-19T14:43">14:43</time>
+						<a href="/russia/1073672" title="Домбай частично обесточен из-за непогоды" tabindex="5"><h3>Домбай частично обесточен из-за непогоды</h3></a>
+					</div>
+				</div>
+					<div class="timeline__photo">
+						<time datetime="2026-02-19T14:39">14:39</time>
+						<a href="/digital/1073666" title="Директор ФСБ считает политику Telegram попустительством преступлениям" tabindex="5"><h3>Директор ФСБ считает политику Telegram попустительством преступлениям</h3></a>
+						<a href="/digital/1073666" class="timeline_photo"><img src="https://www.interfax.ru/ftproot/textphotos/2026/02/19/tele700.jpg" alt="Директор ФСБ считает политику Telegram попустительством преступлениям" loading="lazy"></a>
+					</div>
+				<div class="timeline__group">
+					<div class="">
+						<time datetime="2026-02-19T14:37">14:37</time>
+						<a href="/russia/1073671" title="МВД предложило рэнкинговать усилия операторов связи по борьбе с мошенничеством" tabindex="5"><h3>МВД предложило рэнкинговать усилия операторов связи по борьбе с мошенничеством</h3></a>
+					</div>
+		</div>
+
+
+				</div>
+				<div class="timeline__btnsgroup">
+	<div class="timeline__more" onclick="getMoreTimeline()">Загрузить еще новости <span class="arrow__down"></span></div>
+	<div class="timeline__datepick" onclick="openCalendar(-10,207,'russia');return false"><span class="v320">Дата</span><span class="h320">Выбрать дату</span></div>
+	<label class="modal__but_subscribe" for="modalss"><span>Подписаться на новости</span></label><div id="dp_cal"></div>
+</div>
+			</div>
+			<aside class="rightside">
+				<div class="stickyBlock sticky_on">
+										
+<div id="pl473_ban213" data-content="webR"><style>
+.rightside .yatag_right_ban > div >  yatag > yatag {justify-content: left !important;}
+</style>
+
+<div data-stickylength="700">
+        <!--AdFox START-->
+        <!--roden-media-->
+        <!--Площадка: Interfax / 240x400 / 240x400_внутренние-->
+        <!--Категория: <не задана>-->
+        <!--Тип баннера: 240x400js-->
+            <div id="adfox_preid" data-type="webrwrap" class="yatag_right_ban"></div>
+            <script>
+              window.yaContextCb.push(()=>{
+                    var bancont = document.querySelector('[id*=_ban213] #adfox_preid'); // контейнер, в который будет добавлен баннер
+                    var randname = Math.random(); // случайное число
+                    bancont.setAttribute('id', 'adfox_' + randname);  // установка нового ID контейнеру
+            var temp = document.querySelector('[id="adfox_'+randname +'"]').parents('[id*=_ban213]');
+                    if (bancont != null) {
+                        setTimeout (function() {(Ya.adfoxCode.createAdaptive({
+                            ownerId: 173858,
+                            containerId: 'adfox_' + randname, /* новый ID контейнера */
+                            params: {
+                               p1: 'bwvwe',
+                               p2: 'emwl',
+                               puid1: '',
+                               puid2: '',
+                               puid3: ''
+                            },
+                            onStub: function() { document.querySelector('[id="adfox_'+randname +'"]').setAttribute('data-show','false');
+                            deferLoadJS(function() {
+                                infinitBanOnStub(randname);
+                            },'infinitBanOnStub');  }
+                        }, ['desktop'], {
+                            tabletWidth: 1023,
+                            phoneWidth: 759,
+                            isAutoReloads: false
+                        })
+                        )},
+     // Для исключения показа некорректных баннеров с задвоенным эдфокс-id (с таймаутом 1 сек. проверяется, есть ли задвоение id. и если есть, то контейнер скрывается и вызывается следующий баннер в инфинит скролле)
+     setTimeout(function() {
+                    if (document.querySelector('[id="adfox_' + randname + '"] [id^="adfox_"]')) {
+    // присвоение аттрибута data-show = false для первого (внешнего) контейнера 
+                        document.querySelector('[id="adfox_'+randname +'"]').setAttribute('data-show','false');
+    // присвоение аттрибута data-show = false для второго (внутреннего) контейнера
+                        document.querySelector('[id="adfox_' + randname + '"] [id^="adfox_"]').setAttribute('data-show','false');
+                                  deferLoadJS(function() {
+                                        infinitBanOnStub(randname);
+                                  },'infinitBanOnStub');
+    //					console.log("Следующий баннер");
+                    }
+    //				console.log("Banner right loaded.");
+                  }, 1000),500);                       
+        };
+    })                 
+    </script>
+    </div></div>			
+
+<div class="rcMR">
+	<h2 class=" title__v2">Самое читаемое</h2>
+			<div>
+				<a href="/russia/" class="rcMR_ilink">В России</a>
+				<a href="/russia/1073006?utm_source=mst_rd" class="rcMR_nlink"><h3>МЧС сообщило о гибели девяти человек за неделю из-за падения снега с крыш</h3></a>
+			</div>
+			<div>
+				<a href="/world/" class="rcMR_ilink">В мире</a>
+				<a href="/world/1073309?utm_source=mst_rd" class="rcMR_nlink"><h3>Делегации РФ, США и Украины в среду продолжат переговоры в Женеве</h3></a>
+			</div>
+			<div>
+				<a href="/russia/" class="rcMR_ilink">В России</a>
+				<a href="/russia/1072847?utm_source=mst_rd" class="rcMR_nlink"><h3>Hачальник Генштаба РФ заявил о значительных потерях ВСУ</h3></a>
+			</div>
+			<div>
+				<a href="/world/" class="rcMR_ilink">В мире</a>
+				<a href="/world/1073175?utm_source=mst_rd" class="rcMR_nlink"><h3>В Азербайджане экс-госминистра Карабаха Варданяна приговорили к 20 годам тюрьмы</h3></a>
+			</div>
+</div>
+					
+<div id="pl474_ban232" data-content="webR"><div  class="mgrBot">
+    <!--AdFox START-->
+    <!--roden-media-->
+    <!--Площадка: Interfax / Сквозной / ТГБ справа-->
+    <!--Категория: <не задана>-->
+    <!--Тип баннера: ТГБ 2-->
+        <div id="adfox_preid" data-type="webrwrap"></div>
+        <script>
+          window.yaContextCb.push(()=>{
+                var bancont = document.querySelector('[id*=_ban232] #adfox_preid'); // контейнер, в который будет добавлен баннер
+                var randname = Math.random(); // случайное число
+                bancont.setAttribute('id', 'adfox_' + randname);  // установка нового ID контейнеру
+                if (bancont != null) {
+                       Ya.adfoxCode.createScroll({
+                        ownerId: 173858,
+                        containerId: 'adfox_' + randname, /* новый ID контейнера */
+                        params: {
+                                    p1: 'cecto',
+                                    p2: 'emxu',
+                                    puid1: '',
+                                    puid2: '',
+                                    puid3: ''
+                                    },
+                                onStub: function() { document.querySelector('[id="adfox_'+randname +'"]').setAttribute('data-show','false'); console.log('Не загрузился ТРБ');
+                                    deferLoadJS(function() {
+                                        infinitBanOnStub(randname);
+                                    },'infinitBanOnStub');  }
+                        }, ['desktop'], {
+                                tabletWidth: 1023,
+                                phoneWidth: 759,
+                                isAutoReloads: false
+                        });
+            }
+          });
+    </script>
+    </div></div>			
+<div class="rPhoto">
+	<a href="/photo/"><h2 class="title__v2">Фотогалереи</h2></a>
+	<div class="rPhotoGroup">
+		<a href="https://www.interfax.ru/photo/7306?utm_source=ph" title="Фотохроника 19 февраля"><img src="https://www.interfax.ru/ftproot/photos/photostory/2026/02/19/zah.jpg" alt="Фотохроника 19 февраля"><div><span>10 фото</span>Фотохроника 19 февраля</div></a>				
+		<a href="https://www.interfax.ru/photo/7302?utm_source=ph" title="Празднование Нового года по лунному календарю"><img src="https://www.interfax.ru/ftproot/photos/photostory/2026/02/17/ch/ny315.jpg	" alt="Празднование Нового года по лунному календарю"><div><span>12 фото</span>Празднование Нового года по лунному календарю</div></a>				
+		<a href="https://www.interfax.ru/photo/7304?utm_source=ph" title="Олимпиада-2026 в Италии"><img src="https://www.interfax.ru/ftproot/photos/photostory/2026/02/18/ol/olmp315.jpg	" alt="Олимпиада-2026 в Италии"><div><span>12 фото</span>Олимпиада-2026 в Италии</div></a>				
+	</div>
+</div>							
+			
+<div class="rcMR"><h2 class="title__v2">Выбор редакции</h2> <div><a href="https://www.interfax.ru/world/1073050?utm_source=ed_ch" class="rcMR_ilink" title="Что произошло в мире науки. Вечерний дайджест"><img src="https://www.interfax.ru/ftproot/textphotos/2026/02/16/da700.jpg" alt="Что произошло в мире науки. Вечерний дайджест"></a> <a href="https://www.interfax.ru/world/1073050?utm_source=ed_ch"><h3>Что произошло в мире науки. Вечерний дайджест</h3></a></div><div><a href="https://www.interfax.ru/business/1064849?utm_source=ed_ch" class="rcMR_ilink" title="Переосмысление нефтяных запасов искусственным интеллектом. Обзор"><img src="https://www.interfax.ru/ftproot/textphotos/2025/12/24/nt700.jpg" alt="Переосмысление нефтяных запасов искусственным интеллектом. Обзор"></a> <a href="https://www.interfax.ru/business/1064849?utm_source=ed_ch"><h3>Переосмысление нефтяных запасов искусственным интеллектом. Обзор</h3></a></div><div><a href="https://www.interfax.ru/world/1071830?utm_source=ed_ch" class="rcMR_ilink" title="Что произошло в мире науки. Вечерний дайджест"><img src="https://www.interfax.ru/ftproot/textphotos/2026/02/09/st700.jpg" alt="Что произошло в мире науки. Вечерний дайджест"></a> <a href="https://www.interfax.ru/world/1071830?utm_source=ed_ch"><h3>Что произошло в мире науки. Вечерний дайджест</h3></a></div></div>					
+<div id="pl476_ban204" data-content="webR"><!--AdFox START-->
+<!--Площадка: Interfax / Сквозной / 234x60-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: 240х80_ИФ-->
+    <div id="adfox_preid"></div>
+    <script>
+          window.yaContextCb.push(()=>{
+                var bancont = document.querySelector('[id*=_ban204] #adfox_preid'); // контейнер, в который будет добавлен баннер
+                var randname = Math.random(); // случайное число
+                bancont.setAttribute('id', 'adfox_' + randname);  // установка нового ID контейнеру
+                if (bancont != null) {
+                       Ya.adfoxCode.createAdaptive({
+                        ownerId: 173858,
+                        containerId: 'adfox_' + randname, /* новый ID контейнера */
+                        params: {
+		            p1: 'btjxl',
+		            p2: 'euzp',
+		            puid1: '',
+		            puid2: '',
+		            puid3: ''
+		        }
+		}, ['desktop'], {
+		        tabletWidth: 1023,
+		        phoneWidth: 760,
+		        isAutoReloads: false
+                        });
+            }
+          });
+    </script>
+
+</div>			
+					
+<div id="pl551_ban220" data-content="webR"><div class="mgrBot"  data-stickylength="700" data-type="webrwrap">
+<!--AdFox START-->
+<!--roden-media-->
+<!--Площадка: Interfax / 240x400 / 240x400_в России-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: 240x400js-->
+    <div id="adfox_preid" data-type="webrwrap"  class="yatag_right_ban"></div>
+    <script>
+              window.yaContextCb.push(()=>{
+                var bancont = document.querySelector('[id*=_ban220] #adfox_preid'); // контейнер, в который будет добавлен баннер
+                var randname = Math.random(); // случайное число
+                bancont.setAttribute('id', 'adfox_' + randname);  // установка нового ID контейнеру
+                Ya.adfoxCode.createAdaptive({
+                    ownerId: 173858,
+                    containerId: 'adfox_' + randname, /* новый ID контейнера */
+                    params: {
+                        p1: 'buhwh',
+                        p2: 'eruc',
+                        puid1: '',
+                        puid2: '',
+                        puid3: ''
+                    },
+   	                onStub: function() {  document.querySelector('[data-stickylength]').setAttribute('data-stickylength',0); }
+                }, ['desktop'], {
+                    tabletWidth: 1023,
+                    phoneWidth: 639,
+                    isAutoReloads: false
+            });
+        });
+    </script>
+</div></div>			
+
+				</div>
+			</aside>
+		</div>
+		<!-- <partial name="OtherSectionsAnnounces" model="1448" /> -->
+		
+<div class="ecoMO">
+	<span class="title__v1">Хроники событий</span>
+	<div class="slider-container">
+		<div class="slider-wrapper">
+				<div class="slider-slide">
+						<a href="/chronicle/stavka-cb-rf.html" class="mo_img" title="Ставка ЦБ РФ">
+							<img src="https://www.interfax.ru/ftproot/textphotos/2024/11/28/b700.jpg" alt="Ставка ЦБ РФ">
+						</a>
+					<a href="/chronicle/stavka-cb-rf.html" class="mo_title">Ставка ЦБ РФ </a>
+					<a href="/chronicle/stavka-cb-rf.html" class="mo_all">83 материалов</a>
+				</div>
+				<div class="slider-slide">
+						<a href="/chronicle/gibel-mladenczev-v-novokuzneczkoj-bolnicze.html" class="mo_img" title="Гибель младенцев в новокузнецкой больнице">
+							<img src="https://www.interfax.ru/ftproot/textphotos/2026/01/13/k.jpg" alt="Гибель младенцев в новокузнецкой больнице">
+						</a>
+					<a href="/chronicle/gibel-mladenczev-v-novokuzneczkoj-bolnicze.html" class="mo_title">Гибель младенцев в новокузнецкой больнице </a>
+					<a href="/chronicle/gibel-mladenczev-v-novokuzneczkoj-bolnicze.html" class="mo_all">19 материалов</a>
+				</div>
+				<div class="slider-slide">
+						<a href="/chronicle/olimpijskie-igry-2026.html" class="mo_img" title="Олимпийские игры 2026">
+							<img src="https://www.interfax.ru/ftproot/textphotos/2026/02/11/i.jpg" alt="Олимпийские игры 2026">
+						</a>
+					<a href="/chronicle/olimpijskie-igry-2026.html" class="mo_title">Олимпийские игры 2026 </a>
+					<a href="/chronicle/olimpijskie-igry-2026.html" class="mo_all">93 материалов</a>
+				</div>
+				<div class="slider-slide">
+						<a href="/chronicle/inflyacziya-v-rossii.html" class="mo_img" title="Инфляция в России">
+							<img src="https://www.interfax.ru/ftproot/textphotos/2024/11/29/cenn700.jpg" alt="Инфляция в России">
+						</a>
+					<a href="/chronicle/inflyacziya-v-rossii.html" class="mo_title">Инфляция в России </a>
+					<a href="/chronicle/inflyacziya-v-rossii.html" class="mo_all">140 материалов</a>
+				</div>
+				<div class="slider-slide">
+						<a href="/chronicle/voennaya-operacziya-na-ukraine.html" class="mo_img" title="Военная операция на Украине">
+							<img src="https://www.interfax.ru/ftproot/textphotos/2022/02/24/va7.jpg" alt="Военная операция на Украине">
+						</a>
+					<a href="/chronicle/voennaya-operacziya-na-ukraine.html" class="mo_title">Военная операция на Украине </a>
+					<a href="/chronicle/voennaya-operacziya-na-ukraine.html" class="mo_all">8458 материалов</a>
+				</div>
+				<div class="slider-slide">
+						<a href="/chronicle/napadeniya-v-shkolah.html" class="mo_img" title="Нападения в школах и вузах">
+							<img src="https://www.interfax.ru/ftproot/textphotos/2019/08/08/ker700.jpg" alt="Нападения в школах и вузах">
+						</a>
+					<a href="/chronicle/napadeniya-v-shkolah.html" class="mo_title">Нападения в школах и вузах </a>
+					<a href="/chronicle/napadeniya-v-shkolah.html" class="mo_all">278 материалов</a>
+				</div>
+				<div class="slider-slide">
+						<a href="/chronicle/diplomaticheskoe-protivostoyanie.html" class="mo_img" title="Дипломатическое противостояние">
+							<img src="https://www.interfax.ru/ftproot/textphotos/2021/04/23/der700.jpg" alt="Дипломатическое противостояние">
+						</a>
+					<a href="/chronicle/diplomaticheskoe-protivostoyanie.html" class="mo_title">Дипломатическое противостояние </a>
+					<a href="/chronicle/diplomaticheskoe-protivostoyanie.html" class="mo_all">243 материалов</a>
+				</div>
+				<div class="slider-slide">
+						<a href="/chronicle/obostrenie-palestino-izrailskogo-konflikta.html" class="mo_img" title="Обострение палестино-израильского конфликта">
+							<img src="https://www.interfax.ru/ftproot/photos/photostory/2023/10/07/israel.jpg" alt="Обострение палестино-израильского конфликта">
+						</a>
+					<a href="/chronicle/obostrenie-palestino-izrailskogo-konflikta.html" class="mo_title">Обострение палестино-израильского конфликта </a>
+					<a href="/chronicle/obostrenie-palestino-izrailskogo-konflikta.html" class="mo_all">2516 материалов</a>
+				</div>
+				<div class="slider-slide">
+						<a href="/chronicle/umershie-znamenitosti.html" class="mo_img" title="Умершие знаменитости">
+							<img src="https://www.interfax.ru/ftproot/textphotos/2019/09/04/po700.jpg" alt="Умершие знаменитости">
+						</a>
+					<a href="/chronicle/umershie-znamenitosti.html" class="mo_title">Умершие знаменитости </a>
+					<a href="/chronicle/umershie-znamenitosti.html" class="mo_all">430 материалов</a>
+				</div>
+				<div class="slider-slide">
+						<a href="/chronicle/napadenie-na-crocus-city-hall.html" class="mo_img" title="Нападение на Crocus City Hall">
+							<img src="https://www.interfax.ru/ftproot/photos/photostory/2024/03/22/week/rkkkk.jpg" alt="Нападение на Crocus City Hall">
+						</a>
+					<a href="/chronicle/napadenie-na-crocus-city-hall.html" class="mo_title">Нападение на Crocus City Hall </a>
+					<a href="/chronicle/napadenie-na-crocus-city-hall.html" class="mo_all">337 материалов</a>
+				</div>
+				<div class="slider-slide">
+						<a href="/chronicle/voennaya-operacziya-ssha-v-venesuele.html" class="mo_img" title="Военная операция США в Венесуэле">
+							<img src="https://www.interfax.ru/ftproot/textphotos/2026/01/03/700ht_Vene.jpg" alt="Военная операция США в Венесуэле">
+						</a>
+					<a href="/chronicle/voennaya-operacziya-ssha-v-venesuele.html" class="mo_title">Военная операция США в Венесуэле </a>
+					<a href="/chronicle/voennaya-operacziya-ssha-v-venesuele.html" class="mo_all">135 материалов</a>
+				</div>
+		</div>
+		<button type="button" class="slider-button prev" onclick="slide('left')">&#10094;</button>
+		<button type="button" class="slider-button next" onclick="slide('right')">&#10095;</button>
+	</div>
+</div>
+		
+<div class="psBig">
+	<span onclick="photoSlider('left','.psBig','.psBlock',this)" class="psArLeft"></span>
+	<a href="/photo/"><h2 class="title__v1">Фотогалереи</h2></a>
+	<span onclick="photoSlider('right','.psBig','.psBlock',this)" class="psArRight"></span>
+	<div class="psBlock">
+		<div>
+				<a href="/photo/7288" title="Зимовка лебедей в Алтайском крае">
+					<img src="https://www.interfax.ru/ftproot/photos/photostory/2026/02/04/al/z.jpg" alt="Зимовка лебедей в Алтайском крае" />
+					<div><span>9</span><h3>Зимовка лебедей в Алтайском крае</h3></div>
+				</a>
+				<a href="/photo/7282" title="Снегопад в Москве">
+					<img src="https://www.interfax.ru/ftproot/photos/photostory/2026/01/29/sn/sn317.jpg" alt="Снегопад в Москве" />
+					<div><span>12</span><h3>Снегопад в Москве</h3></div>
+				</a>
+				<a href="/photo/7271" title="Крещенские купания">
+					<img src="https://www.interfax.ru/ftproot/photos/photostory/2026/01/19/kr/zax.jpg" alt="Крещенские купания" />
+					<div><span>8</span><h3>Крещенские купания</h3></div>
+				</a>
+				<a href="/photo/7267" title="Снегопад на Камчатке">
+					<img src="https://www.interfax.ru/ftproot/photos/photostory/2026/01/15/pk/k315.jpg" alt="Снегопад на Камчатке" />
+					<div><span>8</span><h3>Снегопад на Камчатке</h3></div>
+				</a>
+				<a href="/photo/7260" title="Встреча Рождества по Юлианскому календарю">
+					<img src="https://www.interfax.ru/ftproot/textphotos/2026/01/07/560ht_Hri.jpg" alt="Встреча Рождества по Юлианскому календарю" />
+					<div><span>14</span><h3>Встреча Рождества по Юлианскому календарю</h3></div>
+				</a>
+				<a href="/photo/7205" title="Обрушение конструкций комплекса &quot;Снежком&quot; в Красногорске">
+					<img src="https://www.interfax.ru/ftproot/photos/photostory/2025/11/11/San/sn315.jpg" alt="Обрушение конструкций комплекса &quot;Снежком&quot; в Красногорске" />
+					<div><span>8</span><h3>Обрушение конструкций комплекса &quot;Снежком&quot; в Красногорске</h3></div>
+				</a>
+		</div>
+	</div>
+</div>
+
+
+
+
+	</main>
+
+
+
+
+
+
+
+
+
+
+<div id="pl430_ban2381" data-content="webR"><!-- Yandex.RTB R-A-250544-141 -->
+<div id="yandex_rtb_R-A-250544-141"></div>
+<script>
+if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+    window.yaContextCb.push(() => {
+        Ya.Context.AdvManager.render({
+            "blockId": "R-A-250544-141",
+            "renderTo": "yandex_rtb_R-A-250544-141",
+            "type": "feed",
+"feedCardCount": 9
+        })
+    })
+}
+</script>
+
+<!--AdFox START-->
+<!--roden-media-->
+<!--Площадка: Interfax / Сквозной / 100%х300_низ страницы_Десктоп-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: 100%х300_низ страницы ИФ-->
+<div id="adfox_151134909289778715" class="i_desktop_only  wr__fix yatag_foot_ban"></div>
+<script>
+	window.yaContextCb.push(()=>{
+		Ya.adfoxCode.createScroll({
+		        ownerId: 173858,
+			containerId: 'adfox_151134909289778715',
+			        params: {
+			            p1: 'bsqgh',
+			            p2: 'exmr',
+			            puid1: '',
+			            puid2: '',
+			            puid3: ''
+			        },
+		        onRender: function() { document.querySelector('[id*=_ban2381]').classList.add('wr__fix'); }
+		    }, ['desktop'], {
+		        tabletWidth: 1023,
+		        phoneWidth: 760,
+		        isAutoReloads: true
+		  });
+});		
+</script></div><div id="pl452_ban2383" data-content="webR"><!--AdFox START-->
+<!--roden-media-->
+<!--Площадка: EX_interfax.ru (new) / Desktop / FloorAd (десктоп) 17.09.2024-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: floorad_desktop-->
+<div id="adfox_172656368339445627"></div>
+<script>
+function adStart() {
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 173858,
+            containerId: 'adfox_172656368339445627',
+            type: 'floorAd',
+            platform: 'desktop',
+            params: {
+                p1: 'deayp',
+                p2: 'hjsy'
+            }
+        })
+    })
+}
+setTimeout(adStart, 11000);
+</script>
+
+<!--Тип баннера: floorad_mobile-->
+<div id="adfox_172674156096085627" class="floarad-mob"></div>
+<script>
+var height_l = window.screen.height; 
+var height_w = window.innerHeight;
+ if (height_l > 810) {
+	function adStart() {
+    		window.yaContextCb.push(()=>{
+		Ya.adfoxCode.create({
+			ownerId: 173858,
+			containerId: 'adfox_172674156096085627',
+			type: 'floorAd',
+			platform: 'touch',
+			params: {
+				p1: 'cvjnt',
+                		p2: 'gomz'
+			}
+		})
+	})
+  }
+  setTimeout(adStart, 15000);
+}
+</script>
+</div><div id="pl422_ban207" data-content="webR"><!--AdFox START-->
+<!--roden-media-->
+<!--Площадка: Interfax / Сквозной / Фулл_мобильные-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: Fullscreen мобильные-->
+<div id="adfox_149018851283239860"></div>
+<script>
+     window.yaContextCb.push(()=>{
+	Ya.adfoxCode.createAdaptive({
+        ownerId: 173858,
+        containerId: 'adfox_149018851283239860',
+        params: {
+            p1: 'bscqp',
+            p2: 'fdho',
+            puid1: '',
+            puid2: '',
+            puid3: ''
+        }
+    }, ['tablet', 'phone'], {
+        tabletWidth: 1024,
+        phoneWidth: 780,
+        isAutoReloads: false
+    });
+});
+</script>
+
+<!--AdFox START-->
+<!--roden-media-->
+<!--Площадка: Interfax / Сквозной / Фулл_десктоп-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: FullScreen-->
+<div id="adfox_149018844016517580"></div>
+<script>
+     window.yaContextCb.push(()=>{
+	Ya.adfoxCode.createAdaptive({
+        ownerId: 173858,
+        containerId: 'adfox_149018844016517580',
+        params: {
+            p1: 'bscqh',
+            p2: 'enli',
+            puid1: '',
+            puid2: '',
+            puid3: ''
+        }
+    }, ['desktop'], {
+        tabletWidth: 1024,
+        phoneWidth: 780,
+        isAutoReloads: false
+    });
+});
+</script></div>
+	<footer data-timerdefault="30000">
+		<div>
+			<div class="footerMenu">
+				<a href="/contacts">Контакты</a>
+				<!--noindex--><a href="https://group.interfax.ru" rel="nofollow">Об "Интерфаксе"</a><!--/noindex-->
+				<a href="/presscenter/">Пресс-центр</a>
+				<!--noindex--><a href="https://group.interfax.ru/career/vacancies/" target="_blank" rel="nofollow">Вакансии</a><!--/noindex-->
+				<!--noindex--><a href="/advertinfo" rel="nofollow">Реклама на сайте</a><!--/noindex-->
+				<a href="/events/">Мероприятия</a>
+			</div>
+			<div class="footerLine">&nbsp;</div>
+			<div class="fCright">
+				<a href="https://www.interfax.ru"></a>
+				<span>
+					Copyright © 1991&mdash;2026 Interfax. Все права защищены. Сетевое издание "Интерфакс.ру". Свидетельство о регистрации СМИ ЭЛ № ФС 77 - 84928 выдано Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор) 21.03.2023. Вся информация, размещенная на данном веб-сайте, предназначена только для персонального пользования и не подлежит дальнейшему воспроизведению и/или распространению в какой-либо форме, иначе как с письменного разрешения Интерфакса.<br>
+					Сайт Interfax.ru (далее – сайт) использует файлы cookie. Продолжая работу с сайтом, Вы соглашаетесь на сбор и последующую <!--noindex--><a href="/cookie" rel="nofollow" target="_blank">обработку файлов cookie</a>.<!--/noindex-->
+				</span>
+			</div>
+			<div style="clear: both;"></div>
+			<div class="f1">
+				<h2 class="fHeader"><!--noindex--><a rel="nofollow" href="https://group.interfax.ru" target="_blank">Продукты информационной группы "Интерфакс"</a><!--/noindex--></h2>
+				<div class="f1_1">
+					<div>Информация о компаниях, товарах и людях</div>
+					<h3><a href="https://www.spark-interfax.ru/" target="_blank">СПАРК</a></h3>
+					<h3><!--noindex--><a rel="nofollow" href="https://xco.news/" target="_blank">X-Compliance</a><!--/noindex--></h3>
+					<h3><!--noindex--><a rel="nofollow" href="https://scout.interfax.ru/" target="_blank">СКАУТ</a><!--/noindex--></h3>
+					<h3><!--noindex--><a rel="nofollow" href="https://marker-interfax.ru/" target="_blank">Маркер</a><!--/noindex--></h3>
+					<h3><!--noindex--><a rel="nofollow" href="https://tp.interfax.ru/" target="_blank">АСТРА</a><!--/noindex--></h3>
+
+				</div>
+				<div class="f1_2">
+					<div>Новости и рынки</div>
+					<h3><!--noindex--><a rel="nofollow" href="https://ifx.ru/ru/showcase?utm_source=interfax.ru" target="_blank">Новости "Интерфакса"</a><!--/noindex--></h3>
+					<h3><a href="https://www.scan-interfax.ru/" target="_blank">СКАН</a></h3>
+					<h3><!--noindex--><a rel="nofollow" href="https://rudata.info/" target="_blank">RUDATA</a><!--/noindex--></h3>
+					<h3><!--noindex--><a rel="nofollow" href="https://www.e-disclosure.ru/" target="_blank">Центр раскрытия корпоративной информации</a><!--/noindex--></h3>
+					<span>
+						<!--noindex--><a href="https://dzen.ru/interfax?favid=1114" target="_blank" rel="nofollow" class="i9" title="Читайте нас в Дзен"></a><!--/noindex-->  <!--noindex--><a href="tg://resolve?domain=interfaxonline" target="_blank" rel="nofollow" class="i8" title="Интерфакс в Telegram"></a><!--/noindex-->  <!--noindex--><a href="https://twitter.com/interfax_news" target="_blank" rel="nofollow" class="i1" title="Интерфакс в Twitter"></a><!--/noindex-->  <!--noindex--><!--<a href="https://www.facebook.com/interfaxonline" target="_blank" rel="nofollow" class="i2" title="Интерфакс в Facebook"></a>--><!--/noindex-->  <!--noindex--><a href="https://vkontakte.ru/interfaxru" target="_blank" rel="nofollow" class="i3" title="Интерфакс в ВКонтакте"></a><!--/noindex-->  <a href="/rss" class="i6" title="RSS поток Интерфакс.ру"></a>   <!--noindex--><a href="https://max.ru/interfax" target="_blank" rel="nofollow" class="i7" title="Интерфакс в Max"></a><!--/noindex-->
+					</span>
+				</div>
+			</div>
+			<div class="f2">
+				<div class="f2_1">Обнаружили ошибку на сайте? Выделите фрагмент текста с ошибкой и нажмите <span class="spell">Ctrl + Enter</span>.</div>
+				<div class="f2_2">
+					<span>&nbsp;&nbsp;</span>
+					<!--LiveInternet counter-->
+					<script>new Image().src = "//counter.yadro.ru/hit;interfax?r" + escape(document.referrer) + ((typeof (screen) == "undefined") ? "" : ";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ? screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) + ";h" + escape(document.title.substring(0, 80)) + ";" + Math.random();</script>
+					<!--noindex-->
+					<a href="https://www.liveinternet.ru/click;interfax" target="_blank" rel="nofollow">
+						<img src="//counter.yadro.ru/logo;interfax?14.6" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" alt="" width="88" height="31" />
+					</a>
+					<!--/noindex-->
+					<!--/LiveInternet-->
+					<!-- tns-counter.ru -->
+					<script>
+						var img = new Image();
+						img.src = '//www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g, '%2a') + '*finmarket_ru/ru/CP1251/tmsec=interfax_total/' + (Math.random() * 1E9 | 0);
+					</script>
+					<noscript>
+						<img src="//www.tns-counter.ru/V13a****finmarket_ru/ru/CP1251/tmsec=interfax_total/865494363" width="1" height="1" alt="" />
+					</noscript>
+					<!--/ tns-counter.ru -->
+					<!-- Yandex.Metrika counter -->
+					<script type="text/javascript">
+						(function (m, e, t, r, i, k, a) {
+						m[i] = m[i] || function () { (m[i].a = m[i].a || []).push(arguments) };
+						m[i].l = 1 * new Date(); k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+						})
+						(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+						ym(22006243, "init", {
+						id: 22006243,
+						clickmap: true,
+						trackLinks: true,
+						accurateTrackBounce: true,
+						webvisor: true
+						});
+					</script>
+					<noscript><div><img src="https://mc.yandex.ru/watch/22006243" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+					<!-- /Yandex.Metrika counter -->
+					<!-- Top.Mail.Ru counter -->
+					<script type="text/javascript">
+						var _tmr = window._tmr || (window._tmr = []);
+						_tmr.push({ id: "3135939", type: "pageView", start: (new Date()).getTime() });
+						(function (d, w, id) {
+						if (d.getElementById(id)) return;
+						var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+						ts.src = "https://top-fwz1.mail.ru/js/code.js";
+						var f = function () { var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s); };
+						if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+						})(document, window, "tmr-code");
+					</script>
+					<noscript><div><img src="https://top-fwz1.mail.ru/counter?id=3135939;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru" /></div></noscript>
+					<!-- /Top.Mail.Ru counter -->
+					<!-- Mediascope -->
+					<script>
+						((counterHostname) => {
+						window.MSCounter = {
+						counterHostname: counterHostname
+						};
+						window.mscounterCallbacks = window.mscounterCallbacks || [];
+						window.mscounterCallbacks.push(() => {
+						msCounterExampleCom = new MSCounter.counter({
+						'account': 'interfax_ru',
+						'tmsec': 'interfax',
+						'autohit': true
+						});
+						});
+
+						const newScript = document.createElement('script');
+						newScript.async = true;
+						newScript.src = `${counterHostname}/ncc/counter.js`;
+
+						const referenceNode = document.querySelector('script');
+						if (referenceNode) {
+						referenceNode.parentNode.insertBefore(newScript, referenceNode);
+						} else {
+						document.firstElementChild.appendChild(newScript);
+						}
+						})('https://tns-counter.ru/');
+					</script>
+					<!-- /Mediascope -->
+					<!--noindex--><a href="/warningch" rel="nofollow"><img src="/img/18.gif" width="28" height="28" alt="18+"></a><!--/noindex-->
+				</div>
+				<span>
+					<span>
+						<!--noindex--><a href="/license" rel="nofollow">Условия использования информации</a><!--/noindex--><br>
+						<!--noindex--><a href="/impressum" rel="nofollow">Выходные данные</a><!--/noindex--><br>
+					</span>
+					<!--noindex--><a rel="nofollow" href="https://www.motka.ru" target="_blank">Дизайн &#8211; Motka.ru</a><!--/noindex-->
+				</span>
+			</div>
+		</div>
+	</footer>
+	<!-- // Блок подвала -->
+
+
+	<!--  Окно для подписки на рассылку -->
+	<input class="modalfix__check" type="checkbox" id="modalss" />
+	<div class="modalfix"></div>
+	<!-- Плашка с подпиской на рассылку -->
+	<div class="bss__wrap" style="display: none;"></div>
+	<!-- // Окно для подписки на рассылку-->
+
+	<div class="counters__block"><div></div></div>
+	<script async src="/js/script.js?v=1tDQJ8ykghOOB6Wk86i7-2-22KvELc1i8t0hFMr1drI"></script>
+	<script async src="/js/unobtrusive-ajax-nano.js?v=6OLjz9GbA4BSVq_s7NYB4ioSwY7QpbxLF4WMc01BrDo"></script>
+	<script src="/js/hotthings.js"></script>
+	
+	<div class="spellCheck">
+		<div>
+			<iframe class="spellCheckFrame"></iframe>
+		</div>
+	</div>
+
+		<script src="https://yandex.ru/ads/system/context.js" crossorigin="anonymous" async></script>
+
+	<link rel="stylesheet" href="/css/ads.css?v=p8qtIHdmoYA360wNIFw_hQIY3p5Ksn5musWRTp4oRG8">
+	<link rel="stylesheet" href="/css/print.css?v=axGwQEXfb9ELnT3QwhUM3PDbofoE70NhfWRlsneuri8">
+
+	<script>
+		if ('serviceWorker' in navigator) {
+		window.addEventListener('load', function () {
+		navigator.serviceWorker.register('/sw.js');
+		});
+		}
+	</script>
+
+
+</body>
+</html>
+

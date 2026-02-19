@@ -1,0 +1,140 @@
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <meta name="msthemecompatible" content="no">
+    <meta name="cleartype" content="on">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="format-detection" content="address=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <link rel="dns-prefetch" href="//cdn.tvc.ru">
+    <link rel="dns-prefetch" href="//ads.adfox.ru">
+    <link rel="dns-prefetch" href="//yastatic.net">
+    <link rel="apple-touch-icon" sizes="152x152" href="//static.tvc.ru/i/apple_touch/152x152.png?v=173" />
+    <link rel="apple-touch-icon" sizes="144x144" href="//static.tvc.ru/i/apple_touch/144x144.png?v=173" />
+    <link rel="apple-touch-icon" sizes="120x120" href="//static.tvc.ru/i/apple_touch/120x120.png?v=173" />
+    <link rel="apple-touch-icon" sizes="114x114" href="//static.tvc.ru/i/apple_touch/114x114.png?v=173" />
+    <link rel="apple-touch-icon" sizes="72x72" href="//static.tvc.ru/i/apple_touch/72x72.png?v=173" />
+    <link rel="apple-touch-icon-precomposed" href="//static.tvc.ru/i/apple_touch/57x57.png?v=173" />
+
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    <title>Новости России и мира - ТВ Центр</title>
+    <link rel="canonical" href="https://www.tvc.ru/news">
+    <!-- Required -->
+    <meta name="description" content="Главные новости дня в России и мире на официальном сайте телеканала «ТВ Центр».">
+    <meta property="og:locale" content="ru_RU">
+    <meta property="og:site_name" content="ТВ Центр - Официальный сайт телекомпании">
+    <meta property="og:title" content="Новости России и мира - ТВ Центр">
+    <meta property="og:image" content="https://www.tvc.ru/resources/assets/images/logos/logo-desktop.svg">
+    <!-- Optional -->
+    <meta property="og:url" content="https://www.tvc.ru/news">
+    <meta property="og:type" content="website">
+    <meta property="og:video" content="">
+    <link rel="preload" as="style" href="https://www.tvc.ru/build/assets/app-CMdy0BsU.css" /><link rel="stylesheet" href="https://www.tvc.ru/build/assets/app-CMdy0BsU.css" />
+    <script>
+        window.yaContextCb = window.yaContextCb || []
+    </script>
+    <script src="https://yandex.ru/ads/system/context.js" async></script>
+</head>
+
+<body class="bg-brand-back-light">
+    <input id="srv-time" type="hidden" value="1771524753.177">
+    <div id="wrapper" style="transform: translateX(-100%)">
+                            </div>
+    <div id="app"></div>
+    <link rel="preload" as="style" href="https://www.tvc.ru/build/assets/app-IKa_cet_.css" /><link rel="modulepreload" href="https://www.tvc.ru/build/assets/app-BeowVf6P.js" /><link rel="stylesheet" href="https://www.tvc.ru/build/assets/app-IKa_cet_.css" /><script type="module" src="https://www.tvc.ru/build/assets/app-BeowVf6P.js"></script>
+    <div class="count">
+
+        <div style="display: none">
+            <!--LiveInternet counter-->
+            <script type="text/javascript">
+                try {
+                    document.write("<a href='//www.liveinternet.ru/click;TVCenter' " +
+                        "target=_blank><img src='//counter.yadro.ru/hit;TVCenter?t44.6;r" +
+                        escape(document.referrer) + ((typeof(screen) == "undefined") ? "" :
+                            ";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
+                                screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
+                        ";h" + escape(document.title.substring(0, 150)) + ";" + Math.random() +
+                        "' alt='' title='LiveInternet' " +
+                        "border='0' width='31' height='31'><\/a>")
+                } catch (e) {
+                    console.error('try...catch: ' + e);
+                }
+            </script><!--/LiveInternet-->
+        </div>
+
+        <!-- Yandex.Metrika counter -->
+        <script type="text/javascript">
+            try {
+                (function(m, e, t, r, i, k, a) {
+                    m[i] = m[i] || function() {
+                        (m[i].a = m[i].a || []).push(arguments)
+                    };
+                    m[i].l = 1 * new Date();
+                    for (var j = 0; j < document.scripts.length; j++) {
+                        if (document.scripts[j].src === r) {
+                            return;
+                        }
+                    }
+                    k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode
+                        .insertBefore(k, a)
+                })
+                (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+                ym(22353196, "init", {
+                    clickmap: true,
+                    trackLinks: true,
+                    accurateTrackBounce: true,
+                    trackHash: true
+                });
+            } catch (e) {
+                console.error('try...catch: ' + e);
+            }
+        </script>
+        <noscript>
+            <div><img src="https://mc.yandex.ru/watch/22353196" style="position:absolute; left:-9999px;"
+                    alt="" /></div>
+        </noscript>
+        <!-- /Yandex.Metrika counter -->
+
+    </div>
+    <script>
+        try {
+            ((counterHostname) => {
+                window.MSCounter = {
+                    counterHostname: counterHostname
+                };
+                window.mscounterCallbacks = window.mscounterCallbacks || [];
+                window.mscounterCallbacks.push(() => {
+                    msCounterExampleCom = new MSCounter.counter({
+                        'account': 'tvc_tv',
+                        'tmsec': 'tvc_tv',
+                        'autohit': true
+                    });
+                });
+
+                const newScript = document.createElement('script');
+                newScript.async = true;
+                newScript.src = `${counterHostname}/ncc/counter.js`;
+
+                const referenceNode = document.querySelector('script');
+                if (referenceNode) {
+                    referenceNode.parentNode.insertBefore(newScript, referenceNode);
+                } else {
+                    document.firstElementChild.appendChild(newScript);
+                }
+            })('https://tns-counter.ru/');
+        } catch (e) {
+            console.error('try...catch: ' + e);
+        }
+    </script>
+
+</body>
+
+</html>

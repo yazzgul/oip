@@ -1,0 +1,1825 @@
+<!DOCTYPE html><html prefix="og: http://ogp.me/ns#"  lang="ru"><head><meta charset="UTF-8"><meta name="msvalidate.01" content="36879475773792950F4872586A371571" /><meta name="apple-mobile-web-app-capable" content="no"><meta name="format-detection" content="telephone=yes"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"><meta name="HandheldFriendly" content="true"><meta name="MobileOptimzied" content="width"><meta http-equiv="cleartype" content="on"><meta name="navigation" content="tabbed" ><title>RT на русском: последние новости в России и в мире онлайн</title><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /><link rel="icon" href="/favicon.ico" type="image/x-icon" /><link rel="apple-touch-icon" href="/static/blocks/touch-icon/apple-touch-icon-precomposed.png"/><link rel="apple-touch-icon" sizes="72x72" href="/static/blocks/touch-icon/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon" sizes="114x114" href="/static/blocks/touch-icon/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon" sizes="144x144" href="/static/blocks/touch-icon/apple-touch-icon-144x144-precomposed.png" /><meta name="description" content="Актуальная картина дня на RT: круглосуточное ежедневное обновление новостей политики, бизнеса, финансов, спорта, науки, культуры. Онлайн-репортажи с места событий. Комментарии экспертов, актуальные интервью, фото и видео репортажи." /><meta property="fb:pages" content="240228462761886" /><meta name="google-site-verification" content="GYFQiVoLOXGoiBZb6BPk_PoFj173iKc7_nZ1eG1k-x4"><meta property="og:site_name" content="RT на русском" /><meta property="og:locale" content="ru_RU" /><meta property="og:type" content="article" /><meta property="og:title" content="RT на русском последние новости онлайн в России и в Мире" /><meta property="og:url" content="https://russian.rt.com" ><meta property="og:description" content="Актуальная картина дня на RT: круглосуточное ежедневное обновление новостей политики, бизнеса, финансов, спорта, науки, культуры. Онлайн-репортажи с места событий. Комментарии экспертов, актуальные интервью, фото и видео репортажи." /><meta name="twitter:title" content="RT на русском последние новости онлайн в России и в Мире" /><meta name="google-site-verification" content="VQLbsaWKiXW2-Vt4lP7MevnhMES537NO4fQjfGgLcbI" /><meta property="og:image:type" content="image/jpeg" /><meta property="og:image:width" content="840" /><meta property="og:image:height" content="450" /><meta property="og:image" content="https://russian.rt.com/static/blocks/og-img/pl-17.jpg"/><meta name="twitter:image" content="https://russian.rt.com/static/blocks/og-img/pl-17.jpg" /><meta name="yandex-verification" content="7259b709c9950c63" /><meta name="twitter:site" content="@RT_russian" /><meta name="twitter:card" content="summary_large_image"><meta name="twitter:app:name:iphone" content="iphone" /><meta name="twitter:app:id:iphone" content="iphone" /><meta name="twitter:app:url:iphone" content="url" /><meta name="twitter:app:name:ipad" content="ipad" /><meta name="twitter:app:id:ipad" content="ipad" /><meta name="twitter:app:url:ipad" content="url" /><meta name="twitter:app:name:googleplay" content="googleplay" /><meta name="twitter:app:id:googleplay" content="googleplay" /><meta name="twitter:app:url:googleplay" content="googleplay" /><meta name="apple-itunes-app" content="app-id=649316948, app-argument=russianrtnews://articles" /><script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = 'https://vk.com/rtrg?p=VK-RTRG-109324-1Xxct';</script><!-- rev-hash --><link rel="stylesheet" href="https://ru.russiatoday.com/static/css/template.min.css?v=05202210_1965"/><!-- end --><link rel="stylesheet" href="https://ru.russiatoday.com/static/css/label.css?v=21"/><script src="https://yandex.ru/ads/system/header-bidding.js" async></script><script>
+                    if(typeof _adv == 'undefined') var _adv = {};
+                    _adv.section = 'ussr';
+                    _adv.account = 258144;
+                    _adv.place = {
+                        'billboard': {
+                            ownerId: _adv.account,
+                            containerId: 'billboard',
+                            params: {
+                                pp: 'g',
+                                ps: window.innerWidth > 846 ? 'cowp' : 'coww',
+                                p2: 'y',
+                                puid1: 'world'
+                            }
+                        },
+                        'ad300x600_t': {
+                            ownerId: _adv.account,
+                            containerId: 'ad300x600_t',
+                            params: {
+                                pp: 'h',
+                                ps: window.innerWidth > 1024 ? 'cowp' : 'coww',
+                                p2: 'fsyt',
+                                puid1: 'world'
+                            }
+                        },
+                        'ad300x600_b': {
+                            ownerId: _adv.account,
+                            containerId: 'ad300x600_b',
+                            params: {
+                                pp: 'i',
+                                ps: window.innerWidth > 1024 ? 'cowp' : 'coww',
+                                p2: 'fsyt',
+                                puid1: 'world'
+                            }
+                        },
+                        'leaderboard': {
+                            ownerId: _adv.account,
+                            containerId: 'leaderboard',
+                            params: {
+                                pp: 'smx',
+                                ps: window.innerWidth > 846 ? 'cowp' : 'coww',
+                                p2: window.innerWidth > 846 ? 'y' : 'fsyt',
+                                puid1: 'world'
+                            }
+                        },
+                        'adhesion': {
+                            ownerId: _adv.account,
+                            containerId: 'adhesion',
+                            params: {
+                                pp: 'i',
+                                ps: window.innerWidth > 846 ? 'cowp' : 'coww',
+                                p2: 'y',
+                                puid1: 'world'
+                            }
+                        },
+						'first_b':{
+                            ownerId: _adv.account,
+                            containerId: 'first_b',
+                            params: {
+                                pp: 'h',
+                                ps: window.innerWidth < 846 ? 'coww' : null,
+                                p2: 'iljr',
+                                puid1: 'world'
+                            }
+						},
+						'b_comment':{
+                            ownerId: _adv.account,
+                            containerId: 'b_comment',
+                            params: {
+                             pp:'h',
+                             ps:window.innerWidth > 846 ? 'cowp' : 'coww',
+                             p2:'imai',
+                                puid1: 'world'
+                            }
+						},
+						'inpage':{
+                            ownerId: _adv.account,
+                            containerId: 'inpage',
+                            params: {
+                             pp:'g',
+                             ps:window.innerWidth > 846 ? 'cowp' : 'coww',
+                             p2:'jdas',
+                                puid1: 'world'
+							}
+							},
+						'sticky':{
+                            ownerId: _adv.account,
+                            containerId: 'sticky',
+							type: 'floorAd',
+							params:{
+							pp: 'g',
+							ps: window.innerWidth > 846 ? 'null' : 'coww',
+							p2: 'ixri', 
+                            puid1: 'world'
+                            }	
+						},
+						'wd':{
+                            ownerId: _adv.account,
+                            containerId: 'wd',
+							params:{
+                                pp: 'h',
+                                ps: 'cowp',
+                                p2: 'gqqu', 
+                                puid1: 'world'						
+                            }
+					    }
+                    };
+
+                    _adv.adfox_hb = window.innerWidth > 846 ? {
+                        biddersMap: {"myTarget": "2318746","sparrow":"3405588","gnezdo":"3448945"},
+                        adUnits: [{
+                            "code": _adv.place['ad300x600_t'].containerId,
+                            "codeType": "combo",
+							"sizes": [[300,250],[300,300],[240,400],[300,600],[345,290],[356,200],[320,420]],
+                            "bids": [ {
+                                "bidder": "myTarget",
+                                "params": {
+                                    "placementId": "1239261",
+									 "additional": {
+                                     "fpid": "window.rb_sync.id || ''"
+                                       }
+									}
+							}
+                            ]
+                        },{
+                            "code": _adv.place['inpage'].containerId,
+                            "codeType": "combo",
+							"sizes": [[820,500],[820,250],[820,400],[820,300]],
+                            "bids": [ {
+								"bidder": "myTarget",
+								"params": {
+								  "placementId": "1700737"
+								}
+							  },
+                        {
+                            "bidder": "gnezdo",
+                            "params": {
+                                "placementId": "370730"
+                            }
+                        },
+                        {
+                            "bidder": "sparrow",
+                            "params": {
+                                "placementId": "175073"
+                            }
+                        }
+                            ]
+                        },
+						{
+                            "code": _adv.place['b_comment'].containerId,
+                            "codeType": "combo",
+							"sizes": [[970,250],[720,240],[790,210],[700,400],[600,480],[460,260]],
+                            "bids": [ {
+                                "bidder": "myTarget",
+                                "params": {
+                                    "placementId": "1267164",
+									 "additional": {
+                                     "fpid": "window.rb_sync.id || ''"
+                                       }
+									}
+                                }
+                            ]
+                        },
+						{
+                            "code": _adv.place['ad300x600_b'].containerId,
+                            "codeType": "combo",
+							"sizes": [[300,600],[300,250],[240,400],[300,300],[345,290],[356,200],[320,420]],
+                            "bids": [ {
+                                "bidder": "myTarget",
+                                "params": {
+                                    "placementId": "1239368",
+									 "additional": {
+                                     "fpid": "window.rb_sync.id || ''"
+                                       }
+									}
+                                }
+                            
+                            ]
+                        }],
+						timeout: 500
+					 }:{ 
+					    biddersMap: {"myTarget": "2318746","sparrow":"3405588","gnezdo":"3448945"},
+                        adUnits: [ { 
+                            "code": _adv.place['billboard'].containerId,
+							"sizes": [[300,250],[300,300],[320,300]],
+                            "bids": [
+							{
+                                "bidder": "myTarget",
+                                "params": {"placementId": "1704921",
+								 "additional": {
+                                     "fpid": "window.rb_sync.id || ''"
+                                       }
+								}
+                            }
+                            ]
+                        },
+                        {
+                            "code": _adv.place['ad300x600_t'].containerId,
+                            "codeType": "combo",
+							"sizes": [[300,250],[300,300],[240,400],[300,600],[320,250],[320,300],[320,420]],
+                            "bids": [ {
+                                "bidder": "myTarget",
+                                "params": {
+                                    "placementId": "1239368",
+									 "additional": {
+                                     "fpid": "window.rb_sync.id || ''"
+                                       }
+									}
+                                }
+                            
+                            ]
+                        },
+						{
+                            "code": _adv.place['inpage'].containerId,
+                            "codeType": "combo",
+							"sizes": [[320,500],[320,600],[320,250],[240,400],[320,300],[330,290],[320,420],[240,400],[320,420]],
+                            "bids": [ {
+								"bidder": "myTarget",
+								"params": {
+								  "placementId": "1700737"
+								}
+							  },
+                        {
+                            "bidder": "gnezdo",
+                            "params": {
+                                "placementId": "370731"
+                            }
+                        },
+                        {
+                            "bidder": "sparrow",
+                            "params": {
+                                "placementId": "175076"
+                            }
+                        }
+                            ]
+                        },
+							{
+                            "code": _adv.place['b_comment'].containerId,
+                            "codeType": "combo",
+						
+							"sizes": [[320,450],[300,500],[300,250],[300,300],[240,400],[230,290],[320,420],[240,400],[280,420],[210,160]],
+                            "bids": [ {
+                                "bidder": "myTarget",
+                                "params": {
+                                    "placementId": "1267164",
+									 "additional": {
+                                     "fpid": "window.rb_sync.id || ''"
+                                       }
+									}
+                                }
+                            ]
+                        },
+                        {
+                            "code": _adv.place['ad300x600_b'].containerId,
+                            "codeType": "combo",
+							"sizes": [[320,450],[300,500],[300,250],[300,300],[240,400],[230,290],[320,420],[240,400],[280,420],[210,160]],
+                            "bids": [ {
+                                "bidder": "myTarget",
+                                "params": {
+                                    "placementId": "1239388",
+									 "additional": {
+                                     "fpid": "window.rb_sync.id || ''"
+                                       }
+									}
+                                }
+                            ]
+                        },{
+							"code": _adv.place["sticky"].containerId,
+							"codeType": "combo",
+							"sizes": [[320,200],[350,200],[400,200]],
+							"bids": [
+							  {
+								"bidder": "myTarget",
+								"params": {
+								  "placementId": "1700809"
+								}
+							  },
+                        {
+                            "bidder": "gnezdo",
+                            "params": {
+                                "placementId": "370729"
+                            }
+                        },
+                        {
+                            "bidder": "sparrow",
+                            "params": {
+                                "placementId": "175079"
+                            }
+                        }
+							]
+						  }],
+                        timeout: 1000
+                    };
+                    window.YaHeaderBiddingSettings =_adv.adfox_hb;
+                </script><script>window.yaContextCb = window.yaContextCb || []</script><script src="https://yandex.ru/ads/system/context.js" async></script><link rel="canonical" href="https://russian.rt.com/"/><script>
+            window.RT_IMAGE_MEDIA_URL = 'https://mf.b37mrtl.ru/russian'
+        </script><script async src="https://jsn.24smi.net/smi.js"></script><script async src="https://widget.sparrow.ru/js/embed.js"></script><script defer src="https://setka.news/scr/versioned/bundle.0.0.3.js"></script><link href="https://setka.news/scr/versioned/bundle.0.0.3.css" rel="stylesheet" /></head><body><script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "url": "https://russian.rt.com",
+            "logo": "https://russian.rt.com/static/img/logo112x112.png",
+            "name": "RT на Русском",
+            "legalName": "Автономная некоммерческая организация \"ТВ-Новости\"",
+            "sameAs": [
+                "https://vk.com/rt_russian",
+                "https://twitter.com/RT_russian",
+                "http://ttttt.me/rt_russian",
+                "https://www.youtube.com/user/rtrussian",
+                "https://ok.ru/rtrussian",
+                "https://rt-russian.livejournal.com/",
+                "https://chats.viber.com/rtrussian/en",
+                "http://social.rt.com/"
+            ],
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://russian.rt.com/search?q={search_term_string}",
+                "query-input": "required name=search_term_string"
+            }
+        }
+    </script><div style="position: fixed; left: -9999px;"><!--LiveInternet counter--><a href="https://www.liveinternet.ru/click;RTNEWS" 
+target="_blank"><img id="licntD91E" width="31" height="31" style="border:0" 
+title="LiveInternet" 
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7" 
+alt=""/></a><script>(function(d,s){d.getElementById("licntD91E").src=
+"https://counter.yadro.ru/hit;RTNEWS?t44.6;r"+escape(d.referrer)+
+((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+
+(s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+
+";h"+escape(d.title.substring(0,150))+";"+Math.random()})
+(document,screen)</script><!--/LiveInternet--></div><script>
+        var RT_HOST_URL = window.RT_HOST_URL || {};
+        RT_HOST_URL.hostUrl = "https://russian.rt.com";
+    </script><div class="layout  "><div class="layout__header" id="layout__header"><div class="header js-header" id="header"><div class="header__section header__section_gray"><div class="header__content"><div class="header__social"><div class="socials "><ul class="socials__row "><li class="socials__item "><a href="//ttttt.me/rt_russian" class="socials__link socials__link_telegram" target="_blank">
+                    Канал RT на Telegram.me
+                </a></li><li class="socials__item "><a href="//vk.com/rt_russian" class="socials__link socials__link_vkontakte" target="_blank">
+                    RT на русском Вконтакте
+                </a></li><li class="socials__item "><a href="//twitter.com/RT_russian" class="socials__link socials__link_xtwitter" target="_blank">
+                    Twitter RT Russian
+                </a></li><li class="socials__item "><a href="//max.ru/RT" class="socials__link socials__link_max" target="_blank">
+                    Канал RT на Max.ru
+                </a></li><li class="socials__item "><a href="//rutube.ru/u/rtrussian/" class="socials__link socials__link_rutube" target="_blank">
+                    RT на русском в rutube
+                </a></li><li class="socials__item "><a href="//ok.ru/rtrussian" class="socials__link socials__link_odnoklassniki" target="_blank">
+                    RT на русском группа на Одноклассники.ru
+                </a></li><li class="socials__item "><a href="//dzen.ru/russian.rt.com" class="socials__link socials__link_yandex-zen" target="_blank">
+                    RT на русском в Дзен
+                </a></li><li class="socials__item "><a href="/rss" class="socials__link socials__link_rss" target="_blank">
+                    rss
+                </a></li><li class="socials__item "><a href="//www.tiktok.com/@russian_rt" class="socials__link socials__link_tiktok" target="_blank">
+                    RT на русском в TikTok
+                </a></li></ul></div></div><div class="header__langs"><div class="langs"><div class="nav langs__nav "><ul class="nav__row nav__row_langs"><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang  link" href="//swentr.site/" target="_blank"  >
+
+                            ENG
+
+                        </a></li><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang  link" href="//de.rt.com/" target="_blank"  >
+
+                            DE
+
+                        </a></li><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang  link" href="//francais.rt.com/" target="_blank"  >
+
+                            FR
+
+                        </a></li><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang  link" href="//arabic.rt.com/" target="_blank"  >
+
+                            العربية
+
+                        </a></li><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang  link" href="//actualidad.rt.com/" target="_blank"  >
+
+                            ESP
+
+                        </a></li><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang  link" href="//rt.rs/" target="_blank"  >
+
+                            RS
+
+                        </a></li></ul></div></div></div><div class="header__media-projects"><div class="nav nav_media-projects "><ul class="nav__row nav__row_media-projects"><li class="nav__row-item nav__row-item_media-projects"><a class="nav__link nav__link_media-projects  link" href="//doc.rt.com/"  target="_blank" >
+
+                            RTД
+
+                        </a></li></ul></div></div><div class="clears-mh"></div></div></div><div class="header__section header__section_border-bottom_gray"><div class="header__content"><div class="header__logo"><a class="logo " href="/"><span class="logo__image">RT</span><span class="logo__text">На русском</span></a></div><div class="header__trend-donbass"><a href="/russia/video/1590612-semya-rossiya-deti-franciya-cennosti" class="header__trend-donbass_bgi" aria-label="Семья - Россия"></a></div><div class="header__seach-form"><form name="search" class="search header__search-form_js" action="/search" ><div class="search__wrapper search__submit-top"><input class="search__submit" type="checkbox" value="Поиск" id="search__submit-top" /><label class="search__submit-label search_label_js-top" for="search__submit-top" ></label><input class="search__submit-label search__submit-label_header" type="submit" value="Поиск" /><div class="search__text" ><input type="text" id="search_input_field-top" name="q" value="" maxlength="100" /></div></div></form></div><ul class="mobile-nav"><li class="mobile-nav__item"><a class="js-mobile-element-nav mobile-nav__link mobile-nav__link_search">Search</a></li><li class="mobile-nav__item"><a class="js-mobile-element-nav mobile-nav__link mobile-nav__link_menu">Menu mobile</a></li></ul></div></div><div class="header__section" id="header-nav"><div class="header__content"><div class="nav  nav_header"><ul class="nav__row nav__row_center"><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/news"   >
+
+                            Новости
+
+                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/world"   >
+
+                            Мир
+
+                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/russia"   >
+
+                            Россия
+
+                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/ussr"   >
+
+                            Бывший СССР
+
+                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/business"   >
+
+                            Экономика
+
+                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/sport"   >
+
+                            Спорт
+
+                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/science"   >
+
+                            Наука
+
+                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/nopolitics"   >
+
+                            Без политики
+
+                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/opinion"   >
+
+                            Мнения
+
+                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/inotv"  target="_blank" >
+
+                            ИноТВ
+
+                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/foto"   >
+
+                            Фото
+
+                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header  link" href="/video"   >
+
+                            Видео
+
+                        </a></li></ul></div></div></div><div class="header__section header__trend-donbass_section"><a href="/trend/355231-donbass">Спецоперация на Украине</a></div></div></div><div class="layout__wrapper layout__wrapper_main"><div class="layout__breaking "></div><div class="layout__banners rows__bottom"><div id="billboard" style="max-width: 1240px; margin: 0 auto; display: table;"></div><script type="text/javascript">
+                    window.yaContextCb.push(() => {
+                        Ya.adfoxCode.createAdaptive(_adv.place['billboard'],
+                        ['desktop', 'phone'],
+                        {
+                            phoneWidth: 846,
+                            isAutoReloads: false
+                        });
+                    });
+                </script></div><div class="layout__content "><div class="layout__banners layout__banners_top-main rows__bottom"><script>
+                  var settings = {
+                    url : '/widget/main-banner-top/json'
+                  };
+                </script><div id="app-main-banner-top"></div></div><div class="layout__rows"><div class="rows_wide rows__bottom"><div class="rows__flex"><div class="rows__column rows__column_main_promobox"><div class="listing listing_main-promobox"><div class="listing__content listing__content_main-promobox"><ul class="listing__rows listing__rows_main-promobox"><li class="listing__column
+                        listing__column_main-promobox
+                        listing__column_main-promobox_1
+                        "><div class="listing__card listing__card_main-promobox listing__card_main-promobox_1"><div
+      class="card
+        
+        card_main-promobox card_main-promobox_1
+        
+        "><div
+          class="card__cover card__cover_main-promobox card__cover_main-promobox_1                              "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/article/6996deacae5ac92b1830a4f7.png)"><a href="/ussr/article/1597690-goryuchee-energetika-vsu-udary" class="cover__link link cover__link_media"></a></div></div></div><div
+        class="card__category card__category_main-promobox card__category_1   card__trend_with-label"><a href="/ussr" class="link ">Бывший СССР</a></div><div class="card__heading
+            card__heading_main-promobox card__heading_main-promobox_1 
+            
+            
+            "><a class="link  " href="/ussr/article/1597690-goryuchee-energetika-vsu-udary">
+        Работа авиации и ракетных войск: ВС РФ поразили хранилище горючего и объекты энергетики киевского режима
+      </a></div><div
+        class="card__date-author card__date-author_main-promobox card__date-author_main-promobox_1  "><div
+        class="card__date card__date_main-promobox card__date_main-promobox_1  ">
+
+      
+              13:33
+      
+    </div><div
+          class="card__author card__author_main-promobox card__author_main-promobox_1 ">
+                          Анастасия Степанова
+              </div></div><div
+          class="card__summary card__summary_main-promobox card__summary_main-promobox_1                               ">
+        
+        Вооружённые силы РФ поразили хранилище горючего, объекты энергетики, используемые в интересах ВСУ, а также пункты дислокации украинских боевиков и иностранных наёмников в 156 районах, сообщает Минобороны. Силы ПВО за сутки сбили две авиабомбы,...
+        
+      </div><div class="card__spot-im-count card__spot-im-count_main-promobox card__spot-im-count_main-promobox_1"><a class="spot-im-replies-href" href="/ussr/article/1597690-goryuchee-energetika-vsu-udary#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count"
+                data-post-id="article___1597690"></span></a></div></div></div></li><li class="listing__column listing__column_main-promobox_foreign-press listing__column_main-promobox_donbass"><div class="listing listing_main-section"><div class="listing__heading listing__heading_main-section listing__heading_main-section_donbass"><a class="link" href="https://russian.rt.com/trend/355231-donbass">Спецоперация на Украине</a></div><div class="listing__content listing__content_main-section listing__content_main-section_donbass"><ul class="listing__rows listing__rows_main-section listing__rows_main-section_donbass"><li class="listing__column listing__column_main-section listing__column_main-section_donbass"><div class="listing__card listing__card_main-section listing__card_main-section_donbass"><div class="card__heading card__heading_main-section "><a href="/ussr/article/1597641-voennosluzhaschii-medik-svo" class="link link_color"  >
+                                                                            «Не вывозят вэсэушники стрелковый бой»: с чем сталкиваются военные медики на СВО
+                                                                            </a></div></div></li><li class="listing__column listing__column_main-section listing__column_main-section_donbass"><div class="listing__card listing__card_main-section listing__card_main-section_donbass"><div class="card__heading card__heading_main-section "><a href="/ussr/article/1597690-goryuchee-energetika-vsu-udary" class="link link_color"  >
+                                                                            Работа авиации и ракетных войск: ВС РФ поразили хранилище горючего и объекты энергетики киевского режима
+                                                                            </a></div></div></li><li class="listing__column listing__column_main-section listing__column_main-section_donbass"><div class="listing__card listing__card_main-section listing__card_main-section_donbass"><div class="card__heading card__heading_main-section "><a href="/ussr/article/1597199-harkovka-krinichnoe-osvobozhdenie-svo" class="link link_color"  >
+                                                                            Прорыв в Сумской и Запорожской областях: ВС РФ установили контроль над Харьковкой и Криничным
+                                                                            </a></div></div></li><li class="listing__column listing__column_main-section listing__column_main-section_donbass"><div class="listing__card listing__card_main-section listing__card_main-section_donbass"><div class="card__heading card__heading_main-section "><a href="/ussr/article/1596725-massirovannyi-udar-energetika-ukraina" class="link link_color"  >
+                                                                            Массированный удар высокоточным оружием: ВС РФ поразили объекты ВПК и энергетики киевского режима
+                                                                            </a></div></div></li><li class="listing__column listing__column_main-section listing__column_main-section_donbass"><div class="listing__card listing__card_main-section listing__card_main-section_donbass"><div class="card__heading card__heading_main-section "><a href="/ussr/article/1596416-pokrovka-minkovka-prodvizhenie-vs-rf" class="link link_color"  >
+                                                                            Освобождены Покровка и Миньковка, ВС РФ продвигаются в Запорожье: как развивается ситуация в зоне СВО
+                                                                            </a></div></div></li><li class="listing__column listing__column_main-section listing__column_main-section_donbass"><div class="listing__card listing__card_main-section listing__card_main-section_donbass"><div class="card__heading card__heading_main-section "><a href="/ussr/article/1596308-pokrovka-minkovka-osvobozhdenie-svo" class="link link_color"  >
+                                                                            Результат наступления «Севера» и «Юга»: ВС РФ освободили Покровку в Сумской области и Миньковку в ДНР
+                                                                            </a></div></div></li></ul></div></div></li><li class="listing__column
+                        listing__column_main-promobox
+                        listing__column_main-promobox_2
+                        "><div class="listing__card listing__card_main-promobox listing__card_main-promobox_2"><div
+      class="card
+        
+        card_main-promobox card_main-promobox_2
+        
+        "><div
+          class="card__cover card__cover_main-promobox card__cover_main-promobox_2                            "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/article/6997273702e8bd6692031234.jpeg)"><a href="/world/article/1597836-zelenskii-hamstvo-ukraina-politika" class="cover__link link cover__link_media"></a></div></div></div><div
+        class="card__category card__category_main-promobox card__category_2   card__trend_with-label"><a href="/world" class="link ">Мир</a></div><div class="card__heading
+            card__heading_main-promobox card__heading_main-promobox_2 
+            
+            
+            "><a class="link  " href="/world/article/1597836-zelenskii-hamstvo-ukraina-politika">
+        «Не проявление эмоций, а целенаправленная провокация»: что стоит за хамскими заявлениями Зеленского в отношении Запада
+      </a></div><div
+        class="card__date-author card__date-author_main-promobox card__date-author_main-promobox_2  "><div
+        class="card__date card__date_main-promobox card__date_main-promobox_2  ">
+
+      
+              19:52
+      
+    </div><div
+          class="card__author card__author_main-promobox card__author_main-promobox_2 ">
+                          Анастасия Степанова,
+                  Анастасия Белоусова,
+                  Дмитрий Рункевич
+              </div></div><div
+          class="card__summary card__summary_main-promobox card__summary_main-promobox_2                             ">
+        
+        В последнее время Зеленский всё чаще допускает публичные хамские высказывания — причём в отношении не только противников, но и западных партнёров. В российском МИД заявили, что такая риторика говорит о нежелании Киева заключать мир с Россией....
+        
+      </div><div class="card__spot-im-count card__spot-im-count_main-promobox card__spot-im-count_main-promobox_2"><a class="spot-im-replies-href" href="/world/article/1597836-zelenskii-hamstvo-ukraina-politika#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count"
+                data-post-id="article___1597836"></span></a></div></div></div></li><li class="listing__column
+                        listing__column_main-promobox
+                        listing__column_main-promobox_3
+                        "><div class="listing__card listing__card_main-promobox listing__card_main-promobox_3"><div
+      class="card
+        
+        card_main-promobox card_main-promobox_3
+        
+        "><div
+          class="card__cover card__cover_main-promobox card__cover_main-promobox_3          "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/article/69972388ae5ac953673807a7.jpg)"><a href="/sport/article/1597772-filippov-serebro-olimpiada" class="cover__link link cover__link_media"></a></div></div></div><div
+        class="card__category card__category_main-promobox card__category_3   card__trend_with-label"><a href="/sport" class="link ">Спорт</a></div><div class="card__heading
+            card__heading_main-promobox card__heading_main-promobox_3 
+            
+            
+            "><a class="link  " href="/sport/article/1597772-filippov-serebro-olimpiada">
+        «Надо делать вещи»: Филиппов завоевал серебро в ски-альпинизме в мощнейший снегопад и принёс России первую медаль Игр
+      </a></div><div
+        class="card__date-author card__date-author_main-promobox card__date-author_main-promobox_3  "><div
+        class="card__date card__date_main-promobox card__date_main-promobox_3  ">
+
+      
+              19:09
+      
+    </div><div
+          class="card__author card__author_main-promobox card__author_main-promobox_3 ">
+                          Владимир Стариков
+              </div></div><div
+          class="card__summary card__summary_main-promobox card__summary_main-promobox_3           ">
+        
+        Ски-альпинист Никита Филиппов финишировал вторым в спринте и принёс России первую медаль на Олимпийских играх в Милане. 23-летний уроженец Петропавловска-Камчатского без труда преодолел квалификационный и полуфинальный забеги, несмотря на сильный...
+        
+      </div><div class="card__spot-im-count card__spot-im-count_main-promobox card__spot-im-count_main-promobox_3"><a class="spot-im-replies-href" href="/sport/article/1597772-filippov-serebro-olimpiada#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count"
+                data-post-id="article___1597772"></span></a></div></div></div></li></ul></div></div></div><div class="rows__column rows__column_main_feed-news"><div class="listing
+        listing_main-news
+        "  ><div class="listing__heading listing__heading_main-news" ><a class="link " href="/news">Лента новостей</a></div><div class="listing__content listing__content_main-news  "><ul class="listing__rows listing__rows_main-news "><li class="listing__column  listing__column_main-news "><div class="listing__card  listing__card_main-news "><div
+      class="card
+        
+        card_main-news
+        card_not-cover
+        "><div
+        class="card__date card__date_main-news card__date_not-cover ">
+
+      
+              21:01
+      
+    </div><div class="card__heading
+            card__heading_main-news card__heading_not-cover
+            
+            
+            "><a class="link link_color " href="/ussr/news/1597918-belgorodskaya-oblast-vsu-ataka">
+        В Белгородской области при атаке дрона ВСУ пострадали три мирных жителя
+      </a></div></div></div></li><li class="listing__column  listing__column_main-news "><div class="listing__card  listing__card_main-news "><div
+      class="card
+        
+        card_main-news
+        card_not-cover
+        "><div
+        class="card__date card__date_main-news card__date_not-cover ">
+
+      
+              21:00
+      
+    </div><div class="card__heading
+            card__heading_main-news card__heading_not-cover
+            
+            
+            "><a class="link link_color " href="/world/news/1597916-belousov-madagaskar-peregovory">
+        Белоусов провёл переговоры с министром обороны Мадагаскара
+      </a></div></div></div></li><li class="listing__column  listing__column_main-news "><div class="listing__card  listing__card_main-news "><div
+      class="card
+        
+        card_main-news
+        
+        "><div
+        class="card__date card__date_main-news  ">
+
+      
+              20:56
+      
+    </div><div class="card__heading
+            card__heading_main-news 
+            
+            
+            "><a class="link link_color " href="/world/news/1597905-ssha-dmitriev-klinton">
+        Дмитриев объяснил, почему Хиллари Клинтон «никому не нравится»
+      </a></div></div></div></li><li class="listing__column  listing__column_main-news "><div class="listing__card  listing__card_main-news "><div
+      class="card
+        
+        card_main-news
+        
+        "><div
+        class="card__date card__date_main-news  ">
+
+      
+              20:53
+      
+    </div><div class="card__heading
+            card__heading_main-news 
+            
+            
+            "><a class="link link_color " href="/world/news/1597913-azerbaidzhan-tramp-priznanie">
+        Трамп признался, что научился выговаривать слово «Азербайджан»
+      </a></div></div></div></li><li class="listing__column  listing__column_main-news "><div class="listing__card  listing__card_main-news "><div
+      class="card
+        
+        card_main-news
+        
+        "><div
+        class="card__date card__date_main-news  ">
+
+      
+              20:51
+      
+    </div><div class="card__heading
+            card__heading_main-news 
+            
+            
+            "><a class="link link_color " href="/russia/news/1597911-podolsk-obrushenie-sklada">
+        В Подольске обрушилась крыша склада, пострадал человек
+      </a></div></div></div></li><li class="listing__column  listing__column_main-news "><div class="listing__card  listing__card_main-news "><div
+      class="card
+        
+        card_main-news
+        
+        "><div
+        class="card__date card__date_main-news  ">
+
+      
+              20:50
+      
+    </div><div class="card__heading
+            card__heading_main-news 
+            
+            
+            "><a class="link link_color " href="/world/news/1597908-tramp-sankcii-rossiya-2026">
+        Трамп продлил санкции против России ещё на год
+      </a></div></div></div></li><li class="listing__column  listing__column_main-news "><div class="listing__card  listing__card_main-news "><div
+      class="card
+        
+        card_main-news
+        
+        "><div
+        class="card__date card__date_main-news  ">
+
+      
+              20:34
+      
+    </div><div class="card__heading
+            card__heading_main-news 
+            
+            
+            "><a class="link link_color " href="/world/news/1597901-sovet-mira-vizy">
+        Белорусским дипломатам США не выдали визы для участия в Совете мира
+      </a></div></div></div></li><li class="listing__column  listing__column_main-news "><div class="listing__card  listing__card_main-news "><div
+      class="card
+        
+        card_main-news
+        
+        "><div
+        class="card__date card__date_main-news  ">
+
+      
+              20:33
+      
+    </div><div class="card__heading
+            card__heading_main-news 
+            
+            
+            "><a class="link link_color " href="/ussr/news/1597899-pvo-bpla-vsu-rossiya">
+        Силы ПВО уничтожили за четыре часа 34 БПЛА ВСУ над территорией России
+      </a></div></div></div></li><li class="listing__column  listing__column_main-news "><div class="listing__card  listing__card_main-news "><div
+      class="card
+        
+        card_main-news
+        
+        "><div
+        class="card__date card__date_main-news  ">
+
+      
+              20:25
+      
+    </div><div class="card__heading
+            card__heading_main-news 
+            
+            
+            "><span class="card__informal card__informal_exclusive card__informal_main-news">Эксклюзив RT</span><a class="link link_color " href="/russia/news/1597896-hachatryan-modeli-rassledovanie">
+        Бизнесмен Алфер рассказал о работе фигурирующего в «файлах Эпштейна» Хачатряна
+      </a></div></div></div></li><li class="listing__column  listing__column_main-news "><div class="listing__card  listing__card_main-news "><div
+      class="card
+        
+        card_main-news
+        
+        "><div
+        class="card__date card__date_main-news  ">
+
+      
+              20:15
+      
+    </div><div class="card__heading
+            card__heading_main-news 
+            
+            
+            "><a class="link link_color " href="/russia/news/1597887-dosrochnaya-pensiya-2026-usloviya">
+        В Совфеде рассказали, кто сможет выйти на досрочную пенсию в 2026 году
+      </a></div></div></div></li><li class="listing__column  listing__column_main-news "><div class="listing__card  listing__card_main-news "><div
+      class="card
+        
+        card_main-news
+        
+        "><div
+        class="card__date card__date_main-news  ">
+
+      
+              20:11
+      
+    </div><div class="card__heading
+            card__heading_main-news 
+            card__heading_not-trends
+            
+            "><span class="card__informal card__informal_exclusive card__informal_main-news">Эксклюзив RT</span><a class="link link_color " href="/world/news/1597893-hachatryan-epshtein-svyaz">
+        Экс-коллеги Хачатряна не удивились его возможным связям с Эпштейном
+      </a></div></div></div></li><li class="listing__column  listing__column_main-news "><div class="listing__card  listing__card_main-news "><div
+      class="card
+        
+        card_main-news
+        
+        "><div
+        class="card__date card__date_main-news  ">
+
+      
+              20:10
+      
+    </div><div class="card__heading
+            card__heading_main-news 
+            
+            
+            "><a class="link link_color " href="/world/news/1597891-britaniya-bazy-ssha">
+        Times: Британия отказалась предоставить США свои базы для ударов по Ирану
+      </a></div></div></div></li><li class="listing__column  listing__column_main-news "><div class="listing__card  listing__card_main-news "><div
+      class="card
+        
+        card_main-news
+        
+        "><div
+        class="card__date card__date_main-news  ">
+
+      
+              20:04
+      
+    </div><div class="card__heading
+            card__heading_main-news 
+            
+            
+            "><a class="link link_color " href="/world/news/1597888-tramp-pomosch-dengi">
+        Трамп: девять стран выделили $7 млрд на помощь Газе
+      </a></div></div></div></li><li class="listing__column  listing__column_main-news "><div class="listing__card  listing__card_main-news "><div
+      class="card
+        
+        card_main-news
+        
+        "><div
+        class="card__date card__date_main-news  ">
+
+      
+              19:56
+      
+    </div><div class="card__heading
+            card__heading_main-news 
+            
+            
+            "><a class="link link_color " href="/russia/news/1597878-peterburg-maksi-sopot-snos">
+        Владелец ТЦ у «Приморской» в Петербурге добровольно демонтирует павильон
+      </a></div></div></div></li><li class="listing__column  listing__column_main-news "><div class="listing__card  listing__card_main-news "><div
+      class="card
+        
+        card_main-news
+        
+        "><div
+        class="card__date card__date_main-news  ">
+
+      
+              19:53
+      
+    </div><div class="card__heading
+            card__heading_main-news 
+            
+            
+            "><a class="link link_color " href="/world/news/1597881-rossiya-kitai-korabli-iran">
+        TWZ: военные корабли России и КНР могут осложнить планы США в отношении Ирана
+      </a></div></div></div></li></ul><div class="listing__button listing__button_main-news " data-href="/listing/type.News.tag.novosty-glavnoe/prepare/main-news/15/1" ><div class="button"><a class="button__item link link_color" href="/news" >
+            Все новости
+        </a></div></div></div></div></div></div></div><div class="layout__banners layout__banners_top-main rows__bottom"><!-- <style>
+                    @media (max-width: 840px) {
+                        .subscribe-main div {
+                            height: 320px!important;
+                        }
+                    }
+                </style> --><div id="leaderboard" class="subscribe-main"><script type="text/javascript">
+                        window.yaContextCb.push(() => {
+                            Ya.adfoxCode.createAdaptive(_adv.place['leaderboard'],
+                            ['desktop', 'phone'],
+                            {
+                                phoneWidth: 846,
+                                isAutoReloads: false
+                            });
+                        });
+                    </script></div></div><div class="rows_wide"><div class="rows__flex"><div class="rows__column rows__column_three-three-three-one rows__column_main-promo"><div class="listing
+        listing_main-promo
+        "  ><div class="listing__content listing__content_main-promo  "><ul class="listing__rows listing__rows_main-promo "><li class="listing__column  listing__column_main-promo  listing__column_main-promo_count listing__column_main-promo_1"><div class="listing__card  listing__card_main-promo listing__card_main-promo_1"><div
+      class="card
+        
+        card_main-promo
+        
+        card_main-promo_1"><div
+          class="card__cover card__cover_main-promo                  card__cover_main-promo_1"><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/thumbnail/6996ccb502e8bd298638f1f7.png)"><a href="/ussr/article/1597641-voennosluzhaschii-medik-svo" class="cover__link link cover__link_media"></a></div></div></div><div
+        class="card__category card__category_main-promo  card__category_main-promo_1 card__trend_with-label"><a href="/ussr" class="link link_color">Бывший СССР</a></div><div class="card__heading
+            card__heading_main-promo 
+            
+            card__heading_main-promo_1
+            "><span class="card__informal card__informal_exclusive card__informal_main-promo">Эксклюзив RT</span><a class="link link_color " href="/ussr/article/1597641-voennosluzhaschii-medik-svo">
+        «Не вывозят вэсэушники стрелковый бой»: с чем сталкиваются военные медики на СВО
+      </a></div><div
+        class="card__date-author   card__date-author_main-promo_1"><div
+        class="card__date card__date_main-promo  card__date_main-promo_1">
+
+      
+              15:01
+      
+    </div><div
+          class="card__author card__author_main-promo card__author_main-promo_1">
+                          Анна Долгарева
+              </div></div><div
+          class="card__summary card__summary_main-promo  card__summary_main-promo_1                 ">
+        
+        Фельдшер скорой помощи из Белгородской области с позывным Флинт воюет с 2022 года. На фронт он пошёл добровольцем. Начинал службу в эвакуационной группе, а сейчас работает в медроте бригады. Как шутит Флинт, военную медицину ощутил на себе со всех...
+        
+      </div><div class="card__spot-im-count card__spot-im-count_main-promo card__spot-im-count_main-promo"><a class="spot-im-replies-href" href="/ussr/article/1597641-voennosluzhaschii-medik-svo#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count"
+                data-post-id="article___1597641"></span></a></div></div></div></li><li class="listing__column  listing__column_main-promo  listing__column_main-promo_count listing__column_main-promo_2"><div class="listing__card  listing__card_main-promo listing__card_main-promo_2"><div
+      class="card
+        
+        card_main-promo
+        
+        card_main-promo_2"><div class="card__heading
+            card__heading_main-promo 
+            
+            card__heading_main-promo_2
+            "><a class="link link_color " href="/ussr/video/1597693-nastuplenie-na-dnepropetrovskom-napravlenii">
+        «Противник практически подавлен»: бойцы ВС РФ рассказали о наступлении под Днепропетровском
+      </a></div></div></div></li></ul></div></div></div><div class="rows__column rows__column_three-three-three-one rows__column_main-promo"><div class="listing
+        listing_main-promo
+        "  ><div class="listing__content listing__content_main-promo  "><ul class="listing__rows listing__rows_main-promo "><li class="listing__column  listing__column_main-promo  listing__column_main-promo_count listing__column_main-promo_1"><div class="listing__card  listing__card_main-promo listing__card_main-promo_1"><div
+      class="card
+        
+        card_main-promo
+        
+        card_main-promo_1"><div
+          class="card__cover card__cover_main-promo                  card__cover_main-promo_1"><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/thumbnail/69971e8d02e8bd61c3051507.jpeg)"><a href="/russia/article/1597808-tigran-hachatryan-skaut-epshtein-realiti-model" class="cover__link link cover__link_media"></a></div></div></div><div
+        class="card__category card__category_main-promo  card__category_main-promo_1 card__trend_with-label"><a href="/russia" class="link link_color">Россия</a></div><div class="card__heading
+            card__heading_main-promo 
+            
+            card__heading_main-promo_1
+            "><span class="card__informal card__informal_exclusive card__informal_main-promo">Эксклюзив RT</span><a class="link link_color " href="/russia/article/1597808-tigran-hachatryan-skaut-epshtein-realiti-model">
+        «Он это вуалировал»: как модельный скаут Хачатрян из файлов Эпштейна собирал базу девушек под предлогом реалити-шоу
+      </a></div><div
+        class="card__date-author   card__date-author_main-promo_1"><div
+        class="card__date card__date_main-promo  card__date_main-promo_1">
+
+      
+              19:20
+      
+    </div><div
+          class="card__author card__author_main-promo card__author_main-promo_1">
+                          Пётр Светов
+              </div></div><div
+          class="card__summary card__summary_main-promo  card__summary_main-promo_1                 ">
+        
+        Российский модельный скаут из файлов Эпштейна Тигран Хачатрян планировал сделать масштабное реалити-шоу с участием молодых российских моделей, актрис и балерин. По мнению его знакомых, истинной целью «проекта» могло быть создание огромной базы...
+        
+      </div><div class="card__spot-im-count card__spot-im-count_main-promo card__spot-im-count_main-promo"><a class="spot-im-replies-href" href="/russia/article/1597808-tigran-hachatryan-skaut-epshtein-realiti-model#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count"
+                data-post-id="article___1597808"></span></a></div></div></div></li><li class="listing__column  listing__column_main-promo  listing__column_main-promo_count listing__column_main-promo_2"><div class="listing__card  listing__card_main-promo listing__card_main-promo_2"><div
+      class="card
+        
+        card_main-promo
+        
+        card_main-promo_2"><div class="card__heading
+            card__heading_main-promo 
+            
+            card__heading_main-promo_2
+            "><a class="link link_color " href="/world/article/1597744-princ-endryu-zaderzhanie-epshtein">
+        «Ненадлежащее поведение на государственной службе»: брат короля Великобритании задержан по делу Эпштейна
+      </a></div></div></div></li></ul></div></div></div><div class="rows__column rows__column_three-three-three-one rows__column_main-promo"><div class="listing
+        listing_main-promo
+        "  ><div class="listing__content listing__content_main-promo  "><ul class="listing__rows listing__rows_main-promo "><li class="listing__column  listing__column_main-promo  listing__column_main-promo_count listing__column_main-promo_1"><div class="listing__card  listing__card_main-promo listing__card_main-promo_1"><div
+      class="card
+        
+        card_main-promo
+        
+        card_main-promo_1"><div
+          class="card__cover card__cover_main-promo                            card__cover_main-promo_1"><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/thumbnail/6996d6ef02e8bd69d21777d9.jpg)"><a href="/sport/article/1596924-sluckaya-intervyu-petrosyan-risk-malinin-proval" class="cover__link link cover__link_media"></a></div></div></div><div
+        class="card__category card__category_main-promo  card__category_main-promo_1 card__trend_with-label"><a href="/sport" class="link link_color">Спорт</a></div><div class="card__heading
+            card__heading_main-promo 
+            
+            card__heading_main-promo_1
+            "><span class="card__informal card__informal_exclusive card__informal_main-promo">Эксклюзив RT</span><a class="link link_color " href="/sport/article/1596924-sluckaya-intervyu-petrosyan-risk-malinin-proval">
+        «Я бы, наверное, рискнула»: Слуцкая — о дилемме Петросян с ультра-си, понятии «не могу» и шоу имени Малинина
+      </a></div><div
+        class="card__date-author   card__date-author_main-promo_1"><div
+        class="card__date card__date_main-promo  card__date_main-promo_1">
+
+      
+              11:33
+      
+    </div><div
+          class="card__author card__author_main-promo card__author_main-promo_1">
+                          Елена Вайцеховская
+              </div></div><div
+          class="card__summary card__summary_main-promo  card__summary_main-promo_1                           ">
+        
+        Если сложный прыжок на тренировках получается приземлить хотя бы в одном случае из двух-трёх, то стоит идти на риск и пытаться его исполнить. Об этом в интервью RT заявила Ирина Слуцкая, комментируя ситуацию, в которой оказалась Аделия Петросян...
+        
+      </div><div class="card__spot-im-count card__spot-im-count_main-promo card__spot-im-count_main-promo"><a class="spot-im-replies-href" href="/sport/article/1596924-sluckaya-intervyu-petrosyan-risk-malinin-proval#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count"
+                data-post-id="article___1596924"></span></a></div></div></div></li><li class="listing__column  listing__column_main-promo  listing__column_main-promo_count listing__column_main-promo_2"><div class="listing__card  listing__card_main-promo listing__card_main-promo_2"><div
+      class="card
+        
+        card_main-promo
+        
+        card_main-promo_2"><div class="card__heading
+            card__heading_main-promo 
+            
+            card__heading_main-promo_2
+            "><a class="link link_color " href="/sport/article/1597446-mahachev-belyi-dom-topuriya-usman-sambo">
+        «С Топурией не подерёмся»: Махачев — о бое в Белом доме, схватке с Усманом, признании послом самбо и дагестанцах в UFC
+      </a></div></div></div></li></ul></div></div></div></div></div><div class="rows_wide rows__bottom"><div class="rows__flex"><div class="rows__column rows__column_three-three-one rows__column_main rows_top-news"><div class="listing
+        listing_top-news
+        "  ><div class="listing__heading listing__heading_top-news" >
+                Самое читаемое
+            </div><div class="listing__content listing__content_top-news  "><ul class="listing__rows listing__rows_top-news "><li class="listing__column  listing__column_top-news "><div class="listing__card  listing__card_top-news "><div
+      class="card
+        
+        card_top-news
+        
+        "><div
+          class="card__cover card__cover_top-news                            "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/thumbnail/6996d6ef02e8bd69d21777d9.jpg)"><a href="/sport/article/1596924-sluckaya-intervyu-petrosyan-risk-malinin-proval" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_top-news 
+            
+            
+            "><span class="card__informal card__informal_exclusive card__informal_top-news">Эксклюзив RT</span><a class="link link_color " href="/sport/article/1596924-sluckaya-intervyu-petrosyan-risk-malinin-proval">
+        «Я бы, наверное, рискнула»: Слуцкая — о дилемме Петросян с ультра-си, понятии «не могу» и шоу имени Малинина
+      </a></div><div class="card__spot-im-count card__spot-im-count_top-news"><a class="spot-im-replies-href" href="/sport/article/1596924-sluckaya-intervyu-petrosyan-risk-malinin-proval#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count"
+                data-post-id="article___1596924"></span></a></div></div></div></li><li class="listing__column  listing__column_top-news "><div class="listing__card  listing__card_top-news "><div
+      class="card
+        
+        card_top-news
+        
+        "><div
+          class="card__cover card__cover_top-news                        "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/thumbnail/69959f9e02e8bd2da7102452.jpg)"><a href="/sport/article/1597122-reakcia-vistyplenie-petrosian-olimpiada" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_top-news 
+            
+            
+            "><a class="link link_color " href="/sport/article/1597122-reakcia-vistyplenie-petrosian-olimpiada">
+        «Резанули её»: от выступления Петросян в восторге весь мир, кроме американского и японского судей
+      </a></div><div class="card__spot-im-count card__spot-im-count_top-news"><a class="spot-im-replies-href" href="/sport/article/1597122-reakcia-vistyplenie-petrosian-olimpiada#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count"
+                data-post-id="article___1597122"></span></a></div></div></div></li><li class="listing__column  listing__column_top-news "><div class="listing__card  listing__card_top-news "><div
+      class="card
+        
+        card_top-news
+        
+        "><div
+          class="card__cover card__cover_top-news                  "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/thumbnail/6996ccb502e8bd298638f1f7.png)"><a href="/ussr/article/1597641-voennosluzhaschii-medik-svo" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_top-news 
+            
+            
+            "><span class="card__informal card__informal_exclusive card__informal_top-news">Эксклюзив RT</span><a class="link link_color " href="/ussr/article/1597641-voennosluzhaschii-medik-svo">
+        «Не вывозят вэсэушники стрелковый бой»: с чем сталкиваются военные медики на СВО
+      </a></div><div class="card__spot-im-count card__spot-im-count_top-news"><a class="spot-im-replies-href" href="/ussr/article/1597641-voennosluzhaschii-medik-svo#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count"
+                data-post-id="article___1597641"></span></a></div></div></div></li><li class="listing__column  listing__column_top-news "><div class="listing__card  listing__card_top-news "><div
+      class="card
+        
+        card_top-news
+        
+        "><div
+          class="card__cover card__cover_top-news                          "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/thumbnail/6995d20b02e8bd1f4e52241f.jpg)"><a href="/world/article/1597360-obzor-smi-rossiya-ukraina-peregovory" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_top-news 
+            
+            
+            "><a class="link link_color " href="/world/article/1597360-obzor-smi-rossiya-ukraina-peregovory">
+        «Основное внимание уделяется территориям»: западные СМИ — о переговорах в Женеве по урегулированию украинского конфликта
+      </a></div><div class="card__spot-im-count card__spot-im-count_top-news"><a class="spot-im-replies-href" href="/world/article/1597360-obzor-smi-rossiya-ukraina-peregovory#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count"
+                data-post-id="article___1597360"></span></a></div></div></div></li><li class="listing__column  listing__column_top-news "><div class="listing__card  listing__card_top-news "><div
+      class="card
+        
+        card_top-news
+        
+        "><div
+          class="card__cover card__cover_top-news                        "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/thumbnail/6996d38602e8bd3aa530141b.jpg)"><a href="/russia/article/1597655-shkola-napadenie-permskii-krai" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_top-news 
+            
+            
+            "><a class="link link_color " href="/russia/article/1597655-shkola-napadenie-permskii-krai">
+        Нанёс удары ножом на почве конфликта: что известно о нападении школьника на одноклассника в Пермском крае
+      </a></div><div class="card__spot-im-count card__spot-im-count_top-news"><a class="spot-im-replies-href" href="/russia/article/1597655-shkola-napadenie-permskii-krai#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count"
+                data-post-id="article___1597655"></span></a></div></div></div></li><li class="listing__column  listing__column_top-news "><div class="listing__card  listing__card_top-news "><div
+      class="card
+        
+        card_top-news
+        
+        "><div
+          class="card__cover card__cover_top-news              "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/thumbnail/6996d81002e8bd298638f20d.jpeg)"><a href="/russia/article/1597665-trassa-podmoskove-massovaya-avariya" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_top-news 
+            
+            
+            "><a class="link link_color " href="/russia/article/1597665-trassa-podmoskove-massovaya-avariya">
+        Утром на трассе М-4 в Подмосковье произошло пять ДТП с участием 12 автомобилей
+      </a></div><div class="card__spot-im-count card__spot-im-count_top-news"><a class="spot-im-replies-href" href="/russia/article/1597665-trassa-podmoskove-massovaya-avariya#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count"
+                data-post-id="article___1597665"></span></a></div></div></div></li></ul></div></div></div><div class="rows__column rows__column_three-three-two-one rows__column_main rows__column_world"><div class="listing
+        listing_main-section
+        "  ><div class="listing__heading listing__heading_main-section listing__heading_main-section_main-block-world" ><a class="link link_color_009933" href="/world">Мир</a></div><div class="listing__content   "><ul class="listing__rows listing__rows_main-section "><li class="listing__column  listing__column_main-section  listing__column_main-section_count listing__column_main-section_1"><div class="listing__card  listing__card_main-section listing__card_main-section_1"><div
+      class="card
+        
+        card_main-section
+        
+        card_main-section_1"><div
+          class="card__cover card__cover_main-section                          card__cover_main-section_1"><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/thumbnail/6995d20b02e8bd1f4e52241f.jpg)"><a href="/world/article/1597360-obzor-smi-rossiya-ukraina-peregovory" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_main-section 
+            
+            card__heading_main-section_1
+            "><a class="link link_color " href="/world/article/1597360-obzor-smi-rossiya-ukraina-peregovory">
+        «Основное внимание уделяется территориям»: западные СМИ — о переговорах в Женеве по урегулированию украинского конфликта
+      </a></div><div
+        class="card__date-author card__date-author_main-section  card__date-author_main-section_1"><div
+        class="card__date card__date_main-section  card__date_main-section_1">
+
+      
+              01:49
+      
+    </div><div
+          class="card__author card__author_main-section card__author_main-section_1">
+                          Ирина Таран
+              </div></div><div
+          class="card__summary card__summary_main-section  card__summary_main-section_1                         ">
+        
+        Западные СМИ отреагировали на мирные переговоры по Украине в Женеве между представителями Москвы, Вашингтона и Киева, которые прошли 17 и 18 февраля. Как констатирует The New York Times, вопрос территорий — одно из главных препятствий на пути к...
+        
+      </div><div class="card__spot-im-count card__spot-im-count_main-section card__spot-im-count_main-section"><a class="spot-im-replies-href" href="/world/article/1597360-obzor-smi-rossiya-ukraina-peregovory#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count"
+                data-post-id="article___1597360"></span></a></div></div></div></li><li class="listing__column  listing__column_main-section  listing__column_main-section_count listing__column_main-section_2"><div class="listing__card  listing__card_main-section listing__card_main-section_2"><div
+      class="card
+        
+        card_main-section
+        
+        card_main-section_2"><div class="card__heading
+            card__heading_main-section 
+            
+            card__heading_main-section_2
+            "><a class="link link_color " href="/world/article/1597323-evropa-yadernoe-oruzhie-estoniya">
+        Кризис доверия: чем может быть вызвано возвращение к дискуссии об укреплении ядерного потенциала Европы
+      </a></div></div></div></li><li class="listing__column  listing__column_main-section  listing__column_main-section_count listing__column_main-section_3"><div class="listing__card  listing__card_main-section listing__card_main-section_3"><div
+      class="card
+        
+        card_main-section
+        
+        card_main-section_3"><div class="card__heading
+            card__heading_main-section 
+            
+            card__heading_main-section_3
+            "><a class="link link_color " href="/world/article/1597281-medinskii-peregovory-rossiya-ukraina">
+        «Тяжёлые, но деловые»: в Женеве завершились двухдневные переговоры России, Украины и США
+      </a></div></div></div></li></ul></div></div></div><div class="rows__column rows__column_three-three-two-one rows__column_main"><div class="listing listing_main-section"><div class="listing__heading listing__heading_main-section listing__heading_main-section_main-block-exclusive"><a class="link link_color_009933" href="/tag/exclusive">Эксклюзив RT</a></div><div class="listing__content listing__content_main-section"><ul class="listing__rows listing__rows_main-section"><li class="listing__column listing__column_main-section listing__column_main-section_1 listing__column_main-section_count"><div class="listing__card listing__card_main-section listing__card_main-section_1"><div class="card__cover card__cover_main-section card__cover_main-section_1                      "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/thumbnail/69971c27ae5ac94e84346603.png)"><a href="/ussr/news/1597815-politolog-zelenskii-grubost" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading card__heading_main-section  card__heading_main-section_1 "><span class="card__informal card__informal_exclusive card__informal_main-section">Эксклюзив RT</span><a href="/ussr/news/1597815-politolog-zelenskii-grubost" class="link link_color"  >
+                                                                        Политолог: чем сильнее разочарование Зеленского, тем враждебнее его риторика
+                                                                    </a></div><div class="card__date-author card__date-author_main-section card__date-author_main-section_1"><div class="card__date card__date_main-section card__date_main-section_1"><time class="date" datetime="2026-02-19 17:18">
+		17:18
+	</time></div><div class="card__author  card__author_main-section  card__author_main-section_1">
+                                            Дмитрий Рункевич
+                                        </div></div><div class="card__summary card__summary_main-section card__summary_main-section_1">
+                                Градус риторики Владимира Зеленского начал повышаться с тех пор, как он почувствовал разочарование и перестал верить в успех, сказал в беседе с RT директор Института исследования проблем современной политики Антон Орлов.
+                            </div><div class="card__spot-im-count card__spot-im-count_main-section card__spot-im-count_main-section_1"><a class="spot-im-replies-href" href="/ussr/news/1597815-politolog-zelenskii-grubost#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count" data-post-id="article___1597815"></span></a></div></div></li><li class="listing__column listing__column_main-section listing__column_main-section_2 listing__column_main-section_count"><div class="listing__card listing__card_main-section listing__card_main-section_2"><div class="card__heading card__heading_main-section  card__heading_main-section_2 "><a href="/russia/news/1597198-senator-dolgozhiteli-vyplaty" class="link link_color"  >
+                                                                        В Совфеде раскрыли, какие выплаты положены долгожителям в России
+                                                                    </a></div></div></li><li class="listing__column listing__column_main-section listing__column_main-section_3 listing__column_main-section_count"><div class="listing__card listing__card_main-section listing__card_main-section_3"><div class="card__heading card__heading_main-section  card__heading_main-section_3 "><a href="/russia/news/1597188-dietolog-bliny-myaso-nagruzka" class="link link_color"  >
+                                                                        Диетолог объяснила, что блины с начинками могут негативно влиять на здоровье
+                                                                    </a></div></div></li><li class="listing__column listing__column_main-section listing__column_main-section_4 listing__column_main-section_count"><div class="listing__card listing__card_main-section listing__card_main-section_4"><div class="card__heading card__heading_main-section  card__heading_main-section_4 "><a href="/russia/news/1597163-ekspert-lift-upravlyayuschaya-kompaniya" class="link link_color"  >
+                                                                        Специалист по ЖКХ Бондарь объяснил, кто отвечает за сломанный лифт в доме
+                                                                    </a></div></div></li></ul></div></div></div></div></div><div class="rows__bottom">    <div class="listing listing_main-opinion"><div class="listing__heading listing__heading_main-opinion"><a class="link link_color_009933" href="/opinion">Мнения</a></div></div><div class="listing__content listing__content_main-opinion"><ul class="listing__rows listing__rows_main-opinion"><li class="listing__column  listing__column_main-opinion"><div class="listing__card  listing__card_main-opinion"><div class="card card_main-opinion"><div class="card__cover card__cover_main-opinion"><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2018.04/thumbnail/5ad9b9cf18356162268b45ad.jpg)"><a href="/opinion/blog/andrei-rudalev" class="cover__link link cover__link_media"></a></div></div></div><div class="card__author card__author_main-opinion"><a class="link link_color" href="/opinion/blog/andrei-rudalev">Андрей Рудалёв</a></div><div class="card__date card__date_main-opinion "><time class="date" datetime="2026-02-19 18:28">
+		18:28
+	</time></div><div class="card__heading card__heading_main-opinion"><a class="link link_color" href="/opinion/1597668-rudalev-vengriya-slovakiya-ukraina-shantazh">
+                                Венгрия ответила шантажистам: <span class="card__short-heading card__short-heading_main-opinion">о конфронтации между Киевом и Будапештом</span></a></div><div class="card__spot-im-count card__spot-im-count_main-opinion"><a class="spot-im-replies-href" href="/opinion/1597668-rudalev-vengriya-slovakiya-ukraina-shantazh#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count" data-post-id="article___1597668"></span></a></div></div></div></li><li class="listing__column  listing__column_main-opinion"><div class="listing__card  listing__card_main-opinion"><div class="card card_main-opinion"><div class="card__cover card__cover_main-opinion"><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2017.03/thumbnail/58d158ddc461884b2e8b4795.jpg)"><a href="/opinion/blog/dmitriilekuh" class="cover__link link cover__link_media"></a></div></div></div><div class="card__author card__author_main-opinion"><a class="link link_color" href="/opinion/blog/dmitriilekuh">Дмитрий Лекух</a></div><div class="card__date card__date_main-opinion "><time class="date" datetime="2026-02-18 20:05">
+		18 февраля, 20:05
+	</time></div><div class="card__heading card__heading_main-opinion"><a class="link link_color" href="/opinion/1597247-lekuh-gaz-evropa-zima-krizis">
+                                Это всего лишь зима: <span class="card__short-heading card__short-heading_main-opinion">об израсходованных ЕС объёмах газа из хранилищ</span></a></div><div class="card__spot-im-count card__spot-im-count_main-opinion"><a class="spot-im-replies-href" href="/opinion/1597247-lekuh-gaz-evropa-zima-krizis#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count" data-post-id="article___1597247"></span></a></div></div></div></li><li class="listing__column  listing__column_main-opinion"><div class="listing__card  listing__card_main-opinion"><div class="card card_main-opinion"><div class="card__cover card__cover_main-opinion"><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2020.02/thumbnail/5e4aa640ae5ac923e272535d.jpg)"><a href="/opinion/blog/anna-shafran" class="cover__link link cover__link_media"></a></div></div></div><div class="card__author card__author_main-opinion"><a class="link link_color" href="/opinion/blog/anna-shafran">Анна Шафран</a></div><div class="card__date card__date_main-opinion "><time class="date" datetime="2026-02-18 18:23">
+		18 февраля, 18:23
+	</time></div><div class="card__heading card__heading_main-opinion"><a class="link link_color" href="/opinion/1597238-shafran-polsha-rossiya-reparacii">
+                                Может, хватит уже играть в гиену?: <span class="card__short-heading card__short-heading_main-opinion">о намерении Польши подать иск о репарациях против РФ</span></a></div><div class="card__spot-im-count card__spot-im-count_main-opinion"><a class="spot-im-replies-href" href="/opinion/1597238-shafran-polsha-rossiya-reparacii#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count" data-post-id="article___1597238"></span></a></div></div></div></li><li class="listing__column  listing__column_main-opinion"><div class="listing__card  listing__card_main-opinion"><div class="card card_main-opinion"><div class="card__cover card__cover_main-opinion"><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2021.06/thumbnail/60d5a390ae5ac90570428981.jpg)"><a href="/opinion/blog/dmitrii-evstafev" class="cover__link link cover__link_media"></a></div></div></div><div class="card__author card__author_main-opinion"><a class="link link_color" href="/opinion/blog/dmitrii-evstafev">Дмитрий Евстафьев</a></div><div class="card__date card__date_main-opinion "><time class="date" datetime="2026-02-18 12:31">
+		18 февраля, 12:31
+	</time></div><div class="card__heading card__heading_main-opinion"><a class="link link_color" href="/opinion/1597181-evstafev-ssha-gosdep-yadernye-ispytaniya">
+                                Возобновление ядерных испытаний США: <span class="card__short-heading card__short-heading_main-opinion">что это будет</span></a></div><div class="card__spot-im-count card__spot-im-count_main-opinion"><a class="spot-im-replies-href" href="/opinion/1597181-evstafev-ssha-gosdep-yadernye-ispytaniya#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count" data-post-id="article___1597181"></span></a></div></div></div></li></ul></div></div><div class="rows_wide rows__bottom"><div class="rows__flex"><div class="rows__column rows__column_two-two-one rows__column_main-gallery"><div class="listing
+        listing_main-video
+        "  ><div class="listing__heading listing__heading_main-video" ><a class="link link_color_009933" href="/videoclub">Видео</a></div><div class="listing__content listing__content_main-video  "><ul class="listing__rows listing__rows_main-video "><li class="listing__column  listing__column_main-video "><div class="listing__card  listing__card_main-video "><div
+      class="card
+        
+        card_main-video
+        
+        "><div
+          class="card__cover card__cover_main-video          "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi  cover__media_main-video_type-video " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/thumbnail/69973caaae5ac96a5d5f2d0f.jpg)"><a href="/nopolitics/video/1597851-pochemu-zapadnye-smi-nachali-mochit-zelenskogo" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_main-video 
+            
+            
+            "><a class="link link_color modifiters-Link-Green" href="/nopolitics/video/1597851-pochemu-zapadnye-smi-nachali-mochit-zelenskogo">
+        Ставят на Залужного? Почему западные СМИ начали «мочить» Зеленского
+      </a></div></div></div></li><li class="listing__column  listing__column_main-video "><div class="listing__card  listing__card_main-video "><div
+      class="card
+        
+        card_main-video
+        
+        "><div
+          class="card__cover card__cover_main-video          "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi  cover__media_main-video_type-video " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/thumbnail/6996f49202e8bd3aa5301476.jpg)"><a href="/ussr/video/1597705-trenirovka-dobrovolcev-specnaz-ahmat" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_main-video 
+            
+            
+            "><a class="link link_color modifiters-Link-Green" href="/ussr/video/1597705-trenirovka-dobrovolcev-specnaz-ahmat">
+        «Обучаем огневой и тактической подготовке»: как тренируются добровольцы спецназа «Ахмат»
+      </a></div></div></div></li><li class="listing__column  listing__column_main-video "><div class="listing__card  listing__card_main-video "><div
+      class="card
+        
+        card_main-video
+        
+        "><div
+          class="card__cover card__cover_main-video            "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi  cover__media_main-video_type-video " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/thumbnail/6996c93b02e8bd26473e7100.jpg)"><a href="/ussr/video/1597646-geroi-svo-pozyvnoi-kap" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_main-video 
+            
+            
+            "><a class="link link_color modifiters-Link-Green" href="/ussr/video/1597646-geroi-svo-pozyvnoi-kap">
+        Герои СВО: позывной Кап
+      </a></div></div></div></li><li class="listing__column  listing__column_main-video "><div class="listing__card  listing__card_main-video "><div
+      class="card
+        
+        card_main-video
+        
+        "><div
+          class="card__cover card__cover_main-video                "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi  cover__media_main-video_type-video " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/thumbnail/6996d915ae5ac952da24e826.jpg)"><a href="/russia/video/1597638-silneishii-snegopad-snova-nakryl-moskvu" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_main-video 
+            
+            
+            "><a class="link link_color modifiters-Link-Green" href="/russia/video/1597638-silneishii-snegopad-snova-nakryl-moskvu">
+        Заносы на дорогах и почти нулевая видимость: сильнейший снегопад снова накрыл Москву
+      </a></div></div></div></li></ul></div></div></div><div class="rows__column rows__column_four-four-two-one rows__column_main_business"><div class="listing
+        listing_main-section
+        "  ><div class="listing__heading listing__heading_main-section listing__heading_main-section_main-block-business" ><a class="link link_color_009933" href="/business">Экономика</a></div><div class="listing__content   "><ul class="listing__rows listing__rows_main-section "><li class="listing__column  listing__column_main-section listing__column_main-section_1"><div class="listing__card  listing__card_main-section listing__card_main-section_1"><div
+      class="card
+        
+        card_main-section
+        
+        card_main-section_1"><div
+          class="card__cover card__cover_main-section                                    card__cover_main-section_1"><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/thumbnail/6993504bae5ac979430b1070.jpg)"><a href="/business/article/1596463-rubl-kurs-zima-vesna" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_main-section 
+            
+            card__heading_main-section_1
+            "><a class="link link_color " href="/business/article/1596463-rubl-kurs-zima-vesna">
+        «Спрос на валюту остаётся подавленным»: как могут измениться курсы юаня, доллара и евро до конца зимы
+      </a></div><div
+        class="card__date-author card__date-author_main-section  card__date-author_main-section_1"><div
+        class="card__date card__date_main-section  card__date_main-section_1"><time class="date" datetime="2026-02-17 11:49">
+		17 февраля, 11:49
+	</time></div><div
+          class="card__author card__author_main-section card__author_main-section_1">
+                          Владимир Цегоев
+              </div></div><div
+          class="card__summary card__summary_main-section  card__summary_main-section_1                                   ">
+        
+        С начала 2026 года рубль незначительно укрепился по отношению к юаню, доллару и евро. Наблюдаемую динамику эксперты во многом объясняют текущей ситуацией во внешней торговле РФ и по-прежнему высокой ставкой Центробанка. При этом аналитики не...
+        
+      </div><div class="card__spot-im-count card__spot-im-count_main-section card__spot-im-count_main-section"><a class="spot-im-replies-href" href="/business/article/1596463-rubl-kurs-zima-vesna#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count"
+                data-post-id="article___1596463"></span></a></div></div></div></li></ul></div></div></div><div class="rows__column rows__column_four-four-two-one rows__column_main_listing-uwc"><div class="listing-uwc"><div class="listing-uwc__container"><a class="listing-uwc__logo" href="https://russian.rt.com/trend/672997-voennye-prestupleniya-ukraina"><div class="listing-uwc__logo_image" style="background-image: url('/static/img/listing-uwc-logo.png')"></div><div class="listing-uwc__logo_text"><span>Расследование военных преступлений украинского режима</span></div></a><a class="listing-uwc-card listing-uwc-card_bold" href="/ussr/article/1593965-vsu-plen-soldat-ukraina"><div class="listing-uwc-card__image" style="background-image: url('https://mf.b37mrtl.ru/russian/images/2026.02/article/698c3b9702e8bd3045619179.png')"></div></a><div class="listing-uwc__content"><div class="listing-uwc__item"><a class="listing-uwc-card listing-uwc-card_bold" href="/ussr/article/1593965-vsu-plen-soldat-ukraina"><div class="listing-uwc-card__title">
+                                    «Был ранен своими же бойцами»: попавшего под дружественный огонь солдата ВСУ спасли российские военные
+                                </div></a></div><div class="listing-uwc__item"><a class="listing-uwc-card" href="/ussr/article/1592276-voennosluzhaschii-dnr-operaciya-kvartira"><div class="listing-uwc-card__title">
+                                    «Славянск, Мариуполь, 35 операций»: ветеран СВО из ДНР Тайфун — о боевом пути, ранении и борьбе за жильё
+                                </div></a></div><div class="listing-uwc__item"><a class="listing-uwc-card" href="/ussr/article/1577278-vsu-plen-soderzhanie"><div class="listing-uwc-card__title">
+                                    «Кормят, одевают, есть библиотека»: солдат ВСУ — о жизни в российском плену
+                                </div></a></div></div></div></div></div></div></div><div class="rows__bottom"><div class="listing listing_partners-news" style="border: none; padding: 5px 0 10px"><div id="wd"></div><script type="text/javascript">
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.createAdaptive(_adv.place['wd'],
+            ['desktop', 'phone'],
+            {
+                phoneWidth: 846,
+                isAutoReloads: false
+            });
+        });
+    </script></div></div><div class="rows__bottom"><div class="layout__banners layout__banners_top-main rows__bottom"></div></div><div class="rows_wide rows__bottom"><div class="rows__flex"><div class="rows__column rows__column_two-two-one rows_main-sport"><div class="rows__heading rows__heading_main-sport"><a class="link link_color_009933" href="/sport">Спорт</a></div><div class="rows__flex rows__flex_main-sport"><div class="rows__column rows__column_main-sport_left"><div
+      class="card
+        
+        card_main-sport_singly
+        
+        "><div
+          class="card__cover card__cover_main-sport_singly                                      "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/thumbnail/69964b2502e8bd695066b944.jpg)"><a href="/sport/article/1597494-liga-chempionov-budyo-glimt-inter-pobeda-karabah" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_main-sport_singly 
+            
+            
+            "><a class="link link_color " href="/sport/article/1597494-liga-chempionov-budyo-glimt-inter-pobeda-karabah">
+        Сказки с разным концом: «Будё-Глимт» сенсационно одолел «Интер», «Карабах» потерпел унизительное поражение от «Ньюкасла»
+      </a></div><div
+        class="card__date-author card__date-author_main-sport_singly  "><div
+        class="card__date card__date_main-sport_singly  ">
+
+      
+              08:15
+      
+    </div><div
+          class="card__author card__author_main-sport_singly ">
+                          Борислав Головин
+              </div></div><div
+          class="card__summary card__summary_main-sport_singly                                       ">
+        
+        «Будё-Глимт» одержал победу над «Интером» в первом стыковом матче Лиги чемпионов. Главным героем встречи стал нападающий хозяев Каспер Хёг, отдавший две голевые передачи и один раз...
+        
+      </div><div class="card__spot-im-count card__spot-im-count_main-sport"><a class="spot-im-replies-href" href="/sport/article/1597494-liga-chempionov-budyo-glimt-inter-pobeda-karabah#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count"
+                data-post-id="article___1597494"></span></a></div></div></div><div class="rows__column rows__column_main-sport_right"><div class="listing
+        listing_main-sport
+        "  ><div class="listing__content   "><ul class="listing__rows listing__rows_main-sport "><li class="listing__column  listing__column_main-sport "><div class="listing__card  listing__card_main-sport "><div
+      class="card
+        
+        card_main-sport
+        
+        "><div class="card__heading
+            card__heading_main-sport 
+            
+            
+            "><a class="link link_color " href="/sport/article/1597435-hokkei-overtaimy-klebo-petrosyan-olimpiada">
+        Три триллера, два брата и одно жлобство: что осталось в тени пятого триумфа Клебо и попыток Петросян отточить квад-тулуп
+      </a></div></div></div></li><li class="listing__column  listing__column_main-sport "><div class="listing__card  listing__card_main-sport "><div
+      class="card
+        
+        card_main-sport
+        
+        "><div class="card__heading
+            card__heading_main-sport 
+            
+            
+            "><a class="link link_color " href="/sport/article/1596704-krasnaya-mashina-2030-kaprizov-kucherov-demidov">
+        «Старикам» здесь не место: кто может ворваться в сборную России на Олимпиаде-2030 после заката эпохи Овечкина и Малкина
+      </a></div></div></div></li><li class="listing__column  listing__column_main-sport "><div class="listing__card  listing__card_main-sport "><div
+      class="card
+        
+        card_main-sport
+        
+        "><div class="card__heading
+            card__heading_main-sport 
+            
+            
+            "><a class="link link_color " href="/sport/article/1597122-reakcia-vistyplenie-petrosian-olimpiada">
+        «Резанули её»: от выступления Петросян в восторге весь мир, кроме американского и японского судей
+      </a></div></div></div></li><li class="listing__column  listing__column_main-sport "><div class="listing__card  listing__card_main-sport "><div
+      class="card
+        
+        card_main-sport
+        
+        "><div class="card__heading
+            card__heading_main-sport 
+            
+            
+            "><a class="link link_color " href="/sport/article/1596872-pszh-monako-golovin-safonov-liga-chempionov">
+        Головин устроил шоу в Монако, а Винисиус — в Лиссабоне: ПСЖ вытащил матч с монегасками, а «Реал» отомстил «Бенфике»
+      </a></div></div></div></li><li class="listing__column  listing__column_main-sport "><div class="listing__card  listing__card_main-sport "><div
+      class="card
+        
+        card_main-sport
+        
+        "><div class="card__heading
+            card__heading_main-sport 
+            
+            
+            "><a class="link link_color " href="/sport/article/1597041-petrosyan-gleihengauz-tutberidze-olimpiada-reakciya">
+        «Вообще не нервничала»: Петросян удивила Глейхенгауза, растрогала Тутберидзе и пообещала посоветоваться с Гуменником
+      </a></div></div></div></li></ul></div></div></div></div></div><div class="rows__column rows__column_main-gallery"><div class="listing
+        listing_main-gallery
+        "  ><div class="listing__heading listing__heading_main-gallery" ><a class="link link_color_009933" href="/foto">Фото</a></div><div class="listing__content listing__content_main-gallery  "><ul class="listing__rows listing__rows_main-gallery "><li class="listing__column  listing__column_main-gallery "><div class="listing__card  listing__card_main-gallery "><div
+      class="card
+        
+        card_main-gallery
+        
+        "><div
+          class="card__cover card__cover_main-gallery                      "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/thumbnail/69942bcbae5ac95dfe579ed2.jpg)"><a href="/nopolitics/foto/1596686-kompozitor-oskar-felcman-yubilei" class="cover__link link cover__link_media"><span class="cover__count-images ">
+                12
+            </span></a></div></div></div><div class="card__heading
+            card__heading_main-gallery 
+            
+            
+            "><a class="link link_color modifiters-Link-Green" href="/nopolitics/foto/1596686-kompozitor-oskar-felcman-yubilei">
+        «Не печалься, друг мой милый, всё пройдёт…»: 105 лет со дня рождения Оскара Фельцмана
+      </a></div></div></div></li><li class="listing__column  listing__column_main-gallery "><div class="listing__card  listing__card_main-gallery "><div
+      class="card
+        
+        card_main-gallery
+        
+        "><div
+          class="card__cover card__cover_main-gallery                          "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2021.02/thumbnail/601e5a69ae5ac97d2e7c5a2d.jpg)"><a href="/science/foto/829532-gruzovik-kamaz" class="cover__link link cover__link_media"><span class="cover__count-images ">
+                17
+            </span></a></div></div></div><div class="card__heading
+            card__heading_main-gallery 
+            
+            
+            "><a class="link link_color modifiters-Link-Green" href="/science/foto/829532-gruzovik-kamaz">
+        «Действительно мировое качество»: 50 лет со дня выпуска первого серийного автомобиля КАМАЗ
+      </a></div></div></div></li><li class="listing__column  listing__column_main-gallery "><div class="listing__card  listing__card_main-gallery "><div
+      class="card
+        
+        card_main-gallery
+        
+        "><div
+          class="card__cover card__cover_main-gallery                  "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/thumbnail/698f26feae5ac963f4744df9.jpg)"><a href="/nopolitics/foto/1595296-pisatel-nikolai-leskov-yubilei" class="cover__link link cover__link_media"><span class="cover__count-images ">
+                10
+            </span></a></div></div></div><div class="card__heading
+            card__heading_main-gallery 
+            
+            
+            "><a class="link link_color modifiters-Link-Green" href="/nopolitics/foto/1595296-pisatel-nikolai-leskov-yubilei">
+        «Писатель будущего»: 195 лет со дня рождения Николая Лескова
+      </a></div></div></div></li><li class="listing__column  listing__column_main-gallery "><div class="listing__card  listing__card_main-gallery "><div
+      class="card
+        
+        card_main-gallery
+        
+        "><div
+          class="card__cover card__cover_main-gallery                  "><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/thumbnail/698ee22302e8bd56db5d9cd2.jpeg)"><a href="/nopolitics/foto/1595127-poet-musa-dzhalil-yubilei" class="cover__link link cover__link_media"><span class="cover__count-images ">
+                10
+            </span></a></div></div></div><div class="card__heading
+            card__heading_main-gallery 
+            
+            
+            "><a class="link link_color modifiters-Link-Green" href="/nopolitics/foto/1595127-poet-musa-dzhalil-yubilei">
+        «Коль сам умру, так песня не умрёт»: 120 лет со дня рождения Мусы Джалиля
+      </a></div></div></div></li></ul></div></div></div></div></div><div class="rows_wide rows__bottom"><div class="rows__flex"><div class="rows__column rows__column_three-three-three-one rows__column_main rows__column_nopolitics"><div class="listing
+        listing_main-section
+        "  ><div class="listing__heading listing__heading_main-section listing__heading_main-section_main-block-nopolitics" ><a class="link link_color_009933" href="/nopolitics">Без политики</a></div><div class="listing__content   "><ul class="listing__rows listing__rows_main-section "><li class="listing__column  listing__column_main-section  listing__column_main-section_count listing__column_main-section_1"><div class="listing__card  listing__card_main-section listing__card_main-section_1"><div
+      class="card
+        
+        card_main-section
+        
+        card_main-section_1"><div
+          class="card__cover card__cover_main-section                    card__cover_main-section_1"><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/thumbnail/6994571aae5ac96330730d73.jpg)"><a href="/nopolitics/article/1596682-robert-dyuval-aktyor" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_main-section 
+            
+            card__heading_main-section_1
+            "><a class="link link_color " href="/nopolitics/article/1596682-robert-dyuval-aktyor">
+        От советника бандитов до советского лидера: каким был актёр Роберт Дюваль
+      </a></div><div
+        class="card__date-author card__date-author_main-section  card__date-author_main-section_1"><div
+        class="card__date card__date_main-section  card__date_main-section_1"><time class="date" datetime="2026-02-17 23:57">
+		17 февраля, 23:57
+	</time></div><div
+          class="card__author card__author_main-section card__author_main-section_1">
+                          Яна Ларина,
+                  Евгения Сушкова
+              </div></div><div
+          class="card__summary card__summary_main-section  card__summary_main-section_1                   ">
+        
+        В США на 96-м году жизни скончался актёр, режиссёр, обладатель премии «Оскар» Роберт Дюваль. Он прославился благодаря ролям в фильмах Фрэнсиса Форда Копполы «Крёстный отец» и «Апокалипсис сегодня», а его работа в ленте «Нежное милосердие» была...
+        
+      </div><div class="card__spot-im-count card__spot-im-count_main-section card__spot-im-count_main-section"><a class="spot-im-replies-href" href="/nopolitics/article/1596682-robert-dyuval-aktyor#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count"
+                data-post-id="article___1596682"></span></a></div></div></div></li><li class="listing__column  listing__column_main-section  listing__column_main-section_count listing__column_main-section_2"><div class="listing__card  listing__card_main-section listing__card_main-section_2"><div
+      class="card
+        
+        card_main-section
+        
+        card_main-section_2"><div class="card__heading
+            card__heading_main-section 
+            
+            card__heading_main-section_2
+            "><span class="card__informal card__informal_exclusive card__informal_main-section">Эксклюзив RT</span><a class="link link_color " href="/nopolitics/article/1595151-koshki-porody-populyarnost-top">
+        «Рыжие всегда пристраиваются»: фелинолог и ветеринар — о самых популярных породах кошек в России
+      </a></div></div></div></li><li class="listing__column  listing__column_main-section  listing__column_main-section_count listing__column_main-section_3"><div class="listing__card  listing__card_main-section listing__card_main-section_3"><div
+      class="card
+        
+        card_main-section
+        
+        card_main-section_3"><div class="card__heading
+            card__heading_main-section 
+            
+            card__heading_main-section_3
+            "><a class="link link_color " href="/nopolitics/article/1596343-snegopad-moskva-pogoda-prognoz">
+        «Хорошая снежная атака»: синоптики предупредили об аномальных холодах и осадках
+      </a></div></div></div></li><li class="listing__column  listing__column_main-section  listing__column_main-section_count listing__column_main-section_4"><div class="listing__card  listing__card_main-section listing__card_main-section_4"><div
+      class="card
+        
+        card_main-section
+        
+        card_main-section_4"><div class="card__heading
+            card__heading_main-section 
+            
+            card__heading_main-section_4
+            "><a class="link link_color " href="/nopolitics/article/1595215-ubiistva-muzykantov-teorii">
+        Убитый Кобейн, сбежавший Элвис, неудобный Леннон: пять теорий о причинах смертей музыкантов
+      </a></div></div></div></li><li class="listing__column  listing__column_main-section  listing__column_main-section_count listing__column_main-section_5"><div class="listing__card  listing__card_main-section listing__card_main-section_5"><div
+      class="card
+        
+        card_main-section
+        
+        card_main-section_5"><div class="card__heading
+            card__heading_main-section 
+            
+            card__heading_main-section_5
+            "><a class="link link_color " href="/nopolitics/article/1594826-serial-miliciya-kameskaya-ulici-razbitih-fonarei">
+        «Андрюха, у нас труп. Возможно, криминал»: пять российских сериалов про милиционеров и оперативников
+      </a></div></div></div></li></ul></div></div></div><div class="rows__column rows__column_three-three-three-one rows__column_main_science"><div class="listing
+        listing_main-section
+        "  ><div class="listing__heading listing__heading_main-section listing__heading_main-section_main-block-science" ><a class="link link_color_009933" href="/science">Наука</a></div><div class="listing__content   "><ul class="listing__rows listing__rows_main-section "><li class="listing__column  listing__column_main-section  listing__column_main-section_count listing__column_main-section_1"><div class="listing__card  listing__card_main-section listing__card_main-section_1"><div
+      class="card
+        
+        card_main-section
+        
+        card_main-section_1"><div
+          class="card__cover card__cover_main-section                      card__cover_main-section_1"><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/thumbnail/69958b6102e8bd2afc099f28.png)"><a href="/science/article/1597194-pogoda-katastrofa-istoriya" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_main-section 
+            
+            card__heading_main-section_1
+            "><a class="link link_color " href="/science/article/1597194-pogoda-katastrofa-istoriya">
+        «Наступило время рассвета, но день не пришёл»: пять природных катастроф, изменивших историю
+      </a></div><div
+        class="card__date-author card__date-author_main-section  card__date-author_main-section_1"><div
+        class="card__date card__date_main-section  card__date_main-section_1">
+
+      
+              16:29
+      
+    </div><div
+          class="card__author card__author_main-section card__author_main-section_1">
+                          Яна Ларина,
+                  Евгения Сушкова
+              </div></div><div
+          class="card__summary card__summary_main-section  card__summary_main-section_1                     ">
+        
+        19 февраля 1855 года директор Парижской обсерватории Урбен Леверье представил первую в мире синоптическую карту. Это событие считается началом современной метеорологии. Погодные катаклизмы не раз приводили к тяжёлым последствиям для человечества:...
+        
+      </div><div class="card__spot-im-count card__spot-im-count_main-section card__spot-im-count_main-section"><a class="spot-im-replies-href" href="/science/article/1597194-pogoda-katastrofa-istoriya#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count"
+                data-post-id="article___1597194"></span></a></div></div></div></li><li class="listing__column  listing__column_main-section  listing__column_main-section_count listing__column_main-section_2"><div class="listing__card  listing__card_main-section listing__card_main-section_2"><div
+      class="card
+        
+        card_main-section
+        
+        card_main-section_2"><div class="card__heading
+            card__heading_main-section 
+            
+            card__heading_main-section_2
+            "><span class="card__informal card__informal_exclusive card__informal_main-section">Эксклюзив RT</span><a class="link link_color " href="/science/article/1596787-kakie-byvayut-batareiki-obyasnili-uchyonye">
+        «Постепенно разрушается изнутри»: эксперты — о типах батареек, правилах использования и утилизации
+      </a></div></div></div></li><li class="listing__column  listing__column_main-section  listing__column_main-section_count listing__column_main-section_3"><div class="listing__card  listing__card_main-section listing__card_main-section_3"><div
+      class="card
+        
+        card_main-section
+        
+        card_main-section_3"><div class="card__heading
+            card__heading_main-section 
+            
+            card__heading_main-section_3
+            "><a class="link link_color " href="/science/article/1594880-mariya-krovavaya-koroleva-angliya">
+        «Противоречивая фигура»: за что королева Англии Мария I получила прозвище Кровавая Мэри
+      </a></div></div></div></li><li class="listing__column  listing__column_main-section  listing__column_main-section_count listing__column_main-section_4"><div class="listing__card  listing__card_main-section listing__card_main-section_4"><div
+      class="card
+        
+        card_main-section
+        
+        card_main-section_4"><div class="card__heading
+            card__heading_main-section 
+            
+            card__heading_main-section_4
+            "><span class="card__informal card__informal_exclusive card__informal_main-section">Эксклюзив RT</span><a class="link link_color " href="/science/article/1596351-ospa-obezyan-2-turista-iz-rossii-ekspert">
+        «Точно не повод для волнения»: вирусолог — о распространении оспы обезьян в России и мире
+      </a></div></div></div></li></ul></div></div></div><div class="rows__column rows__column_three-three-three-one rows__column_main"><div class="listing
+        listing_main-section
+        "  ><div class="listing__heading listing__heading_main-section listing__heading_main-section_main-block-ussr" ><a class="link link_color_009933" href="/ussr">Бывший СССР</a></div><div class="listing__content   "><ul class="listing__rows listing__rows_main-section "><li class="listing__column  listing__column_main-section  listing__column_main-section_count listing__column_main-section_1"><div class="listing__card  listing__card_main-section listing__card_main-section_1"><div
+      class="card
+        
+        card_main-section
+        
+        card_main-section_1"><div
+          class="card__cover card__cover_main-section                            card__cover_main-section_1"><div class="cover   "><div class="cover__media cover__media_ratio cover__media_bgi   " style="background-image: url(https://mf.b37mrtl.ru/russian/images/2026.02/thumbnail/6995851fae5ac90f7c07ddc2.jpg)"><a href="/ussr/article/1597199-harkovka-krinichnoe-osvobozhdenie-svo" class="cover__link link cover__link_media"></a></div></div></div><div class="card__heading
+            card__heading_main-section 
+            
+            card__heading_main-section_1
+            "><a class="link link_color " href="/ussr/article/1597199-harkovka-krinichnoe-osvobozhdenie-svo">
+        Прорыв в Сумской и Запорожской областях: ВС РФ установили контроль над Харьковкой и Криничным
+      </a></div><div
+        class="card__date-author card__date-author_main-section  card__date-author_main-section_1"><div
+        class="card__date card__date_main-section  card__date_main-section_1"><time class="date" datetime="2026-02-18 14:01">
+		18 февраля, 14:01
+	</time></div><div
+          class="card__author card__author_main-section card__author_main-section_1">
+                          Анастасия Степанова
+              </div></div><div
+          class="card__summary card__summary_main-section  card__summary_main-section_1                           ">
+        
+        Подразделения группировки войск «Север» освободили Харьковку в Сумской области, а бойцы «Востока» — Криничное в Запорожской, сообщает Минобороны. Помимо этого, ВС РФ поразили склад горючего, объекты энергетики ВСУ, а также места предполётной...
+        
+      </div><div class="card__spot-im-count card__spot-im-count_main-section card__spot-im-count_main-section"><a class="spot-im-replies-href" href="/ussr/article/1597199-harkovka-krinichnoe-osvobozhdenie-svo#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count"
+                data-post-id="article___1597199"></span></a></div></div></div></li><li class="listing__column  listing__column_main-section  listing__column_main-section_count listing__column_main-section_2"><div class="listing__card  listing__card_main-section listing__card_main-section_2"><div
+      class="card
+        
+        card_main-section
+        
+        card_main-section_2"><div class="card__heading
+            card__heading_main-section 
+            
+            card__heading_main-section_2
+            "><a class="link link_color " href="/ussr/article/1595937-osvobozhdenie-svo-brifing">
+        Силами «Днепра» и «Востока»: ВС РФ освободили четыре населённых пункта в Запорожской области
+      </a></div></div></div></li><li class="listing__column  listing__column_main-section  listing__column_main-section_count listing__column_main-section_3"><div class="listing__card  listing__card_main-section listing__card_main-section_3"><div
+      class="card
+        
+        card_main-section
+        
+        card_main-section_3"><div class="card__heading
+            card__heading_main-section 
+            
+            card__heading_main-section_3
+            "><a class="link link_color " href="/ussr/article/1596308-pokrovka-minkovka-osvobozhdenie-svo">
+        Результат наступления «Севера» и «Юга»: ВС РФ освободили Покровку в Сумской области и Миньковку в ДНР
+      </a></div></div></div></li><li class="listing__column  listing__column_main-section  listing__column_main-section_count listing__column_main-section_4"><div class="listing__card  listing__card_main-section listing__card_main-section_4"><div
+      class="card
+        
+        card_main-section
+        
+        card_main-section_4"><div class="card__heading
+            card__heading_main-section 
+            
+            card__heading_main-section_4
+            "><a class="link link_color " href="/ussr/article/1595657-ukraina-rossiya-davlenie-ssha">
+        «Использует самые разные схемы»: что может стоять за жалобами Зеленского на усиление давления со стороны США
+      </a></div></div></div></li></ul></div></div></div></div></div><div id="b_comment"></div><script>
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.createAdaptive(_adv.place['b_comment'],
+            ['desktop', 'phone'],
+            {
+                phoneWidth: 846,
+                isAutoReloads: false
+            });
+        });
+    </script></div></div></div><div class="clears-mh"></div><div class="layout__footer"><div class="footer js-mediator-footer"><div class="footer__content"><div class="footer__control-width"><div class="footer__left left-role"><div class="footer__navs footer__navs_item_1"><div class="nav nav_langs "><ul class="nav__row footer__nav footer__nav_1"><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link  link" href="//swentr.site/" target="_blank"  >
+
+                            English
+
+                        </a></li><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link  link" href="//de.rt.com/" target="_blank"  >
+
+                            Deutsch
+
+                        </a></li><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link  link" href="//francais.rt.com/" target="_blank"  >
+
+                            Français
+
+                        </a></li><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link  link" href="//arabic.rt.com/" target="_blank"  >
+
+                            العربية
+
+                        </a></li><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link  link" href="//actualidad.rt.com/" target="_blank"  >
+
+                            Español
+
+                        </a></li><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link  link" href="//rt.rs/" target="_blank"  >
+
+                            Српски
+
+                        </a></li></ul></div><ul class="footer__nav footer__nav_last"><li class="footer__nav-item"><a href="//rtd.rt.com/" class="footer__nav-link" target="blank" >
+                                    RTД на английском
+                                </a></li><li class="footer__nav-item"><a href="//doc.rt.com/" class="footer__nav-link" target="blank" >
+                                    RTД на русском
+                                </a></li><li class="footer__nav-item"><a href="//ruptly.agency/" class="footer__nav-link" target="blank" >
+                                    RUPTLY
+                                </a></li><li class="footer__nav-item"><a href="//ru.gw2ru.com" class="footer__nav-link" target="blank" >
+                                    Окно в Россию
+                                </a></li><li class="footer__nav-item"><a href="//school.rt.com/" class="footer__nav-link" target="blank" >
+                                    Школа RT
+                                </a></li><li class="footer__nav-item footer__nav-item_rt-shop"><a href="//shop-rt.com/" style="background-image: url('https://shop-rt.com/local/templates/rt_store/images/logo-ru.svg')" class="footer__nav-link footer__nav-link_rt-shop" target="blank"></a></li></ul></div><div class="footer__social"><div class="socials socials_footer"><ul class="socials__row socials__row_footer"><li class="socials__item socials__item_footer"><a href="//ttttt.me/rt_russian" class="socials__link socials__link_telegram" target="_blank">
+                    Канал RT на Telegram.me
+                </a></li><li class="socials__item socials__item_footer"><a href="//vk.com/rt_russian" class="socials__link socials__link_vkontakte" target="_blank">
+                    RT на русском Вконтакте
+                </a></li><li class="socials__item socials__item_footer"><a href="//twitter.com/RT_russian" class="socials__link socials__link_xtwitter" target="_blank">
+                    Twitter RT Russian
+                </a></li><li class="socials__item socials__item_footer"><a href="//max.ru/RT" class="socials__link socials__link_max" target="_blank">
+                    Канал RT на Max.ru
+                </a></li><li class="socials__item socials__item_footer"><a href="//rutube.ru/u/rtrussian/" class="socials__link socials__link_rutube" target="_blank">
+                    RT на русском в rutube
+                </a></li><li class="socials__item socials__item_footer"><a href="//ok.ru/rtrussian" class="socials__link socials__link_odnoklassniki" target="_blank">
+                    RT на русском группа на Одноклассники.ru
+                </a></li><li class="socials__item socials__item_footer"><a href="//dzen.ru/russian.rt.com" class="socials__link socials__link_yandex-zen" target="_blank">
+                    RT на русском в Дзен
+                </a></li><li class="socials__item socials__item_footer"><a href="/rss" class="socials__link socials__link_rss" target="_blank">
+                    rss
+                </a></li><li class="socials__item socials__item_footer"><a href="//www.tiktok.com/@russian_rt" class="socials__link socials__link_tiktok" target="_blank">
+                    RT на русском в TikTok
+                </a></li></ul></div></div><input class="footer__button" type="checkbox" id="footer__left"><label class="footer__button-switch" for="footer__left" onclick=""></label><div class="footer__navs footer__navs_item_2"><ul class="footer__nav footer__nav_2"><li class="footer__nav-item"><a href="/press_releases" class="footer__nav-link" >
+                                        Пресс-релизы
+                                    </a></li><li class="footer__nav-item"><a href="/about" class="footer__nav-link" >
+                                        О канале
+                                    </a></li><li class="footer__nav-item"><a href="//rt.com/rt-promo-2022-ru" class="footer__nav-link" >
+                                        Промо RT: Избранное
+                                    </a></li><li class="footer__nav-item"><a href="//doc.rt.com/programmy/" class="footer__nav-link" >
+                                        Программы RT
+                                    </a></li><li class="footer__nav-item"><a href="/about-us/contact-info/" class="footer__nav-link" >
+                                        Контакты
+                                    </a></li><li class="footer__nav-item"><a href="//zakupki.rt.com/" class="footer__nav-link" >
+                                        Текущие закупки RT
+                                    </a></li><li class="footer__nav-item"><a href="mailto:russian@rttv.ru" class="footer__nav-link" >
+                                        Написать в редакцию
+                                    </a></li><li class="footer__nav-item"><a href="/partners" class="footer__nav-link" >
+                                        Новости партнёров
+                                    </a></li><li class="footer__nav-item"><a href="/recommendations" class="footer__nav-link" >
+                                        Системы рекомендаций
+                                    </a></li><li class="footer__nav-item"><a href="//shop-rt.com" class="footer__nav-link" ></a></li></ul></div><div class="footer__navs footer__navs_item_3"><ul class="footer__nav footer__nav_3"><li class="footer__nav-item"><a href="/news" class="footer__nav-link" >
+                                            Новости
+                                        </a></li><li class="footer__nav-item"><a href="/world" class="footer__nav-link" >
+                                            Мир
+                                        </a></li><li class="footer__nav-item"><a href="/russia" class="footer__nav-link" >
+                                            Россия
+                                        </a></li><li class="footer__nav-item"><a href="/ussr" class="footer__nav-link" >
+                                            Бывший СССР
+                                        </a></li><li class="footer__nav-item"><a href="/business" class="footer__nav-link" >
+                                            Экономика
+                                        </a></li><li class="footer__nav-item"><a href="/sport" class="footer__nav-link" >
+                                            Спорт
+                                        </a></li><li class="footer__nav-item"><a href="/science" class="footer__nav-link" >
+                                            Наука
+                                        </a></li><li class="footer__nav-item"><a href="/nopolitics" class="footer__nav-link" >
+                                            Без политики
+                                        </a></li><li class="footer__nav-item"><a href="/opinion" class="footer__nav-link" >
+                                            Мнения
+                                        </a></li><li class="footer__nav-item"><a href="/inotv" class="footer__nav-link" target="_blank">
+                                            ИноТВ
+                                        </a></li><li class="footer__nav-item"><a href="/foto" class="footer__nav-link" >
+                                            Фото
+                                        </a></li><li class="footer__nav-item"><a href="/video" class="footer__nav-link" >
+                                            Видео
+                                        </a></li></ul></div></div><div class="footer__right"><div class="footer__seach-form"><form name="search" class="search header__search-form_js" action="/search" ><div class="search__wrapper search__submit-footer"><input class="search__submit" type="checkbox" value="Поиск" id="search__submit-footer" /><label class="search__submit-label search_label_js-footer" for="search__submit-footer" ></label><input class="search__submit-label search__submit-label_header" type="submit" value="Поиск" /><div class="search__text" ><input type="text" id="search_input_field-footer" name="q" value="" maxlength="100" /></div></div></form></div></div></div><div class="footer__control-width"><div class="footer__age-limit">18+</div></div></div><div class="footer__copyright "><div class="footer__control-width"><div class="copyright"><div class="copyright__logo"><a href="/" class="">
+               RT
+            </a></div><div class="copyright__text"><p>&copy; Автономная некоммерческая организация «ТВ-Новости», 2005—2026 гг. Все права защищены.</p><p>Сетевое издание <a href="https://rt.com" class="link">rt.com</a> зарегистрировано Роскомнадзором 14 августа 2020 г., свидетельство Эл № ФС 77-78993</p><p>Главный редактор: Симоньян М. С. Адрес редакции: 111020, Москва, Боровая улица, 3к1. Телефон: <a href="tel:+74997500075" class="link">+7 499 750-00-75</a> доб. 1200 E-mail: <a class="link" href="mailto:info@rttv.ru">info@rttv.ru</a></p><p><a href="https://russian.rt.com/privacy" class="link">Политика АНО «ТВ-Новости» в отношении обработки персональных данных</a></p></div></div></div></div><noindex><div class="footer__organizations"><div class="footer__organizations-wrapper"><p class="footer__organizations-title">Организации, признанные экстремистскими и запрещённые на территории РФ</p><div class="footer__organizations-image"><span class="footer__organizations-image__wrapper"></span></div></div></div></noindex></div></div><div class="cookies__banner js-cookies-banner"><div class="cookies__banner-wrapper"><p class="cookies__banner-text">Данный сайт использует файлы <a href="https://russian.rt.com/privacy-policy" target="_blank">cookies</a></p><a class="cookies__banner-button js-cookies-button">Подтвердить</a></div></div></div><div class="overlay"></div><script src="/static/js/pushes/notification.js?v=4"></script><script defer="defer" src="https://ru.russiatoday.com/static/js/common.min.js?v=05202210_1965"></script><script>
+        if (window.innerWidth < 846) {
+            var banner_sf_in = document.createElement('div');
+            banner_sf_in.id = "sticky";
+            document.body.appendChild(banner_sf_in);
+            if (banner_sf_in) {
+                var bnlit = document.createElement('script'); bnlit.type = 'text/javascript'; bnlit.async = true;
+                bnlit.src = 'https://cdn.russiatoday.com/scripts/adfox/Sticky_4.js'; bnlit.charset = 'utf-8';
+                var head = document.getElementsByTagName('head')[0];
+                head.appendChild(bnlit);
+            }
+        }
+    </script><script defer="defer" src="/static/views/main_index.min.js?v=8?v=1727877d"></script><script>
+        if (window.RT && RT.quiz_embed) {
+            window.addEventListener('message', function(event) {
+                if (!event.data) {
+                    return;
+                }
+
+                if (event.data.type && event.data.type === "POLL_UPDATE_HEIGHT" && !!document.getElementById('poll_' + event.data.payload.pollID)) {
+                    document.getElementById('poll_' + event.data.payload.pollID).style.height = event.data.payload.height + "px";
+                }
+
+                if (event.data.type && event.data.type === "QUIZ_UPDATE_HEIGHT" && !!document.getElementById('quiz_' + event.data.payload.quizID)) {
+                    document.getElementById('quiz_' + event.data.payload.quizID).style.height = event.data.payload.height + "px";
+                }
+
+                if (event.data.type && event.data.type === "QUIZ_NEXT_QUESTION" && !!document.getElementById('quiz_' + event.data.payload.quizID)) {
+                    window.scrollTo(0, document.getElementById('quiz_' + event.data.payload.quizID).getBoundingClientRect().top + window.pageYOffset - 25)
+                }
+
+                if (event.data.type && event.data.type === "CHARACTER_QUIZ_UPDATE_HEIGHT" && !!document.getElementById('character_quiz_' + event.data.payload.quizID)) {
+                    document.getElementById('character_quiz_' + event.data.payload.quizID).style.height = event.data.payload.height + "px";
+                }
+
+                if (event.data.type && event.data.type === "CHARACTER_QUIZ_NEXT_QUESTION" && !!document.getElementById('character_quiz_' + event.data.payload.quizID)) {
+                    window.scrollTo(0, document.getElementById('character_quiz_' + event.data.payload.quizID).getBoundingClientRect().top + window.pageYOffset - 25)
+                }
+            }, false);
+        }
+    </script><!--LiveInternet counter--><div style="position: fixed; left: -9999px;"><script type="text/javascript">
+        document.write("<a href='//www.liveinternet.ru/click;russian_rt' "+
+            "target=_blank><img src='//counter.yadro.ru/hit;russian_rt?t44.5;r"+
+            escape(document.referrer)+((typeof(screen)=="undefined")?"":
+                ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+                    screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+            ";"+Math.random()+
+            "' alt='' title='LiveInternet' "+
+            "border='0' width='31' height='31'><\/a>")
+    </script></div><!--/LiveInternet--><!-- Yandex.Metrika Counter --><script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter48853397 = new Ya.Metrika({
+                    id:48853397,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script><noscript><div><img src="https://mc.yandex.ru/watch/48853397" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter --><!-- Yandex.Metrika counter --><script type="text/javascript" >
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(27102311, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+    });
+</script><noscript><div><img src="https://mc.yandex.ru/watch/27102311" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter --><!-- tns-counter.ru --><script type="text/javascript">
+    (new Image()).src = '//www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*russianrt_com/ru/UTF-8/tmsec=rt_russia/' + Math.round(Math.random()*1E9);
+</script><noscript><img src="http://www.tns-counter.ru/V13a****russianrt_com/ru/UTF-8/tmsec=rt_russia/" width="1" height="1" alt="" /></noscript><!--/ tns-counter.ru --><!-- Top100 (Kraken) Counter --><script>
+    (function (w, d, c) {
+        (w[c] = w[c] || []).push(function() {
+            var options = {
+                project: 4502732
+            };
+            try {
+                w.top100Counter = new top100(options);
+            } catch(e) { }
+        });
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src =
+            (d.location.protocol == "https:" ? "https:" : "http:") +
+            "//st.top100.ru/top100/top100.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(window, document, "_top100q");
+</script><noscript><img src="//counter.rambler.ru/top100.cnt?pid=1886286" alt="Топ-100" /></noscript><!-- END Top100 (Kraken) Counter --><!-- Top.Mail.Ru counter --><script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "3361851", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+        ts.src = "https://top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "tmr-code");
+</script><noscript><div><img src="https://top-fwz1.mail.ru/counter?id=3361851;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru" /></div></noscript><!-- /Top.Mail.Ru counter --><script>
+            (function() {
+                // заменяем ссылки breaking news на алиас
+                try {
+                    const original_host = window.location.protocol + "//" + window.location.host;
+
+                    if (!original_host.includes("https://russian.rt.com")) {
+                        const has_alias_elements = document.querySelectorAll("[data-newsline-has-alias] a");
+
+                        for(const alias_element of Array(...has_alias_elements)) {
+                            const breaking_link = alias_element.getAttribute('href');
+
+                            if (/(http(s?)):\/\//i.test(breaking_link) && breaking_link.includes("https://russian.rt.com")) {
+                                alias_element.setAttribute('href', breaking_link.replace("https://russian.rt.com", original_host))
+                            }
+                        }
+                    }
+                } catch {
+                    console.error('Failed replace to alias url')
+                }
+            })()
+        </script><!--/ tns-counter.ru --><script>
+        ((counterHostname) => {
+            window.MSCounter = {
+                counterHostname: counterHostname
+            };
+
+            window.mscounterCallbacks = window.mscounterCallbacks || [];
+            window.mscounterCallbacks.push(() => {
+                msCounterExampleCom = new MSCounter.counter({
+                    'account': 'rt_ru',
+                    'tmsec': 'rt_ru',
+                    'autohit': true
+                });
+            });
+
+            const newScript = document.createElement('script');
+            newScript.async = true;
+            newScript.src = `${counterHostname}/ncc/counter.js`;
+
+            const referenceNode = document.querySelector('script');
+            if (referenceNode) {
+                referenceNode.parentNode.insertBefore(newScript, referenceNode);
+            } else {
+                document.firstElementChild.appendChild(newScript);
+            }
+        })('https://tns-counter.ru/');
+    </script><!--/ tns-counter.ru --><script>
+			if(document.querySelector('.cover__video')) {
+				var banner4 = document.createElement('div'); 
+                banner4.id = "adfox_168461289671113363"; 
+                document.querySelector(".cover__media_ratio").insertBefore(banner4, banner4.firstChild);
+				if (banner4) {  
+				    var bns = document.createElement('script'); bns.type = 'text/javascript'; bns.async = true;
+                    bns.src = 'https://cdn.russiatoday.com/scripts/adfox/r40j.js'; bns.charset = 'utf-8';
+                    var head = document.getElementsByTagName('head')[0];
+			        head.appendChild(bns);
+				}
+			}
+	    </script><script async src="/static/js/captcher.min.js?v=3"></script></body></html>

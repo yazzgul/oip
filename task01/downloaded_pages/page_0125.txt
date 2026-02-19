@@ -1,0 +1,1135 @@
+<!DOCTYPE html>
+<html class='layout layout_branding' lang='ru' prefix='og: http://ogp.me/ns#'>
+<head>
+<title>Cообщество менеджеров | Executive.ru</title>
+<meta content='Сообщество менеджеров: публикации профессионалов по вопросам менеджмента, маркетинга, карьеры, финансов, бизнес-образования. Вопросы и ответы. Управленческие вакансии' name='description'>
+<meta content='Менеджмент, Топ-менеджер, бизнес, бизнес-процесс, бизнес-план, HR, Карьера, Вакансии, Резюме, Собеседование, Финансы, Личные финансы, Корпоративные финансы, Маркетинг, бизнес-школа, образование для менеджера, MBA, Executive MBA, KPI, банк, SWOT, персонал' name='keywords'>
+<meta charset='utf-8'>
+<meta content='100000983166273' property='fb:admins'>
+<link href='/executivemnfst.json' rel='manifest'>
+<meta content='5823b64112d7284813cdd7fbf7438ac0' name='p:domain_verify'>
+
+<meta content='width=device-width' name='viewport'>
+<meta content='origin' name='referrer'>
+<script>
+  window.RMessenger = {
+    opts: {
+      notificationsUrl: '/notifications',
+      wsHost: "push.e-xecutive.ru",
+      authEndpoint: '/pusher/auth',
+      app_key: "1395678"
+    }
+  };
+</script>
+
+<script src="/assets/svg-icons-6aa6b993b058ddaa0975c99f0eea8145614edd92084cfb24eb5204aaadcd12c0.js" async="async"></script>
+<script>
+window.adfoxError = false
+</script>
+<script>
+window.yaContextCb = window.yaContextCb || []
+</script>
+<script src="https://yandex.ru/ads/system/context.js" crossorigin="anonymous" onerror="window.adfoxError = true;" async="async"></script>
+<script src="/assets/critical/index-43f4cbbf0c2dc0fa1b54619dad5d2fbeae0520ebc1bb92ac509dce79a1d3fb61.js"></script>
+<script src="/assets/application-52c9812e7fe59fe7c2df846d658c5511ae99231c8dae84ad147267ec5099827b.js" async="async"></script>
+<!--[if lt IE 9]>
+<script src="/assets/legacy/respond.src-deabee4acbedb02dece5f08ed18879fd25fd27e0d48711a6ed2cb85ccdfbe9c9.js"></script>
+<![endif]-->
+<link rel="stylesheet" media="(min-width : 431px)" href="//fonts.googleapis.com/css?family=Roboto:400,500,700&amp;subset=latin,cyrillic-ext,cyrillic" />
+<link rel="stylesheet" media="all" href="/assets/application/index-902c5e72c90222ecd6318a6717ed0cb774d1ac3b046688375bcde62d63ceeaef.css" />
+
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="rnejQXqu/CxX8gD2FUZ+a+FrldN5CfcJS2FiRgBJjWg13iqV9/IDruYEFSuP/ydGwL6KlQ5jF4yRTMD6uo6wWg==" />
+<link rel="alternate" type="application/atom+xml" title="ATOM" href="https://www.e-xecutive.ru/feeds/atom.atom" />
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='black' name='apple-mobile-web-app-status-bar-style'>
+
+
+
+<script type="text/javascript" >
+(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+ym(32224044, "init", {
+    clickmap:true,
+    trackLinks:true,
+    accurateTrackBounce:true,
+    webvisor:false
+});
+ym(32224044, 'params', { userAuth: false});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/32224044" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+</head>
+
+<body class='layout__body' data-hash='8277a6e2e5caed183527c06fd7883441'>
+
+<div id="adfox_1485357017150782"></div>
+<script>
+  window.yaContextCb.push(()=>{
+    Ya.adfoxCode.createAdaptive({
+        ownerId: 98051,
+        containerId: 'adfox_1485357017150782',
+        params: {
+            pp: 'g',
+            ps: 'bylc',
+            p2: 'fnjs'
+        },
+        onRender: function() { App.webpushManager.bannerRender() },
+        onStub: function() { App.webpushManager.bannerRevoke() },
+        onError: function() { App.webpushManager.bannerRevoke() }
+    }, ['phone'], { phoneWidth: 428 })
+  })
+</script>
+
+<div id="adfox_1485364507507453"></div>
+<script>
+  window.yaContextCb.push(()=>{
+    Ya.adfoxCode.createAdaptive({
+        ownerId: 98051,
+        containerId: 'adfox_1485364507507453',
+        params: {
+            pp: 'i',
+            ps: 'bylc',
+            p2: 'fnjw'
+        }
+    }, ['phone'], { phoneWidth: 428 })
+  })
+</script>
+
+
+<!--AdFox START-->
+<!--e-xecutive.ru-->
+<!--Площадка: http://new.e-xecutive.ru:8080 / * / *-->
+<!--Тип баннера: BackGround-->
+<!--Расположение: верх страницы-->
+<div id="adfox_1485173611999915" class="branding_placeholder_desktop"></div>
+<script>
+    window.exeBrandingLyaout = function(){
+        try {
+            if (/(^|\s)layout_branding(\s|$)/.test(document.documentElement.className)) {
+                if (document.body.getAttribute('data-uid')) {
+                    document.documentElement.className += ' layout_branding-bg-patch';
+                } else {
+                    document.documentElement.className += ' layout_subscription';
+                    var a = document.createElement('a'),
+                        img = document.createElement('img');
+                    a.href = '/subscription';
+                    a.target = '_blank';
+                    img.src = '/assets/subscription-9afcef54f645934fa7c8fa55f4a8e66665d1f674552b7512b9f0d467dc8f2827.jpg';
+                    img.setAttribute('class', 'layout__img-subscription');
+                    a.appendChild(img);
+                    document.querySelector('.layout__wrapper').appendChild(a);
+                }
+            }
+        } catch(e) {}
+    };
+  window.yaContextCb.push(()=>{
+    Ya.adfoxCode.createAdaptive({
+        ownerId: 98051,
+        containerId: 'adfox_1485173611999915',
+        params: {
+            pp: 'g',
+            ps: 'bylc',
+            p2: 'evjj'
+        },
+        onStub: exeBrandingLyaout,
+        onError: exeBrandingLyaout
+    }, ['desktop', 'tablet'], {
+      phoneWidth: 428
+    })
+  })
+</script>
+<!--AdFox START-->
+<!--e-xecutive.ru-->
+<!--Площадка: http://new.e-xecutive.ru:8080 / * / *-->
+<!--Тип баннера: BackGround HTML5-->
+<!--Расположение: верх страницы-->
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 98051,
+            containerId: 'adfox_1485173611999915',
+            params: {
+                pp: 'g',
+                ps: 'bylc',
+                p2: 'jpll'
+            }
+        }, ['desktop', 'tablet'], { phoneWidth: 428 })
+    })
+</script>
+
+
+<aside class='js-side-nav layout__aside' id='sideNav'>
+<div class='aside-in'>
+<form class="aside-in__search" action="/searching" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="text" name="q" class="rst aside-in__inp" />
+<button class='rst aside-in__sbm' type='submit'><span class="icon icon--loupe  "><svg class='icon__cnt'><use xlink:href='#loupe-icon'/></svg></span></button>
+</form>
+
+<nav class='side-nav aside-in__nav'><a class='side-nav__link' href='/users'><span class="icon icon--community  side-nav__ico"><svg class='icon__cnt'><use xlink:href='#community-icon'/></svg></span>Сообщество</a><a class='side-nav__link' href='/companies'><span class="icon icon--factory  side-nav__ico"><svg class='icon__cnt'><use xlink:href='#factory-icon'/></svg></span>Компании</a><a class='side-nav__link' href='/jobs'><span class="icon icon--portfolio  side-nav__ico"><svg class='icon__cnt'><use xlink:href='#portfolio-icon'/></svg></span>Вакансии</a><a class='side-nav__link' href='/events'><span class="icon icon--calendar  side-nav__ico"><svg class='icon__cnt'><use xlink:href='#calendar-icon'/></svg></span>Мероприятия</a><a class='side-nav__link' href='/schools'><span class="icon icon--cap  side-nav__ico"><svg class='icon__cnt'><use xlink:href='#cap-icon'/></svg></span>Бизнес школы</a><a class='side-nav__link' href='/videos'><span class="icon icon--movie  side-nav__ico"><svg class='icon__cnt'><use xlink:href='#movie-icon'/></svg></span>Видео по бизнесу</a><a class='side-nav__link' href='/softs'><span class="icon icon--software  side-nav__ico"><svg class='icon__cnt'><use xlink:href='#software-icon'/></svg></span>IT для бизнеса</a><a class='side-nav__link' href='/books'><span class="icon icon--book  side-nav__ico"><svg class='icon__cnt'><use xlink:href='#book-icon'/></svg></span>Книги по бизнесу</a><a class='side-nav__link' href='/management/market'><span class="icon icon--cart  side-nav__ico"><svg class='icon__cnt'><use xlink:href='#cart-icon'/></svg></span>ExeMarket</a><a class='side-nav__link' href='/polls'><span class="icon icon--poll  side-nav__ico"><svg class='icon__cnt'><use xlink:href='#poll-icon'/></svg></span>Тесты</a><a class='side-nav__link' href='/league'>Лига экспертов</a></nav>
+<nav class='rubric aside-in__rubric'>
+<header class='rubric__title'>Рубрики</header>
+<a class="rubric__link" href="/career">Карьера</a>
+<a class="rubric__link" href="/education">Бизнес-образование</a>
+<a class="rubric__link" href="/management">Менеджмент</a>
+<a class="rubric__link" href="/finance">Финансы</a>
+<a class="rubric__link" href="/sections/hr-news/news">Новости</a>
+<a class="rubric__link" href="/quorums">Форумы</a>
+<a class="rubric__link" href="/mirbis">МИРБИС</a>
+</nav>
+</div>
+</aside>
+<div class='layout__overlay js-aside-overlay'></div>
+
+<div class='layout__wrapper'>
+
+
+<div class="layout__hauling">
+  <div class="hauling">
+    <!--AdFox START-->
+    <!--e-xecutive.ru-->
+    <!--Площадка: http://new.e-xecutive.ru:8080 / * / *-->
+    <!--Тип баннера: Перетяжка 100%-->
+    <!--Расположение: верх страницы-->
+    <div id="adfox_1485175790599515" class="top_banner_placeholder_mobile"></div>
+    <script>
+      window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 98051,
+            containerId: 'adfox_1485175790599515',
+            params: {
+                pp: 'g',
+                ps: 'bylc',
+                p2: 'y'
+            }
+        }, ['phone'], {phoneWidth: 428})
+      })
+    </script>
+  </div>
+</div>
+
+<div class='layout__inner '>
+<div class='layout__header'>
+<div class='header-panel' id='elogo' itemscope itemtype='http://schema.org/Organization'>
+<meta content='Executive.ru' itemprop='name'>
+<a class='header-panel__logo' href='/' itemprop='url'>
+<img class="header-panel__logo-img" alt="Cообщество менеджеров | Executive.ru" itemprop="logo" width="240" height="42" src="/assets/logo-c5693d28534fd63ad790c94fe12e9a7ae7d2be813f900b0a063ad27492680e8d.svg" />
+</a>
+<div class='header-panel__auth auth'>
+<a class="auth__link _write" href="/pages/guide">Стать автором</a>
+<a data-modal-login="" class="auth__link _enter" href="/session/sign_in">Вход</a>
+<a class="auth__link _reg" href="/session/sign_up">Регистрация</a>
+</div>
+
+<div class='header-panel__quote'><div id="adfox_1485170310528811"></div>
+<script>
+  (function(w, n) {
+    w[n] = w[n] || [];
+    w[n].push([{
+        ownerId: 98051,
+        containerId: 'adfox_1485170310528811',
+        params: {
+            pp: 'g',
+            ps: 'bylc',
+            p2: 'fgfv'
+        }
+    }, ['desktop', 'tablet'], { phoneWidth: 428 }]);
+  })(window, 'adfoxAsyncParamsAdaptive');
+</script>
+</div>
+</div>
+
+<div class='header-nav'>
+<button class="icon icon--loupe  header-nav__search js-search-toggle-trigger"><svg class='icon__cnt'><use xlink:href='#loupe-icon'/></svg></button>
+<button class='header-nav__hamburger js-toggle-aside-menu'><span class="icon icon--menu  "><svg class='icon__cnt'><use xlink:href='#menu-icon'/></svg></span></button>
+<ul class='header-menu'>
+<li class='header-menu__item'><a class="header-menu__link" href="/users">Сообщество</a></li>
+<li class='header-menu__item'><a class="header-menu__link" href="/career">Карьера</a></li>
+<li class='header-menu__item'><a class="header-menu__link" href="/education">Бизнес-образование</a></li>
+<li class='header-menu__item'><a class="header-menu__link" href="/management">Менеджмент</a></li>
+<li class='header-menu__item'><a class="header-menu__link" href="/finance">Финансы</a></li>
+<li class='header-menu__item'><a class="header-menu__link" href="/sections/hr-news/news">Новости</a></li>
+<li class='header-menu__item'><a class="header-menu__link" href="/quorums">Форумы</a></li>
+<li class='header-menu__item _active'><a class="header-menu__link" href="/mirbis">МИРБИС</a></li>
+</ul>
+
+</div>
+</div>
+
+<div class='b-container mt20'>
+<form class="filter-bar mb30 js-search-toggle-panel" style="display: none;" action="/searching" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="text" name="q" id="q" class="rst filter-bar__inp f1-xls" placeholder="Ключевое слово" />
+<input type="submit" value="Поиск" class="rst filter-bar__sbm" data-disable-with="Поиск" />
+</form>
+
+
+<div class='col mb50'>
+<div class='exchange-rate'>
+<span class='exchange-rate__currency'>USD ЦБ:</span>
+<span class='exchange-rate__value'>76,15₽</span>
+<span class='exchange-rate__currency'>EUR ЦБ:</span>
+<span class='exchange-rate__value'>90,27₽</span>
+</div>
+<div class='col-left'>
+<div class='container-title dn-ls'>НОВОЕ</div>
+<div class='wire-rack _articles-ls'>
+<div class='wire-rack__body js-disable-doubleclick'>
+<article class='wire-rack__item'><div class='article-item'>
+<a class="article-item__img" title="Какие конфликты с зумерами приводят к текучке кадров" href="/career/hr-management/1999744-kakie-konflikty-s-zumerami-privodyat-k-tekuchke-kadrov"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999744/mini_143x95_Zinina_Elena.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999744/mini_190x127_Zinina_Elena.jpg'><img class="article-item__img-self" alt="Какие конфликты с зумерами приводят к текучке кадров" title="Какие конфликты с зумерами приводят к текучке кадров" loading="lazy" width="143" height="96" src="/uploads/article/image/1999744/mini_Zinina_Elena.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/career/hr-management">HR-менеджмент</a><span class='article-item__ico _views'>991</span>
+<a class='article-item__ico _messages' href='/career/hr-management/1999744-kakie-konflikty-s-zumerami-privodyat-k-tekuchke-kadrov#comments' target='_self'>19</a>
+</div>
+<a class="article-item__title" href="/career/hr-management/1999744-kakie-konflikty-s-zumerami-privodyat-k-tekuchke-kadrov">Какие конфликты с зумерами приводят к текучке кадров</a></div></article><article class='wire-rack__item'><div class='article-item'>
+<a class="article-item__img" title="Теория деятельности: как управлять людьми осмысленно" href="/career/hr-management/1999647-teoriya-deyatelnosti-kak-upravlyat-ludmi-osmyslenno"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999647/mini_143x95_Efremova_Elizaveta.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999647/mini_190x127_Efremova_Elizaveta.jpg'><img class="article-item__img-self" alt="Теория деятельности: как управлять людьми осмысленно" title="Теория деятельности: как управлять людьми осмысленно" loading="lazy" width="143" height="96" src="/uploads/article/image/1999647/mini_Efremova_Elizaveta.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/career/hr-management">HR-менеджмент</a><span class='article-item__ico _views'>527</span>
+<a class='article-item__ico _messages' href='/career/hr-management/1999647-teoriya-deyatelnosti-kak-upravlyat-ludmi-osmyslenno#comments' target='_self'>15</a>
+</div>
+<a class="article-item__title" href="/career/hr-management/1999647-teoriya-deyatelnosti-kak-upravlyat-ludmi-osmyslenno">Теория деятельности: как управлять людьми осмысленно</a></div></article><article class='wire-rack__item'><div class='article-item'>
+<a class="article-item__img" title="Какой маркетплейс выбрать для первой продажи: руководство для новичков" href="/management/sales/1999704-kakoi-marketpleis-vybrat-dlya-pervoi-prodazhi-rukovodstvo-dlya-novichkov"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999704/mini_143x95_e-com.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999704/mini_190x127_e-com.jpg'><img class="article-item__img-self" alt="Какой маркетплейс выбрать для первой продажи: руководство для новичков" title="Какой маркетплейс выбрать для первой продажи: руководство для новичков" loading="lazy" width="143" height="96" src="/uploads/article/image/1999704/mini_e-com.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/management/sales">Продажи</a><span class='article-item__ico _views'>625</span>
+<a class='article-item__ico _messages' href='/management/sales/1999704-kakoi-marketpleis-vybrat-dlya-pervoi-prodazhi-rukovodstvo-dlya-novichkov#comments' target='_self'>14</a>
+</div>
+<a class="article-item__title" href="/management/sales/1999704-kakoi-marketpleis-vybrat-dlya-pervoi-prodazhi-rukovodstvo-dlya-novichkov">Какой маркетплейс выбрать для первой продажи: руководство для новичков</a></div></article><article class='wire-rack__item'><div class='article-item'>
+<a class="article-item__img" title="Рекламная выручка «Яндекса» – почти 450 млрд рублей. Новости маркетинга" href="/management/marketing/1999749-reklamnaya-vyruchka-yandeksa-pochti-450-mlrd-rublei-novosti-marketinga"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999749/mini_143x95_Yandex_podvel_itogi_goda.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999749/mini_190x127_Yandex_podvel_itogi_goda.jpg'><img class="article-item__img-self" alt="Рекламная выручка «Яндекса» – почти 450 млрд рублей. Новости маркетинга" title="Рекламная выручка «Яндекса» – почти 450 млрд рублей. Новости маркетинга" loading="lazy" width="143" height="96" src="/uploads/article/image/1999749/mini_Yandex_podvel_itogi_goda.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/management/marketing">Маркетинг</a><span class='article-item__ico _views'>391</span>
+<a class='article-item__ico _messages' href='/management/marketing/1999749-reklamnaya-vyruchka-yandeksa-pochti-450-mlrd-rublei-novosti-marketinga#comments' target='_self'>0</a>
+</div>
+<a class="article-item__title" href="/management/marketing/1999749-reklamnaya-vyruchka-yandeksa-pochti-450-mlrd-rublei-novosti-marketinga">Рекламная выручка «Яндекса» – почти 450 млрд рублей. Новости маркетинга</a></div></article><article class='wire-rack__item'><div class='article-item'>
+<a class="article-item__img" title="Перезагрузка основ: каким будет маркетинг успешных брендов" href="/management/marketing/1999717-perezagruzka-osnov-kakim-budet-marketing-uspeshnyh-brendov"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999717/mini_143x95_Perezagruzka_osnov.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999717/mini_190x127_Perezagruzka_osnov.jpg'><img class="article-item__img-self" alt="Перезагрузка основ: каким будет маркетинг успешных брендов" title="Перезагрузка основ: каким будет маркетинг успешных брендов" loading="lazy" width="143" height="96" src="/uploads/article/image/1999717/mini_Perezagruzka_osnov.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/management/marketing">Маркетинг</a><span class='article-item__ico _views'>401</span>
+<a class='article-item__ico _messages' href='/management/marketing/1999717-perezagruzka-osnov-kakim-budet-marketing-uspeshnyh-brendov#comments' target='_self'>2</a>
+</div>
+<a class="article-item__title" href="/management/marketing/1999717-perezagruzka-osnov-kakim-budet-marketing-uspeshnyh-brendov">Перезагрузка основ: каким будет маркетинг успешных брендов</a></div></article><article class='wire-rack__item'><div class='article-item'>
+<a class="article-item__img" title="Как топ-менеджеру научиться жить в изоляции" href="/management/practices/1999739-kak-top-menedzheru-nauchitsya-zhit-v-izolyatsii"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999739/mini_143x95_Mirgalimova_Angee.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999739/mini_190x127_Mirgalimova_Angee.jpg'><img class="article-item__img-self" alt="Как топ-менеджеру научиться жить в изоляции" title="Как топ-менеджеру научиться жить в изоляции" loading="lazy" width="143" height="96" src="/uploads/article/image/1999739/mini_Mirgalimova_Angee.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/management/practices">Корпоративная практика</a><span class='article-item__ico _views'>2261</span>
+<a class='article-item__ico _messages' href='/management/practices/1999739-kak-top-menedzheru-nauchitsya-zhit-v-izolyatsii#comments' target='_self'>38</a>
+</div>
+<a class="article-item__title" href="/management/practices/1999739-kak-top-menedzheru-nauchitsya-zhit-v-izolyatsii">Как топ-менеджеру научиться жить в изоляции</a></div></article>
+</div>
+</div>
+</div>
+<div class='col-left mt40'><div>
+<div class='container-title b-seo__title'>
+<h1>Cообщество менеджеров</h1>
+</div>
+<div class='editable b-seo__text'><p>500 тыс. профессионалов. Собственники бизнеса и топ-менеджеры. Крупнейшая библиотека non fiction: 12 тыс. публикаций по менеджменту, маркетингу, карьере, финансам, бизнес-образованию. 80% текстов созданы участниками Сообщества. Управленческие вакансии.</p></div>
+</div>
+</div>
+<div class='col-left'>
+<section class='mt40'>
+<div class='container-title mb0'><a href="/events">Мероприятия (3985)</a></div>
+<div class='events _highlight-margin'>
+<article class='events__item'>
+<time class="calendar events__calendar" datetime="2026-02-19"><span class="calendar__h">февраля</span>19</time>
+<div class='events__body'>
+<div class='events__body-in'>
+<header class='events__meta'>
+<span class='events__format'>Открытый</span>
+<a class="fz12 mr1e c-inherit h_blue" href="/companies/310210-moskovskaya-mezhdunarodnaya-vysshaya-shkola-biznesa-mirbis">Московская международная высшая школа бизнеса МИРБИС</a>
+<span class='fz12'>Москва</span>
+</header>
+<a class="events__title" href="/events/134645-strategicheskii-praktikum-provaly-i-proryvy-2025-2026">Стратегический практикум: провалы и прорывы 2025-2026</a>
+</div>
+
+</div>
+</article>
+
+<article class='events__item'>
+<time class="calendar events__calendar" datetime="2026-02-24"><span class="calendar__h">февраля</span>24</time>
+<div class='events__body'>
+<div class='events__body-in'>
+<header class='events__meta'>
+<span class='events__format'>Открытый</span>
+<a class="fz12 mr1e c-inherit h_blue" href="/companies/642034-biznes-shkola-itc-group">Бизнес-школа ITC Group</a>
+<span class='fz12'>Москва</span>
+</header>
+<a class="events__title" href="/events/131610-emotsionalnaya-kompetentnost-emotsionalnyi-intellekt-upravlenie-emotsiyami">Эмоциональная компетентность. Эмоциональный интеллект. Управление эмоциями</a>
+</div>
+<img class="events__img" width="96" src="/uploads/event/image/131610/mini_logo_300x200.jpg" />
+</div>
+</article>
+
+<article class='events__item'>
+<time class="calendar events__calendar" datetime="2026-02-24"><span class="calendar__h">февраля</span>24</time>
+<div class='events__body'>
+<div class='events__body-in'>
+<header class='events__meta'>
+<span class='events__format'>Открытый</span>
+<a class="fz12 mr1e c-inherit h_blue" href="/companies/642034-biznes-shkola-itc-group">Бизнес-школа ITC Group</a>
+<span class='fz12'>Санкт-Петербург</span>
+</header>
+<a class="events__title" href="/events/130263-planirovanie-i-dispetcherizatsiya-proizvodstva">Планирование и диспетчеризация производства</a>
+</div>
+<img class="events__img" width="96" src="/uploads/event/image/130263/mini_logo_300x200.jpg" />
+</div>
+</article>
+
+<article class='events__item'>
+<time class="calendar events__calendar" datetime="2026-02-26"><span class="calendar__h">февраля</span>26</time>
+<div class='events__body'>
+<div class='events__body-in'>
+<header class='events__meta'>
+<span class='events__format'>Открытый</span>
+<a class="fz12 mr1e c-inherit h_blue" href="/companies/1998849-okdesk">Okdesk</a>
+<span class='fz12'>Москва</span>
+</header>
+<a class="events__title" href="/events/134581-toir-sb-2026-kak-pereiti-na-elektronnyi-zhurnal-ekspluatatsii-sppz">ТОиР СБ 2026: как перейти на электронный журнал эксплуатации СППЗ</a>
+</div>
+
+</div>
+</article>
+
+<article class='events__item'>
+<time class="calendar events__calendar" datetime="2026-02-26"><span class="calendar__h">февраля</span>26</time>
+<div class='events__body'>
+<div class='events__body-in'>
+<header class='events__meta'>
+<span class='events__format'>Открытый</span>
+<a class="fz12 mr1e c-inherit h_blue" href="/companies/1998849-okdesk">Okdesk</a>
+<span class='fz12'>Москва</span>
+</header>
+<a class="events__title" href="/events/134581-toir-sb-2026-kak-pereiti-na-elektronnyi-zhurnal-ekspluatatsii-sppz">ТОиР СБ 2026: как перейти на электронный журнал эксплуатации СППЗ</a>
+</div>
+
+</div>
+</article>
+
+<article class='events__item'>
+<time class="calendar events__calendar" datetime="2026-03-23"><span class="calendar__h">марта</span>23</time>
+<div class='events__body'>
+<div class='events__body-in'>
+<header class='events__meta'>
+<span class='events__format'>Открытый</span>
+<a class="fz12 mr1e c-inherit h_blue" href="/companies/1703987-uchebnyi-tsentr-finkont">Учебный центр «Финконт»</a>
+<span class='fz12'>Москва</span>
+</header>
+<a class="events__title" href="/events/133890-sovremennye-praktiki-upravleniya-tehnicheskim-obsluzhivaniem-i-remontami-toir-na-baze-sistem-1s">Современные практики управления техническим обслуживанием и ремонтами (ТОиР) на базе систем 1С</a>
+</div>
+<img class="events__img" width="96" src="/uploads/event/image/133890/mini_%D0%B4%D0%BB%D1%8F_executive.jpg" />
+</div>
+</article>
+
+
+</div>
+</section>
+</div>
+<div class='col-left'>
+<div class='container-title mt30'><a href="/jobs">Управленческие Вакансии (14)</a></div>
+<div class='vacancy _main'>
+<article class='vacancy__item'><div>
+<a href="/jobs/67959-menedzher-aktivnyh-prodazh-v-regionah">Менеджер активных продаж в регионах<br>
+от 120 000</a></div>
+<footer class='vacancy__f'>
+<a href="/companies/1998935-terminus">TERMINUS</a>, 
+
+- другой -</footer></article><article class='vacancy__item'><div>
+<a href="/jobs/67958-rukovoditel-otdela-prodazh-direktor-po-prodazham">Руководитель отдела продаж. Директор по продажам<br>
+от 200 000</a></div>
+<footer class='vacancy__f'>
+<a href="/companies/1998935-terminus">TERMINUS</a>, 
+
+- другой -</footer></article><article class='vacancy__item'><div>
+<a href="/jobs/67957-marketolog">Маркетолог<br>
+от 120 000</a></div>
+<footer class='vacancy__f'>
+<a href="/companies/1998935-terminus">TERMINUS</a>, 
+
+- другой -</footer></article><article class='vacancy__item'><div>
+<a href="/jobs/67956-direktor-po-marketingu">Директор по маркетингу<br>
+от 150 000</a></div>
+<footer class='vacancy__f'>
+<a href="/companies/1998935-terminus">TERMINUS</a>, 
+
+- другой -</footer></article><article class='vacancy__item'><div>
+<a href="/jobs/67955-rukovoditel-otdela-diy">Руководитель отдела DIY<br>
+от 250 000</a></div>
+<footer class='vacancy__f'>
+<a href="/companies/1998935-terminus">TERMINUS</a>, 
+
+- другой -</footer></article><article class='vacancy__item'><div>
+<a href="/jobs/67954-generalnyy-direktor-fmcg">Генеральный директор (FMCG)<br>
+</a></div>
+<footer class='vacancy__f'>
+<a href="/companies/1998680-kadrovoe-agentstvo-staffrecruitment">Кадровое агентство StaffRecruitment</a>, 
+
+Москва</footer></article><article class='vacancy__item'><div>
+<a href="/jobs/67952-finansovyy-direktor-cfo-bank">Финансовый директор (CFO) (банк)<br>
+</a></div>
+<footer class='vacancy__f'>
+<a href="/companies/1998680-kadrovoe-agentstvo-staffrecruitment">Кадровое агентство StaffRecruitment</a>, 
+
+Москва</footer></article><article class='vacancy__item'><div>
+<a href="/jobs/67951-operatsionnyy-direktor">Операционный директор<br>
+</a></div>
+<footer class='vacancy__f'>
+<a href="/companies/1998680-kadrovoe-agentstvo-staffrecruitment">Кадровое агентство StaffRecruitment</a>, 
+
+Москва</footer></article><article class='vacancy__item'><div>
+<a href="/jobs/67949-menedzher-po-razvitiyu-biznesa">Менеджер по развитию бизнеса<br>
+от 130 000</a></div>
+<footer class='vacancy__f'>
+<a href="/companies/1998925-interreil-servis">«ИнтерРейл Сервис»</a>, 
+
+Москва</footer></article><article class='vacancy__item'><div>
+<a href="/jobs/67947-rukovoditel-otdela-marketinga">Руководитель отдела маркетинга<br>
+от 200 000  до 300 000</a></div>
+<footer class='vacancy__f'>
+<a href="/companies/1998924-klinika-esteticheskoi-meditsiny-dega">Клиника эстетической медицины DEGA</a>, 
+
+Санкт-Петербург</footer></article>
+</div>
+</div>
+<div class='col-left'>
+<div class='wire-rack mt40 _articles-ls'>
+<div class='container-title'>ранее опубликовано</div>
+<div class='wire-rack__body js-disable-doubleclick'>
+<article class='wire-rack__item'><div class='article-item'>
+<a class="article-item__img" title="Как построить бизнес, который работает сам" href="/management/practices/1999740-kak-postroit-biznes-kotoryi-rabotaet-sam"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999740/mini_143x95_Olnev.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999740/mini_190x127_Olnev.jpg'><img class="article-item__img-self" alt="Как построить бизнес, который работает сам" title="Как построить бизнес, который работает сам" loading="lazy" width="143" height="96" src="/uploads/article/image/1999740/mini_Olnev.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/management/practices">Корпоративная практика</a><span class='article-item__ico _views'>77</span>
+<a class='article-item__ico _messages' href='/management/practices/1999740-kak-postroit-biznes-kotoryi-rabotaet-sam#comments' target='_self'>0</a>
+</div>
+<a class="article-item__title" href="/management/practices/1999740-kak-postroit-biznes-kotoryi-rabotaet-sam">Как построить бизнес, который работает сам</a></div></article><article class='wire-rack__item'><div class='article-item'>
+<a class="article-item__img" title="Тренды применения ИИ в бизнесе: от внедрения к управляемому эффекту" href="/management/practices/1999699-trendy-primeneniya-ii-v-biznese-ot-vnedreniya-k-upravlyaemomu-effektu"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999699/mini_143x95_Bochkin_Aleksandr_6.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999699/mini_190x127_Bochkin_Aleksandr_6.jpg'><img class="article-item__img-self" alt="Тренды применения ИИ в бизнесе: от внедрения к управляемому эффекту" title="Тренды применения ИИ в бизнесе: от внедрения к управляемому эффекту" loading="lazy" width="143" height="96" src="/uploads/article/image/1999699/mini_Bochkin_Aleksandr_6.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/management/practices">Корпоративная практика</a><span class='article-item__ico _views'>63</span>
+<a class='article-item__ico _messages' href='/management/practices/1999699-trendy-primeneniya-ii-v-biznese-ot-vnedreniya-k-upravlyaemomu-effektu#comments' target='_self'>0</a>
+</div>
+<a class="article-item__title" href="/management/practices/1999699-trendy-primeneniya-ii-v-biznese-ot-vnedreniya-k-upravlyaemomu-effektu">Тренды применения ИИ в бизнесе: от внедрения к управляемому эффекту</a></div></article><article class='wire-rack__item'><div class='article-item'>
+<a class="article-item__img" title="Синдром спасателя: почему бизнесу не нужны герои" href="/management/practices/1999726-sindrom-spasatelya-pochemu-biznesu-ne-nuzhny-geroi"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999726/mini_143x95_Shiryaeva.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999726/mini_190x127_Shiryaeva.jpg'><img class="article-item__img-self" alt="Синдром спасателя: почему бизнесу не нужны герои" title="Синдром спасателя: почему бизнесу не нужны герои" loading="lazy" width="143" height="96" src="/uploads/article/image/1999726/mini_Shiryaeva.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/management/practices">Корпоративная практика</a><span class='article-item__ico _views'>759</span>
+<a class='article-item__ico _messages' href='/management/practices/1999726-sindrom-spasatelya-pochemu-biznesu-ne-nuzhny-geroi#comments' target='_self'>13</a>
+</div>
+<a class="article-item__title" href="/management/practices/1999726-sindrom-spasatelya-pochemu-biznesu-ne-nuzhny-geroi">Синдром спасателя: почему бизнесу не нужны герои</a></div></article><article class='wire-rack__item'><div class='article-item'>
+<a class="article-item__img" title="Из каких компонентов состоит доверие" href="/career/lichnaya-effektivnost/1999709-iz-kakih-komponentov-sostoit-doverie"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999709/mini_143x95_Plotnikova_Irina.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999709/mini_190x127_Plotnikova_Irina.jpg'><img class="article-item__img-self" alt="Из каких компонентов состоит доверие" title="Из каких компонентов состоит доверие" loading="lazy" width="143" height="96" src="/uploads/article/image/1999709/mini_Plotnikova_Irina.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/career/lichnaya-effektivnost">Личная эффективность</a><span class='article-item__ico _views'>2320</span>
+<a class='article-item__ico _messages' href='/career/lichnaya-effektivnost/1999709-iz-kakih-komponentov-sostoit-doverie#comments' target='_self'>131</a>
+</div>
+<a class="article-item__title" href="/career/lichnaya-effektivnost/1999709-iz-kakih-komponentov-sostoit-doverie">Из каких компонентов состоит доверие</a></div></article><article class='wire-rack__item'><div class='article-item'>
+<a class="article-item__img" title="Почему усиление контроля лишает бизнес управляемости" href="/management/practices/1999685-pochemu-usilenie-kontrolya-lishaet-biznes-upravlyaemosti"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999685/mini_143x95_Listratova_Tatiana_2.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999685/mini_190x127_Listratova_Tatiana_2.jpg'><img class="article-item__img-self" alt="Почему усиление контроля лишает бизнес управляемости" title="Почему усиление контроля лишает бизнес управляемости" loading="lazy" width="143" height="96" src="/uploads/article/image/1999685/mini_Listratova_Tatiana_2.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/management/practices">Корпоративная практика</a><span class='article-item__ico _views'>1216</span>
+<a class='article-item__ico _messages' href='/management/practices/1999685-pochemu-usilenie-kontrolya-lishaet-biznes-upravlyaemosti#comments' target='_self'>23</a>
+</div>
+<a class="article-item__title" href="/management/practices/1999685-pochemu-usilenie-kontrolya-lishaet-biznes-upravlyaemosti">Почему усиление контроля лишает бизнес управляемости</a></div></article><article class='wire-rack__item'><div class='article-item'>
+<a class="article-item__img" title="Почему человекоцентричность не работает в бизнесе" href="/community/magazine/1999638-pochemu-chelovekotsentrichnost-ne-rabotaet-v-biznese"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999638/mini_143x95_Human-centricity.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999638/mini_190x127_Human-centricity.jpg'><img class="article-item__img-self" alt="Почему человекоцентричность не работает в бизнесе" title="Почему человекоцентричность не работает в бизнесе" loading="lazy" width="143" height="96" src="/uploads/article/image/1999638/mini_Human-centricity.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/community/magazine">Журнал</a><span class='article-item__ico _views'>978</span>
+<a class='article-item__ico _messages' href='/community/magazine/1999638-pochemu-chelovekotsentrichnost-ne-rabotaet-v-biznese#comments' target='_self'>15</a>
+</div>
+<a class="article-item__title" href="/community/magazine/1999638-pochemu-chelovekotsentrichnost-ne-rabotaet-v-biznese">Почему человекоцентричность не работает в бизнесе</a></div></article><article class='wire-rack__item'><div class='article-item'>
+<a class="article-item__img" title="Должность руководителя: как получить повышение и не пожалеть об этом" href="/career/planirovanie-karery/1999695-dolzhnost-rukovoditelya-kak-poluchit-povyshenie-i-ne-pozhalet-ob-etom"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999695/mini_143x95_Mamaev_Abdulla.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999695/mini_190x127_Mamaev_Abdulla.jpg'><img class="article-item__img-self" alt="Должность руководителя: как получить повышение и не пожалеть об этом" title="Должность руководителя: как получить повышение и не пожалеть об этом" loading="lazy" width="143" height="96" src="/uploads/article/image/1999695/mini_Mamaev_Abdulla.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/career/planirovanie-karery">Планирование карьеры</a><span class='article-item__ico _views'>1296</span>
+<a class='article-item__ico _messages' href='/career/planirovanie-karery/1999695-dolzhnost-rukovoditelya-kak-poluchit-povyshenie-i-ne-pozhalet-ob-etom#comments' target='_self'>7</a>
+</div>
+<a class="article-item__title" href="/career/planirovanie-karery/1999695-dolzhnost-rukovoditelya-kak-poluchit-povyshenie-i-ne-pozhalet-ob-etom">Должность руководителя: как получить повышение и не пожалеть об этом</a></div></article><article class='wire-rack__item'><div class='article-item'>
+<a class="article-item__img" title="ИИ в рекрутинге: где заканчивается эффективность и начинаются риски" href="/career/hr-management/1999688-ii-v-rekrutinge-gde-zakanchivaetsya-effektivnost-i-nachinautsya-riski"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999688/mini_143x95_Pavlova_Alyona.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999688/mini_190x127_Pavlova_Alyona.jpg'><img class="article-item__img-self" alt="ИИ в рекрутинге: где заканчивается эффективность и начинаются риски" title="ИИ в рекрутинге: где заканчивается эффективность и начинаются риски" loading="lazy" width="143" height="96" src="/uploads/article/image/1999688/mini_Pavlova_Alyona.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/career/hr-management">HR-менеджмент</a><span class='article-item__ico _views'>1717</span>
+<a class='article-item__ico _messages' href='/career/hr-management/1999688-ii-v-rekrutinge-gde-zakanchivaetsya-effektivnost-i-nachinautsya-riski#comments' target='_self'>53</a>
+</div>
+<a class="article-item__title" href="/career/hr-management/1999688-ii-v-rekrutinge-gde-zakanchivaetsya-effektivnost-i-nachinautsya-riski">ИИ в рекрутинге: где заканчивается эффективность и начинаются риски</a></div></article><article class='wire-rack__item'><div class='article-item'>
+<a class="article-item__img" title="Обучение не оправдало ожиданий: как исправить ситуацию" href="/education/korporativnoe-obuchenie/1999677-obuchenie-ne-opravdalo-ozhidanii-kak-ispravit-situatsiu"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999677/mini_143x95_Badmaev_Aleksandr_3.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999677/mini_190x127_Badmaev_Aleksandr_3.jpg'><img class="article-item__img-self" alt="Обучение не оправдало ожиданий: как исправить ситуацию" title="Обучение не оправдало ожиданий: как исправить ситуацию" loading="lazy" width="143" height="96" src="/uploads/article/image/1999677/mini_Badmaev_Aleksandr_3.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/education/korporativnoe-obuchenie">Корпоративное обучение</a><span class='article-item__ico _views'>1355</span>
+<a class='article-item__ico _messages' href='/education/korporativnoe-obuchenie/1999677-obuchenie-ne-opravdalo-ozhidanii-kak-ispravit-situatsiu#comments' target='_self'>4</a>
+</div>
+<a class="article-item__title" href="/education/korporativnoe-obuchenie/1999677-obuchenie-ne-opravdalo-ozhidanii-kak-ispravit-situatsiu">Обучение не оправдало ожиданий: как исправить ситуацию</a></div></article><article class='wire-rack__item'><div class='article-item'>
+<a class="article-item__img" title="Почему одним – все, а другим – ничего: как добиться высоких результатов продаж" href="/management/sales/1999703-pochemu-odnim-vse-a-drugim-nichego-kak-dobitsya-vysokih-rezultatov-prodazh"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999703/mini_143x95_Morozov_Artem.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999703/mini_190x127_Morozov_Artem.jpg'><img class="article-item__img-self" alt="Почему одним – все, а другим – ничего: как добиться высоких результатов продаж" title="Почему одним – все, а другим – ничего: как добиться высоких результатов продаж" loading="lazy" width="143" height="96" src="/uploads/article/image/1999703/mini_Morozov_Artem.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/management/sales">Продажи</a><span class='article-item__ico _views'>1921</span>
+<a class='article-item__ico _messages' href='/management/sales/1999703-pochemu-odnim-vse-a-drugim-nichego-kak-dobitsya-vysokih-rezultatov-prodazh#comments' target='_self'>19</a>
+</div>
+<a class="article-item__title" href="/management/sales/1999703-pochemu-odnim-vse-a-drugim-nichego-kak-dobitsya-vysokih-rezultatov-prodazh">Почему одним – все, а другим – ничего: как добиться высоких результатов продаж</a></div></article><article class='wire-rack__item'><div class='article-item'>
+<a class="article-item__img" title="Как без бюджета получить публикации в деловых СМИ" href="/management/marketing/1999640-kak-bez-budzheta-poluchit-publikatsii-v-delovyh-smi"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999640/mini_143x95_Chernyshov_Aleksey.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999640/mini_190x127_Chernyshov_Aleksey.jpg'><img class="article-item__img-self" alt="Как без бюджета получить публикации в деловых СМИ" title="Как без бюджета получить публикации в деловых СМИ" loading="lazy" width="143" height="96" src="/uploads/article/image/1999640/mini_Chernyshov_Aleksey.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/management/marketing">Маркетинг</a><span class='article-item__ico _views'>1337</span>
+<a class='article-item__ico _messages' href='/management/marketing/1999640-kak-bez-budzheta-poluchit-publikatsii-v-delovyh-smi#comments' target='_self'>5</a>
+</div>
+<a class="article-item__title" href="/management/marketing/1999640-kak-bez-budzheta-poluchit-publikatsii-v-delovyh-smi">Как без бюджета получить публикации в деловых СМИ</a></div></article><article class='wire-rack__item'><div class='article-item'>
+<a class="article-item__img" title="Опека в менеджменте: как тепличные условия в компании разрушают бизнес" href="/management/practices/1999691-opekauschaya-model-kak-teplichnye-usloviya-v-komande-razrushaut-biznes"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999691/mini_143x95_Opeka_v_managemente.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999691/mini_190x127_Opeka_v_managemente.jpg'><img class="article-item__img-self" alt="Опека в менеджменте: как тепличные условия в компании разрушают бизнес" title="Опека в менеджменте: как тепличные условия в компании разрушают бизнес" loading="lazy" width="143" height="96" src="/uploads/article/image/1999691/mini_Opeka_v_managemente.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/management/practices">Корпоративная практика</a><span class='article-item__ico _views'>2028</span>
+<a class='article-item__ico _messages' href='/management/practices/1999691-opekauschaya-model-kak-teplichnye-usloviya-v-komande-razrushaut-biznes#comments' target='_self'>16</a>
+</div>
+<a class="article-item__title" href="/management/practices/1999691-opekauschaya-model-kak-teplichnye-usloviya-v-komande-razrushaut-biznes">Опека в менеджменте: как тепличные условия в компании разрушают бизнес</a></div></article><article class='wire-rack__item'><div class='article-item'>
+<a class="article-item__img" title="Почему растет спрос на коробочную CRM: 5 причин" href="/management/itforbusiness/1999655-pochemu-rastet-spros-na-korobochnuu-crm-5-prichin"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999655/mini_143x95_KozlovS.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999655/mini_190x127_KozlovS.jpg'><img class="article-item__img-self" alt="Почему растет спрос на коробочную CRM: 5 причин" title="Почему растет спрос на коробочную CRM: 5 причин" loading="lazy" width="143" height="96" src="/uploads/article/image/1999655/mini_KozlovS.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/management/itforbusiness">IT-менеджмент</a><span class='article-item__ico _views'>1025</span>
+<a class='article-item__ico _messages' href='/management/itforbusiness/1999655-pochemu-rastet-spros-na-korobochnuu-crm-5-prichin#comments' target='_self'>3</a>
+</div>
+<a class="article-item__title" href="/management/itforbusiness/1999655-pochemu-rastet-spros-na-korobochnuu-crm-5-prichin">Почему растет спрос на коробочную CRM: 5 причин</a></div></article><article class='wire-rack__item'><div class='article-item'>
+<a class="article-item__img" title="Как правильно выйти из бизнеса" href="/management/practices/1999475-kak-pravilno-vyiti-iz-biznesa"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999475/mini_143x95_Vetrov_Vitaly.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999475/mini_190x127_Vetrov_Vitaly.jpg'><img class="article-item__img-self" alt="Как правильно выйти из бизнеса" title="Как правильно выйти из бизнеса" loading="lazy" width="143" height="96" src="/uploads/article/image/1999475/mini_Vetrov_Vitaly.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/management/practices">Корпоративная практика</a><span class='article-item__ico _views'>844</span>
+<a class='article-item__ico _messages' href='/management/practices/1999475-kak-pravilno-vyiti-iz-biznesa#comments' target='_self'>2</a>
+</div>
+<a class="article-item__title" href="/management/practices/1999475-kak-pravilno-vyiti-iz-biznesa">Как правильно выйти из бизнеса</a></div></article>
+</div>
+</div>
+</div>
+<div class='col-right mt20-ls clr-xls'><div class="intrusive "><!--AdFox START-->
+<!--e-xecutive.ru-->
+<!--Площадка: http://new.e-xecutive.ru:8080 / * / *-->
+<!--Тип баннера: 240x400js-->
+<!--Расположение: <середина страницы>-->
+<div id="adfox_1484921722771559" class="side_banner_placeholder_desktop"></div>
+<script>
+window.yaContextCb.push(()=>{
+  Ya.adfoxCode.create({
+    ownerId: 98051,
+    containerId: 'adfox_1484921722771559',
+    params: {
+        pp: 'h',
+        ps: 'bylc',
+        p2: 'duhj'
+    },
+    onRender: function() { App.bannerManager.resolve('Top', true) },
+    onStub: function() { App.bannerManager.resolve('Top', false, 'adfox_1484921722771559') },
+    onError: function() { App.bannerManager.resolve('Top', false, 'adfox_1484921722771559') }
+  })
+})
+</script>
+</div></div>
+<div class='col-right mt20'><div><!--AdFox START-->
+<!--e-xecutive.ru-->
+<!--Площадка: http://new.e-xecutive.ru:8080 / * / *-->
+<!--Тип баннера: Стикер-->
+<!--Расположение: <середина страницы>-->
+<div id="adfox_1484926471965750"></div>
+<script>
+  App.moveStiсker('adfox_1484926471965750');
+  window.yaContextCb.push(()=>{
+    Ya.adfoxCode.create({
+        ownerId: 98051,
+        containerId: 'adfox_1484926471965750',
+        params: {
+            pp: 'h',
+            ps: 'bylc',
+            p2: 'fbok'
+        }
+    })
+  })
+</script>
+</div></div>
+<div class='col-right mt20 mw260'><div class='discussion'>
+<div class='discussion__title'>Новые участники</div>
+<div class='portholes'>
+<a class="portholes__link" title="Михаил Горяной" rel="nofollow" href="/users/1913377-mihail-goryanoi"><img alt="Михаил Горяной" class="portholes__img" loading="lazy" src="/uploads/user/avatar/1913/1913377/big_comment_146_0_q9_a0878.jpg" />
+</a><a class="portholes__link" title="Анастасия Кириллова" rel="nofollow" href="/users/1913349-anastasiya-kirillova"><img alt="Анастасия Кириллова" class="portholes__img" loading="lazy" src="/uploads/user/avatar/1913/1913349/big_comment_photo_2025_04_15_20_13_57.jpg" />
+</a><a class="portholes__link" title="Денис Хромов" rel="nofollow" href="/users/1913340-denis-hromov"><img alt="Денис Хромов" class="portholes__img" loading="lazy" src="/uploads/user/avatar/1913/1913340/big_comment_d27aa4d7b21003615cc580e92f8644a7.jpg" />
+</a><a class="portholes__link" title="Артем Драгунов" rel="nofollow" href="/users/1913334-artem-dragunov"><img alt="Артем Драгунов" class="portholes__img" loading="lazy" src="/uploads/user/avatar/1913/1913334/big_comment_%D0%90%D1%80%D1%82%D0%B5%D0%BC_%D0%94%D1%80%D0%B0%D0%B3%D1%83%D0%BD%D0%BE%D0%B2.jpg" />
+</a><a class="portholes__link" title="Инна Ширяева" rel="nofollow" href="/users/1913319-inna-shiryaeva"><img alt="Инна Ширяева" class="portholes__img" loading="lazy" src="/uploads/user/avatar/1913/1913319/big_comment_5.jpeg" />
+</a><a class="portholes__link" title="Даниил Щербаков" rel="nofollow" href="/users/1913312-daniil-scherbakov"><img alt="Даниил Щербаков" class="portholes__img" loading="lazy" src="/uploads/user/avatar/1913/1913312/big_comment_%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB_%D0%A9%D0%B5%D1%80%D0%B1%D0%B0%D0%BA%D0%BE%D0%B2.jpg" />
+</a><a class="portholes__link" title="Татьяна Низова" rel="nofollow" href="/users/1913303-tatyana-nizova"><img alt="Татьяна Низова" class="portholes__img" loading="lazy" src="/uploads/user/avatar/1913/1913303/big_comment_2026_02_03_11.09.35.jpg" />
+</a><a class="portholes__link" title="Валентин Марченко" rel="nofollow" href="/users/1913297-valentin-marchenko"><img alt="Валентин Марченко" class="portholes__img" loading="lazy" src="/uploads/user/avatar/1913/1913297/big_comment_%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD_%D1%84%D0%BE%D1%82%D0%BE__2___1_.jpg" />
+</a><a class="portholes__link" title="Анастасия Бурыкина" rel="nofollow" href="/users/1913288-anastasiya-burykina"><img alt="Анастасия Бурыкина" class="portholes__img" loading="lazy" src="/uploads/user/avatar/1913/1913288/big_comment_%D0%A4%D0%BE%D1%82%D0%BE.jpg" />
+</a><a class="portholes__link" title="Елена Харламова" rel="nofollow" href="/users/1913275-elena-harlamova"><img alt="Елена Харламова" class="portholes__img" loading="lazy" src="/uploads/user/avatar/1913/1913275/big_comment_img_4624.jpeg" />
+</a><a class="portholes__link" title="Марина Федорова" rel="nofollow" href="/users/1913259-marina-fedorova"><img alt="Марина Федорова" class="portholes__img" loading="lazy" src="/uploads/user/avatar/1913/1913259/big_comment_img_0783.jpeg" />
+</a><a class="portholes__link" title="Алёна Павлова" rel="nofollow" href="/users/1913241-alyona-pavlova"><img alt="Алёна Павлова" class="portholes__img" loading="lazy" src="/uploads/user/avatar/1913/1913241/big_comment_1000028560.png" />
+</a><a class="portholes__link" title="Олеся Зазовская" rel="nofollow" href="/users/1913237-olesya-zazovskaya"><img alt="Олеся Зазовская" class="portholes__img" loading="lazy" src="/uploads/user/avatar/1913/1913237/big_comment_adb364f9_ad17_43fb_a8a7_b728f04987e0.jpg" />
+</a><a class="portholes__link" title="Asley Patricia" rel="nofollow" href="/users/1913229-asley-patricia"><img alt="Asley Patricia" class="portholes__img" loading="lazy" src="/uploads/user/avatar/1913/1913229/big_comment_asley__patricia.jpg" />
+</a><a class="portholes__link" title="Кузнецов Евгений" rel="nofollow" href="/users/1913217-kuznetsov-evgenii"><img alt="Кузнецов Евгений" class="portholes__img" loading="lazy" src="/uploads/user/avatar/1913/1913217/big_comment_%D1%81%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2026_02_08_165438.png" />
+</a><a class="portholes__link" title="Владимир Закамсков" rel="nofollow" href="/users/1913211-vladimir-zakamskov"><img alt="Владимир Закамсков" class="portholes__img" loading="lazy" src="/uploads/user/avatar/1913/1913211/big_comment_4.jpg" />
+</a></div>
+
+</div>
+</div>
+<div class='col-right mt20'><div class='discussion'>
+<div class='discussion__title'>Обсуждение статей</div>
+<article class='discussion__item'>
+<span class='discussion__ava'>
+<img class="discussion__img" alt="Антон Соболев" title="Антон Соболев" loading="lazy" src="/uploads/user/avatar/150/150597/mini_squared_portrait___png.png" width="50" height="50" />
+<span class="icon icon--medal-silver  discussion__medal _with-expert-tail"><svg class='icon__cnt'><use xlink:href='#medal-silver-icon'/></svg></span><span class="icon icon--medal-expert  discussion__medal _expert"><svg class='icon__cnt'><use xlink:href='#medal-expert-icon'/></svg></span>
+</span>
+<div class='oh'>
+<div class='discussion__topic'>
+<a href="/management/sales/1999704-kakoi-marketpleis-vybrat-dlya-pervoi-prodazhi-rukovodstvo-dlya-novichkov?page=2#comments">Какой маркетплейс выбрать для первой продажи: руководство для новичков</a>
+</div>
+<footer class='discussion__info'>
+<a class="discussion__author" href="/users/150597-anton-sobolev">Антон Соболев</a>
+<br>
+<time datetime="2026-02-19T20:19:44+03:00">19 февраля 2026, 20:19</time>
+</footer>
+<div class='fz12'>
+"Война - это путь обмана". // Сунь-цзы. Искусство войны. Ч. 1. Начальные расчеты.Маркетплейс и п...</div>
+</div>
+</article>
+<article class='discussion__item'>
+<span class='discussion__ava'>
+<img class="discussion__img" alt="Антон Соболев" title="Антон Соболев" loading="lazy" src="/uploads/user/avatar/150/150597/mini_squared_portrait___png.png" width="50" height="50" />
+<span class="icon icon--medal-silver  discussion__medal _with-expert-tail"><svg class='icon__cnt'><use xlink:href='#medal-silver-icon'/></svg></span><span class="icon icon--medal-expert  discussion__medal _expert"><svg class='icon__cnt'><use xlink:href='#medal-expert-icon'/></svg></span>
+</span>
+<div class='oh'>
+<div class='discussion__topic'>
+<a href="/career/lichnaya-effektivnost/1999709-iz-kakih-komponentov-sostoit-doverie?page=14#comments">Из каких компонентов состоит доверие</a>
+</div>
+<footer class='discussion__info'>
+<a class="discussion__author" href="/users/150597-anton-sobolev">Антон Соболев</a>
+<br>
+<time datetime="2026-02-19T20:06:34+03:00">19 февраля 2026, 20:06</time>
+</footer>
+<div class='fz12'>
+Я также был пообщаться.
+Кстати, эффективность предлагаемых Вами мер мы сможем в достаточно близк...</div>
+</div>
+</article>
+<article class='discussion__item'>
+<span class='discussion__ava'>
+<img class="discussion__img" alt="Николай Сибирев" title="Николай Сибирев" loading="lazy" src="/uploads/user/avatar/1911/1911392/mini_whats_app_image_2025_10_24_at_09.51.16.jpeg" width="50" height="50" />
+
+</span>
+<div class='oh'>
+<div class='discussion__topic'>
+<a href="/career/hr-management/1999647-teoriya-deyatelnosti-kak-upravlyat-ludmi-osmyslenno?page=2#comments">Теория деятельности: как управлять людьми осмысленно</a>
+</div>
+<footer class='discussion__info'>
+<a class="discussion__author" href="/users/1911392-nikolai-sibirev">Николай Сибирев</a>
+<br>
+<time datetime="2026-02-19T19:48:41+03:00">19 февраля 2026, 19:48</time>
+</footer>
+<div class='fz12'>
+Здесь основной плюс в самой теории деятельности, не конкретного автора.
+У этой школы или направл...</div>
+</div>
+</article>
+<article class='discussion__item'>
+<span class='discussion__ava'>
+<img class="discussion__img" alt="Михаил Лурье" title="Михаил Лурье" loading="lazy" src="/assets/fallback/avatar/male/4-d16cb2b3d7c70cc5bb40ae3457d77a1d2dbb3cce21f283410e54dbd80cc1eafe.svg" width="50" height="50" />
+<span class="icon icon--medal-gold  discussion__medal"><svg class='icon__cnt'><use xlink:href='#medal-gold-icon'/></svg></span>
+</span>
+<div class='oh'>
+<div class='discussion__topic'>
+<a href="/career/hr-management/1999744-kakie-konflikty-s-zumerami-privodyat-k-tekuchke-kadrov?page=2#comments">Какие конфликты с зумерами приводят к текучке кадров</a>
+</div>
+<footer class='discussion__info'>
+<a class="discussion__author" href="/users/1764158-mihail-lure">Михаил Лурье</a>
+<br>
+<time datetime="2026-02-19T18:32:15+03:00">19 февраля 2026, 18:32</time>
+</footer>
+<div class='fz12'>
+
+
+Ну тут было бы интересно узнать, о какой задаче идет речь?
+И почему на весь день ставится одна...</div>
+</div>
+</article>
+<article class='discussion__item'>
+<span class='discussion__ava'>
+<img class="discussion__img" alt="Николай Алексеев" title="Николай Алексеев" loading="lazy" src="/uploads/user/avatar/170/170367/mini__dsc7364___%D0%BE___%D1%80.jpg" width="50" height="50" />
+
+</span>
+<div class='oh'>
+<div class='discussion__topic'>
+<a href="/management/practices/1999739-kak-top-menedzheru-nauchitsya-zhit-v-izolyatsii?page=4#comments">Как топ-менеджеру научиться жить в изоляции</a>
+</div>
+<footer class='discussion__info'>
+<a class="discussion__author" href="/users/170367-nikolai-alekseev">Николай Алексеев</a>
+<br>
+<time datetime="2026-02-19T14:33:02+03:00">19 февраля 2026, 14:33</time>
+</footer>
+<div class='fz12'>Спасибо за хорошую статью! 
+Но эффективность рекомендации приглашать внешних консультантов, котор...</div>
+</div>
+</article>
+
+<a class="discussion__more" href="/comments">Все комментарии</a>
+
+</div>
+</div>
+<div class='col-right mt20' id='popular_for'><div class='ytabs _popular'>
+<a class="ytabs__item _active" data-remote="true" href="/popular/viewed/week">Популярное</a>
+<a class="ytabs__item " data-remote="true" href="/popular/discussed/week">Обсуждаемое</a>
+</div>
+<div class='discussion'>
+<label class="ytabs-popular__lbl"><input type="checkbox" id="" checked="checked" />
+<a class="ytabs-popular__link" data-remote="true" href="/popular/viewed/week">за неделю</a>
+</label><label class="ytabs-popular__lbl"><input type="checkbox" id="" />
+<a class="ytabs-popular__link" data-remote="true" href="/popular/viewed/month">за месяц</a>
+</label><article class='discussion__item'>
+<span class='discussion__ava'>
+<img class="discussion__img" alt="Ирина Плотникова" title="Ирина Плотникова" loading="lazy" src="/uploads/user/avatar/1737/1737321/mini_%D0%98%D1%80%D0%B8%D0%BD%D0%B0_%D0%9F%D0%BB%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0.jpeg" width="50" height="50" />
+<span class="icon icon--medal-gold  discussion__medal _with-expert-tail"><svg class='icon__cnt'><use xlink:href='#medal-gold-icon'/></svg></span><span class="icon icon--medal-expert  discussion__medal _expert"><svg class='icon__cnt'><use xlink:href='#medal-expert-icon'/></svg></span>
+</span>
+<div class='oh'>
+<div class='discussion__topic'><a href="/career/lichnaya-effektivnost/1999709-iz-kakih-komponentov-sostoit-doverie">Из каких компонентов состоит доверие</a></div>
+<div class='discussion__info'><a class="discussion__author" href="/users/1737321-irina-plotnikova">Ирина Плотникова</a></div>
+<div class='article-item__meta'>
+<span class='article-item__ico _views'>2319</span>
+<span class='article-item__ico _messages'>131</span>
+</div>
+</div>
+</article>
+<article class='discussion__item'>
+<span class='discussion__ava'>
+<img class="discussion__img" alt="Эндже Миргалимова" title="Эндже Миргалимова" loading="lazy" src="/uploads/user/avatar/416/416849/mini_photo_2025_11_22_23.00.51.jpeg" width="50" height="50" />
+
+</span>
+<div class='oh'>
+<div class='discussion__topic'><a href="/management/practices/1999739-kak-top-menedzheru-nauchitsya-zhit-v-izolyatsii">Как топ-менеджеру научиться жить в изоляции</a></div>
+<div class='discussion__info'><a class="discussion__author" href="/users/416849-endzhe-mirgalimova">Эндже Миргалимова</a></div>
+<div class='article-item__meta'>
+<span class='article-item__ico _views'>2259</span>
+<span class='article-item__ico _messages'>38</span>
+</div>
+</div>
+</article>
+<article class='discussion__item'>
+<span class='discussion__ava'>
+<img class="discussion__img" alt="Татьяна Листратова" title="Татьяна Листратова" loading="lazy" src="/uploads/user/avatar/464/464605/mini__dsc6022_93.jpg" width="50" height="50" />
+
+</span>
+<div class='oh'>
+<div class='discussion__topic'><a href="/management/practices/1999685-pochemu-usilenie-kontrolya-lishaet-biznes-upravlyaemosti">Почему усиление контроля лишает бизнес управляемости</a></div>
+<div class='discussion__info'><a class="discussion__author" href="/users/464605-tatyana-listratova">Татьяна Листратова</a></div>
+<div class='article-item__meta'>
+<span class='article-item__ico _views'>1216</span>
+<span class='article-item__ico _messages'>23</span>
+</div>
+</div>
+</article>
+<article class='discussion__item'>
+<span class='discussion__ava'>
+<img class="discussion__img" alt="Елена Зинина" title="Елена Зинина" loading="lazy" src="/uploads/user/avatar/1913/1913364/mini_pkmarketing_ai_1e9d0fb8_1.png" width="50" height="50" />
+
+</span>
+<div class='oh'>
+<div class='discussion__topic'><a href="/career/hr-management/1999744-kakie-konflikty-s-zumerami-privodyat-k-tekuchke-kadrov">Какие конфликты с зумерами приводят к текучке кадров</a></div>
+<div class='discussion__info'><a class="discussion__author" href="/users/1913364-elena-zinina">Елена Зинина</a></div>
+<div class='article-item__meta'>
+<span class='article-item__ico _views'>989</span>
+<span class='article-item__ico _messages'>19</span>
+</div>
+</div>
+</article>
+<article class='discussion__item'>
+<span class='discussion__ava'>
+<img class="discussion__img" alt="Дмитрий Николаев" title="Дмитрий Николаев" loading="lazy" src="/uploads/user/avatar/1912/1912989/mini_%D1%84%D0%BE%D1%82%D0%BE1.jpg" width="50" height="50" />
+
+</span>
+<div class='oh'>
+<div class='discussion__topic'><a href="/community/magazine/1999638-pochemu-chelovekotsentrichnost-ne-rabotaet-v-biznese">Почему человекоцентричность не работает в бизнесе</a></div>
+<div class='discussion__info'><a class="discussion__author" href="/users/1912989-dmitrii-nikolaev">Дмитрий Николаев</a></div>
+<div class='article-item__meta'>
+<span class='article-item__ico _views'>978</span>
+<span class='article-item__ico _messages'>15</span>
+</div>
+</div>
+</article>
+
+</div>
+</div>
+<div class='mt20 col-right'>
+<div class="discussion "><header class="discussion__title">Новости компаний</header><dl>
+<dt class='b-news-item--time-head'><time datetime="2026-02-18T00:00:00+00:00" class="b-news-item__date">18 февраля 2026</time></dt>
+<dd class='b-news-item'><a href="/news/2098941-issledovanie-kak-mnogozadachnost-vliyaet-na-rabotu">Исследование: как многозадачность влияет на работу</a></dd>
+<dd class='b-news-item'><a href="/news/2098938-polovina-servisnyh-kompanii-teryaut-klientskie-obrascheniya-nesmotrya-na-avtomatizatsiu">Половина сервисных компаний теряют клиентские обращения, несмотря н...</a></dd>
+<dt class='b-news-item--time-head'><time datetime="2026-02-16T00:00:00+00:00" class="b-news-item__date">16 февраля 2026</time></dt>
+<dd class='b-news-item'><a href="/news/2098940-kaiten-obnovil-partnerskuu-programmu">Kaiten обновил партнерскую программу</a></dd>
+<dd class='b-news-item'><a href="/news/2098939-v-moskve-proshyol-misticheskii-timbilding-s-sergeem-druzhko">В Москве прошел мистический тимбилдинг с Сергеем Дружко </a></dd>
+<dt class='b-news-item--time-head'><time datetime="2026-02-13T00:00:00+00:00" class="b-news-item__date">13 февраля 2026</time></dt>
+<dd class='b-news-item'><a href="/news/2098937-promokodeks-zapustil-mobilnye-prilozheniya-dlya-ios-i-android">ПромоКодекс запустил мобильные приложения для iOS и Android</a></dd>
+<dd class='b-news-item'><a href="/news/2098936-okdesk-i-sistemnyi-soft-uskoryat-tsifrovuu-transformatsiu-toir-v-otechestvennyh-kompaniyah">Okdesk и «Системный софт» ускорят цифровую трансформацию ТОиР</a></dd>
+</dl>
+<a class="discussion__more" href="/news">Все новости</a></div></div>
+<div class='mt20 col-right'>
+<div class='discussion'>
+<div class='discussion__title'>Лига экспертов: открытые вопросы</div>
+<div class='discussion__item'>
+<div class='discussion__topic'><a href="/league/349-kakie-delovye-meropriyatiya-vy-sovetuete-posetit-v-marte">Какие деловые мероприятия вы советуете посетить в марте?</a></div>
+<div class='discussion__info'>
+Менеджмент, Маркетинг, Продажи, HR &amp; Карьера, Бизнес-образование, Риск-менеджмент, Корпоративные финансы, Личные финансы, Цифровизация, IT, Инвестиции.
+Дедлайн:
+<time datetime="2026-02-24">24 февраля</time>
+</div>
+</div>
+
+<a class="discussion__more" href="/league">Смотреть все вопросы</a>
+
+</div>
+</div>
+<div class='mt20 col-right'>
+<div class='discussion'>
+<div class='discussion__title'>Дискуссии</div>
+<article class='discussion__item'>
+<span class='discussion__ava'>
+<img class="discussion__img" loading="lazy" src="/assets/fallback/avatar/male/4-d16cb2b3d7c70cc5bb40ae3457d77a1d2dbb3cce21f283410e54dbd80cc1eafe.svg" width="50" height="50" />
+
+</span>
+<div class='oh'>
+<div class='discussion__topic'><a href="/quorums/1606-kak-opisat-pravdu-pro-sssr?page=73">Как описать правду про СССР?</a></div>
+<div class='discussion__info'><a class="discussion__author" href="/users/1884913-oleg-katasonov">Олег Катасонов</a><br><time datetime="2026-02-19T20:42:56+03:00">19 февраля 2026, 20:42</time>
+</div>
+<div class='fz12'>
+А что Вы будете брать за налогооблагаемую базу? А? Вот то то же, так что особо не обольщайтесь.</div>
+</div>
+</article>
+<article class='discussion__item'>
+<span class='discussion__ava'>
+<img class="discussion__img" loading="lazy" src="/uploads/user/avatar/1912/1912451/mini_img_5262.jpeg" width="50" height="50" />
+
+</span>
+<div class='oh'>
+<div class='discussion__topic'><a href="/quorums/1534-epichnoe-testovoe-zadanie-na-sobesedovaniiproshu-pomoch-s-resheniem?page=19">Эпичное тестовое задание на собеседовании…Прошу помочь с решением…</a></div>
+<div class='discussion__info'><a class="discussion__author" href="/users/1912451-natalya-sheremeteva">Наталья Шереметьева</a><br><time datetime="2026-02-16T14:38:37+03:00">16 февраля 2026, 14:38</time>
+</div>
+<div class='fz12'>Здравствуйте) я не знаю чем я руководствуюсь... но я бы поставила цифру 6. Так как мне почему-то ...</div>
+</div>
+</article>
+<article class='discussion__item'>
+<span class='discussion__ava'>
+<img class="discussion__img" loading="lazy" src="/assets/fallback/avatar/male/4-d16cb2b3d7c70cc5bb40ae3457d77a1d2dbb3cce21f283410e54dbd80cc1eafe.svg" width="50" height="50" />
+
+</span>
+<div class='oh'>
+<div class='discussion__topic'><a href="/quorums/1502-nasha-postoyannaya-rubrika-posovetuyte-film?page=8">Наша постоянная рубрика - посоветуйте фильм</a></div>
+<div class='discussion__info'><a class="discussion__author" href="/users/1884913-oleg-katasonov">Олег Катасонов</a><br><time datetime="2026-02-08T20:26:03+03:00">08 февраля 2026, 20:26</time>
+</div>
+<div class='fz12'>
+Символично то, что в самом начале сериала где мы впервые сталкиваемся с главным героем, он едет ...</div>
+</div>
+</article>
+
+<a class="discussion__more" href="/quorums">Все дискуссии</a>
+
+</div>
+</div>
+<div class='mt20 col-right'>
+<div class="discussion mt20"><header class="discussion__title">HR-новости</header><dl>
+<dt class='b-news-item--time-head'><time datetime="2026-02-18" class="b-news-item__date">18 февраля 2026</time></dt>
+<dd class='b-news-item'>
+<a href="/news/2098942-issledovanie-dms-k-kakim-vracham-chasche-vsego-obraschautsya-sotrudniki-raznogo-urovnya">Исследование ДМС: к каким врачам обращаются сотрудники разного уровня</a>
+<div class='b-news-item__text'><p>Доля консультаций по вопросам тревожных состояний, хронического стресса и эмоционального выгорания увеличилась на 20% за год.</p></div>
+</dd>
+</dl>
+</div>
+</div>
+<div class='mt20 col-right'><div class="fb-page" data-href="https://www.facebook.com/Executive.ru" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"></div>
+</div>
+</div>
+</div>
+
+
+</div>
+<div class='full-footer'>
+<div class='full-footer__in'>
+<div class='footer-slider'>
+<div class='footer-slider__title'>
+Популярные материалы
+</div>
+<section id='banner-slide'>
+<article class='footer-slider__item'><div class='article-item'>
+<a class="article-item__img" title="Антихрупкость: как искать опору в хаосе" href="/career/lichnaya-effektivnost/1999308-antihrupkost-kak-iskat-oporu-v-haose"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999308/mini_143x95_Mikhina_Nadezda.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999308/mini_190x127_Mikhina_Nadezda.jpg'><img class="article-item__img-self" alt="Антихрупкость: как искать опору в хаосе" title="Антихрупкость: как искать опору в хаосе" loading="lazy" width="143" height="96" src="/uploads/article/image/1999308/mini_Mikhina_Nadezda.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/career/lichnaya-effektivnost">Личная эффективность</a><span class='article-item__ico _views'>6332</span>
+<a class='article-item__ico _messages' href='/career/lichnaya-effektivnost/1999308-antihrupkost-kak-iskat-oporu-v-haose#comments' target='_self'>29</a>
+</div>
+<a class="article-item__title" href="/career/lichnaya-effektivnost/1999308-antihrupkost-kak-iskat-oporu-v-haose">Антихрупкость: как искать опору в хаосе</a></div></article>
+<article class='footer-slider__item'><div class='article-item'>
+<a class="article-item__img" title="«Человек Ростеха»: зачем руководителю из сферы здравоохранения MBA" href="/mirbis/emba-mirbis/1999345-chelovek-rosteha-zachem-rukovoditelu-iz-sfery-zdravoohraneniya-mba"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999345/mini_143x95_Chelovek_Rostekha.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999345/mini_190x127_Chelovek_Rostekha.jpg'><img class="article-item__img-self" alt="«Человек Ростеха»: зачем руководителю из сферы здравоохранения MBA" title="«Человек Ростеха»: зачем руководителю из сферы здравоохранения MBA" loading="lazy" width="143" height="96" src="/uploads/article/image/1999345/mini_Chelovek_Rostekha.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/mirbis/emba-mirbis">Истории успеха</a><span class='article-item__ico _views'>3976</span>
+<a class='article-item__ico _messages' href='/mirbis/emba-mirbis/1999345-chelovek-rosteha-zachem-rukovoditelu-iz-sfery-zdravoohraneniya-mba#comments' target='_self'>0</a>
+</div>
+<a class="article-item__title" href="/mirbis/emba-mirbis/1999345-chelovek-rosteha-zachem-rukovoditelu-iz-sfery-zdravoohraneniya-mba">«Человек Ростеха»: зачем руководителю из сферы здравоохранения MBA</a></div></article>
+<article class='footer-slider__item'><div class='article-item'>
+<a class="article-item__img" title="Оппозиция – моя позиция, или Как внутренняя цензура мешает идти к успеху" href="/career/lichnaya-effektivnost/1999215-oppozitsiya-moya-pozitsiya-ili-kak-vnutrennyaya-tsenzura-meshaet-idti-k-uspehu"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999215/mini_143x95_nevzorova.jpeg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999215/mini_190x127_nevzorova.jpeg'><img class="article-item__img-self" alt="Оппозиция – моя позиция, или Как внутренняя цензура мешает идти к успеху" title="Оппозиция – моя позиция, или Как внутренняя цензура мешает идти к успеху" loading="lazy" width="143" height="96" src="/uploads/article/image/1999215/mini_nevzorova.jpeg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/career/lichnaya-effektivnost">Личная эффективность</a><span class='article-item__ico _views'>8426</span>
+<a class='article-item__ico _messages' href='/career/lichnaya-effektivnost/1999215-oppozitsiya-moya-pozitsiya-ili-kak-vnutrennyaya-tsenzura-meshaet-idti-k-uspehu#comments' target='_self'>120</a>
+</div>
+<a class="article-item__title" href="/career/lichnaya-effektivnost/1999215-oppozitsiya-moya-pozitsiya-ili-kak-vnutrennyaya-tsenzura-meshaet-idti-k-uspehu">Оппозиция – моя позиция, или Как внутренняя цензура мешает идти к успеху</a></div></article>
+<article class='footer-slider__item'><div class='article-item'>
+<a class="article-item__img" title="Как HR-лидеру работать с «теневой» системой управления: 5 инструментов" href="/career/hr-management/1999149-kak-hr-lideru-rabotat-s-tenevoi-sistemoi-upravleniya-5-instrumentov"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999149/mini_143x95_Kulakovskaya_Marina.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999149/mini_190x127_Kulakovskaya_Marina.jpg'><img class="article-item__img-self" alt="Как HR-лидеру работать с «теневой» системой управления: 5 инструментов" title="Как HR-лидеру работать с «теневой» системой управления: 5 инструментов" loading="lazy" width="143" height="96" src="/uploads/article/image/1999149/mini_Kulakovskaya_Marina.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/career/hr-management">HR-менеджмент</a><span class='article-item__ico _views'>7011</span>
+<a class='article-item__ico _messages' href='/career/hr-management/1999149-kak-hr-lideru-rabotat-s-tenevoi-sistemoi-upravleniya-5-instrumentov#comments' target='_self'>24</a>
+</div>
+<a class="article-item__title" href="/career/hr-management/1999149-kak-hr-lideru-rabotat-s-tenevoi-sistemoi-upravleniya-5-instrumentov">Как HR-лидеру работать с «теневой» системой управления: 5 инструментов</a></div></article>
+<article class='footer-slider__item'><div class='article-item'>
+<a class="article-item__img" title="О чем говорят в курилке, или Экспресс-диагностика корпоративной культуры" href="/management/practices/1999157-o-chem-govoryat-v-kurilke-ili-ekspress-diagnostika-korporativnoi-kultury"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999157/mini_143x95_Kalashnikov_Roman_2.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999157/mini_190x127_Kalashnikov_Roman_2.jpg'><img class="article-item__img-self" alt="О чем говорят в курилке, или Экспресс-диагностика корпоративной культуры" title="О чем говорят в курилке, или Экспресс-диагностика корпоративной культуры" loading="lazy" width="143" height="96" src="/uploads/article/image/1999157/mini_Kalashnikov_Roman_2.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/management/practices">Корпоративная практика</a><span class='article-item__ico _views'>6020</span>
+<a class='article-item__ico _messages' href='/management/practices/1999157-o-chem-govoryat-v-kurilke-ili-ekspress-diagnostika-korporativnoi-kultury#comments' target='_self'>21</a>
+</div>
+<a class="article-item__title" href="/management/practices/1999157-o-chem-govoryat-v-kurilke-ili-ekspress-diagnostika-korporativnoi-kultury">О чем говорят в курилке, или Экспресс-диагностика корпоративной культуры</a></div></article>
+<article class='footer-slider__item'><div class='article-item'>
+<a class="article-item__img" title="Почему токсичный сотрудник – это симптом ошибки в бизнес-процессах" href="/career/hr-management/1999128-pochemu-toksichnyi-sotrudnik-eto-simptom-oshibki-v-biznes-protsessah"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999128/mini_143x95_Khudokonenko_Valeriy_2.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999128/mini_190x127_Khudokonenko_Valeriy_2.jpg'><img class="article-item__img-self" alt="Почему токсичный сотрудник – это симптом ошибки в бизнес-процессах" title="Почему токсичный сотрудник – это симптом ошибки в бизнес-процессах" loading="lazy" width="143" height="96" src="/uploads/article/image/1999128/mini_Khudokonenko_Valeriy_2.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/career/hr-management">HR-менеджмент</a><span class='article-item__ico _views'>14268</span>
+<a class='article-item__ico _messages' href='/career/hr-management/1999128-pochemu-toksichnyi-sotrudnik-eto-simptom-oshibki-v-biznes-protsessah#comments' target='_self'>21</a>
+</div>
+<a class="article-item__title" href="/career/hr-management/1999128-pochemu-toksichnyi-sotrudnik-eto-simptom-oshibki-v-biznes-protsessah">Почему токсичный сотрудник – это симптом ошибки в бизнес-процессах</a></div></article>
+<article class='footer-slider__item'><div class='article-item'>
+<a class="article-item__img" title="Почему торговля акциями с юрлица – не самая хорошая идея" href="/finance/business/1999241-pochemu-torgovlya-aktsiyami-s-urlitsa-ne-samaya-horoshaya-ideya"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999241/mini_143x95_Sheveleva_Svetlana_4.png'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999241/mini_190x127_Sheveleva_Svetlana_4.png'><img class="article-item__img-self" alt="Почему торговля акциями с юрлица – не самая хорошая идея" title="Почему торговля акциями с юрлица – не самая хорошая идея" loading="lazy" width="143" height="96" src="/uploads/article/image/1999241/mini_Sheveleva_Svetlana_4.png" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/finance/business">Корпоративные финансы</a><span class='article-item__ico _views'>7830</span>
+<a class='article-item__ico _messages' href='/finance/business/1999241-pochemu-torgovlya-aktsiyami-s-urlitsa-ne-samaya-horoshaya-ideya#comments' target='_self'>15</a>
+</div>
+<a class="article-item__title" href="/finance/business/1999241-pochemu-torgovlya-aktsiyami-s-urlitsa-ne-samaya-horoshaya-ideya">Почему торговля акциями с юрлица – не самая хорошая идея</a></div></article>
+<article class='footer-slider__item'><div class='article-item'>
+<a class="article-item__img" title="Маркетинг на инстинктах: как влиять на потребителей с помощью метафор" href="/education/glavy-iz-knig/1999161-kak-vliyat-na-potrebitelei-s-pomoschu-instinktivnyh-instrumentov"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999161/mini_143x95_Leslie.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999161/mini_190x127_Leslie.jpg'><img class="article-item__img-self" alt="Маркетинг на инстинктах: как влиять на потребителей с помощью метафор" title="Маркетинг на инстинктах: как влиять на потребителей с помощью метафор" loading="lazy" width="143" height="96" src="/uploads/article/image/1999161/mini_Leslie.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/education/glavy-iz-knig">Главы из книг</a><span class='article-item__ico _views'>10089</span>
+<a class='article-item__ico _messages' href='/education/glavy-iz-knig/1999161-kak-vliyat-na-potrebitelei-s-pomoschu-instinktivnyh-instrumentov#comments' target='_self'>2</a>
+</div>
+<a class="article-item__title" href="/education/glavy-iz-knig/1999161-kak-vliyat-na-potrebitelei-s-pomoschu-instinktivnyh-instrumentov">Маркетинг на инстинктах: как влиять на потребителей с помощью метафор</a></div></article>
+<article class='footer-slider__item'><div class='article-item'>
+<a class="article-item__img" title="Почему сотрудники не рассказывают о компании и как это исправить" href="/career/hr-management/1999124-pochemu-sotrudniki-ne-rasskazyvaut-o-kompanii-i-kak-eto-ispravit"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999124/mini_143x95_Gusencova_Anastasia.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999124/mini_190x127_Gusencova_Anastasia.jpg'><img class="article-item__img-self" alt="Почему сотрудники не рассказывают о компании и как это исправить" title="Почему сотрудники не рассказывают о компании и как это исправить" loading="lazy" width="143" height="96" src="/uploads/article/image/1999124/mini_Gusencova_Anastasia.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/career/hr-management">HR-менеджмент</a><span class='article-item__ico _views'>5739</span>
+<a class='article-item__ico _messages' href='/career/hr-management/1999124-pochemu-sotrudniki-ne-rasskazyvaut-o-kompanii-i-kak-eto-ispravit#comments' target='_self'>15</a>
+</div>
+<a class="article-item__title" href="/career/hr-management/1999124-pochemu-sotrudniki-ne-rasskazyvaut-o-kompanii-i-kak-eto-ispravit">Почему сотрудники не рассказывают о компании и как это исправить</a></div></article>
+<article class='footer-slider__item'><div class='article-item'>
+<a class="article-item__img" title="Бизнес-сказка: как крепкая телега в лоскутное одеяло превратилась" href="/community/life/1999101-biznes-skazka-kak-krepkaya-telega-v-loskutnoe-odeyalo-prevratilas"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999101/mini_143x95_loskutnoe_odeyalo.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999101/mini_190x127_loskutnoe_odeyalo.jpg'><img class="article-item__img-self" alt="Бизнес-сказка: как крепкая телега в лоскутное одеяло превратилась" title="Бизнес-сказка: как крепкая телега в лоскутное одеяло превратилась" loading="lazy" width="143" height="96" src="/uploads/article/image/1999101/mini_loskutnoe_odeyalo.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/community/life">Business Fun</a><span class='article-item__ico _views'>6205</span>
+<a class='article-item__ico _messages' href='/community/life/1999101-biznes-skazka-kak-krepkaya-telega-v-loskutnoe-odeyalo-prevratilas#comments' target='_self'>18</a>
+</div>
+<a class="article-item__title" href="/community/life/1999101-biznes-skazka-kak-krepkaya-telega-v-loskutnoe-odeyalo-prevratilas">Бизнес-сказка: как крепкая телега в лоскутное одеяло превратилась</a></div></article>
+<article class='footer-slider__item'><div class='article-item'>
+<a class="article-item__img" title="Каким должен быть контент бренда в эпоху смыслов" href="/management/marketing/1999329-kakim-dolzhen-byt-kontent-brenda-v-epohu-smyslov"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999329/mini_143x95_Shunina_Yuliana.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999329/mini_190x127_Shunina_Yuliana.jpg'><img class="article-item__img-self" alt="Каким должен быть контент бренда в эпоху смыслов" title="Каким должен быть контент бренда в эпоху смыслов" loading="lazy" width="143" height="96" src="/uploads/article/image/1999329/mini_Shunina_Yuliana.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/management/marketing">Маркетинг</a><span class='article-item__ico _views'>4231</span>
+<a class='article-item__ico _messages' href='/management/marketing/1999329-kakim-dolzhen-byt-kontent-brenda-v-epohu-smyslov#comments' target='_self'>19</a>
+</div>
+<a class="article-item__title" href="/management/marketing/1999329-kakim-dolzhen-byt-kontent-brenda-v-epohu-smyslov">Каким должен быть контент бренда в эпоху смыслов</a></div></article>
+<article class='footer-slider__item'><div class='article-item'>
+<a class="article-item__img" title="Управленческие иллюзии: как договориться с внутренним сподвижником" href="/management/practices/1999266-upravlencheskie-illuzii-kak-dogovoritsya-s-vnutrennim-spodvizhnikom"><picture><source media='(max-width: 320px)' srcset='/uploads/article/image/1999266/mini_143x95_Morozov_Artem.jpg'>
+<source media='(max-width: 430px)' srcset='/uploads/article/image/1999266/mini_190x127_Morozov_Artem.jpg'><img class="article-item__img-self" alt="Управленческие иллюзии: как договориться с внутренним сподвижником" title="Управленческие иллюзии: как договориться с внутренним сподвижником" loading="lazy" width="143" height="96" src="/uploads/article/image/1999266/mini_Morozov_Artem.jpg" /></picture></a><div class='article-item__meta'>
+<a class="article-item__type" href="/management/practices">Корпоративная практика</a><span class='article-item__ico _views'>5387</span>
+<a class='article-item__ico _messages' href='/management/practices/1999266-upravlencheskie-illuzii-kak-dogovoritsya-s-vnutrennim-spodvizhnikom#comments' target='_self'>18</a>
+</div>
+<a class="article-item__title" href="/management/practices/1999266-upravlencheskie-illuzii-kak-dogovoritsya-s-vnutrennim-spodvizhnikom">Управленческие иллюзии: как договориться с внутренним сподвижником</a></div></article>
+</section>
+</div>
+</div>
+<div class='footer-nav'>
+<div class='footer-nav__in'>
+<div class='footer-nav__menu'><nav class='footer-nav__nav'><a class="footer-nav__menu-item" href="/pages/about">О проекте</a><a class="footer-nav__menu-item" href="/pages/faq">F.A.Q.</a><a class="footer-nav__menu-item" href="/pages/ad">Реклама</a><a class="footer-nav__menu-item" href="/pages/declaration">Декларация сообщества</a><a class="footer-nav__menu-item" href="/pages/guide">Стать автором</a></nav><span class='footer-nav__count'>1255 пользователей онлайн</span></div>
+<div class='footer-nav__soc-icon soc-icon'><a class='soc-icon__link' href='https://www.linkedin.com/company/e-xecutive' target='_blank'><span class="icon icon--social-linkedin  soc-icon__icon"><svg class='icon__cnt'><use xlink:href='#social-linkedin-icon'/></svg></span></a><a class='soc-icon__link' href='https://twitter.com/executive_ru' rel='nofollow' target='_blank'><span class="icon icon--social-twitter  soc-icon__icon"><svg class='icon__cnt'><use xlink:href='#social-twitter-icon'/></svg></span></a><a class='soc-icon__link' href='https://vk.com/executive' rel='nofollow' target='_blank'><span class="icon icon--social-vkontakte  soc-icon__icon"><svg class='icon__cnt'><use xlink:href='#social-vkontakte-icon'/></svg></span></a><a class='soc-icon__link' href='https://t.me/ExecutiveMedia' rel='nofollow' target='_blank'><span class="icon icon--social-telegram  soc-icon__icon"><svg class='icon__cnt'><use xlink:href='#social-telegram-icon'/></svg></span></a></div>
+</div>
+</div>
+<div class='footer-subnav dn-ls'>
+<ul>
+<li class='list-heading'><a href="/community">Cообщество</a></li>
+<li><a href="/users">Лица Сообщества</a></li>
+<li><a href="/league">Лига экспертов</a></li>
+<li><a href="/community/history">История Сообщества</a></li>
+<li><a href="/community/magazine">Журнал Executive.ru</a></li>
+<li><a href="/community/recreation">Executive отдыхает</a></li>
+<li class='list-heading mt20'><a href="/sections/hr-news/news">Новости</a></li>
+<li><a href="/allnews/businessnews">Новости дня</a></li>
+<li><a href="/news">Новости компаний</a></li>
+<li><a href="/sections/discharge-and-assigment/news">Отставки и назначения</a></li>
+<li><a href="/sections/news-education/news">Новости образования</a></li>
+<li><a href="/sections/news-community/news">Новости Сообщества</a></li>
+<li><a href="/sections/hr-news/news">HR-новости</a></li>
+</ul>
+<ul>
+<li class='list-heading'><a href="/career">Карьера</a></li>
+<li><a href="/career/hr-management">HR-менеджмент</a></li>
+<li><a href="/career/labormarket">Поиск работы</a></li>
+<li><a href="/career/hr-indicators">Рынок труда</a></li>
+<li><a href="/career/lichnaya-effektivnost">Личная эффективность</a></li>
+<li><a href="/career/planirovanie-karery">Планирование карьеры</a></li>
+<li><a href="/jobs">Управленческие вакансии</a></li>
+<li><a href="/companies">Справочник компаний</a></li>
+</ul>
+<ul>
+<li class='list-heading'><a href="/education">Бизнес-образование</a></li>
+<li><a href="/education/korporativnoe-obuchenie">Корпоративное обучение</a></li>
+<li><a href="/education/mbarus">MBA в России</a></li>
+<li><a href="/education/mbaabroad">MBA за рубежом</a></li>
+<li><a href="/education/ratingsbs">Рейтинги</a></li>
+<li><a href="/education/proeducation">Бизнес-курсы</a></li>
+<li><a href="/education/cases">Бизнес-кейсы</a></li>
+<li><a href="/books">Книги по бизнесу</a></li>
+<li><a href="/polls">Тесты</a></li>
+<li><a href="/videos">Видео по бизнесу</a></li>
+<li><a href="/schools">Каталог бизнес-школ</a></li>
+</ul>
+<ul>
+<li class='list-heading'><a href="/management">Менеджмент</a></li>
+<li><a href="/management/biznes-liderstvo">Бизнес-лидерство</a></li>
+<li><a href="/management/practices">Корпоративная практика</a></li>
+<li><a href="/management/itforbusiness">IT-менеджмент</a></li>
+<li><a href="/management/marketing">Маркетинг</a></li>
+<li><a href="/management/sales">Продажи</a></li>
+<li><a href="/softs">IT для бизнеса</a></li>
+<li><a href="/management/market">Exemarket</a></li>
+<li><a target="_blank" href="https://www.e-xecutive.ru/wiki/index.php/Заглавная_страница">Энциклопедия менеджера</a></li>
+</ul>
+<ul>
+<li class='list-heading'><a href="/finance">Финансы</a></li>
+<li><a href="/finance/business">Корпоративные финансы</a></li>
+<li><a href="/finance/private">Личные финансы</a></li>
+<li><a href="/finance/novosti-ekonomiki">Риски и возможности</a></li>
+<li><a href="/finance/investment">Инвестиции</a></li>
+</ul>
+</div>
+<div class='copyright-box'>
+<div class='b-grid-xls'>
+<div class='b-grid__33-xls copyright-box__col'>
+Свидетельство о регистрации СМИ Эл NФС 77-38751. Републикация материалов - только со ссылкой на <a href="/">Executive.ru</a>, с разрешения редакции сайта. Редакция не несет ответственности за высказывания пользователей на сайте.
+<br>
+<a class="copyright-box__link" href="https://www.e-xecutive.ru/community/history/1912111-politika-obrabotki-personalnyh-dannyh-v-e-xecutive-ru">Политика обработки персональных данных</a>
+</div>
+<div class='b-grid__33-xls copyright-box__col'>
+Сервисы, рекрутинг:
+<noscript class='copyright-box__link js-email-replace' data-email='search'>Пожалуйста, включите Javascript чтобы увидеть email адрес</noscript>
+<br>
+Сервисы, образование:
+<noscript class='copyright-box__link js-email-replace' data-email='trainings'>Пожалуйста, включите Javascript чтобы увидеть email адрес</noscript>
+<br>
+Реклама:
+<noscript class='copyright-box__link js-email-replace' data-email='advertising'>Пожалуйста, включите Javascript чтобы увидеть email адрес</noscript>
+<br>
+Редакция:
+<noscript class='copyright-box__link js-email-replace' data-email='content'>Пожалуйста, включите Javascript чтобы увидеть email адрес</noscript>
+<br>
+Поддержка:
+<noscript class='copyright-box__link js-email-replace' data-email='support'>Пожалуйста, включите Javascript чтобы увидеть email адрес</noscript>
+<br>
+<a class="copyright-box__link" href="/sitemap-articles">Карта сайта</a>
+</div>
+<div class='b-grid__33-xls copyright-box__col'>
+Телефон отдела рекламы:
+<a class="copyright-box__text" href="tel:+7-495-953-74-34">+7 495 953-74-34</a>
+<br>
+Телефон редакции:
+<a class="copyright-box__text" href="tel:+7-495-953-74-34">+7 495 953-74-34</a>
+<br>
+Адрес:
+<span class='copyright-box__text'>115035, Россия, Москва, улица Пятницкая, дом 2-38, строение 3.</span>
+</div>
+</div>
+<div class='mt20 mh10-ls'>
+Executive.ru – краудсорсинговый проект, 80% текстов созданы участниками Сообщества. Если вы не согласны с идеями, высказанными в статье, хотите оспорить логику повествования, уточнить цифры и факты, обращайтесь к авторам, а не в редакцию. Сделать это можно в дискуссиях под публикациями.
+<br>
+<span class='copyright-box__age'>18+</span>
+Executive.ru © 2000 – 2026.
+</div>
+</div>
+</div>
+
+</div>
+<div id='fb-root'></div>
+
+
+
+</body>
+</html>
