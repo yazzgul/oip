@@ -3,174 +3,174 @@ import re
 import json
 from collections import defaultdict
 
-class BooleanSearchEngine:
-    def __init__(self, docs_source):
-        """
-        docs_source: либо список строк (документов), либо путь к папке с .txt файлами.
-        """
-        self.documents = {}  # id -> текст
-        self.inverted_index = defaultdict(list)  # термин -> список id
-        self.all_docs = set()
+# ─── Настройки путей ─────────────────────────────────────────────────────────
+LEMMAS_DIR  = "../task02/output"              # папка с файлами lemmas_XXXX.txt из задания 2
+INDEX_FILE  = "inverted_index.json" # куда сохранить индекс
 
-        if isinstance(docs_source, list):
-            # Документы переданы списком строк
-            for i, text in enumerate(docs_source, start=1):
-                self.documents[i] = text
-        elif isinstance(docs_source, str) and os.path.isdir(docs_source):
-            # Читаем все .txt файлы из папки
-            for i, filename in enumerate(sorted(os.listdir(docs_source)), start=1):
-                if filename.endswith('.txt'):
-                    with open(os.path.join(docs_source, filename), 'r', encoding='utf-8') as f:
-                        self.documents[i] = f.read().strip()
-        else:
-            raise ValueError("docs_source должен быть списком строк или путём к папке")
 
-        self.all_docs = set(self.documents.keys())
-        self._build_index()
+# ─── Построение инвертированного индекса из файлов лемм ──────────────────────
+def build_index_from_lemmas(lemmas_dir: str) -> tuple:
+    """
+    Читает все файлы lemmas_XXXX.txt из папки задания 2.
+    Формат строки в файле: <лемма> <форма1> <форма2> ... <формаN>
 
-    def _build_index(self):
-        """Построение инвертированного индекса."""
-        for doc_id, text in self.documents.items():
-            # Токенизация: слова из букв (включая русские и английские), приводим к нижнему регистру
-            words = re.findall(r'\b[а-яА-Яa-zA-ZёЁ]+\b', text)
-            for word in words:
-                word_low = word.lower()
-                if doc_id not in self.inverted_index[word_low]:
-                    self.inverted_index[word_low].append(doc_id)
+    Возвращает:
+      inverted_index : { лемма -> [doc_id, ...] }
+      doc_names      : { doc_id -> имя файла }
+    """
+    inverted_index = defaultdict(list)
+    doc_names = {}
 
-    def save_index(self, filepath):
-        """Сохраняет индекс в JSON."""
-        data = {
-            'документы': self.documents,
-            'индекс': self.inverted_index,
-            'все_документы': list(self.all_docs)
-        }
-        with open(filepath, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=4)
+    lemma_files = sorted(
+        f for f in os.listdir(lemmas_dir) if re.match(r"lemmas_\d+\.txt$", f)
+    )
 
-    def load_index(self, filepath):
-        """Загружает индекс из JSON (альтернативный способ создания объекта)."""
-        with open(filepath, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-        self.documents = {int(k): v for k, v in data['документы'].items()}
-        self.inverted_index = {k: v for k, v in data['индекс'].items()}
-        self.all_docs = set(data['все_документы'])
+    if not lemma_files:
+        raise FileNotFoundError(f"В папке '{lemmas_dir}' не найдено файлов lemmas_XXXX.txt")
 
-    def search(self, query):
-        """
-        Выполняет булев запрос, возвращает список id документов, удовлетворяющих запросу.
-        """
-        # Токенизация запроса
+    for lemma_file in lemma_files:
+        # Извлекаем номер документа из имени файла (например, 0001)
+        num = re.search(r"(\d+)", lemma_file).group(1)
+        doc_id = int(num)
+        doc_names[doc_id] = lemma_file.replace("lemmas_", "page_")
+
+        path = os.path.join(lemmas_dir, lemma_file)
+        with open(path, encoding="utf-8") as f:
+            for line in f:
+                parts = line.strip().split()
+                if not parts:
+                    continue
+                lemma = parts[0]  # первое слово — лемма
+                # Добавляем doc_id к данной лемме (без дубликатов)
+                if doc_id not in inverted_index[lemma]:
+                    inverted_index[lemma].append(doc_id)
+
+    # Сортируем списки doc_id для удобства
+    for lemma in inverted_index:
+        inverted_index[lemma].sort()
+
+    print(f"Загружено документов: {len(doc_names)}")
+    print(f"Уникальных лемм в индексе: {len(inverted_index)}")
+    return dict(inverted_index), doc_names
+
+
+def save_index(inverted_index: dict, doc_names: dict, filepath: str):
+    """Сохраняет инвертированный индекс в JSON."""
+    data = {
+        "документы": doc_names,
+        "индекс": inverted_index,
+        "все_документы": sorted(doc_names.keys())
+    }
+    with open(filepath, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+    print(f"Индекс сохранён: {filepath}")
+
+
+def load_index(filepath: str) -> tuple:
+    """Загружает индекс из JSON."""
+    with open(filepath, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    inverted_index = data["индекс"]
+    doc_names = {int(k): v for k, v in data["документы"].items()}
+    all_docs = set(data["все_документы"])
+    return inverted_index, doc_names, all_docs
+
+
+# ─── Булев поиск ─────────────────────────────────────────────────────────────
+class BooleanSearch:
+    def __init__(self, inverted_index: dict, all_docs: set):
+        self.index = inverted_index
+        self.all_docs = all_docs
+
+    def search(self, query: str) -> list:
         tokens = self._tokenize_query(query)
-        # Преобразование в постфиксную запись (ОПН)
         postfix = self._infix_to_postfix(tokens)
-        # Вычисление результата
-        result_set = self._evaluate_postfix(postfix)
-        return sorted(result_set)
+        result = self._evaluate(postfix)
+        return sorted(result)
 
-    def _tokenize_query(self, query):
-        """Разбивает строку запроса на токены: слова, операторы, скобки."""
-        # Регулярное выражение для выделения слов (буквы), операторов AND, OR, NOT и скобок
-        pattern = r'\(|\)|\bAND\b|\bOR\b|\bNOT\b|\b[а-яА-Яa-zA-ZёЁ]+\b'
+    def _tokenize_query(self, query: str) -> list:
+        pattern = r'\(|\)|\bAND\b|\bOR\b|\bNOT\b|\b[а-яёА-ЯЁa-zA-Z]+\b'
         tokens = re.findall(pattern, query)
-        # Приводим термины (не операторы) к нижнему регистру
         result = []
         for t in tokens:
-            if t not in ('AND', 'OR', 'NOT', '(', ')'):
-                result.append(t.lower())
-            else:
+            if t in ('AND', 'OR', 'NOT', '(', ')'):
                 result.append(t)
+            else:
+                result.append(t.lower())
         return result
 
-    def _infix_to_postfix(self, tokens):
-        """Преобразует инфиксную последовательность токенов в постфиксную (алгоритм сортировочной станции)."""
+    def _infix_to_postfix(self, tokens: list) -> list:
+        """Алгоритм сортировочной станции (shunting-yard)."""
         precedence = {'NOT': 3, 'AND': 2, 'OR': 1}
-        output = []
-        stack = []
-
+        output, stack = [], []
         for token in tokens:
             if token not in ('AND', 'OR', 'NOT', '(', ')'):
-                # Операнд (термин)
                 output.append(token)
             elif token == '(':
                 stack.append(token)
             elif token == ')':
                 while stack and stack[-1] != '(':
                     output.append(stack.pop())
-                stack.pop()  # убираем '('
-            else:
-                # Оператор
+                if stack:
+                    stack.pop()  # убираем '('
+            else:  # оператор
                 while (stack and stack[-1] != '(' and
                        precedence.get(stack[-1], 0) >= precedence.get(token, 0)):
                     output.append(stack.pop())
                 stack.append(token)
-
         while stack:
             output.append(stack.pop())
-
         return output
 
-    def _evaluate_postfix(self, postfix):
-        """Вычисляет значение выражения в постфиксной записи, используя множества doc_id."""
+    def _evaluate(self, postfix: list) -> set:
         stack = []
-
         for token in postfix:
             if token == 'NOT':
-                # Унарный оператор
                 operand = stack.pop()
-                # NOT A = все_документы \ A
-                result = self.all_docs - operand
-                stack.append(result)
-            elif token in ('AND', 'OR'):
-                # Бинарные операторы
-                right = stack.pop()
-                left = stack.pop()
-                if token == 'AND':
-                    result = left & right
-                else:  # OR
-                    result = left | right
-                stack.append(result)
+                stack.append(self.all_docs - operand)
+            elif token == 'AND':
+                right, left = stack.pop(), stack.pop()
+                stack.append(left & right)
+            elif token == 'OR':
+                right, left = stack.pop(), stack.pop()
+                stack.append(left | right)
             else:
-                # Термин: получаем множество id документов, содержащих этот термин (или пустое)
-                doc_set = set(self.inverted_index.get(token, []))
+                # Термин — ищем в индексе по лемме
+                doc_set = set(self.index.get(token, []))
                 stack.append(doc_set)
-
-        # В стеке должен остаться один элемент – итоговое множество
         return stack.pop() if stack else set()
 
 
+# ─── Главная программа ───────────────────────────────────────────────────────
 def main():
-    # Демонстрационная коллекция документов
-    docs = [
-        "Клеопатра и Цезарь были связаны",
-        "Антоний и Цицерон соперничали",
-        "Помпей был великим полководцем",
-        "Цезарь победил Помпея",
-        "Антоний влюбился в Клеопатру",
-        "Цицерон был оратором"
-    ]
+    # Шаг 1: построить индекс из лемм задания 2 (или загрузить готовый)
+    if os.path.exists(INDEX_FILE):
+        print(f"Загружаю существующий индекс из {INDEX_FILE}...")
+        inverted_index, doc_names, all_docs = load_index(INDEX_FILE)
+        print(f"  Документов: {len(doc_names)}, лемм: {len(inverted_index)}")
+    else:
+        print("Строю индекс из файлов лемм задания 2...")
+        inverted_index, doc_names = build_index_from_lemmas(LEMMAS_DIR)
+        all_docs = set(doc_names.keys())
+        save_index(inverted_index, doc_names, INDEX_FILE)
 
-    # Создаём поисковый движок
-    engine = BooleanSearchEngine(docs)
+    engine = BooleanSearch(inverted_index, all_docs)
 
-    # Сохраняем индекс в файл (требование задания)
-    engine.save_index('inverted_index.json')
-    print("Индекс сохранён в файл inverted_index.json\n")
+    # Шаг 2: булев поиск
+    print("\nБулев поиск по инвертированному индексу")
+    print("Операторы: AND, OR, NOT  |  Пример: автомобиль AND беспилотник")
+    print("Введите пустую строку для выхода.\n")
 
-    # Запрос вводится с клавиатуры (не хардкодится)
-    print("Введите булев запрос (поддерживаются AND, OR, NOT, скобки).")
-    print("Пример: (Клеопатра AND Цезарь) OR (Антоний AND Цицерон) OR Помпей")
-    query = input("Запрос: ").strip()
+    while True:
+        query = input("Запрос: ").strip()
+        if not query:
+            break
 
-    if not query:
-        query = "(Клеопатра AND Цезарь) OR (Антоний AND Цицерон) OR Помпей"
-        print(f"Используется демо-запрос: {query}")
-
-    result_ids = engine.search(query)
-
-    print(f"\nНайдено документов: {len(result_ids)}")
-    for doc_id in result_ids:
-        print(f"{doc_id}: {engine.documents[doc_id]}")
+        result_ids = engine.search(query)
+        print(f"Найдено документов: {len(result_ids)}")
+        for doc_id in result_ids:
+            print(f"  [{doc_id:04d}] {doc_names.get(doc_id, '???')}")
+        print()
 
 
 if __name__ == "__main__":
