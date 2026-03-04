@@ -1,155 +1,172 @@
-import sys
-from collections import defaultdict
+import os
 import re
+from collections import defaultdict
 
-# Стоп-слова (предлоги, союзы, частицы) для русского и английского
-russian_stopwords = {
-    "в", "во", "на", "с", "со", "и", "а", "но", "или", "же", "бы", "ли",
-    "из", "за", "у", "к", "о", "об", "от", "до", "по", "под", "над", "при",
-    "про", "без", "для", "через", "между", "из-за", "из-под", "как", "так",
-    "что", "чтобы", "тоже", "также", "это", "эти", "этот", "эта", "это"
+# ─── Импорт pymorphy3 или pymorphy2 ─────────────────────────────────────────
+try:
+    import pymorphy3 as pymorphy
+    print("Используется pymorphy3")
+except ImportError:
+    try:
+        import pymorphy2 as pymorphy
+        print("Используется pymorphy2")
+    except ImportError:
+        raise ImportError("Установите: pip install pymorphy3")
+
+# ─── Стоп-слова ──────────────────────────────────────────────────────────────
+# Части речи, которые фильтруем через pymorphy (не нужны как токены)
+SKIP_POS = {
+    'PREP',   # предлог  (в, на, из, ...)
+    'CONJ',   # союз     (и, но, или, ...)
+    'PRCL',   # частица  (не, ни, бы, ...)
+    'INTJ',   # междометие
+    'NPRO',   # местоимение (он, она, они, ...)
 }
-english_stopwords = {
-    "a", "an", "the", "and", "or", "but", "if", "in", "on", "at", "to", "for",
-    "with", "by", "of", "from", "as", "is", "are", "was", "were", "be", "been",
-    "have", "has", "had", "do", "does", "did", "will", "would", "can", "could",
-    "may", "might", "must", "shall", "should", "that", "this", "these", "those"
+
+# Дополнительные слова-исключения (которые pymorphy может не поймать)
+EXTRA_STOPWORDS = {
+    # русские
+    "это","также","тоже","уже","ещё","еще","просто","именно","вообще",
+    "например","отчасти","постепенно","совместно","конкретно","ранее",
+    "сейчас","нужно","очень","более","менее","самый","самая","самое",
+    "весь","вся","всё","все","который","которая","которое","которые",
+    "свой","своя","своё","свои","наш","наша","наше","ваш","ваша",
+    "такой","такая","такое","такие","там","тут","здесь","куда","где",
+    "нет","да","вот","вон","тем","нам","вам","них","его","её","ее",
+    # английские
+    "the","and","or","but","for","with","from","this","that","these",
+    "those","will","would","can","could","may","might","must","shall",
+    "should","have","has","had","does","did","been","being","also",
+    "just","very","more","some","any","all","both","each","only","not",
+    "into","onto","upon","about","above","below","over","under","off",
+    "out","back","here","there","then","than","when","where","which",
+    "who","what","how","why","once","even","still","already","now",
+    "its","our","your","their","his","her","them","you","they","she",
+    "was","were","are","too","nor","yet","via","per",
 }
-stopwords = russian_stopwords.union(english_stopwords)
 
-def has_mixed_alphabets(token):
-    """Проверяет, содержит ли токен смесь кириллицы и латиницы"""
-    has_cyrillic = any('\u0400' <= c <= '\u04FF' or c == 'ё' or c == 'Ё' for c in token)
-    has_latin = any('a' <= c.lower() <= 'z' for c in token)
-    return has_cyrillic and has_latin
+PAGES_DIR  = "../task01/downloaded_pages"
+# PAGES_DIR  = "task01/downloaded_pages"
+OUTPUT_DIR = "output"
+MIN_LEN    = 3
 
-def is_valid_token(token):
-    # Проверка на пустоту
-    if not token:
+
+# ─── Извлечение текста из HTML ───────────────────────────────────────────────
+def extract_text(html: str) -> str:
+    text = re.sub(
+        r'<(script|style|noscript)[^>]*>.*?</(script|style|noscript)>',
+        ' ', html, flags=re.DOTALL | re.IGNORECASE
+    )
+    text = re.sub(r'<[^>]+>', ' ', text)
+    text = re.sub(r'&[a-zA-Z]{2,6};', ' ', text)
+    text = re.sub(r'&#?\w+;', ' ', text)
+    return text
+
+
+# ─── Валидация токена ────────────────────────────────────────────────────────
+def has_mixed_alphabets(t: str) -> bool:
+    cyr = any('\u0400' <= c <= '\u04FF' for c in t)
+    lat = any('a' <= c.lower() <= 'z' for c in t)
+    return cyr and lat
+
+
+def is_valid(token: str) -> bool:
+    if len(token) < MIN_LEN:
         return False
-    
-    # Проверка на наличие цифр
     if any(c.isdigit() for c in token):
         return False
-    
-    # Проверка на смесь алфавитов
     if has_mixed_alphabets(token):
         return False
-    
-    # Проверка на стоп-слова
-    if token in stopwords:
+    if token in EXTRA_STOPWORDS:
         return False
-    
-    # Проверка, что токен состоит только из букв (одного алфавита)
-    if not token.replace('-', '').isalpha():
+    clean = token.strip('-')
+    if len(clean) < MIN_LEN or not clean.replace('-', '').isalpha():
         return False
-    
     return True
 
-def process_files():
-    all_tokens = set()
-    form_to_lemma = {}
-    
-    print("Чтение файлов...")
 
-    # Чтение tokens_1.txt
-    try:
-        with open('tokens_1.txt', 'r', encoding='utf-8') as f:
-            for line in f:
-                token = line.strip().lower()
-                if token:
-                    all_tokens.add(token)
-        print(f"Загружено токенов из tokens_1.txt: {len(all_tokens)}")
-    except FileNotFoundError:
-        print("Файл tokens_1.txt не найден")
+# ─── Лемматизация через pymorphy ─────────────────────────────────────────────
+morph = pymorphy.MorphAnalyzer()
 
-    # Чтение lemmas_1.txt и lemmas_2.txt
-    for filename in ['lemmas_1.txt', 'lemmas_2.txt']:
-        try:
-            with open(filename, 'r', encoding='utf-8') as f:
-                lines = f.readlines()
-                for line in lines:
-                    line = line.strip()
-                    if not line or ':' not in line:
-                        continue
-                    
-                    parts = line.split(':', 1)
-                    if len(parts) != 2:
-                        continue
-                        
-                    lemma, forms_str = parts
-                    lemma = lemma.strip().lower()
-                    
-                    # Проверяем лемму на валидность
-                    if is_valid_token(lemma):
-                        all_tokens.add(lemma)
-                        form_to_lemma[lemma] = lemma
-                    
-                    # Обрабатываем формы
-                    forms = forms_str.strip().split()
-                    for form in forms:
-                        form_low = form.lower()
-                        if is_valid_token(form_low):
-                            all_tokens.add(form_low)
-                            form_to_lemma[form_low] = lemma
-            print(f"Загружено из {filename}")
-        except FileNotFoundError:
-            print(f"Файл {filename} не найден")
+def get_lemma(token: str) -> tuple:
+    """
+    Возвращает (лемма, часть_речи) для токена.
+    Если слово является предлогом/союзом/частицей/местоимением — возвращает None.
+    """
+    parsed = morph.parse(token)
+    if not parsed:
+        return token, None
+    best = parsed[0]
+    pos = best.tag.POS
+    if pos in SKIP_POS:
+        return None, pos
+    lemma = best.normal_form
+    return lemma, pos
 
-    print(f"Всего уникальных токенов до фильтрации: {len(all_tokens)}")
 
-    # Фильтрация токенов
-    clean_tokens = []
-    invalid_tokens = []
-    
-    for token in all_tokens:
-        if is_valid_token(token):
-            clean_tokens.append(token)
-        else:
-            invalid_tokens.append(token)
-    
-    clean_tokens.sort()
-    
-    print(f"Валидных токенов после фильтрации: {len(clean_tokens)}")
-    print(f"Отфильтровано 'мусорных' токенов: {len(invalid_tokens)}")
-    if invalid_tokens:
-        print("Примеры отфильтрованных токенов:", invalid_tokens[:10])
+# ─── Токенизация одной страницы ──────────────────────────────────────────────
+def tokenize_page(path: str) -> list:
+    with open(path, encoding="utf-8", errors="ignore") as f:
+        html = f.read()
+    text = extract_text(html)
+    raw = re.findall(r"[а-яёА-ЯЁa-zA-Z][а-яёА-ЯЁa-zA-Z\-]*", text)
+    tokens = []
+    for t in raw:
+        t_low = t.lower().strip('-')
+        if not is_valid(t_low):
+            continue
+        lemma, pos = get_lemma(t_low)
+        if lemma is None:          # стоп-слово по части речи
+            continue
+        tokens.append((t_low, lemma))
+    return tokens
 
-    # Группировка по леммам
-    lemma_to_forms = defaultdict(list)
-    unmatched_tokens = []
-    
-    for token in clean_tokens:
-        if token in form_to_lemma:
-            lemma = form_to_lemma[token]
-        else:
-            lemma = token
-            unmatched_tokens.append(token)
-        lemma_to_forms[lemma].append(token)
-    
-    print(f"Токенов, найденных в словаре лемм: {len(clean_tokens) - len(unmatched_tokens)}")
-    print(f"Токенов НЕ найденных в словаре: {len(unmatched_tokens)}")
 
-    # Сортировка лемм для вывода
-    sorted_lemmas = sorted(lemma_to_forms.keys())
+# ─── Основная обработка ──────────────────────────────────────────────────────
+def process_all_pages():
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    # Запись файла с токенами
-    with open('tokens_output.txt', 'w', encoding='utf-8') as f:
-        for token in clean_tokens:
-            f.write(token + '\n')
-    print("Создан файл tokens_output.txt")
+    if not os.path.isdir(PAGES_DIR):
+        print(f"Папка '{PAGES_DIR}' не найдена.")
+        return
 
-    # Запись файла с леммами (без дубликатов в строке)
-    with open('lemmas_output.txt', 'w', encoding='utf-8') as f:
-        for lemma in sorted_lemmas:
-            # Убираем дубликаты и сортируем
-            unique_forms = sorted(set(lemma_to_forms[lemma]))
-            # Формируем строку: лемма и уникальные формы
-            line = lemma + ' ' + ' '.join(unique_forms)
-            f.write(line + '\n')
-    print("Создан файл lemmas_output.txt")
+    page_files = sorted(
+        f for f in os.listdir(PAGES_DIR) if re.match(r"page_\d+\.txt$", f)
+    )
+    if not page_files:
+        print("Файлы page_XXXX.txt не найдены.")
+        return
 
-    print("Обработка завершена успешно!")
+    print(f"Найдено страниц: {len(page_files)}\n")
+
+    for page_file in page_files:
+        num = re.search(r"(\d+)", page_file).group(1)
+
+        token_lemma_pairs = tokenize_page(os.path.join(PAGES_DIR, page_file))
+
+        # Уникальные токены
+        unique_tokens = sorted(set(t for t, _ in token_lemma_pairs))
+
+        # Группировка по леммам
+        lemma_to_forms = defaultdict(set)
+        for token, lemma in token_lemma_pairs:
+            lemma_to_forms[lemma].add(token)
+
+        # tokens_XXXX.txt
+        with open(os.path.join(OUTPUT_DIR, f"tokens_{num}.txt"), "w", encoding="utf-8") as f:
+            for t in unique_tokens:
+                f.write(t + "\n")
+
+        # lemmas_XXXX.txt
+        with open(os.path.join(OUTPUT_DIR, f"lemmas_{num}.txt"), "w", encoding="utf-8") as f:
+            for lemma in sorted(lemma_to_forms.keys()):
+                forms = sorted(lemma_to_forms[lemma])
+                f.write(lemma + " " + " ".join(forms) + "\n")
+
+        print(f"  [{num}] {page_file}  →  {len(unique_tokens):5d} токенов  |  {len(lemma_to_forms):5d} лемм")
+
+    print(f"\nГотово! Файлы сохранены в '{OUTPUT_DIR}/'")
+
 
 if __name__ == "__main__":
-    process_files()
+    process_all_pages()
