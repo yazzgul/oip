@@ -1,343 +1,171 @@
-# import os
-# import re
-# import math
-# import glob
-# from collections import Counter, defaultdict
-# from bs4 import BeautifulSoup
-# import pymorphy3
-
-# # Настройка путей
-# BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-
-# TOKENS_FILE = os.path.join(BASE_DIR, '..', 'task02', 'tokens_output.txt')
-# LEMMAS_FILE = os.path.join(BASE_DIR, '..', 'task02', 'lemmas_output.txt')
-# PAGES_DIR = os.path.join(BASE_DIR, '..', 'task01', 'downloaded_pages')
-# PAGE_PATTERN = os.path.join(PAGES_DIR, 'page_*.txt')
-
-# # Папки для результатов
-# TERMS_RESULT_DIR = os.path.join(BASE_DIR, 'results', 'terms')
-# LEMMAS_RESULT_DIR = os.path.join(BASE_DIR, 'results', 'lemmas')
-# os.makedirs(TERMS_RESULT_DIR, exist_ok=True)
-# os.makedirs(LEMMAS_RESULT_DIR, exist_ok=True)
-
-# # Загрузка терминов (каждая строка — одно слово)
-# def load_terms(filename):
-#     with open(filename, 'r', encoding='utf-8') as f:
-#         return set(line.strip() for line in f if line.strip())
-
-# # Загрузка лемм (поддерживает оба формата)
-# def load_lemmas(filename):
-#     lemmas = set()
-#     with open(filename, 'r', encoding='utf-8') as f:
-#         for line in f:
-#             line = line.strip()
-#             if not line:
-#                 continue
-            
-#             # Если есть двоеточие — берём левую часть
-#             if ':' in line:
-#                 lemma = line.split(':')[0].strip()
-#                 if lemma:
-#                     lemmas.add(lemma)
-#             else:
-#                 # Если нет двоеточия — вся строка это лемма
-#                 lemmas.add(line)
-    
-#     return lemmas
-
-# print("Загрузка терминов и лемм...")
-# terms_set = load_terms(TOKENS_FILE)
-# lemmas_set = load_lemmas(LEMMAS_FILE)
-# print(f"Терминов: {len(terms_set)}, лемм: {len(lemmas_set)}")
-
-# # Инициализация лемматизатора
-# morph = pymorphy3.MorphAnalyzer()
-
-# def tokenize(text):
-#     return re.findall(r'[a-zA-Zа-яА-ЯёЁ]+', text.lower())
-
-# processed_files = []
-# processed_term_freq = []
-# processed_lemma_freq = []
-# processed_token_count = []
-
-# page_files = sorted(glob.glob(PAGE_PATTERN))
-# print(f"Найдено {len(page_files)} страниц. Начинаем обработку...")
-
-# for i, page_file in enumerate(page_files):
-#     with open(page_file, 'r', encoding='utf-8') as f:
-#         html = f.read()
-    
-#     soup = BeautifulSoup(html, 'html.parser')
-#     text = soup.get_text()
-#     tokens = tokenize(text)
-#     token_count = len(tokens)
-    
-#     if token_count == 0:
-#         print(f"Предупреждение: документ {page_file} не содержит слов, пропускаем.")
-#         continue
-    
-#     # Частота терминов
-#     token_counter = Counter(tokens)
-#     term_freq = {term: token_counter.get(term, 0) for term in terms_set}
-#     term_freq = {k: v for k, v in term_freq.items() if v > 0}
-    
-#     # Частота лемм
-#     lemma_counter = Counter()
-#     for token in tokens:
-#         lemma = morph.parse(token)[0].normal_form
-#         # Проверяем, есть ли лемма в нашем списке
-#         if lemma in lemmas_set:
-#             lemma_counter[lemma] += 1
-    
-#     lemma_freq = dict(lemma_counter)  # только те леммы, что встретились
-    
-#     processed_files.append(page_file)
-#     processed_term_freq.append(term_freq)
-#     processed_lemma_freq.append(lemma_freq)
-#     processed_token_count.append(token_count)
-    
-#     if (i+1) % 20 == 0:
-#         print(f"Обработано {i+1} страниц")
-
-# print("Обработка завершена. Вычисляем IDF...")
-# total_docs = len(processed_files)
-# print(f"Документов с текстом: {total_docs}")
-
-# # IDF для терминов
-# term_df = defaultdict(int)
-# for tf in processed_term_freq:
-#     for term in tf:
-#         term_df[term] += 1
-
-# term_idf = {}
-# for term in terms_set:
-#     df = term_df.get(term, 0)
-#     term_idf[term] = 0.0 if df == 0 else math.log(total_docs / df)
-
-# # IDF для лемм
-# lemma_df = defaultdict(int)
-# for lf in processed_lemma_freq:
-#     for lemma in lf:
-#         lemma_df[lemma] += 1
-
-# lemma_idf = {}
-# for lemma in lemmas_set:
-#     df = lemma_df.get(lemma, 0)
-#     lemma_idf[lemma] = 0.0 if df == 0 else math.log(total_docs / df)
-
-# print("IDF вычислен. Генерируем файлы с TF-IDF...")
-
-# for idx, page_file in enumerate(processed_files):
-#     basename = os.path.basename(page_file).replace('.txt', '')
-    
-#     # Файл для терминов
-#     term_out_file = os.path.join(TERMS_RESULT_DIR, f"{basename}_terms.txt")
-#     with open(term_out_file, 'w', encoding='utf-8') as f:
-#         term_freq = processed_term_freq[idx]
-#         token_count = processed_token_count[idx]
-#         for term in sorted(term_freq.keys()):
-#             tf = term_freq[term] / token_count
-#             tf_idf = tf * term_idf[term]
-#             f.write(f"{term} {term_idf[term]:.6f} {tf_idf:.6f}\n")
-    
-#     # Файл для лемм
-#     lemma_out_file = os.path.join(LEMMAS_RESULT_DIR, f"{basename}_lemmas.txt")
-#     with open(lemma_out_file, 'w', encoding='utf-8') as f:
-#         lemma_freq = processed_lemma_freq[idx]
-#         token_count = processed_token_count[idx]
-#         for lemma in sorted(lemma_freq.keys()):
-#             tf = lemma_freq[lemma] / token_count
-#             tf_idf = tf * lemma_idf[lemma]
-#             f.write(f"{lemma} {lemma_idf[lemma]:.6f} {tf_idf:.6f}\n")
-
-# print("Готово! Результаты сохранены в папках results/terms и results/lemmas.")
 import os
 import re
 import math
-import glob
 from collections import Counter, defaultdict
-from bs4 import BeautifulSoup
-import pymorphy3
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+# ─── Настройки путей ──────────────────────────────────────────────────────────
+PAGES_DIR   = "../task01/downloaded_pages"    
+TASK2_DIR   = "../task02/output"
 
-TOKENS_FILE = os.path.join(BASE_DIR, '..', 'task02', 'tokens_output.txt')
-LEMMAS_FILE1 = os.path.join(BASE_DIR, '..', 'task02', 'lemmas_1.txt')
-LEMMAS_FILE2 = os.path.join(BASE_DIR, '..', 'task02', 'lemmas_2.txt')
-PAGES_DIR = os.path.join(BASE_DIR, '..', 'task01', 'downloaded_pages')
-PAGE_PATTERN = os.path.join(PAGES_DIR, 'page_*.txt')
+TERMS_OUT   = os.path.join("results", "terms")    # выход: термины
+LEMMAS_OUT  = os.path.join("results", "lemmas")   # выход: леммы
 
-TERMS_RESULT_DIR = os.path.join(BASE_DIR, 'results', 'terms')
-LEMMAS_RESULT_DIR = os.path.join(BASE_DIR, 'results', 'lemmas')
-os.makedirs(TERMS_RESULT_DIR, exist_ok=True)
-os.makedirs(LEMMAS_RESULT_DIR, exist_ok=True)
+os.makedirs(TERMS_OUT, exist_ok=True)
+os.makedirs(LEMMAS_OUT, exist_ok=True)
 
-def load_terms(filename):
-    with open(filename, 'r', encoding='utf-8') as f:
+
+# ─── Извлечение текста из HTML ────────────────────────────────────────────────
+def extract_text(html: str) -> str:
+    text = re.sub(
+        r'<(script|style|noscript)[^>]*>.*?</(script|style|noscript)>',
+        ' ', html, flags=re.DOTALL | re.IGNORECASE
+    )
+    text = re.sub(r'<[^>]+>', ' ', text)
+    text = re.sub(r'&[a-zA-Z]{2,6};', ' ', text)
+    return text
+
+def get_word_counts(html: str) -> tuple:
+    """Возвращает (Counter слов, общее кол-во слов) из HTML-страницы."""
+    text = extract_text(html)
+    words = re.findall(r'[а-яёА-ЯЁa-zA-Z]+', text.lower())
+    return Counter(words), len(words)
+
+
+# ─── Загрузка файлов задания 2 ────────────────────────────────────────────────
+def load_tokens(num: str) -> set:
+    """Загружает список токенов для страницы XXXX."""
+    path = os.path.join(TASK2_DIR, f"tokens_{num}.txt")
+    if not os.path.exists(path):
+        return set()
+    with open(path, encoding="utf-8") as f:
         return set(line.strip() for line in f if line.strip())
 
-def load_lemmas_from_file(filename):
-    """Загружает леммы из файла формата 'лемма: список форм'."""
-    lemmas = set()
-    with open(filename, 'r', encoding='utf-8') as f:
+def load_lemmas(num: str) -> dict:
+    """
+    Загружает леммы для страницы XXXX.
+    Формат строки: <лемма> <форма1> <форма2> ...
+    Возвращает: { форма -> лемма }
+    """
+    path = os.path.join(TASK2_DIR, f"lemmas_{num}.txt")
+    if not os.path.exists(path):
+        return {}
+    form_to_lemma = {}
+    with open(path, encoding="utf-8") as f:
         for line in f:
-            line = line.strip()
-            if not line or ':' not in line:
+            parts = line.strip().split()
+            if len(parts) < 1:
                 continue
-            # Берём только то, что до двоеточия
-            lemma = line.split(':')[0].strip()
-            if lemma:
-                lemmas.add(lemma)
-    return lemmas
+            lemma = parts[0]
+            # все формы (включая саму лемму) → лемма
+            for form in parts:
+                form_to_lemma[form] = lemma
+    return form_to_lemma
 
-def load_all_lemmas():
-    """Загружает леммы из всех файлов lemmas_*.txt"""
-    lemmas = set()
-    
-    # Загружаем из lemmas_1.txt
-    if os.path.exists(LEMMAS_FILE1):
-        l1 = load_lemmas_from_file(LEMMAS_FILE1)
-        lemmas.update(l1)
-        print(f"Загружено лемм из lemmas_1.txt: {len(l1)}")
-    
-    # Загружаем из lemmas_2.txt
-    if os.path.exists(LEMMAS_FILE2):
-        l2 = load_lemmas_from_file(LEMMAS_FILE2)
-        lemmas.update(l2)
-        print(f"Загружено лемм из lemmas_2.txt: {len(l2)}")
-    
-    return lemmas
 
-def tokenize(text):
-    return re.findall(r'[a-zA-Zа-яА-ЯёЁ]+', text.lower())
+# ─── Шаг 1: считаем TF для каждой страницы ───────────────────────────────────
+print("Шаг 1: Считаем TF для каждой страницы...")
 
-print("Загрузка терминов и лемм...")
-terms_set = load_terms(TOKENS_FILE)
-lemmas_set = load_all_lemmas()
-print(f"Терминов: {len(terms_set)}")
-print(f"Всего уникальных лемм: {len(lemmas_set)}")
-print(f"Примеры лемм: {sorted(list(lemmas_set))[:20]}")
+# Собираем номера страниц по файлам задания 2
+nums = sorted(
+    re.search(r'(\d+)', f).group(1)
+    for f in os.listdir(TASK2_DIR)
+    if re.match(r'tokens_\d+\.txt$', f)
+)
 
-morph = pymorphy3.MorphAnalyzer()
+if not nums:
+    raise FileNotFoundError(f"Не найдено файлов tokens_XXXX.txt в '{TASK2_DIR}'")
 
-processed_files = []
-processed_term_freq = []
-processed_lemma_freq = []
-processed_token_count = []
+print(f"Найдено страниц: {len(nums)}")
 
-page_files = sorted(glob.glob(PAGE_PATTERN))
-print(f"Найдено {len(page_files)} страниц. Начинаем обработку...")
+# Структуры для хранения данных по всем документам
+all_term_tf   = {}   # num -> { термин  -> tf }
+all_lemma_tf  = {}   # num -> { лемма   -> tf }
+term_df       = defaultdict(int)   # термин -> кол-во документов где встречается
+lemma_df      = defaultdict(int)   # лемма  -> кол-во документов где встречается
 
-for i, page_file in enumerate(page_files):
-    with open(page_file, 'r', encoding='utf-8') as f:
-        html = f.read()
-    
-    soup = BeautifulSoup(html, 'html.parser')
-    text = soup.get_text()
-    tokens = tokenize(text)
-    token_count = len(tokens)
-    
-    if token_count == 0:
-        print(f"Предупреждение: документ {page_file} не содержит слов, пропускаем.")
+for num in nums:
+    page_path = os.path.join(PAGES_DIR, f"page_{num}.txt")
+    if not os.path.exists(page_path):
+        print(f"  [!] Не найдена страница page_{num}.txt — пропуск")
         continue
-    
-    # Частота терминов
-    token_counter = Counter(tokens)
-    term_freq = {term: token_counter.get(term, 0) for term in terms_set}
-    term_freq = {k: v for k, v in term_freq.items() if v > 0}
-    
-    # Частота лемм
-    lemma_counter = Counter()
-    for token in tokens:
-        try:
-            lemma = morph.parse(token)[0].normal_form
-            if lemma in lemmas_set:
-                lemma_counter[lemma] += 1
-        except:
-            continue
-    
-    lemma_freq = dict(lemma_counter)
-    
-    # Отладка для первых 3 документов
-    if i < 3:
-        print(f"\n=== Документ {os.path.basename(page_file)} ===")
-        print(f"Токенов: {token_count}")
-        print(f"Примеры токенов: {tokens[:10]}")
-        print(f"Примеры лемм: {list(lemma_freq.keys())[:10]}")
-        print(f"Найдено лемм из списка: {len(lemma_freq)}")
-    
-    processed_files.append(page_file)
-    processed_term_freq.append(term_freq)
-    processed_lemma_freq.append(lemma_freq)
-    processed_token_count.append(token_count)
-    
-    if (i+1) % 20 == 0:
-        print(f"Обработано {i+1} страниц")
 
-print("\n=== Статистика ===")
-print(f"Документов с текстом: {len(processed_files)}")
+    # Читаем страницу и считаем слова
+    with open(page_path, encoding="utf-8", errors="ignore") as f:
+        html = f.read()
+    word_counts, total_words = get_word_counts(html)
 
-# Проверим, какие леммы встречаются
-all_found_lemmas = set()
-total_lemma_occurrences = 0
-for lf in processed_lemma_freq:
-    all_found_lemmas.update(lf.keys())
-    total_lemma_occurrences += sum(lf.values())
+    if total_words == 0:
+        continue
 
-print(f"Лемм из списка, которые встретились: {len(all_found_lemmas)} из {len(lemmas_set)}")
-print(f"Процент покрытия: {len(all_found_lemmas)/len(lemmas_set)*100:.1f}%")
-print(f"Всего вхождений лемм в тексты: {total_lemma_occurrences}")
+    # --- TF терминов ---
+    tokens_set = load_tokens(num)
+    term_tf = {}
+    for term in tokens_set:
+        count = word_counts.get(term, 0)
+        if count > 0:
+            term_tf[term] = count / total_words
+    all_term_tf[num] = term_tf
 
-# Вычисляем IDF
-total_docs = len(processed_files)
-
-term_df = defaultdict(int)
-for tf in processed_term_freq:
-    for term in tf:
+    # Обновляем DF терминов
+    for term in term_tf:
         term_df[term] += 1
 
-term_idf = {}
-for term in terms_set:
-    df = term_df.get(term, 0)
-    term_idf[term] = 0.0 if df == 0 else math.log(total_docs / df)
+    # --- TF лемм ---
+    # Считаем вхождения через формы: если слово на странице = форма леммы,
+    # прибавляем к счётчику этой леммы
+    form_to_lemma = load_lemmas(num)
+    lemma_counts = Counter()
+    for word, count in word_counts.items():
+        if word in form_to_lemma:
+            lemma_counts[form_to_lemma[word]] += count
 
-lemma_df = defaultdict(int)
-for lf in processed_lemma_freq:
-    for lemma in lf:
+    lemma_tf = {}
+    for lemma, count in lemma_counts.items():
+        lemma_tf[lemma] = count / total_words
+    all_lemma_tf[num] = lemma_tf
+
+    # Обновляем DF лемм
+    for lemma in lemma_tf:
         lemma_df[lemma] += 1
 
-lemma_idf = {}
-for lemma in lemmas_set:
-    df = lemma_df.get(lemma, 0)
-    lemma_idf[lemma] = 0.0 if df == 0 else math.log(total_docs / df)
+    print(f"  [{num}] терминов с TF>0: {len(term_tf)}, лемм с TF>0: {len(lemma_tf)}")
 
-print("\nIDF вычислен. Генерируем файлы...")
+# ─── Шаг 2: считаем IDF ──────────────────────────────────────────────────────
+print("\nШаг 2: Считаем IDF...")
+N = len(all_term_tf)  # общее число документов
 
-for idx, page_file in enumerate(processed_files):
-    basename = os.path.basename(page_file).replace('.txt', '')
-    
-    # Термины
-    term_out_file = os.path.join(TERMS_RESULT_DIR, f"{basename}_terms.txt")
-    with open(term_out_file, 'w', encoding='utf-8') as f:
-        term_freq = processed_term_freq[idx]
-        token_count = processed_token_count[idx]
-        for term in sorted(term_freq.keys()):
-            tf = term_freq[term] / token_count
-            tf_idf = tf * term_idf[term]
-            f.write(f"{term} {term_idf[term]:.6f} {tf_idf:.6f}\n")
-    
-    # Леммы
-    lemma_out_file = os.path.join(LEMMAS_RESULT_DIR, f"{basename}_lemmas.txt")
-    with open(lemma_out_file, 'w', encoding='utf-8') as f:
-        lemma_freq = processed_lemma_freq[idx]
-        token_count = processed_token_count[idx]
-        if lemma_freq:
-            for lemma in sorted(lemma_freq.keys()):
-                tf = lemma_freq[lemma] / token_count
-                tf_idf = tf * lemma_idf[lemma]
-                f.write(f"{lemma} {lemma_idf[lemma]:.6f} {tf_idf:.6f}\n")
-        else:
-            f.write("# В этом документе не найдено ни одной леммы из списка\n")
+# IDF(t) = log(N / df(t))
+term_idf  = { t: math.log(N / df) for t, df in term_df.items() if df > 0 }
+lemma_idf = { l: math.log(N / df) for l, df in lemma_df.items() if df > 0 }
 
-print(f"Готово! Создано файлов: {len(processed_files)}")
+print(f"  Уникальных терминов с IDF: {len(term_idf)}")
+print(f"  Уникальных лемм с IDF:    {len(lemma_idf)}")
+
+
+# ─── Шаг 3: записываем файлы TF-IDF ─────────────────────────────────────────
+print("\nШаг 3: Записываем результаты...")
+
+for num in all_term_tf:
+
+    # --- Термины: results/terms/page_XXXX_terms.txt ---
+    term_tf = all_term_tf[num]
+    out_path = os.path.join(TERMS_OUT, f"page_{num}_terms.txt")
+    with open(out_path, "w", encoding="utf-8") as f:
+        for term in sorted(term_tf.keys()):
+            idf    = term_idf.get(term, 0.0)
+            tf_idf = term_tf[term] * idf
+            f.write(f"{term} {idf:.6f} {tf_idf:.6f}\n")
+
+    # --- Леммы: results/lemmas/page_XXXX_lemmas.txt ---
+    lemma_tf = all_lemma_tf.get(num, {})
+    out_path = os.path.join(LEMMAS_OUT, f"page_{num}_lemmas.txt")
+    with open(out_path, "w", encoding="utf-8") as f:
+        for lemma in sorted(lemma_tf.keys()):
+            idf    = lemma_idf.get(lemma, 0.0)
+            tf_idf = lemma_tf[lemma] * idf
+            f.write(f"{lemma} {idf:.6f} {tf_idf:.6f}\n")
+
+print(f"\nГотово! Создано файлов: {len(all_term_tf)} × 2")
+print(f"  Термины: results/terms/page_XXXX_terms.txt")
+print(f"  Леммы:   results/lemmas/page_XXXX_lemmas.txt")
+print(f"  Формат:  <слово> <idf> <tf-idf>")
